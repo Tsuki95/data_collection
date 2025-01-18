@@ -1,0 +1,4 @@
+Auto_method_1 filter=lfs diff=lfs merge=lfs -text
+Auto_method_2 filter=lfs diff=lfs merge=lfs -text
+Auto_method_3 filter=lfs diff=lfs merge=lfs -text
+Auto_method_4 filter=lfs diff=lfs merge=lfs -text
