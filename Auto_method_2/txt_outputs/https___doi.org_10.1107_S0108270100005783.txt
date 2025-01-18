@@ -1,0 +1,783 @@
+[](https://journals.iucr.org/c)| Acta Crystallographica Section C  
+Acta Crystallographica  
+Section C STRUCTURAL CHEMISTRY  
+---|---  
+  
+[](https://journals.iucr.org "Crystallography Journals Online")
+[IUCr](https://www.iucr.org "International Union of Crystallography")
+[IT](https://it.iucr.org "International Tables") [WDC](https://wdc.iucr.org
+"World Directory of Crystallographers")
+
+search IUCr Journals
+
+[home ](https://journals.iucr.org/c/) [archive
+](https://journals.iucr.org/c/services/archive.html) [editors
+](https://journals.iucr.org/c/services/editors.html) [for authors
+](https://journals.iucr.org/c/services/authorservices.html) [for readers
+](https://journals.iucr.org/c/services/readerservices.html) [submit
+](https://journals.iucr.org/c/services/submit.html) [subscribe
+](https://journals.iucr.org/services/subscriberservices.html) [open access
+](https://journals.iucr.org/c/services/openaccess.html)
+
+journal menu
+
+[home ](https://journals.iucr.org/c/) [archive
+](https://journals.iucr.org/c/services/archive.html) [editors
+](https://journals.iucr.org/c/services/editors.html) [for authors
+](https://journals.iucr.org/c/services/authorservices.html) [for readers
+](https://journals.iucr.org/c/services/readerservices.html) [submit
+](https://journals.iucr.org/c/services/submit.html) [subscribe
+](https://journals.iucr.org/services/subscriberservices.html) [open access
+](https://journals.iucr.org/c/services/openaccess.html)
+
+metal-organic compounds
+
+[Share]()
+
+[Share]()
+
+[](https://journals.iucr.org/c/issues/2000/07/00/issconts.html)
+
+[Issue contents](https://journals.iucr.org/c/issues/2000/07/00/issconts.html)
+
+[](https://scripts.iucr.org/cgi-bin/citedin?bk1525 "Statistics")
+
+[Article statistics](https://scripts.iucr.org/cgi-bin/citedin?bk1525
+"Statistics")
+
+[](https://scripts.iucr.org/cgi-bin/biblio_page?bk1525 "Download citation")
+
+Download citation  
+Format| |  BIBTeX  
+---|---|---  
+|  EndNote  
+|  RefMan  
+|  Refer  
+|  Medline  
+|  CIF  
+|  SGML  
+|  Text  
+|  Plain Text  
+  
+[](https://journals.iucr.org/c/issues/2000/07/00/bk1525/bk1525.pdf "PDF")
+
+[Download PDF of
+article](https://journals.iucr.org/c/issues/2000/07/00/bk1525/bk1525.pdf
+"PDF")
+
+[Acta Cryst.](https://journals.iucr.org/c) (2000).
+[C**56**](https://journals.iucr.org/c/contents/backissues.html),  798-800  
+<https://doi.org/10.1107/S0108270100005783>
+
+[](https://journals.iucr.org/c/issues/2000/07/00/bk1525/bk1525.pdf "PDF")
+
+[Download PDF of
+article](https://journals.iucr.org/c/issues/2000/07/00/bk1525/bk1525.pdf
+"PDF")
+
+[](https://scripts.iucr.org/cgi-bin/biblio_page?bk1525 "Download citation")
+
+Download citation  
+Format| |  BIBTeX  
+---|---|---  
+|  EndNote  
+|  RefMan  
+|  Refer  
+|  Medline  
+|  CIF  
+|  SGML  
+|  Text  
+|  Plain Text  
+  
+[](https://scripts.iucr.org/cgi-bin/citedin?bk1525 "Statistics")
+
+[Article statistics](https://scripts.iucr.org/cgi-bin/citedin?bk1525
+"Statistics")
+
+[](https://journals.iucr.org/c/issues/2000/07/00/issconts.html)
+
+[Issue contents](https://journals.iucr.org/c/issues/2000/07/00/issconts.html)
+
+[Share]()
+
+[Access](https://journals.iucr.org/paper?cnor=bk1525&buy=yes#buy)
+[](https://scripts.iucr.org/cgi-bin/adla.pl?cnor=bk1525)
+
+[](https://journals.iucr.org/c/issues/2000/07/00/bk1525/index.html)
+
+# [ 1,2-Di­cyano-1,2-bis­(imidazolidine-2-thione)­digold(I) and
+2,2-di­cyano-1,1-bis­(di­methyl­thio­urea)­digold(I)](https://journals.iucr.org/c/issues/2000/07/00/bk1525/index.html)
+
+[F. B. Stocker](https://scripts.iucr.org/cgi-
+bin/citedin?search_on=name&author_name=Stocker, F.B.) and [D.
+Britton](https://scripts.iucr.org/cgi-
+bin/citedin?search_on=name&author_name=Britton, D.)
+
+Gold(I) cyanide forms complexes with imidazolidine-2-thione (etu) and
+di­methyl­thio­urea (dmtu) with the formula [Au2(CN)2 _L_ 2], _i.e._ the title
+complexes di­cyano-1κ _C_ ,2κ _C_ -bis(imidazolidine-2-thione)-1κ _S_ ,2κ _S_
+-digold(I)(_Au_ — _Au_), [Au2(CN)2(C3H6N2S)2], and di­cyano-1κ2 _C_ -bis(_N_
+,_N_ ′-di­methyl­thio­urea)-2κ2 _S_ -digold(I)(_Au_ — _Au_),
+[Au2(CN)2(C3H8N2S)2]. In the etu complex, two approximately linear (etu)AuCN
+groups are held together by a weak homopolar Au—Au bond [3.117 (1) Å], with a
+torsion angle of 61 (3)° between the two groups. In the dmtu complex, an
+approximately linear Au(dmtu)2 group is bound to an approximately linear
+Au(CN)2 group by a weak heteropolar Au—Au bond [3.091 (1) Å], with a torsion
+angle of 83 (5)° between the two groups.
+
+[Read
+article](https://journals.iucr.org/c/issues/2000/07/00/bk1525/index.html)[Similar
+articles](https://scripts.iucr.org/cgi-
+bin/similar?wordList=\(imidazolidine%20and%20thione\)%20or%20­digold%20or%20urea&from=bk1525)
+
+### Supporting information
+
+[](//scripts.iucr.org/cgi-bin/sendcif?bk1525sup1)| Crystallographic
+Information File (CIF)
+<https://doi.org/10.1107/S0108270100005783/bk1525sup1.cif>  
+Contains datablocks global, I, II  
+---|---  
+[](https://scripts.iucr.org/cgi-
+bin/sendsupfiles?bk1525&file=bk1525Isup2.hkl&mime=text/plain)| Structure
+factor file (CIF format)
+<https://doi.org/10.1107/S0108270100005783/bk1525Isup2.hkl>  
+Contains datablock I  
+[](https://scripts.iucr.org/cgi-
+bin/sendsupfiles?bk1525&file=bk1525IIsup3.hkl&mime=text/plain)| Structure
+factor file (CIF format)
+<https://doi.org/10.1107/S0108270100005783/bk1525IIsup3.hkl>  
+Contains datablock II  
+  
+CCDC references: [147626](https://scripts.iucr.org/cgi-
+bin/cr.cgi?rm=csd&csdid=147626); [147627](https://scripts.iucr.org/cgi-
+bin/cr.cgi?rm=csd&csdid=147627)
+
+[3D view](//scripts.iucr.org/cgi-bin/sendcif?bk1525&Qmime=cif)
+
+Supplementary crystallographic information
+
+S1. Comment top
+
+We have reported previously the preparation and structures of complexes of
+thioureas with copper(I) cyanide (Stocker _et al._ , 1996) and with silver(I)
+cyanide (Stocker _et al._ , 1999). We report here an extension of this work to
+gold(I) cyanide. The sulfur ligands used previously included thiourea (tu),
+1-methyl-2-thiourea (mtu), 1,3-dimethyl-2-thiourea, 1,3-diethyl-2-thiourea
+(detu), 1,1,3,3-tetramethylthiourea (tmtu) and 2-imidalozidinethione (_N_ ,_N_
+-ethylenethiourea, etu). For the purposes of comparison, syntheses were
+attempted of the gold cyanide complexes of all of these ligands. Crystalline
+products could only be obtained with dmtu and etu, and the structures of
+1,2-dicyano-1,2-bis(imidazolidine-2-thione)digold(I), (I), and
+2,2-dicyano-1,1-bis(dimethylthiourea)digold(I), (II), are reported here.
+
+Ellipsoid plots showing the atom labelling are shown in Figs. 1 and 2 for (I)
+and (II), respectively. In each case, there is a molecule containing two Au
+atoms, two CN groups and two thioureas, and the molecule is shaped like a
+twisted letter H with two approximately linear Au _X_ 2 or AuXY groups held
+together by a weak Au—Au bond. Because the end groups are not exactly linear,
+the torsion angles around the Au—Au bond are not well defined. An average
+torsion angle can be obtained from the four individual torsion angles
+involving the Au—Au bond; these are 61 (3)° for the etu complex and 83 (5)°
+for the dmtu complex.
+
+The two molecules differ, however, in that the etu complex contains two
+(etu)AuCN groups, while in the dmtu complex, there is one Au(dmtu)2 group and
+one Au(CN)2 group. It is somewhat surprising that such a minor chemical change
+in the ligand in going from etu to dmtu should lead to a change in the isomer
+of [Au2(CN)2 _L_ 2] that is formed. Although the two compounds appear to be
+quite different in that the Au—Au bond in the etu complex is non-polar, while
+that in the dmtu complex is polar, the occurrence of the two forms suggests
+that they differ very little in energy.
+
+Every H atom attached to nitrogen in both structures is involved in hydrogen
+bonding (Tables 2 and 4).
+
+Gold compounds of this sort are well known.
+Bis[iodo(trimethylphosphine)gold(I)] (Ahrland _et al._ , 1987 is an example of
+a non-polar Au—Au complex (Au—Au 3.169 Å and torsion angle 70°).
+Bis(imidazolidene-2-thione)gold(I) diiodoaurate (Friedrichs & Jones, 1999) is
+an example of a polar isomer with etu as a ligand (3.270 Å and 74°).
+Dicyanobis[tris(2-cyanoethyl)phosphine]digold (Hussain _et al._ , 1996) is an
+example containing the Au(CN)2 group (3.270 Å and 80°).
+
+It is worth noting that the etu complex could be planar and have a center of
+symmetry; the sizes of the C and S atoms do not preclude such an arrangement.
+While it is possible that packing forces account for the lack of a center,
+none of the 13 Au2 complexes in the current version of the Cambridge
+Structural Database (Allen & Kennard, 1993) has a torsion angle around the
+Au—Au bond of less than 60°. This suggests that perhaps a torsion angle near
+90° is favored energetically in the isolated molecule.
+
+In both of the complexes reported here, there are Au—Au bonds, terminal CN
+groups and discrete molecules. This is different from the situation when the
+metal is Cu or Ag. In the seven complexes of CuCN with various thioureas
+(Stocker _et al._ , 1996), there are 14 crystallographically different CN
+groups, 13 of which bridge between two Cu atoms. There are no Cu—Cu bonds. In
+the six complexes of AgCN with various thioureas (Stocker _et al._ , 1999),
+there are nine crystallographically different CN groups, five of which bridge
+between two Ag atoms, and one of which is involved in what appears to be a
+three-center bond with two Ag atoms. The latter is the only example of a
+direct Ag—Ag interaction in any of the six complexes. About half of the time
+in both the Cu and Ag complexes, the S form bridges between the metal atoms.
+As a consequence of the CN and S bridges, all of the Cu and Ag complexes have
+polymeric solid-state structures. In the two examples presented here, the
+direct Au—Au bonds, which have no parallel in the Cu or Ag structures, lead to
+a completely different structural chemistry.
+
+S2. Experimental top
+
+Commercial chemicals were used without further purification. For the
+preparation of AuCN(etu), (I), AuCN (56 mg, 0.25 mmol) was added to a solution
+of etu (177 mg, 1.67 mmol) in distilled water (10 ml). After heating to 363 K,
+a colorless solution was obtained which was filtered hot. Upon cooling,
+colorless crystals separated out (yield: 47 mg, 69%). IR (KBr): 3460 (_m_),
+3220 (br s), 3070 (w), 2890 (_m_), 2155 (_s_), 1540 (_s_), 1482 (w), 1375
+(_m_), 1320 (_m_), 1285 (_s_), 1212 (_m_), 1043 (w), 1015 (w), 997 (w), 917
+(_m_), 750 (br m), 660 (w), 585 (br m), 495 (w), 445 (_m_) cm−1. Analysis
+calculated for C4H6AuN3S: C 14.78, H 1.86, N 12.92, S 9.86%; found: C 14.94, H
+1.59, N 13.01, S, 9.73. For the preparation of AuCN(dmtu), (II), AuCN (56 mg,
+0.25 mmol) was added to a solution of dmtu (661 mg, 5.0 mmol) dissolved in
+distilled water (10 ml). Mild heating (343 K) for about 30 min produced a
+clear colorless solution. Upon cooling, small block-like colorless crystals
+were deposited (yield: 60 mg, 73%). IR (KBr): 3385 (_m_), 3290 (_s_), 3235 (sh
+w), 3175 (w), 2960 (w), 2150 (_s_), 1617 (_m_), 1595 (_s_), 1530 (_m_), 1505
+(_s_), 1455 (_m_), 1422 (_m_), 1375 (w), 1290 (_s_), 1190 (_m_), 1148 (w),
+1042 (_m_), 1015 (w), 725 (_m_), 630 (w), 605 (w), 510 (_m_), 428 (w) cm−1.
+Analysis calculated for C4H8AuN3S: C 14.69, H 2.46, N 12.84, S 9.80%; found: C
+14.72, H 2.57, N 12.86, S 9.76.
+
+S3. Refinement top
+
+In the final difference map for the etu compound there are 21 peaks and
+valleys with magnitudes greater than 0.75 e Å−3; for the dtmu compound there
+are 15 suck peaks. In both cases, all of these are between 0.85 and 1.20 Å
+from one or the other of the Au atoms.
+
+Computing details top
+
+For both compounds, data collection: ASTRO (Siemens, 1995); cell refinement:
+_SAINT_ (Siemens, 1995); data reduction: _SAINT_ ; program(s) used to solve
+structure: _SHELXTL_ (Sheldrick, 1994); program(s) used to refine structure:
+SHELXLTL; molecular graphics: SHELXLTL; software used to prepare material for
+publication: SHELXLTL.
+
+Figures top
+
+[](https://journals.iucr.org/c/issues/2000/07/00/bk1525/bk1525fig1.html) |  Fig. 1. Plot of the etu complex with displacement ellipsoids shown at the 50% probability level. H atoms are shown with arbitrary size.   
+---|---  
+[](https://journals.iucr.org/c/issues/2000/07/00/bk1525/bk1525fig2.html) |  Fig. 2. Plot of the dtmu complex with displacement ellipsoids shown at the 50% probability level. H atoms are shown with arbitrary size.  
+  
+(I) 1,2-bis(imidazolidine-2-thione)-1,2-dicyano-digold(I) top
+
+Crystal data top [Au2(CN)2(C3H6N2S)2]| _Z_ = 2  
+---|---  
+ _M_ _r_ = 650.28|  _F_(000) = 584  
+Triclinic, _P_ 1|  _D_ x = 2.966 Mg m−3  
+ _a_ = 7.4654 (15) Å| Mo _K_ α radiation, λ = 0.71073 Å  
+ _b_ = 9.233 (2) Å| Cell parameters from 1873 reflections  
+ _c_ = 11.895 (2) Å| θ = 1.8–25.0°  
+α = 103.73 (3)°| µ = 20.40 mm−1  
+β = 90.73 (3)°|  _T_ = 174 K  
+γ = 112.98 (3)°| Flat needle, colorless  
+ _V_ = 728.1 (3) Å3| 0.30 × 0.10 × 0.06 mm  
+  
+Data collection top Siemens SMART area-detector  
+diffractometer| 2545 independent reflections  
+---|---  
+Radiation source: fine-focus sealed tube| 2124 reflections with _I_ > 2σ(_I_)  
+Graphite monochromator|  _R_ int = 0.045  
+ω scans| θmax = 25.0°, θmin = 1.8°  
+Absorption correction: multi-scan  
+(_SADABS_ ; Sheldrick, 1996; Blessing, 1995)| _h_ = −8→8  
+ _T_ min = 0.10, _T_ max = 0.29|  _k_ = −10→10  
+5410 measured reflections|  _l_ = −14→14  
+  
+Refinement top Refinement on _F_ 2| Primary atom site location: structure-
+invariant direct methods  
+---|---  
+Least-squares matrix: full| Secondary atom site location: difference Fourier
+map  
+ _R_[_F_ 2 > 2σ(_F_ 2)] = 0.036| Hydrogen site location: inferred from
+neighbouring sites  
+ _wR_(_F_ 2) = 0.093| H-atom parameters constrained  
+ _S_ = 0.94| Calculated _w_ = 1/[σ2(_F_ o2) + (0.065 _P_)2]  
+where _P_ = (_F_ o2 \+ 2 _F_ c2)/3  
+2545 reflections| (Δ/σ)max = −0.005  
+163 parameters| Δρmax = 1.91 e Å−3  
+0 restraints| Δρmin = −1.52 e Å−3  
+  
+Crystal data top [Au2(CN)2(C3H6N2S)2]| γ = 112.98 (3)°  
+---|---  
+ _M_ _r_ = 650.28|  _V_ = 728.1 (3) Å3  
+Triclinic, _P_ 1|  _Z_ = 2  
+ _a_ = 7.4654 (15) Å| Mo _K_ α radiation  
+ _b_ = 9.233 (2) Å| µ = 20.40 mm−1  
+ _c_ = 11.895 (2) Å|  _T_ = 174 K  
+α = 103.73 (3)°| 0.30 × 0.10 × 0.06 mm  
+β = 90.73 (3)°|  
+  
+Data collection top Siemens SMART area-detector  
+diffractometer| 2545 independent reflections  
+---|---  
+Absorption correction: multi-scan  
+(_SADABS_ ; Sheldrick, 1996; Blessing, 1995)| 2124 reflections with _I_ >
+2σ(_I_)  
+_T_ min = 0.10, _T_ max = 0.29|  _R_ int = 0.045  
+5410 measured reflections|  
+  
+Refinement top _R_[_F_ 2 > 2σ(_F_ 2)] = 0.036| 0 restraints  
+---|---  
+ _wR_(_F_ 2) = 0.093| H-atom parameters constrained  
+ _S_ = 0.94| Δρmax = 1.91 e Å−3  
+2545 reflections| Δρmin = −1.52 e Å−3  
+163 parameters|  
+  
+Special details top **Experimental**. IR spectra were recorded as KBr pellets
+with a Perkin-Elmer Model 1430 spectrophotometer. Elemental analyses were
+determined by Galbraith Laboratries, Knoxville, TN.  
+---  
+**Refinement**. There are 21 peaks and valleys in the final difference map
+with magnitudes greater tan 0.75 e/Å3. All of these are between 0.85 and 1.10
+Å from one or the other of the Au atoms.  
+  
+Fractional atomic coordinates and isotropic or equivalent isotropic displacement parameters (Å2) top | _x_|  _y_|  _z_|  _U_ iso*/_U_ eq|   
+---|---|---|---|---|---  
+Au1| 0.67083 (5)| −0.04212 (4)| 0.08277 (3)| 0.04509 (15)|  
+C1| 0.4754 (14)| −0.2554 (12)| 0.0901 (8)| 0.046 (2)|  
+N1| 0.3700 (13)| −0.3747 (11)| 0.1014 (8)| 0.064 (2)|  
+Au2| 0.61049 (5)| 0.13230 (4)| 0.32865 (3)| 0.04403 (15)|  
+C2| 0.6772 (16)| −0.0092 (13)| 0.4061 (8)| 0.056 (3)|  
+N2| 0.7093 (16)| −0.0937 (13)| 0.4505 (9)| 0.075 (3)|  
+S1| 0.9199 (4)| 0.2049 (3)| 0.0905 (2)| 0.0599 (7)|  
+C11| 0.9555 (12)| 0.2090 (10)| −0.0501 (7)| 0.043 (2)|  
+N11| 0.8629 (11)| 0.0908 (9)| −0.1444 (6)| 0.051 (2)|  
+H11| 0.7729 (11)| −0.0015 (9)| −0.1428 (6)| 0.061*|  
+N12| 1.0886 (11)| 0.3334 (9)| −0.0788 (7)| 0.055 (2)|  
+H12| 1.1635 (11)| 0.4224 (9)| −0.0291 (7)| 0.066*|  
+C12| 0.9290 (17)| 0.1331 (15)| −0.2521 (10)| 0.074 (3)|  
+H12A| 0.8251 (17)| 0.1368 (15)| −0.2996 (10)| 0.088*|  
+H12B| 0.9776 (17)| 0.0569 (15)| −0.2974 (10)| 0.088*|  
+C13| 1.0950 (14)| 0.3039 (13)| −0.2039 (9)| 0.059 (3)|  
+H13A| 1.2207 (14)| 0.3046 (13)| −0.2243 (9)| 0.071*|  
+H13B| 1.0706 (14)| 0.3849 (13)| −0.2331 (9)| 0.071*|  
+S2| 0.5347 (4)| 0.2982 (3)| 0.2382 (2)| 0.0498 (5)|  
+C21| 0.3810 (13)| 0.3629 (10)| 0.3220 (7)| 0.043 (2)|  
+N21| 0.3233 (12)| 0.4730 (10)| 0.3005 (7)| 0.057 (2)|  
+H21| 0.3626 (12)| 0.5212 (10)| 0.2463 (7)| 0.068*|  
+N22| 0.3032 (12)| 0.3159 (10)| 0.4129 (7)| 0.056 (2)|  
+H22| 0.3249 (12)| 0.2464 (10)| 0.4417 (7)| 0.067*|  
+C22| 0.1887 (16)| 0.5032 (13)| 0.3770 (9)| 0.059 (3)|  
+H22A| 0.0618 (16)| 0.4718 (13)| 0.3345 (9)| 0.070*|  
+H22B| 0.2379 (16)| 0.6172 (13)| 0.4197 (9)| 0.070*|  
+C23| 0.1770 (14)| 0.3954 (12)| 0.4581 (10)| 0.057 (3)|  
+H23A| 0.2241 (14)| 0.4601 (12)| 0.5380 (10)| 0.069*|  
+H23B| 0.0438 (14)| 0.3165 (12)| 0.4548 (10)| 0.069*|  
+  
+Atomic displacement parameters (Å2) top | _U_ 11|  _U_ 22|  _U_ 33|  _U_ 12|  _U_ 13|  _U_ 23  
+---|---|---|---|---|---|---  
+Au1| 0.0468 (2)| 0.0410 (2)| 0.0439 (2)| 0.0139 (2)| 0.0090 (2)| 0.0113 (2)  
+C1| 0.056 (5)| 0.042 (5)| 0.041 (5)| 0.019 (5)| 0.011 (4)| 0.015 (4)  
+N1| 0.069 (6)| 0.057 (5)| 0.061 (5)| 0.022 (5)| 0.003 (4)| 0.017 (4)  
+Au2| 0.0454 (2)| 0.0434 (2)| 0.0417 (2)| 0.0173 (2)| 0.0073 (2)| 0.0094 (2)  
+C2| 0.077 (7)| 0.064 (6)| 0.045 (5)| 0.041 (6)| 0.028 (5)| 0.024 (5)  
+N2| 0.096 (7)| 0.087 (7)| 0.069 (6)| 0.054 (6)| 0.025 (5)| 0.035 (6)  
+S1| 0.0582 (15)| 0.0517 (14)| 0.0472 (13)| 0.0030 (12)| 0.0058 (11)| 0.0053
+(11)  
+C11| 0.038 (4)| 0.040 (5)| 0.045 (5)| 0.016 (4)| −0.003 (4)| 0.001 (4)  
+N11| 0.052 (4)| 0.045 (4)| 0.046 (4)| 0.014 (4)| 0.008 (4)| 0.007 (4)  
+N12| 0.049 (4)| 0.042 (4)| 0.060 (5)| 0.004 (4)| 0.007 (4)| 0.013 (4)  
+C12| 0.067 (7)| 0.075 (8)| 0.052 (6)| 0.000 (6)| 0.016 (5)| 0.018 (6)  
+C13| 0.050 (6)| 0.067 (7)| 0.058 (6)| 0.013 (5)| 0.009 (5)| 0.031 (5)  
+S2| 0.0591 (14)| 0.0475 (13)| 0.0454 (13)| 0.0221 (11)| 0.0150 (10)| 0.0153
+(10)  
+C21| 0.047 (5)| 0.033 (4)| 0.042 (5)| 0.009 (4)| 0.001 (4)| 0.009 (4)  
+N21| 0.064 (5)| 0.057 (5)| 0.060 (5)| 0.033 (4)| 0.011 (4)| 0.022 (4)  
+N22| 0.072 (6)| 0.054 (5)| 0.055 (5)| 0.034 (4)| 0.016 (4)| 0.022 (4)  
+C22| 0.072 (7)| 0.057 (6)| 0.053 (6)| 0.037 (6)| 0.005 (5)| 0.007 (5)  
+C23| 0.045 (5)| 0.053 (6)| 0.071 (7)| 0.020 (5)| 0.011 (5)| 0.010 (5)  
+  
+Geometric parameters (Å, º) top Au1—Au2| 3.1167 (10)| C12—H12B| 0.97  
+---|---|---|---  
+Au1—S1| 2.292 (3)| C13—H13A| 0.97  
+Au2—S2| 2.295 (3)| C13—H13B| 0.97  
+Au1—C1| 1.964 (10)| S2—C21| 1.717 (9)  
+Au2—C2| 1.968 (10)| C21—N22| 1.318 (11)  
+C1—N1| 1.117 (12)| C21—N21| 1.322 (11)  
+C2—N2| 1.133 (13)| N21—C22| 1.427 (12)  
+S1—C11| 1.703 (9)| N21—H21| 0.86  
+C11—N12| 1.314 (11)| N22—C23| 1.442 (12)  
+C11—N11| 1.318 (11)| N22—H22| 0.86  
+N11—C12| 1.463 (13)| C22—C23| 1.523 (15)  
+N11—H11| 0.86| C22—H22A| 0.97  
+N12—C13| 1.452 (13)| C22—H22B| 0.97  
+N12—H12| 0.86| C23—H23A| 0.97  
+C12—C13| 1.542 (14)| C23—H23B| 0.97  
+C12—H12A| 0.97|  |   
+| | |   
+C1—Au1—S1| 173.6 (3)| C12—C13—H13A| 111.2 (6)  
+C1—Au1—Au2| 92.8 (3)| N12—C13—H13B| 111.2 (5)  
+S1—Au1—Au2| 84.79 (8)| C12—C13—H13B| 111.2 (6)  
+N1—C1—Au1| 175.4 (9)| H13A—C13—H13B| 109.1  
+C2—Au2—S2| 179.6 (3)| C21—S2—Au2| 106.1 (3)  
+C2—Au2—Au1| 93.4 (3)| N22—C21—N21| 109.9 (8)  
+S2—Au2—Au1| 86.50 (6)| N22—C21—S2| 128.2 (7)  
+N2—C2—Au2| 177.8 (11)| N21—C21—S2| 121.9 (7)  
+C11—S1—Au1| 106.5 (3)| C21—N21—C22| 112.7 (8)  
+N12—C11—N11| 110.1 (8)| C21—N21—H21| 123.6 (5)  
+N12—C11—S1| 123.2 (7)| C22—N21—H21| 123.6 (5)  
+N11—C11—S1| 126.6 (7)| C21—N22—C23| 111.7 (8)  
+C11—N11—C12| 113.0 (8)| C21—N22—H22| 124.2 (5)  
+C11—N11—H11| 123.5 (5)| C23—N22—H22| 124.2 (5)  
+C12—N11—H11| 123.5 (5)| N21—C22—C23| 102.5 (8)  
+C11—N12—C13| 112.5 (8)| N21—C22—H22A| 111.3 (5)  
+C11—N12—H12| 123.8 (5)| C23—C22—H22A| 111.3 (6)  
+C13—N12—H12| 123.8 (5)| N21—C22—H22B| 111.3 (5)  
+N11—C12—C13| 101.3 (8)| C23—C22—H22B| 111.3 (5)  
+N11—C12—H12A| 111.5 (6)| H22A—C22—H22B| 109.2  
+C13—C12—H12A| 111.5 (6)| N22—C23—C22| 103.1 (8)  
+N11—C12—H12B| 111.5 (6)| N22—C23—H23A| 111.1 (5)  
+C13—C12—H12B| 111.5 (6)| C22—C23—H23A| 111.1 (5)  
+H12A—C12—H12B| 109.3| N22—C23—H23B| 111.1 (5)  
+N12—C13—C12| 103.0 (8)| C22—C23—H23B| 111.1 (6)  
+N12—C13—H13A| 111.2 (5)| H23A—C23—H23B| 109.1  
+| | |   
+C1—Au1—Au2—C2| 57.8 (4)| C11—N12—C13—C12| 2.2 (12)  
+S1—Au1—Au2—C2| −116.2 (3)| N11—C12—C13—N12| −2.9 (11)  
+C1—Au1—Au2—S2| −122.5 (3)| N22—C21—N21—C22| −2.7 (11)  
+S1—Au1—Au2—S2| 63.42 (10)| S2—C21—N21—C22| 177.1 (7)  
+N12—C11—N11—C12| −1.8 (11)| N21—C21—N22—C23| 1.4 (11)  
+S1—C11—N11—C12| −179.7 (8)| S2—C21—N22—C23| −178.4 (7)  
+N11—C11—N12—C13| −0.4 (11)| C21—N21—C22—C23| 2.7 (11)  
+S1—C11—N12—C13| 177.6 (7)| C21—N22—C23—C22| 0.2 (10)  
+C11—N11—C12—C13| 3.0 (12)| N21—C22—C23—N22| −1.7 (10)  
+  
+Hydrogen-bond geometry (Å, º) top _D_ —H··· _A_|  _D_ —H| H··· _A_|  _D_ ···
+_A_|  _D_ —H··· _A_  
+---|---|---|---|---  
+N11—H11···S2i| 0.86| 2.76| 3.556 (8)| 155  
+N12—H12···N1ii| 0.86| 2.14| 2.999 (12)| 172  
+N21—H21···N1iii| 0.86| 2.15| 2.988 (12)| 163  
+N22—H22···N2iv| 0.86| 2.07| 2.880 (13)| 157  
+Symmetry codes: (i) − _x_ +1, − _y_ , − _z_ ; (ii) _x_ +1, _y_ +1, _z_ ; (iii)
+_x_ , _y_ +1, _z_ ; (iv) − _x_ +1, − _y_ , − _z_ +1.  
+---  
+  
+(II) 1,1-bis(dimethylthiourea)-2,2-dicyano-digold(I) top
+
+Crystal data top [Au2(CN)2(C3H8N2S)2]| _F_(000) = 1184  
+---|---  
+ _M_ _r_ = 654.32|  _D_ x = 2.784 Mg m−3  
+Monoclinic, _P_ 21/_c_|  Mo _K_ α radiation, λ = 0.71073 Å  
+ _a_ = 13.3922 (2) Å| Cell parameters from 2105 reflections  
+ _b_ = 7.8170 (1) Å| θ = 1.5–25.0°  
+ _c_ = 14.9588 (3) Å| µ = 19.03 mm−1  
+β = 94.506 (1)°|  _T_ = 174 K  
+ _V_ = 1561.15 (4) Å3| Needle, colorless  
+ _Z_ = 4| 0.16 × 0.06 × 0.04 mm  
+  
+Data collection top Siemens SMART area-detector  
+diffractometer| 2737 independent reflections  
+---|---  
+Radiation source: fine-focus sealed tube| 2421 reflections with _I_ > 2σ(_I_)  
+Graphite monochromator|  _R_ int = 0.030  
+ω scans| θmax = 25.0°, θmin = 1.5°  
+Absorption correction: multi-scan  
+(_SADABS_ ; Sheldrick, 1996; Blessing, 1995)| _h_ = −14→15  
+ _T_ min = 0.27, _T_ max = 0.47|  _k_ = −9→8  
+7629 measured reflections|  _l_ = −17→17  
+  
+Refinement top Refinement on _F_ 2| Secondary atom site location: difference
+Fourier map  
+---|---  
+Least-squares matrix: full| Hydrogen site location: inferred from neighbouring
+sites  
+ _R_[_F_ 2 > 2σ(_F_ 2)] = 0.026| Riding  
+ _wR_(_F_ 2) = 0.063| Calculated _w_ = 1/[σ2(_F_ o2) + (0.033 _P_)2]  
+where _P_ = (_F_ o2 \+ 2 _F_ c2)/3  
+ _S_ = 1.07| (Δ/σ)max = 0.002  
+2737 reflections| Δρmax = 1.97 e Å−3  
+168 parameters| Δρmin = −1.27 e Å−3  
+0 restraints| Extinction correction: _SHELXTL_ ,
+Fc*=kFc[1+0.001xFc2λ3/sin(2θ)]-1/4  
+Primary atom site location: structure-invariant direct methods| Extinction
+coefficient: 0.00035 (8)  
+  
+Crystal data top [Au2(CN)2(C3H8N2S)2]| _V_ = 1561.15 (4) Å3  
+---|---  
+ _M_ _r_ = 654.32|  _Z_ = 4  
+Monoclinic, _P_ 21/_c_|  Mo _K_ α radiation  
+ _a_ = 13.3922 (2) Å| µ = 19.03 mm−1  
+ _b_ = 7.8170 (1) Å|  _T_ = 174 K  
+ _c_ = 14.9588 (3) Å| 0.16 × 0.06 × 0.04 mm  
+β = 94.506 (1)°|  
+  
+Data collection top Siemens SMART area-detector  
+diffractometer| 2737 independent reflections  
+---|---  
+Absorption correction: multi-scan  
+(_SADABS_ ; Sheldrick, 1996; Blessing, 1995)| 2421 reflections with _I_ >
+2σ(_I_)  
+_T_ min = 0.27, _T_ max = 0.47|  _R_ int = 0.030  
+7629 measured reflections|  
+  
+Refinement top _R_[_F_ 2 > 2σ(_F_ 2)] = 0.026| 0 restraints  
+---|---  
+ _wR_(_F_ 2) = 0.063| Riding  
+ _S_ = 1.07| Δρmax = 1.97 e Å−3  
+2737 reflections| Δρmin = −1.27 e Å−3  
+168 parameters|  
+  
+Special details top **Experimental**. IR spectra were recorded as KBr pellets
+with a Perkin-Elmer Model 1430 spectrophotometer. Elemental analyses were
+determined by Galbraith Laboratries, Knoxville, TN.  
+---  
+**Refinement**. There are 15 peaks and valleys in the final difference map
+with magnitudes greater tan 0.75 e/Å3. All of these are between 0.85 and 1.20
+Å from one or the other of the Au atoms.  
+  
+Fractional atomic coordinates and isotropic or equivalent isotropic displacement parameters (Å2) top | _x_|  _y_|  _z_|  _U_ iso*/_U_ eq|   
+---|---|---|---|---|---  
+Au1| 0.17096 (2)| 0.21039 (3)| 0.84800 (2)| 0.02645 (11)|  
+Au2| 0.25436 (2)| 0.54854 (3)| 0.77682 (2)| 0.02818 (11)|  
+C1| 0.2080 (5)| 0.4932 (9)| 0.6510 (5)| 0.028 (2)|  
+N1| 0.1848 (5)| 0.4559 (7)| 0.5783 (4)| 0.0347 (14)|  
+C2| 0.3083 (5)| 0.6074 (10)| 0.9003 (5)| 0.033 (2)|  
+N2| 0.3401 (5)| 0.6353 (10)| 0.9699 (5)| 0.046 (2)|  
+S1| 0.01648 (13)| 0.3363 (2)| 0.83774 (12)| 0.0330 (4)|  
+C11| −0.0413 (5)| 0.3090 (8)| 0.9363 (5)| 0.0263 (15)|  
+N12| −0.1300 (4)| 0.3833 (7)| 0.9412 (4)| 0.0304 (13)|  
+H12| −0.1585 (4)| 0.3728 (7)| 0.9905 (4)| 0.036*|  
+N13| −0.0009 (4)| 0.2200 (7)| 1.0057 (4)| 0.0274 (13)|  
+H13| 0.0574 (4)| 0.1757 (7)| 1.0018 (4)| 0.033*|  
+C14| −0.1815 (6)| 0.4795 (10)| 0.8703 (6)| 0.039 (2)|  
+H14A| −0.1379 (13)| 0.567 (4)| 0.850 (2)| 0.059*|  
+H14B| −0.240 (2)| 0.532 (5)| 0.8918 (11)| 0.059*|  
+H14C| −0.201 (3)| 0.4045 (14)| 0.8213 (14)| 0.059*|  
+C15| −0.0503 (6)| 0.1936 (9)| 1.0880 (5)| 0.034 (2)|  
+H15A| −0.0066 (15)| 0.131 (6)| 1.1302 (13)| 0.051*|  
+H15B| −0.111 (2)| 0.130 (6)| 1.0749 (7)| 0.051*|  
+H15C| −0.066 (3)| 0.3024 (9)| 1.1132 (18)| 0.051*|  
+S2| 0.32664 (14)| 0.0946 (2)| 0.83130 (13)| 0.0356 (4)|  
+C21| 0.4014 (5)| 0.1736 (8)| 0.9230 (5)| 0.030 (2)|  
+N22| 0.4935 (4)| 0.2312 (7)| 0.9107 (4)| 0.0326 (14)|  
+H22| 0.5323 (4)| 0.2556 (7)| 0.9576 (4)| 0.039*|  
+N23| 0.3699 (5)| 0.1715 (8)| 1.0041 (4)| 0.0358 (15)|  
+H23| 0.3120 (5)| 0.1278 (8)| 1.0104 (4)| 0.043*|  
+C24| 0.5328 (6)| 0.2554 (11)| 0.8228 (6)| 0.046 (2)|  
+H24A| 0.546 (4)| 0.1459 (12)| 0.7970 (17)| 0.070*|  
+H24B| 0.594 (2)| 0.320 (6)| 0.8298 (7)| 0.070*|  
+H24C| 0.4846 (19)| 0.316 (6)| 0.7841 (13)| 0.070*|  
+C25| 0.4256 (6)| 0.2372 (10)| 1.0835 (5)| 0.036 (2)|  
+H25A| 0.3870 (16)| 0.222 (6)| 1.1343 (7)| 0.054*|  
+H25B| 0.439 (3)| 0.3566 (16)| 1.0755 (13)| 0.054*|  
+H25C| 0.4877 (17)| 0.176 (4)| 1.0932 (18)| 0.054*|  
+  
+Atomic displacement parameters (Å2) top | _U_ 11|  _U_ 22|  _U_ 33|  _U_ 12|  _U_ 13|  _U_ 23  
+---|---|---|---|---|---|---  
+Au1| 0.0246 (2)| 0.0304 (2)| 0.0245 (2)| −0.00517 (11)| 0.00239 (11)| 0.00145
+(11)  
+Au2| 0.0263 (2)| 0.0316 (2)| 0.0270 (2)| −0.00442 (11)| 0.00412 (11)| −0.00039
+(11)  
+C1| 0.028 (4)| 0.031 (4)| 0.025 (4)| 0.002 (3)| 0.004 (3)| 0.003 (3)  
+N1| 0.035 (3)| 0.037 (3)| 0.033 (4)| 0.006 (3)| 0.005 (3)| 0.000 (3)  
+C2| 0.028 (4)| 0.045 (4)| 0.025 (4)| −0.007 (3)| −0.003 (3)| −0.007 (3)  
+N2| 0.034 (4)| 0.062 (4)| 0.041 (5)| −0.005 (3)| 0.007 (3)| 0.001 (4)  
+S1| 0.0293 (10)| 0.0420 (10)| 0.0278 (10)| 0.0013 (8)| 0.0039 (8)| 0.0097 (8)  
+C11| 0.024 (4)| 0.021 (3)| 0.033 (4)| −0.006 (3)| 0.000 (3)| 0.003 (3)  
+N12| 0.029 (3)| 0.031 (3)| 0.032 (4)| 0.004 (3)| 0.008 (3)| 0.005 (3)  
+N13| 0.025 (3)| 0.028 (3)| 0.029 (3)| −0.001 (2)| 0.004 (2)| 0.003 (2)  
+C14| 0.032 (4)| 0.041 (4)| 0.045 (5)| 0.007 (4)| 0.004 (4)| 0.007 (4)  
+C15| 0.042 (4)| 0.035 (4)| 0.024 (4)| 0.004 (3)| 0.003 (3)| 0.002 (3)  
+S2| 0.0300 (10)| 0.0437 (10)| 0.0325 (11)| 0.0000 (8)| −0.0007 (8)| −0.0096
+(8)  
+C21| 0.029 (4)| 0.029 (3)| 0.033 (4)| 0.003 (3)| 0.005 (3)| 0.002 (3)  
+N22| 0.024 (3)| 0.043 (3)| 0.031 (4)| 0.001 (3)| 0.003 (3)| −0.001 (3)  
+N23| 0.028 (3)| 0.048 (4)| 0.032 (4)| −0.009 (3)| 0.006 (3)| 0.000 (3)  
+C24| 0.035 (5)| 0.069 (5)| 0.036 (5)| −0.007 (4)| 0.010 (4)| −0.008 (4)  
+C25| 0.037 (4)| 0.051 (4)| 0.020 (4)| −0.001 (4)| 0.001 (3)| 0.003 (3)  
+  
+Geometric parameters (Å, º) top Au1—Au2| 3.0911 (4)| C15—H15A| 0.96  
+---|---|---|---  
+Au1—S1| 2.285 (2)| C15—H15B| 0.96  
+Au1—S2| 2.304 (2)| C15—H15C| 0.96  
+Au2—C1| 1.983 (8)| S2—C21| 1.746 (8)  
+Au2—C2| 1.984 (8)| C21—N23| 1.315 (9)  
+C1—N1| 1.145 (9)| C21—N22| 1.340 (9)  
+C2—N2| 1.115 (9)| N22—C24| 1.466 (9)  
+S1—C11| 1.731 (7)| N22—H22| 0.86  
+C11—N13| 1.329 (9)| N23—C25| 1.445 (10)  
+C11—N12| 1.330 (8)| N23—H23| 0.86  
+N12—C14| 1.432 (10)| C24—H24A| 0.96  
+N12—H12| 0.86| C24—H24B| 0.96  
+N13—C15| 1.459 (9)| C24—H24C| 0.96  
+N13—H13| 0.86| C25—H25A| 0.96  
+C14—H14A| 0.96| C25—H25B| 0.96  
+C14—H14B| 0.96| C25—H25C| 0.96  
+C14—H14C| 0.96|  |   
+| | |   
+S1—Au1—S2| 169.70 (7)| H15A—C15—H15B| 109.5  
+S1—Au1—Au2| 87.61 (5)| N13—C15—H15C| 109.5 (3)  
+S2—Au1—Au2| 86.79 (5)| H15A—C15—H15C| 109.5  
+C1—Au2—C2| 176.7 (3)| H15B—C15—H15C| 109.5  
+C1—Au2—Au1| 92.6 (2)| C21—S2—Au1| 104.1 (2)  
+C2—Au2—Au1| 89.6 (2)| N23—C21—N22| 119.7 (7)  
+N1—C1—Au2| 176.9 (6)| N23—C21—S2| 121.0 (5)  
+N2—C2—Au2| 177.6 (7)| N22—C21—S2| 119.2 (5)  
+C11—S1—Au1| 110.6 (2)| C21—N22—C24| 124.4 (7)  
+N13—C11—N12| 119.7 (6)| C21—N22—H22| 117.8 (4)  
+N13—C11—S1| 123.2 (5)| C24—N22—H22| 117.8 (4)  
+N12—C11—S1| 117.1 (5)| C21—N23—C25| 124.9 (6)  
+C11—N12—C14| 124.6 (6)| C21—N23—H23| 117.6 (4)  
+C11—N12—H12| 117.7 (4)| C25—N23—H23| 117.6 (4)  
+C14—N12—H12| 117.7 (4)| N22—C24—H24A| 109.5 (4)  
+C11—N13—C15| 123.4 (6)| N22—C24—H24B| 109.5 (4)  
+C11—N13—H13| 118.3 (4)| H24A—C24—H24B| 109.5  
+C15—N13—H13| 118.3 (4)| N22—C24—H24C| 109.5 (4)  
+N12—C14—H14A| 109.5 (4)| H24A—C24—H24C| 109.5  
+N12—C14—H14B| 109.5 (4)| H24B—C24—H24C| 109.5  
+H14A—C14—H14B| 109.5| N23—C25—H25A| 109.5 (4)  
+N12—C14—H14C| 109.5 (4)| N23—C25—H25B| 109.5 (4)  
+H14A—C14—H14C| 109.5| H25A—C25—H25B| 109.5  
+H14B—C14—H14C| 109.5| N23—C25—H25C| 109.5 (4)  
+N13—C15—H15A| 109.5 (4)| H25A—C25—H25C| 109.5  
+N13—C15—H15B| 109.5 (4)| H25B—C25—H25C| 109.5  
+| | |   
+S1—Au1—Au2—C1| −79.5 (2)| S1—Au1—Au2—C2| 102.9 (2)  
+S2—Au1—Au2—C1| 91.8 (2)| S2—Au1—Au2—C2| −85.7 (2)  
+  
+Hydrogen-bond geometry (Å, º) top _D_ —H··· _A_|  _D_ —H| H··· _A_|  _D_ ···
+_A_|  _D_ —H··· _A_  
+---|---|---|---|---  
+N12—H12···N2i| 0.86| 2.55| 3.207 (8)| 134  
+N13—H13···N1ii| 0.86| 2.23| 2.972 (9)| 144  
+N22—H22···N2iii| 0.86| 2.13| 2.936 (10)| 156  
+N23—H23···N1ii| 0.86| 2.15| 2.968 (8)| 158  
+Symmetry codes: (i) − _x_ , − _y_ +1, − _z_ +2; (ii) _x_ , − _y_ +1/2, _z_
++1/2; (iii) − _x_ +1, − _y_ +1, − _z_ +2.  
+---  
+  
+Experimental details
+
+| (I)| (II)  
+---|---|---  
+Crystal data  
+Chemical formula| [Au2(CN)2(C3H6N2S)2]| [Au2(CN)2(C3H8N2S)2]  
+_M_ r| 650.28| 654.32  
+Crystal system, space group| Triclinic, _P_ 1| Monoclinic, _P_ 21/_c_  
+Temperature (K)| 174| 174  
+ _a_ , _b_ , _c_ (Å)| 7.4654 (15), 9.233 (2), 11.895 (2)| 13.3922 (2), 7.8170
+(1), 14.9588 (3)  
+α, β, γ (°)| 103.73 (3), 90.73 (3), 112.98 (3)| 90, 94.506 (1), 90  
+ _V_ (Å3)| 728.1 (3)| 1561.15 (4)  
+_Z_|  2| 4  
+Radiation type| Mo _K_ α| Mo _K_ α  
+µ (mm−1)| 20.40| 19.03  
+Crystal size (mm)| 0.30 × 0.10 × 0.06| 0.16 × 0.06 × 0.04  
+Data collection  
+Diffractometer| Siemens _SMART_ area-detector  
+diffractometer| Siemens _SMART_ area-detector  
+diffractometer  
+Absorption correction| Multi-scan  
+(_SADABS_ ; Sheldrick, 1996; Blessing, 1995)| Multi-scan  
+(_SADABS_ ; Sheldrick, 1996; Blessing, 1995)  
+_T_ min, _T_ max| 0.10, 0.29| 0.27, 0.47  
+No. of measured, independent and  
+observed [_I_ > 2σ(_I_)] reflections| 5410, 2545, 2124 | 7629, 2737, 2421   
+_R_ int| 0.045| 0.030  
+(sin θ/λ)max (Å−1)| 0.595| 0.595  
+Refinement  
+ _R_[_F_ 2 > 2σ(_F_ 2)], _wR_(_F_ 2), _S_|  0.036, 0.093, 0.94|  0.026, 0.063,
+1.07  
+No. of reflections| 2545| 2737  
+No. of parameters| 163| 168  
+H-atom treatment| H-atom parameters constrained| Riding  
+Δρmax, Δρmin (e Å−3)| 1.91, −1.52| 1.97, −1.27  
+  
+Computer programs: ASTRO (Siemens, 1995), _SAINT_ (Siemens, 1995), _SAINT_ ,
+_SHELXTL_ (Sheldrick, 1994), SHELXLTL.
+
+Selected geometric parameters (Å, º) for (I) topAu1—Au2| 3.1167 (10)| Au1—C1|
+1.964 (10)  
+---|---|---|---  
+Au1—S1| 2.292 (3)| Au2—C2| 1.968 (10)  
+Au2—S2| 2.295 (3)|  |   
+| | |   
+C1—Au1—S1| 173.6 (3)| C2—Au2—S2| 179.6 (3)  
+| | |   
+C1—Au1—Au2—C2| 57.8 (4)| C1—Au1—Au2—S2| −122.5 (3)  
+S1—Au1—Au2—C2| −116.2 (3)| S1—Au1—Au2—S2| 63.42 (10)  
+  
+Hydrogen-bond geometry (Å, º) for (I) top _D_ —H··· _A_|  _D_ —H| H··· _A_|
+_D_ ··· _A_|  _D_ —H··· _A_  
+---|---|---|---|---  
+N11—H11···S2i| 0.86| 2.76| 3.556 (8)| 155  
+N12—H12···N1ii| 0.86| 2.14| 2.999 (12)| 172  
+N21—H21···N1iii| 0.86| 2.15| 2.988 (12)| 163  
+N22—H22···N2iv| 0.86| 2.07| 2.880 (13)| 157  
+Symmetry codes: (i) − _x_ +1, − _y_ , − _z_ ; (ii) _x_ +1, _y_ +1, _z_ ; (iii)
+_x_ , _y_ +1, _z_ ; (iv) − _x_ +1, − _y_ , − _z_ +1.  
+---  
+  
+Selected geometric parameters (Å, º) for (II) topAu1—Au2| 3.0911 (4)| Au2—C1|
+1.983 (8)  
+---|---|---|---  
+Au1—S1| 2.285 (2)| Au2—C2| 1.984 (8)  
+Au1—S2| 2.304 (2)|  |   
+| | |   
+S1—Au1—S2| 169.70 (7)| C1—Au2—C2| 176.7 (3)  
+| | |   
+S1—Au1—Au2—C1| −79.5 (2)| S1—Au1—Au2—C2| 102.9 (2)  
+S2—Au1—Au2—C1| 91.8 (2)| S2—Au1—Au2—C2| −85.7 (2)  
+  
+Hydrogen-bond geometry (Å, º) for (II) top _D_ —H··· _A_|  _D_ —H| H··· _A_|
+_D_ ··· _A_|  _D_ —H··· _A_  
+---|---|---|---|---  
+N12—H12···N2i| 0.86| 2.55| 3.207 (8)| 134  
+N13—H13···N1ii| 0.86| 2.23| 2.972 (9)| 144  
+N22—H22···N2iii| 0.86| 2.13| 2.936 (10)| 156  
+N23—H23···N1ii| 0.86| 2.15| 2.968 (8)| 158  
+Symmetry codes: (i) − _x_ , − _y_ +1, − _z_ +2; (ii) _x_ , − _y_ +1/2, _z_
++1/2; (iii) − _x_ +1, − _y_ +1, − _z_ +2.  
+---  
+  
+
+
+  
+
+Follow Acta Cryst. C| | [](https://www.iucr.org/people/wdc/ealert)  
+---  
+[E-alerts](https://www.iucr.org/people/wdc/ealert "Sign up for e-alerts")| | [](https://twitter.com/ActaCrystC)  
+---  
+[Twitter](https://twitter.com/ActaCrystC "Follow Acta Cryst. on Twitter")| | [](https://www.facebook.com/iucr.org)  
+---  
+[Facebook](https://www.facebook.com/iucr.org "Follow us on facebook")| | [](https://journals.iucr.org/services/rss.html)  
+---  
+[RSS](https://journals.iucr.org/services/rss.html "Sign up for RSS feeds")  
+  
+* * *
+
+Search IUCr Journals |  doi |    
+[Advanced search](https://scripts.iucr.org/cgi-bin/full_search "advanced
+search")  
+---|---|---  
+Author |  All journals IUCrJ Acta Cryst Acta Cryst A Acta Cryst B Acta Cryst C Acta Cryst D Acta Cryst E Acta Cryst F J Appl Cryst J Synchrotron Rad IUCrData |  volume |  page  
+  
+Copyright © [International Union of Crystallography](https://www.iucr.org/
+"International Union of Crystallography")  
+[Home](https://journals.iucr.org/ "Home") [Contact
+us](https://journals.iucr.org/services/contactus.html "Contact us") [Site
+index](https://journals.iucr.org/services/siteindex.html "Site index") [About
+us](https://www.iucr.org/ "About us") [Partners and site
+credits](https://journals.iucr.org/services/organizations.html "Partners and
+site credits") [Help](https://journals.iucr.org/services/help.html "Help")
+[Terms of use](https://journals.iucr.org/services/termsofuse.html "Terms of
+use")[Privacy and cookies](https://journals.iucr.org/services/privacy.html
+"Privacy and cookies")
+
+The IUCr is a scientific union serving the interests of crystallographers and
+other scientists employing crystallographic methods.
+
+We use cookies on our websites, and by using this site you are consenting to
+them: **allow all** or
+**[manage](https://journals.iucr.org/services/cookies.html)**
+

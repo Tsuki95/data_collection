@@ -1,0 +1,1332 @@
+## Your privacy, your choice
+
+We use essential cookies to make sure the site can function. We also use
+optional cookies for advertising, personalisation of content, usage analysis,
+and social media.
+
+By accepting optional cookies, you consent to the processing of your personal
+data - including transfers to third parties. Some third parties are outside of
+the European Economic Area, with varying standards of data protection.
+
+See our [privacy policy](https://link.springer.com/privacystatement) for more
+information on the use of your personal data.
+
+Manage preferences for further information and to change your choices.
+
+Accept all cookies
+
+Skip to main content
+
+[ ](https://link.springer.com)
+
+[Log
+in](https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1007/s10876-012-0487-6)
+
+[ Menu ](javascript:;)
+
+[ Find a journal ](https://link.springer.com/journals/) [ Publish with us
+](https://www.springernature.com/gp/authors) [ Track your research
+](https://link.springernature.com/home/)
+
+[ Search ](javascript:;)
+
+[ Cart](https://order.springer.com/public/cart)
+
+## Search
+
+Search by keyword or author
+
+Search
+
+## Navigation
+
+  * [ Find a journal ](https://link.springer.com/journals/)
+  * [ Publish with us ](https://www.springernature.com/gp/authors)
+  * [ Track your research ](https://link.springernature.com/home/)
+
+  1. [Home](/)
+  2. [Journal of Cluster Science](/journal/10876)
+  3. Article
+
+# Derivatives of Bis(diphenylphosphino)maleic Anhydride as Ligands in
+Polynuclear Gold(I) Complexes
+
+  * Original Paper
+  * Published: 15 May 2012
+
+  * Volume 23, pages 753–766, (2012) 
+  * Cite this article
+
+[ Download PDF ](/content/pdf/10.1007/s10876-012-0487-6.pdf)
+
+Access provided by Nanjing University Library
+
+[ Journal of Cluster Science ](/journal/10876) [ Aims and scope
+](https://link.springer.com/journal/10876/aims-and-scope) [ Submit manuscript
+](https://submission.springernature.com/new-submission/10876/3)
+
+Derivatives of Bis(diphenylphosphino)maleic Anhydride as Ligands in
+Polynuclear Gold(I) Complexes
+
+[ Download PDF ](/content/pdf/10.1007/s10876-012-0487-6.pdf)
+
+  * Wen Yu1,2, 
+  * Olaf Fuhr2,3 &
+  * Dieter Fenske1,2,3 
+
+  * 432 Accesses
+
+  * [Explore all metrics  ](/article/10.1007/s10876-012-0487-6/metrics)
+
+## Abstract
+
+Based on the new binuclear gold(I) complex [(AuCl)2(**L1**)] (**1**) (**L1**
+= 2,3-bis(diphenylphosphino)maleic anhydride) four new polynuclear compounds
+were synthesized by reactions of **1** with E(SiMe3)2 (E = S, Se). During the
+formation of these new compounds the initial ligand **L1** undergoes various
+transformations (e.g. substitution, hydration or hydrogenation) leading to the
+new ligands: _trans_ -2,3-bis(diphenylphosphino)succinic anhydride (**L2**),
+2-diphenylphosphino-3-mercapto-maleic anhydride anion (**L3**),
+2-diphenylphosphino-3-selenolato-maleic anhydride anion (**L4**) and
+2,3-bis(diphenylphosphino)succinic acid (**L5**). In case of using the sulfur
+species S(SiMe3)2 a pentanuclear cluster, [Au5(PPh2)3(**L3**)2] (**2**), and a
+24-nuclear cluster, [Au24S6(PPh2)4(**L3**)8] (**3**), could be obtained. With
+Se(SiMe3)2 the binuclear complex, [(AuCl)2(**L2**)] (**4**), and the
+dodecanuclear cluster, [Au12Se4(**L4**)4(**L5**)2] (**5**), were yielded.
+
+### Similar content being viewed by others
+
+###  [Sulfobridged Polynuclear Complexes of Platinum(II) and Palladium(II)
+](https://link.springer.com/10.3103/S0027131418060032?fromPaywallRec=false)
+
+Article 01 November 2018
+
+###  [Synthesis and structure of gold complexes [Ph3PR]+[Au(CN)2I2-_trans_]−,
+R = Et, CH2Ph, Ph
+](https://link.springer.com/10.1007/s11172-020-2975-4?fromPaywallRec=false)
+
+Article 01 October 2020
+
+###  [New Gold(I) Complexes with 1,5-Diaza-3,7-Diphosphacyclooctanes:
+Synthesis and Structures
+](https://link.springer.com/10.1134/S107032842007009X?fromPaywallRec=false)
+
+Article 14 July 2020
+
+[ Use our pre-submission checklist ](https://beta.springernature.com/pre-
+submission?journalId=10876)
+
+Avoid common mistakes on your manuscript.
+
+## Introduction
+
+Since many years we are working in the field of metal chalcogenide clusters
+that are protected by a shell of tertiary phosphane ligands
+[[1](/article/10.1007/s10876-012-0487-6#ref-CR1 "J. F. Corrigan, O. Fuhr, and
+D. Fenske \(2009\). Adv. Mater.
+
+                  21, 1867–1871.")–[6](/article/10.1007/s10876-012-0487-6#ref-CR6 "C. E. Anson, A. Eichhöfer, I. Isaac, D. Fenske, O. Fuhr, P. Sevillano, C. Persau, D. Stahlke, and J. Zhang \(2008\). Angew. Chem. Int. Ed.
+                  47, 1326–1331.")]. Among many others also some polynuclear gold clusters could by synthesized by reactions of gold(I) halide complexes, [(AuX)2pp] (X = Cl, Br; pp = bidentate phosphane), with silylated sulfur or selenium compounds [[7](/article/10.1007/s10876-012-0487-6#ref-CR7 "D. Fenske, T. Langetepe, M. M. Kappes, O. Hampe, and P. Weis \(2000\). Angew. Chem.
+                  112, 1925–1928.")–[10](/article/10.1007/s10876-012-0487-6#ref-CR10 "P. Sevillano, T. Langetepe, and D. Fenske \(2003\). Z. Anorg. Allg. Chem.
+                  629, 207–214.")]. Typical examples for these kind of compounds are [Au10Se4(dpppe)4]Br2, [Au10Se4(dppm)4]Cl2 and [Au18Se8(dppe)]Cl2. The main criterion which cluster is formed seems to be the bridging group of the bidentate phosphane. Therefore we are actually investigating the influence of different phosphanes on this kind of cluster formation. In this article we describe some results where we used a class of ligands that are known since many years: bis(diphenylphosphino) derivatives of maleic anhydride or various maleimides [[11](/article/10.1007/s10876-012-0487-6#ref-CR11 "D. Fenske and H. J. Becher \(1974\). Chem. Ber.
+                  107, 117–122."), [12](/article/10.1007/s10876-012-0487-6#ref-CR12 "D. Fenske and H. J. Becher \(1975\). Chem. Ber.
+                  108, 2115–2123.")] (Fig. [1](/article/10.1007/s10876-012-0487-6#Fig1)).
+
+**Fig.  1**
+
+[](/article/10.1007/s10876-012-0487-6/figures/1)
+
+Bis(diphenylphosphino) derivatives of maleic anhydride; X = O (**L1**), S, NMe
+(**L1a**), NPh
+
+[Full size image](/article/10.1007/s10876-012-0487-6/figures/1)
+
+These compounds are intensively colored and show very low redox potentials.
+This results in the observation of electron transfer in transition metal
+complexes which formally have more than 18 valence electrons per metal atom.
+Two examples are [Co(CO)3(**L1**)] or [Mn(CO)4(**L1a**)]
+[[13](/article/10.1007/s10876-012-0487-6#ref-CR13 "D. Fenske \(1976\). Angew.
+Chem.
+
+                  88, 415–416.")–[15](/article/10.1007/s10876-012-0487-6#ref-CR15 "D. Fenske \(1979\). Chem. Ber.
+                  112, 363–375.")], respectively. Both compounds are in disagreement with the 18 electron rule; formally there are 19 valence electrons per metal atom. This state is stabilized by an intramolecular electron transfer into an anti-bonding state of the maleic anhydride ring resulting in a radical anion which binds via the phosphorous atoms of the PPh2 groups to cobalt or manganese having the formal oxidation state +I. One might also mention complexes with bis(diphenylphosphino)-N-methylmaleinimide with the composition [M(**L1a**)2] (M = Pd, Pt). More precisely these compounds could be written as [M2+(**L1a** −)2] with two radical anions binding to Pd2+ or Pt2+, respectively [[16](/article/10.1007/s10876-012-0487-6#ref-CR16 "W. Bensmann and D. Fenske \(1979\). Angew. Chem.
+                  81, 754–755."), [17](/article/10.1007/s10876-012-0487-6#ref-CR17 "W. Bensmann and D. Fenske \(1979\). Angew. Chem. Int. Ed.
+                  18, 677–679.")].
+
+Furthermore the class of ligands discussed above shows unusual rearrangement
+reactions. One example is the reaction of **L1** with [(_η_ ³-C3H5)2M] (M =
+Ni, Pd). In case of the palladium complex first a radical intermediate is
+formed which finally leads to a complex where an allyl group is transferred
+onto the five-membered ring of the maleic anhydride. Formally this leads to
+palladium at oxidation state +I which is coordinated by one remaining _η_
+³-C3H5 group and the modified **L1** ligand
+[[18](/article/10.1007/s10876-012-0487-6#ref-CR18 "D. Fenske and P. Stock
+\(1982\). Angew. Chem.
+
+                  94, 393–394."), [19](/article/10.1007/s10876-012-0487-6#ref-CR19 "D. Fenske and P. Stock \(1982\). Angew. Chem. Int. Ed.
+                  21, 356–357.")]. Considering properties and bond length the latter can be interpreted as a carbanion.
+
+One could also mention the reactivity of radical anions formed by reactions of
+**L1** or **L1a** with [CpMo(CO)3]2. In boiling toluene paramagnetic
+[CpMo(CO)2(**L1**)] containing a **L1** radical anion shows proton transfer
+[[20](/article/10.1007/s10876-012-0487-6#ref-CR20 "D. Fenske and A. Christidis
+\(1981\). Angew. Chem.
+
+                  93, 113–115."), [21](/article/10.1007/s10876-012-0487-6#ref-CR21 "D. Fenske and A. Christidis \(1981\). Angew. Chem. Int. Ed.
+                  20, 129–131.")]. A carbanion is yielded in which the negative charge is delocalized over the five-membered ring.
+
+A transfer of hydrogen atoms onto **L1** has also been described by other
+authors [[22](/article/10.1007/s10876-012-0487-6#ref-CR22 "J. A. van Doorn, J.
+H. G. Frijns, and N. Meijboom \(1990\). J. Chem. Soc. Perkin Trans.
+
+                  2, 479–485.")]. By the reaction of bromomaleic anhydride with diphenylphosphane (Ph2PH) they got high yields of _trans_ -bis(diphenylphosphino)succinic anhydride (**L2**) as a result of an acid catalyzed Michael addition.
+
+In the work presented here we describe the formation of polynuclear gold
+complexes which are formed by reactions of [(AuCl)2(**L1**)] (**1**) with
+E(SiMe3)2 (E = S, Se).
+
+## Experimental Section
+
+All reactions were performed under dry, oxygen-free nitrogen using standard
+Schlenk techniques. Solvents were dried using standard techniques:
+diethylether and THF are dried over sodium/benzophenone, _n_ -heptane over
+LiAlH4 and dichloromethane over P4O10. (Tetrahydrothiophen)gold(I) chloride
+[[23](/article/10.1007/s10876-012-0487-6#ref-CR23 "H. D. Kaesz \(ed\),
+Inorganic Syntheses, vol. 26 \(Wiley, Hoboken, 1989\), p 86.")] and **L1**
+[[11](/article/10.1007/s10876-012-0487-6#ref-CR11 "D. Fenske and H. J. Becher
+\(1974\). Chem. Ber.
+
+                  107, 117–122."), [12](/article/10.1007/s10876-012-0487-6#ref-CR12 "D. Fenske and H. J. Becher \(1975\). Chem. Ber.
+                  108, 2115–2123.")] are prepared according to literature procedures. NMR spectra were recorded using a Bruker DPX Avance 300 spectrometer. IR spectra were measured using a FT-IR spectrometer Bruker Tensor 37 with a diamond sample holder. Elemental analyses were performed as combustion analyses using an Elementar Vario el Analyser.
+
+[(AuCl)2(**L1**)] (**1**): 3.20 g (10.00 mmol)
+(tetrahydrothiophen)gold(I)chloride are dissolved in 40 mL CH2Cl2 at 0 °C. 20
+mL of a CH2Cl2 solution containing 2.35 g (5.00 mmol) **L1** are slowly added
+during 1 h. After addition of approx. half of the amount of **L1** a red
+precipitate is formed. The mixture is stirred for an additional hour at room
+temperature. After reducing of the volume to one half in vacuum the red solid
+is filtered via a G4 glass frit, washed two times with 5 mL diethyl ether and
+dried in vacuum. Crystals of **1** can be obtained by layering of the CH2Cl2
+solution with ether. Yield: 4.24 g (4.60 mmol, 92 %). Analytical data:
+Elemental anal. calc. for C29H22Au2Cl4O3P2: C 36.08, H 2.15. Found: C 35.94, H
+2.29 %. NMR (in CD2Cl2): 1H: δ = 7.51–7.73 (m) ppm; 31P{1H}: δ = 14.267 (s)
+ppm. IR: 1832 m, 1767 s, 1585 vw, ~1550 vw, 1481 w, 1437 m, 1333/1310 vw, 1232
+m, 1096 m, 1026 vw, 998 w, 935 m, 741 ms, 720 s, 685 s, 557 m, 505 vs cm−1.
+
+[Au5(PPh2)3(**L3**)2] (**2**): At 0 °C 234 mg (0.25 mmol) **1** are suspended
+in 10 ml CH2Cl2. 0.062 ml (0.25 mmol) S(SiMe3)2 are added yielding a dark red
+solution within several minutes. The reaction mixture is stirred for 2 h.
+After warming to room temperature it is layered with Et2O. Within several days
+yellow needles of **2a** are formed. Yield: 83 mg (0.034 mmol, 41 %), NMR (in
+CD2Cl2): 1H: δ = 7.70–7.20 (m) ppm; 31P{1H}: δ = 25.01 (d, 2P, **L3**), 21.05
+(d, 1P, PPh2), 19.58 (d, 2P, PPh2) ppm. IR: 1827 m, 1758 s, 1580 vw, 1476 m,
+1432 w, 1324 vw, 1300 vw, 1232 s, 1183 m, 1095 m, 978 w, 903 ms, 859 w, 737 s,
+687 vs, 541 w, 498 vs, 440 m cm−1.
+
+Performing the same reaction with identical amounts of reactants in THF leads
+to also needle-like yellow crystals of **2b**.
+
+[Au24S6(PPh2)4(**L3**)8] (**3**): 234 mg (0,25 mmol) **1** are suspended in 10
+mL THF. At 0 °C 0,062 mL (0,29 mmol) S(SiMe3)2 are added. The resulting dark
+solution is stirred for 2 h. After warming to room temperature the mixture is
+layered with diethyl ether. After several days a mixture of yellow needles of
+**2b** and red crystals of **3** is formed. IR (of hand-sorted crystals of
+**3**): 3053 vw, 2361 s, 2339 m, 1829 m, 1757 s, 1653 w, 1473 s, 1435 m, 1306
+w, 1238 s, 1183 m, 1096 m, 1025 w, 998 w, 979 m, 909 m, 731 m, 713 m, 686 s,
+668 m, 640 m, 617 w, 544 m, 513 s, 478 m, 442 m.
+
+[(AuCl)2(**L2**)2] (**4**): 234 mg (0.25 mmol) **1** are suspended in 10 ml
+THF. At 0 °C 0.05 ml (0.20 mmol) Se(SiMe3)2 are added yielding a dark red
+solution. After stirring for 3 h the mixture is allowed to warm to room
+temperature. Layering with either diethyl ether or _n_ -heptane leads to
+yellow crystals of **4**. Yield: 44 mg (0.028 mmol, 11 %). IR: 3056 vw, 2865
+w, 1849 m, 1782 s, 1571 vw, 1479 w, 1437 m, 1316 vw, 1270 w, 1210 w, 1163 m,
+1099 m, 1048 s, 998 m, 914 s, 845 w, 827 w, 798 m, 745 s, 714 m, 689 s, 625 m,
+615 m, 597 m, 535 m, 506 m, 492 s, 484 s, 466 s, 406 m.
+
+[Au12Se4(**L4**)4(**L5**)2] (**5**): 234 mg (0.25 mmol) **1** are suspended in
+10 mL THF/CHCl3 (1:1). At 0 °C 0.062 mL (0.25 mmol) Se(SiMe3)2 are added
+immediately leading to a dark red solution. After stirring for 3 h and warming
+to room temperature the mixture is layered with diethyl ether. Within 2 weeks
+very small, dark red needles of **5** are formed. Yield: 21 mg (0.004 mmol, 14
+%). IR: 2963 w, 1824 m, 1816 m, 1749 s, 1455 m, 1435 m, 1260 s, 1232 s, 1093
+s, 1017 s, 907 m, 797 s, 742 m, 730 m, 686 s, 512 s, 493 s, 458 m.
+
+### X-ray Structure Determination
+
+Diffraction intensities were collected on a STOE IPDS II imaging plate
+diffractometer with graphite-monochromated Mo-Kα radiation (0.71073 Å). The
+structures were solved by direct methods and refined against _F_ 2 by least
+square techniques using the SHELXS-97 and SHELXL-97 programs
+[[24](/article/10.1007/s10876-012-0487-6#ref-CR24 "G. M. Sheldrick \(2008\).
+Acta Crystallogr. Sect. A
+
+                  64, 112–122.")]. Non-hydrogen atoms were refined with anisotropic displacement parameters; hydrogen atoms were calculated on idealized positions. For all compounds a numerical absorption correction was carried out. CCDC 868993–868998 contain the supplementary crystallographic data for **1** –**5**. These data can be obtained free of charge from The Cambridge Crystallographic Data Centre via [www.ccdc.cam.ac.uk/data_request/cif](http://www.ccdc.cam.ac.uk/data_request/cif).
+
+## Results and Discussion
+
+The starting compound [(AuCl)2(**L1**)] (**1**) can be synthesized easily by
+the reaction of [AuCl(tht)] (tht = tetrahydrothiophen) and **L1** in a 2:1
+molar ratio in dichloromethane. **1** is yielded in high amounts as a red, air
+stable solid.
+
+During the reactions of **1** with S(SiMe3)2 or Se(SiMe3)2 the initial ligand
+**L1** undergoes various conversions. The different ligands that are involved
+in the compounds presented in this paper are summarized in Fig.
+[2](/article/10.1007/s10876-012-0487-6#Fig2). For all these conversions the
+presence of gold(I) ions seems to be essential; control reactions of **L1**
+with E(SiMe3)2 (E = S, Se) in the absence of Au(I) showed no change of **L1**.
+
+**Fig.  2**
+
+[](/article/10.1007/s10876-012-0487-6/figures/2)
+
+Used or formed ligands: **L1** : 2,3-Bis(diphenylphosphino)maleic anhydride.
+**L2** : _trans_ -2,3-Bis(diphenylphosphino)succinic anhydride. **L3** :
+2-Diphenylphosphino-3-mercapto-maleic anhydride anion. **L4** :
+2-Diphenylphosphino-3-selenolato-maleic anhydride anion. **L5** :
+2,3-Bis(diphenylphosphino)succinic acid
+
+[Full size image](/article/10.1007/s10876-012-0487-6/figures/2)
+
+Ligand **L2** is the result of the addition of hydrogen to the C=C double bond
+in **L1**. Substitution of one PPh2 group by either sulfur or selenium leads
+to the anionic ligands **L3** and **L4**. Hydrolysis of the anhydride unit and
+additional hydrogenation of the C=C double bond leads to **L5**.
+
+Scheme [1](/article/10.1007/s10876-012-0487-6#Sch1) summarizes the reactions
+between **1** and E(SiMe2)2 (E = S, Se) leading to various cluster compounds.
+The reaction of **1** with S(SiMe3)2 in a 1:1 ratio in dichloromethane as well
+as in THF yields in the formation of yellow needles of [Au5(PPh2)3(**L3**)2]
+(**2**). If the reaction is carried out in THF in a **1** : S(SiMe3)2 ratio of
+1:1.2 a mixture of yellow needles of **2** and red crystals of the large
+cluster [Au24S6(PPh2)4(**L3**)8] (**3**) are formed.
+
+**Scheme  1**
+
+[](/article/10.1007/s10876-012-0487-6/schemes/1)
+
+Reactions of [(AuCl)2(**L1**)] (**1**) with E(SiMe3)2: (a) E = S, in CH2Cl2 or
+THF; (b) E = S, in THF; (c) E = Se, in THF; (d) E = Se, in THF/CHCl3
+
+[Full size image](/article/10.1007/s10876-012-0487-6/schemes/1)
+
+Similar reactions with Se(SiMe3)2 lead to totally different compounds. For the
+1:1 reaction in THF only yellow crystals of [(AuCl)2(**L2**)] (**4**) can be
+isolated; the same reaction in CH2Cl2 does—up to now—not give any crystalline
+products. The analogous reaction in a mixture of THF and chloroform yields
+dark red crystals of [Au12Se4(**L4**)4(**L5**)2] (**5**).
+
+### The Structures of **1** –**5**
+
+In all complexes described here the gold atoms are at oxidation state +I. All
+bond lengths are in the expected range found also for previously described
+gold(I) compounds. [[7](/article/10.1007/s10876-012-0487-6#ref-CR7 "D. Fenske,
+T. Langetepe, M. M. Kappes, O. Hampe, and P. Weis \(2000\). Angew. Chem.
+
+                  112, 1925–1928.")–[10](/article/10.1007/s10876-012-0487-6#ref-CR10 "P. Sevillano, T. Langetepe, and D. Fenske \(2003\). Z. Anorg. Allg. Chem.
+                  629, 207–214."), [27](/article/10.1007/s10876-012-0487-6#ref-CR27 "P. Sevillano, O. Fuhr, E. Matern, and D. Fenske \(2006\). Z. Anorg. Allg. Chem.
+                  632, 735–738.")–[33](/article/10.1007/s10876-012-0487-6#ref-CR33 "D. Wiedemann and P. W. Roesky \(2009\). Z. Anorg. Allg. Chem.
+                  635, 125–129.")] The crystallographic data of **1** –**5** are summarized in Table [1](/article/10.1007/s10876-012-0487-6#Tab1).
+
+**Table  1 Crystallographic data of compounds **1** –**5** **
+
+[Full size table](/article/10.1007/s10876-012-0487-6/tables/1)
+
+The binuclear complex [(AuCl)2(**L1**)] (**1** , fig.
+[3](/article/10.1007/s10876-012-0487-6#Fig3)) crystallizes in the monoclinic
+space group _P_ 21/_n_ with four formula units and four molecules of CH2Cl2
+per unit cell.
+
+**Fig.  3**
+
+[](/article/10.1007/s10876-012-0487-6/figures/3)
+
+Molecular structure of [(AuCl)2(**L1**)] (**1**). Selected bond lengths/pm and
+angles/: Au1–Cl1 228.67(9), Au2–Cl2 230.04(9), Au1–P1 222.87(9), Au2–P2
+223.16(9), Au1···Au2 293.49(6), P1–C1 182.1(3), P2–C2 183.1(4), C1–C2
+134.8(5), C1–C3 149.7(4), C2–C4 149.5(4) O1–C3 118.5(4), O2–C4 137.9(4), O2–C3
+138.9(4), O3–C4 118.3(5); P1–Au1–Cl1 173.88(3), P2–Au2–Cl2 172.76(3),
+Au1–P1–C1 105.97(11), Au2–P2–C2 115.62(11), C2–C1–P1 126.5(2), C3–C1–P1
+125.6(3), C1–C2–P2 130.5(3), C4–C2–P2 121.9(3), C2–C1–C3 107.5(3), C1–C2–C4
+107.5(3), O2–C3–C1 107.8(3), O2–C4–C2 108.1(3), C4–O2–C3 108.8(3), O1–C3–O2
+121.5(3), O1–C3–C1 130.8(3), O3–C4–O2 121.9(3), O3–C4–C2 130.0(3)
+
+[Full size image](/article/10.1007/s10876-012-0487-6/figures/3)
+
+Each gold atom in **1** is nearly linearly coordinated by one chorido ligand
+and one phosphorus atom of a PPh2 group. The distance between Au1 and Au2 is
+293.5 pm. In agreement with other binuclear gold complexes this relatively
+short distance can be interpreted as a consequence of aurophilic interactions
+[[34](/article/10.1007/s10876-012-0487-6#ref-CR34 "H. Schmidbaur \(2000\).
+Gold Bulletin
+
+                  33, 3–10.")] resulting in a slightly deviation of the P–Au–Cl angle (173°) from ideal linearity.
+
+Compound **2** (Fig. [4](/article/10.1007/s10876-012-0487-6#Fig4))
+crystallizes in the tetragonal space group _I_ 41/_a_ with eight formula units
+and three solvent molecules per cluster. The compound can be crystallized from
+dichloromethane or THF with the only difference that the voids between the
+cluster molecules are either filled with CH2Cl2 molecules (version **2a**) or
+with THF molecules (version **2b**). Cell constants and symmetry as well as
+the binding parameters of the individual clusters are identical within the
+measuring accuracy.
+
+**Fig.  4**
+
+[](/article/10.1007/s10876-012-0487-6/figures/4)
+
+Molecular structure of [Au5(PPh2)3(**L3**)2] in **2a** ; hydrogen atoms are
+omitted for clarity. Selected bond lengths/pm and angles/: Au2–S1 231.8(2),
+Au1–P1 231.7(2), Au1–P2 232.7(1), Au2–P3 228.2(2), Au3–P3 231.6(2), Au1···Au2
+292.20(5), S1–C(2) 169.6(7), P1–C3 179.1(7), C1–C2 150.9(9), C2–C3 137.0(9),
+C3–C4 146.2(9), O2–C1 137.6(9), O2–C4 141.0(9), O1–C1 118.5(9), O3–C4
+119.4(9); P1–Au1–P2 171.29(6), P3’–Au3–P3 173.03(8), P3-Au2–S1 177.13(6),
+Au1’–P2–Au1 120.97(10), Au2–P3–Au3 111.70(7), C2-S1-Au2 106.1(2), C3-P1-Au1
+114.7(2), C1–O2–C4 108.1(5), O1–C1–O2 122.7(7), O1–C1–C2 129.2(7), O2–C1–C2
+108.2(6), C3–C2–C1 106.9(6), C3–C2–S1 136.4(5), C1–C2–S1 116.7(5), C2–C3–C4
+107.6(6), C2–C3–P1 130.2(5), C4–C3–P1 122.2(5), O3–C4–O2 119.6(6), O3–C4–C3
+131.4(7), O2–C4–C3 109.0(6)
+
+[Full size image](/article/10.1007/s10876-012-0487-6/figures/4)
+
+There is a twofold axis running through the atoms Au3 and P2. The formation of
+**2** comes along with a transformation of the ligand **L1**. One PPh2 group
+is replaced by a sulfide ion leading to the negatively charged ligand **L3**.
+The released diphenylphosphino group is then involved in the formation of the
+cluster. In **2** five gold atoms are bridged by three PPh2 groups and two
+**L3** anions forming a highly folded macro cycle. **L3** binds via the sulfur
+and the phosphorous atom to gold atoms which are relatively close to each
+other (292.2 pm). The phosphorous atoms of the three PPh2 groups act as
+μ2-bridges; all gold atoms are approximately linearly coordinated.
+
+Compound **3** crystallizes in the triclinic space group _P_ \\( \bar{1} \\)
+with two clusters per unit cell. There are huge voids between the individual
+clusters which are filled with THF molecules. Only some of them could be
+localized during the refinement of the X-ray data. Most THF molecules are
+highly disordered and their positions could not be refined properly. Assuming
+a THF molecule to have a volume of 100 × 106 pm³ there are ~22 solvent
+molecules per unit cell.
+
+In **3** (Fig. [5](/article/10.1007/s10876-012-0487-6#Fig5)) 24 gold atoms are
+linked by three kinds of ligands: six sulfide ions, four PPh2 groups and eight
+anions **L3**. The total sum of charges of the ligands in 24–balancing the 24
+positive charges of the gold(I) ions. Like in **2** the PPh2 fragments must
+origin from the conversion of the previous **L1** into **L3**. The phosphorous
+atoms (P9–P12) of these groups are all μ2 bridging between gold atoms. All
+sulfide ions act as μ4 bridges forming sulfur centered distorted tetrahedral
+Au4S units with Au–S–Au angles between 90.2 and 125.5°. As shown in Fig.
+[5](/article/10.1007/s10876-012-0487-6#Fig5) two of these units are isolated
+(Au1–Au4, S9 and Au13–Au16, S12) the others are forming two corner-sharing bi-
+tetrahedra (Au5–Au11, S10, S11 and Au17–Au23, S13, S14). There are only a few
+examples described in literature where a sulfide ion is bridging four gold
+atoms. In most cases these Au4S units have a square pyramidal shape with the
+sulfide ion on top of an Au4 square
+[[35](/article/10.1007/s10876-012-0487-6#ref-CR35 "F. Canales, M. Concepción
+Gimeno, P. G. Jones, and A. Laguna \(1994\). Angew. Chem.
+
+                  106, 811–812.")–[39](/article/10.1007/s10876-012-0487-6#ref-CR39 "P. Teo, L. L. Koh, and T. S. A. Hor \(2007\). Chem. Commun.
+                  222, 5–2227.")]. Only in the compounds [S(Au2dppf){Au(C6F5)3}2] (dppf = 1,1′-bis(diphenylphosphino)ferrocene) and [S(AuPPh3)2{Au(C6F5)3}2] the sulfide ions are located in the center of a distorted Au4 tetrahedron which in these compounds consists of two gold(I) and two gold(III) ions [[40](/article/10.1007/s10876-012-0487-6#ref-CR40 "F. Canales, M. Concepción Gimeno, A. Laguna, and P. G. Jones \(1996\). Organometallics
+                  15, 3412–3415.")]. In case of Au/P clusters there is on example known with an Au7P2 unit where the atoms are arranged in two corner-sharing gold tetrahedra with one phosphorous atom in the center of each tetrahedron [[26](/article/10.1007/s10876-012-0487-6#ref-CR26 "P. V. D. Sluis and A. L. Spek \(1990\). Acta Cryst.
+                  A46, 194–201.")]. Also in **3** some Au**···** Au distances are relatively short down to 290.7 pm.
+
+**Fig.  5**
+
+[](/article/10.1007/s10876-012-0487-6/figures/5)
+
+Molecular structure of [Au24S6(PPh2)4(**L3**)8] (**3**); phenyl groups and
+hydrogen atoms are omitted for clarity; the shown polyhedral are built around
+the μ4-sulfur atoms (white labels) illustrating the Au4S units; gold atoms are
+labeled only by their numbers. Selected bond lengths/pm and angles/: Au1–S1
+227.8(8), Au1–S9 229.2(6), Au2–S2 230.5(6), Au2–S9 231.6(6), Au3–S9 232.2(7),
+Au4–S9 234.3(5), Au5–S10 233.4(6), Au6–S3 227.2(7), Au6–S10 227.9(6), Au7–S10
+234.1(5), Au8–S10 230.8(6), Au8–S11 231.0(7), Au9–S4 229.1(6), Au9–S11
+231.0(6), Au10–S11 233.5(7), Au11–S11 234.1(6), Au13–S5 229.8(6), Au13–S12
+231.3(5), Au14–S6 228.4(7), Au14–S12 230.2(6), Au15–S12 232.4(6), Au16–S12
+234.1(5), Au17–S13 233.6(6), Au18–S7 226.5(7), Au18–S13 228.8(6), Au19–S13
+234.4(4), Au20–S14 229.1(7), Au20–S13 230.0(6), Au21–S8 230.2(5), Au21–S14
+231.7(5), Au22–S14 235.0(7), Au23–S14 236.5(6), Au3–P7 226.7(8), Au4–P9
+228.6(5), Au5–P9 226.8(7), Au7–P6 228.1(5), Au10–P8 227.5(7), Au11–P10
+228.9(7), Au12–P5 233.2(8), Au12–P10 233.0(7), Au15–P3 228.0(7), Au16–P11
+227.3(5), Au17–P11 227.6(7), Au19–P2 228.4(5), Au22–P4 229.1(7), Au23–P12
+230.3(7), Au24–P1 232.2(9), Au24–P12 233.3(8), Au1**···** Au24 292.05(16),
+Au2**···** Au19 291.50(14), Au3**···** Au18 294.90(12), Au4**···** Au23
+302.13(15), Au6**···** Au15 298.70(11), Au7**···** Au14 291.69(13), Au9**···**
+Au22 291.17(15), Au9**···** Au17 299.26(15), Au10**···** Au21 293.79(14),
+Au12**···** Au13 290.73(12);. S1–Au1–S9 173.9(3), S2–Au2–S9 173.9(2),
+S3–Au6–S10 175.2(2), S10–Au8–S11 175.7(2), S4–Au9–S11 171.4(2), S5–Au13–S12
+176.4(2), S6–Au14–S12 175.1(2), S7–Au18–S13 176.7(2), S14–Au20–S13 174.76(19),
+S8–Au21–S14 172.4(2), P7–Au3–S9 168.2(2), P9–Au4–S9 167.4(3), P9–Au5–S10
+178.4(2), P6–Au7–S10 176.3(2), P8–Au10–S11 178.1(3), P10–Au11–S11 178.1(2),
+P3–Au15–S12 172.3(2), P11–Au16–S12 166.1(3), P11–Au17–S13 176.7(3),
+P2–Au19–S13 175.7(2), P4–Au22–S14 176.0(3), P12–Au23–S14 177.4(2), P10–Au12–P5
+174.6(2), P1–Au24–P12 170.6(3), Au1–S9–Au2 114.8(2), Au1–S9–Au3 108.4(2),
+Au2–S9–Au3 113.5(3), Au1–S9–Au4 114.9(3), Au2–S9–Au4 103.8(2), Au3–S9–Au4
+100.6(2), Au6–S10–Au8 104.9(3), Au6–S10–Au5 115.8(2), Au8–S10–Au5 105.9(2),
+Au6–S10–Au7 116.3(2), Au8–S10–Au7 92.9(2), Au5–S10–Au7 116.7(3), Au9–S11–Au8
+92.4(3), Au9–S11–Au10 112.6(2), Au8–S11–Au10 92.6(2), Au9–S11–Au11 121.5(3),
+Au8–S11–Au11 105.4(2), Au10–S11–Au11 121.4(3), Au14–S12–Au13 111.0(2),
+Au14–S12–Au15 114.3(2), Au13–S12–Au15 113.2(2), Au14–S12–Au16 99.2(2),
+Au13–S12–Au16 113.1(2), Au15–S12–Au16 105.1(2), Au18–S13–Au20 105.2(2),
+Au18–S13–Au17 115.1(2), Au20–S13–Au17 106.8(2), Au18–S13–Au19 118.3(2),
+Au20–S13–Au19 92.58(19), Au17–S13–Au19 114.8(2), Au20–S14–Au21 90.2(2),
+Au20–S14–Au22 90.5(2), Au21–S14–Au22 112.1(2), Au20–S14–Au23 104.5(2),
+Au21–S14–Au23 119.7(3), Au22–S14–Au23 125.5(2)
+
+[Full size image](/article/10.1007/s10876-012-0487-6/figures/5)
+
+The binuclear complex **4** (Fig.
+[6](/article/10.1007/s10876-012-0487-6#Fig6)) has an inversion center and
+crystallizes from THF in the triclinic space group _P_ \\( \bar{1} \\). In the
+unit cell there is one molecule of **4** together with two molecules of THF.
+
+**Fig.  6**
+
+[](/article/10.1007/s10876-012-0487-6/figures/6)
+
+Molecular structure of [(AuCl)2(**L2**)] (**4**). Selected bond lengths/pm and
+angles/: Au1–P1 230.9(1), Au1’–P2 230.4(1), Au1–Cl1 280.9(1),
+Au1···Cl1’320.5(1), P1–C14 187.8(3), P2–C15 187.4(3), C13–C14 151.1(5),
+C14–C15 153.3(5), C15–C16 151.0(5), O1–C13 118.5(5), O2–C16 139.4(5), O2–C13
+139.4(5), O3–C16 118.9(5), P1–Au1–P2’160.36(4), P1–Au1–Cl1 98.01(4),
+P2’–Au1–Cl1 101.58(4), Cl1–Au1–Cl1’102,40(3), C14–P1–Au1 107.0(1),
+C15–P2–Au1’108.3(1), C13–C14–P1 113.5(2), C15–C14–P1 111.8(2), C16–C15–P2
+111.6(2), C14–C15–P2 111.1(2), O2–C13–C14 109.2(3), C13–C14–C15 104.2(3),
+C14–C15–C16 103.9(3), O2–C16–C15 109.4(3), C16–O2–C13 111.0(3), O1–C13–O2
+120.7(3), O1–C13–C14 130.2(4), O3–C16–O2 120.3(3), O3–C16–C15 130.2(4)
+
+[Full size image](/article/10.1007/s10876-012-0487-6/figures/6)
+
+Also the formation of **4** bases on an initial conversion of the original
+ligand **L1**. The C=C double bond in **L1** is hydrogenated yielding _trans_
+-2,3-bis(diphenylphosphino)succinic anhydride (**L2**), probably as a result
+of small impurities of water in the reaction mixture. In contrast to the other
+compounds described in this paper the gold atoms in **4** are coordinated in a
+distorted trigonal manner. The individual bond angles differ significantly
+(Cl1-Au1-P2: 101.6°, Cl1-Au1-P1: 98.0°, P1-Au1-P2: 160.4°) but the sum is 360°
+with all four atoms within one plane. The bond length Au1-Cl1 is 280.9 pm; the
+distance Au1-Cl1′ (dotted in Fig.
+[5](/article/10.1007/s10876-012-0487-6#Fig5)) is significantly longer (320.5
+pm).
+
+Compound **5** crystallizes in the monoclinic space group _Cc_ with four
+cluster molecules per unit cell. Figure
+[7](/article/10.1007/s10876-012-0487-6#Fig7) shows the molecular structure of
+**5**.
+
+**Fig.  7**
+
+[](/article/10.1007/s10876-012-0487-6/figures/7)
+
+Molecular structure of [Au12Se4(**L4**)4(**L5**)2] (**5**); hydrogen atoms are
+omitted for clarity. Selected bond lengths/pm and angles/: Au1–Se1 241.5(3),
+Au1–Se2 240.9(4), Au2–Se3 243.4(3), Au3–Se3 243.7(3), Au4–Se3 242.5(3),
+Au4-Se4 243.4(3), Au5–Se4 244.4(3), Au6–Se4 242.7(2), Au7–Se5 239.9(3),
+Au7–Se6 240.2(3), Au8-Se7 244.6(3), Au9–Se7 243.7(3), Au10–Se7 245.2(3),
+Au10–Se8) 243.8(3), Au11–Se8 244.3(3), Au12–Se8 243.5(3), Au2–P2 226.3(7),
+Au3–P5 228.3(8), Au5–P7 227.4(7), Au6–P(1) 227.2(6), Au8–P3 225.0(6), Au9–P6
+225.2(7), Au11–P8 228.4(6), Au12–P4 225.1(6), Au1···Au2 283.0(2), Au1···Au4
+309.3(1), Au1···Au6 286.8(2), Au2···Au3 304.4(1), Au3···Au4 313.5(2),
+Au3···Au9 290.0(1), Au4···Au5 310.2(2), Au4···Au10 311.9(1), Au5···Au6
+301.5(2), Au5···Au11 290.6(1), Au7···Au8 285.3(2), Au7···Au10 307.5(1),
+Au7···Au12 283.5(1), Au8···Au9 296.5(2), Au9···Au10 308.1(1), Au10···Au11
+319.1(1), Au11···Au12 296.7(1), Se1–C2 182(3), Se2–C18 184(3), Se5–C35 190(3),
+Se6–C51 188(3), C1–C2 158(4), C2–C3 136(4), C3–C4 134(4), C17–C18 149(4),
+C18–C19 134(4), C19–C20 154(5),C34–C35 159(6), C35–C36 133(4), C36–C37 136(4),
+C50–C51 150(4), C51–C52 133(4), C52–C53 155(5), C78–C79 162(5), C79–C80
+153(5), C80–C81 153(5), C106–C107 156(4), C107–C108 135(4), C108–C109 132(5),
+O1–C1 123(4), O2–C1 132(4), O2–C4 149(4), O3–C4 119(4), O4–C17 115(4), O5–C17
+138(4), O5–C20 141(4), O6–C20 121(4), O7–C34 127(6), O8–C34 125(6), O8–C37
+146(5), O9–C37 118(4), O10–C50 130(4), O11–C50 128(4), O11–C53 134(4), O12–C53
+114(4), O13–C78 132(5), O14–C78 140(5), O15–C81 135(4), O16–C81 110(4),
+O17–C106 123(4), O18–C106 125(4), O19–C109 121(5), O20–C109 137(5)
+
+[Full size image](/article/10.1007/s10876-012-0487-6/figures/7)
+
+During the formation of **5** the initial ligand **L1** reacted in two ways:
+One fraction was hydrogenated and hydrolysed by traces of water forming
+bis(diphenylphosphino)succinic acid (**L5**)
+[[41](/article/10.1007/s10876-012-0487-6#ref-CR41 "A. Avey, D. M. Schut, T. J.
+R. Weakley, and D. R. Tyler \(1993\). Inorg. Chem.
+
+                  32, 233–236.")]; following another reaction pathway one PPh2 group of **L1** is substituted by a selenium atom yielding the 2-diphenylphosphino-3-selenolato-maleic anhydride anion (**L4**).
+
+The cluster core consisting of gold and selenium atoms nearly adopts C2
+symmetry, a structure refinement in the higher symmetric space groups _C_
+2/_c_ or _C_ 2/_m_ was not possible (see also footnote 2 beneath table
+[1](/article/10.1007/s10876-012-0487-6#Tab1)). It consists of two
+[Au6Se2(**L4**)2] units which are connected by two **L5** ligands. In each of
+these [Au6Se2(**L4**)2] units five gold atoms (Au2–Au6 and Au8–Au12) and two
+_μ_ 3-selenium atoms (Se3, Se4 and Se7, Se8) are arranged in [Au5Se2] groups—a
+motif also observed in several other gold selenium clusters.
+([[7](/article/10.1007/s10876-012-0487-6#ref-CR7 "D. Fenske, T. Langetepe, M.
+M. Kappes, O. Hampe, and P. Weis \(2000\). Angew. Chem.
+
+                  112, 1925–1928.")], [[10](/article/10.1007/s10876-012-0487-6#ref-CR10 "P. Sevillano, T. Langetepe, and D. Fenske \(2003\). Z. Anorg. Allg. Chem.
+                  629, 207–214.")], [[42](/article/10.1007/s10876-012-0487-6#ref-CR42 "P. Sevillano, O. Fuhr, and D. Fenske \(2007\). Z. Anorg. Allg. Chem.
+                  633, 1783–1786.")]) Each of the middle gold atoms (Au4 and Au10) binds to two selenium atoms (Se3, Se4 and Se7, Se8) which act as _μ_ 3-bridges between three gold atoms each. In contrast to the known clusters the outer gold atoms in **5** (Au2, Au6 and Au8, Au12) are not coordinated by phosphane ligands but by a **L4** -Au-**L4** unit. Within the [Au5Se2] units as well as between them there are several short Au–Au distances which could be considered as the result of aurophilic interactions (the dotted lines in Fig. [7](/article/10.1007/s10876-012-0487-6#Fig7) represent Au–Au distances ≤320 pm). Significant aurophilic interactions are observed between the gold atoms of the **L4** -Au-**L4** units and two gold atoms of each [Au5Se2] group (283.0–286.8 pm). Also the gold atoms binding to the **L5** ligands are very close to each other (290.0 and 290.6 pm). All gold atoms in **5** are nearly linearly coordinated with phosphorus and selenium atoms as ligands. It can be assumed that all gold atoms have oxidation state +I; each of the four _μ_ 3-selenium atoms are charged −2 whereas the **L4** ligands carry one negative charge. During the structure refinement no counter ions could be found. This arrives in the conclusion that the bis(diphenylphosphino)succinic acid (**L5**) must be present at its protonated form to end up with cluster **5** as an uncharged molecule.
+
+### IR Spectra
+
+In the IR spectra of **1** –**5** one can clearly see the ν(CO) stretching
+vibrations of the carbonyl groups of the different ligands (Table
+[2](/article/10.1007/s10876-012-0487-6#Tab2)). They are within the expected
+range. In the spectrum of **5** there are two peaks in the 1820 cm−1 region;
+the signal at 1749 cm−1 is relatively broud. This mirrors the existence of two
+different ligands (**L4** , **L5**) in this compound.
+
+**Table  2 Wavenumbers of the ν(CO) stretching vibrations in **1** –**5** **
+
+[Full size table](/article/10.1007/s10876-012-0487-6/tables/2)
+
+## Conclusion and Outlook
+
+In this paper we presented a serious of gold(I) cluster compounds yielded by
+reactions of the newly prepared chloro gold complex [(AuCl)2(**L1**)] (**1**)
+with E(SiMe3)2 (E = S, Se). During the cluster formation the initial ligand
+2,3-bis(diphenylphosphino)maleic anhydride (**L1**) undergoes various
+conversions: Hydrogenation of the C=C double bond, substitution of one PPh2
+group by chalcogenide or hydrolysis of the anhydride ring. In case of **2**
+and **3** the released PPh2 units are finally involved in the cluster
+formation. These first results show that the use of **L1** in the formation of
+clusters opens up a wide field for the generation of new compounds. At the
+moment we are investigating reactions of **1** with differently substituted
+chalcogene compounds of the type E(R)(SiMe3) (E = S, Se, R = org. group). Also
+the optical properties of the new species as well as the reaction mechanisms
+of the ligand conversion will be explored in future.
+
+## References
+
+  1. J. F. Corrigan, O. Fuhr, and D. Fenske (2009). _Adv. Mater._ **21** , 1867–1871.
+
+[Article](https://doi.org/10.1002%2Fadma.200802897)  [CAS](/articles/cas-
+redirect/1:CAS:528:DC%2BD1MXls12qtL8%3D)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Adv.%20Mater.&doi=10.1002%2Fadma.200802897&volume=21&pages=1867-1871&publication_year=2009&author=Corrigan%2CJF&author=Fuhr%2CO&author=Fenske%2CD)
+
+  2. S. Dehnen, A. Eichhöfer, and D. Fenske (2002). _Eur. J. Inorg. Chem._ **27** , 9–317.
+
+[ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Eur.%20J.%20Inorg.%20Chem.&volume=27&pages=9-317&publication_year=2002&author=Dehnen%2CS&author=Eichh%C3%B6fer%2CA&author=Fenske%2CD)
+
+  3. M. L. Fu, I. Isaac, D. Fenske, and O. Fuhr (2010). _Angew. Chem._ **122** , 7052–7056.
+
+[Article](https://doi.org/10.1002%2Fange.201001301)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.&doi=10.1002%2Fange.201001301&volume=122&pages=7052-7056&publication_year=2010&author=Fu%2CML&author=Isaac%2CI&author=Fenske%2CD&author=Fuhr%2CO)
+
+  4. M. L. Fu, I. Isaac, D. Fenske, and O. Fuhr (2010). _Angew. Chem. Int. Ed._ **49** , 6899–6903.
+
+[Article](https://doi.org/10.1002%2Fanie.201001301)  [CAS](/articles/cas-
+redirect/1:CAS:528:DC%2BC3cXhtFGnsbbJ)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.%20Int.%20Ed.&doi=10.1002%2Fanie.201001301&volume=49&pages=6899-6903&publication_year=2010&author=Fu%2CML&author=Isaac%2CI&author=Fenske%2CD&author=Fuhr%2CO)
+
+  5. C. E. Anson, A. Eichhöfer, I. Isaac, D. Fenske, O. Fuhr, P. Sevillano, C. Persau, D. Stahlke, and J. Zhang (2008). _Angew. Chem._ **120** , 1346–1351.
+
+[Article](https://doi.org/10.1002%2Fange.200704249)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.&doi=10.1002%2Fange.200704249&volume=120&pages=1346-1351&publication_year=2008&author=Anson%2CCE&author=Eichh%C3%B6fer%2CA&author=Isaac%2CI&author=Fenske%2CD&author=Fuhr%2CO&author=Sevillano%2CP&author=Persau%2CC&author=Stahlke%2CD&author=Zhang%2CJ)
+
+  6. C. E. Anson, A. Eichhöfer, I. Isaac, D. Fenske, O. Fuhr, P. Sevillano, C. Persau, D. Stahlke, and J. Zhang (2008). _Angew. Chem. Int. Ed._ **47** , 1326–1331.
+
+[Article](https://doi.org/10.1002%2Fanie.200704249)  [CAS](/articles/cas-
+redirect/1:CAS:528:DC%2BD1cXit1Cisbw%3D)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.%20Int.%20Ed.&doi=10.1002%2Fanie.200704249&volume=47&pages=1326-1331&publication_year=2008&author=Anson%2CCE&author=Eichh%C3%B6fer%2CA&author=Isaac%2CI&author=Fenske%2CD&author=Fuhr%2CO&author=Sevillano%2CP&author=Persau%2CC&author=Stahlke%2CD&author=Zhang%2CJ)
+
+  7. D. Fenske, T. Langetepe, M. M. Kappes, O. Hampe, and P. Weis (2000). _Angew. Chem._ **112** , 1925–1928.
+
+[Article](https://doi.org/10.1002%2F%28SICI%291521-3757%2820000515%29112%3A10%3C1925%3A%3AAID-
+ANGE1925%3E3.0.CO%3B2-Q)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.&doi=10.1002%2F%28SICI%291521-3757%2820000515%29112%3A10%3C1925%3A%3AAID-
+ANGE1925%3E3.0.CO%3B2-Q&volume=112&pages=1925-1928&publication_year=2000&author=Fenske%2CD&author=Langetepe%2CT&author=Kappes%2CMM&author=Hampe%2CO&author=Weis%2CP)
+
+  8. D. Fenske, T. Langetepe, M. M. Kappes, O. Hampe, and P. Weis (2000). _Angew. Chem. Int. Ed._ **39** , 1857–1860.
+
+[Article](https://doi.org/10.1002%2F%28SICI%291521-3773%2820000515%2939%3A10%3C1857%3A%3AAID-
+ANIE1857%3E3.0.CO%3B2-C)  [CAS](/articles/cas-
+redirect/1:CAS:528:DC%2BD3cXjsF2itbs%3D)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.%20Int.%20Ed.&doi=10.1002%2F%28SICI%291521-3773%2820000515%2939%3A10%3C1857%3A%3AAID-
+ANIE1857%3E3.0.CO%3B2-C&volume=39&pages=1857-1860&publication_year=2000&author=Fenske%2CD&author=Langetepe%2CT&author=Kappes%2CMM&author=Hampe%2CO&author=Weis%2CP)
+
+  9. S. Lebedkin, T. Langetepe, P. Sevillano, D. Fenske, and M. M. Kappes (2002). _J. Phys. Chem. B_ **106** , 9019–9026.
+
+[Article](https://doi.org/10.1021%2Fjp021100p)  [CAS](/articles/cas-
+redirect/1:CAS:528:DC%2BD38XlvVOrtbw%3D)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=J.%20Phys.%20Chem.%20B&doi=10.1021%2Fjp021100p&volume=106&pages=9019-9026&publication_year=2002&author=Lebedkin%2CS&author=Langetepe%2CT&author=Sevillano%2CP&author=Fenske%2CD&author=Kappes%2CMM)
+
+  10. P. Sevillano, T. Langetepe, and D. Fenske (2003). _Z. Anorg. Allg. Chem._ **629** , 207–214.
+
+[Article](https://doi.org/10.1002%2Fzaac.200390033)  [CAS](/articles/cas-
+redirect/1:CAS:528:DC%2BD3sXhsVartrc%3D)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Z.%20Anorg.%20Allg.%20Chem.&doi=10.1002%2Fzaac.200390033&volume=629&pages=207-214&publication_year=2003&author=Sevillano%2CP&author=Langetepe%2CT&author=Fenske%2CD)
+
+  11. D. Fenske and H. J. Becher (1974). _Chem. Ber._ **107** , 117–122.
+
+[Article](https://doi.org/10.1002%2Fcber.19741070114)  [CAS](/articles/cas-
+redirect/1:CAS:528:DyaE2cXhtFGmtLw%3D)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Chem.%20Ber.&doi=10.1002%2Fcber.19741070114&volume=107&pages=117-122&publication_year=1974&author=Fenske%2CD&author=Becher%2CHJ)
+
+  12. D. Fenske and H. J. Becher (1975). _Chem. Ber._ **108** , 2115–2123.
+
+[Article](https://doi.org/10.1002%2Fcber.19751080629)  [CAS](/articles/cas-
+redirect/1:CAS:528:DyaE2MXkvFOnur0%3D)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Chem.%20Ber.&doi=10.1002%2Fcber.19751080629&volume=108&pages=2115-2123&publication_year=1975&author=Fenske%2CD&author=Becher%2CHJ)
+
+  13. D. Fenske (1976). _Angew. Chem._ **88** , 415–416.
+
+[Article](https://doi.org/10.1002%2Fange.19760881212)  [CAS](/articles/cas-
+redirect/1:CAS:528:DyaE28XkvVKnur8%3D)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.&doi=10.1002%2Fange.19760881212&volume=88&pages=415-416&publication_year=1976&author=Fenske%2CD)
+
+  14. D. Fenske (1976). _Angew. Chem. Int. Ed._ **15** , 381–382.
+
+[ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.%20Int.%20Ed.&volume=15&pages=381-382&publication_year=1976&author=Fenske%2CD)
+
+  15. D. Fenske (1979). _Chem. Ber._ **112** , 363–375.
+
+[Article](https://doi.org/10.1002%2Fcber.19791120132)  [CAS](/articles/cas-
+redirect/1:CAS:528:DyaE1MXhtlOqu7g%3D)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Chem.%20Ber.&doi=10.1002%2Fcber.19791120132&volume=112&pages=363-375&publication_year=1979&author=Fenske%2CD)
+
+  16. W. Bensmann and D. Fenske (1979). _Angew. Chem._ **81** , 754–755.
+
+[Article](https://doi.org/10.1002%2Fange.19790910927)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.&doi=10.1002%2Fange.19790910927&volume=81&pages=754-755&publication_year=1979&author=Bensmann%2CW&author=Fenske%2CD)
+
+  17. W. Bensmann and D. Fenske (1979). _Angew. Chem. Int. Ed._ **18** , 677–679.
+
+[ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.%20Int.%20Ed.&volume=18&pages=677-679&publication_year=1979&author=Bensmann%2CW&author=Fenske%2CD)
+
+  18. D. Fenske and P. Stock (1982). _Angew. Chem._ **94** , 393–394.
+
+[Article](https://doi.org/10.1002%2Fange.19820940533)  [CAS](/articles/cas-
+redirect/1:CAS:528:DyaL38Xkt1equr0%3D)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.&doi=10.1002%2Fange.19820940533&volume=94&pages=393-394&publication_year=1982&author=Fenske%2CD&author=Stock%2CP)
+
+  19. D. Fenske and P. Stock (1982). _Angew. Chem. Int. Ed._ **21** , 356–357.
+
+[ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.%20Int.%20Ed.&volume=21&pages=356-357&publication_year=1982&author=Fenske%2CD&author=Stock%2CP)
+
+  20. D. Fenske and A. Christidis (1981). _Angew. Chem._ **93** , 113–115.
+
+[Article](https://doi.org/10.1002%2Fange.19810930129)  [CAS](/articles/cas-
+redirect/1:CAS:528:DyaL3MXhsFOjtrg%3D)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.&doi=10.1002%2Fange.19810930129&volume=93&pages=113-115&publication_year=1981&author=Fenske%2CD&author=Christidis%2CA)
+
+  21. D. Fenske and A. Christidis (1981). _Angew. Chem. Int. Ed._ **20** , 129–131.
+
+[Article](https://doi.org/10.1002%2Fanie.198101291)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.%20Int.%20Ed.&doi=10.1002%2Fanie.198101291&volume=20&pages=129-131&publication_year=1981&author=Fenske%2CD&author=Christidis%2CA)
+
+  22. J. A. van Doorn, J. H. G. Frijns, and N. Meijboom (1990). _J. Chem. Soc. Perkin Trans._ **2** , 479–485.
+
+[ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=J.%20Chem.%20Soc.%20Perkin%20Trans.&volume=2&pages=479-485&publication_year=1990&author=Doorn%2CJA&author=Frijns%2CJHG&author=Meijboom%2CN)
+
+  23. H. D. Kaesz (ed), _Inorganic Syntheses, vol. 26_ (Wiley, Hoboken, 1989), p 86.
+
+  24. G. M. Sheldrick (2008). _Acta Crystallogr. Sect. A_ **64** , 112–122.
+
+[Article](https://doi.org/10.1107%2FS0108767307043930)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Acta%20Crystallogr.%20Sect.%20A&doi=10.1107%2FS0108767307043930&volume=64&pages=112-122&publication_year=2008&author=Sheldrick%2CGM)
+
+  25. A. L. Spek (2003). _J. Appl. Cryst._ **36** , 7–13.
+
+[Article](https://doi.org/10.1107%2FS0021889802022112)  [CAS](/articles/cas-
+redirect/1:CAS:528:DC%2BD3sXltlChtw%3D%3D)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=J.%20Appl.%20Cryst.&doi=10.1107%2FS0021889802022112&volume=36&pages=7-13&publication_year=2003&author=Spek%2CAL)
+
+  26. P. V. D. Sluis and A. L. Spek (1990). _Acta Cryst._ **A46** , 194–201.
+
+[ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Acta%20Cryst.&volume=A46&pages=194-201&publication_year=1990&author=Sluis%2CPVD&author=Spek%2CAL)
+
+  27. P. Sevillano, O. Fuhr, E. Matern, and D. Fenske (2006). _Z. Anorg. Allg. Chem._ **632** , 735–738.
+
+[Article](https://doi.org/10.1002%2Fzaac.200500416)  [CAS](/articles/cas-
+redirect/1:CAS:528:DC%2BD28XktVSms70%3D)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Z.%20Anorg.%20Allg.%20Chem.&doi=10.1002%2Fzaac.200500416&volume=632&pages=735-738&publication_year=2006&author=Sevillano%2CP&author=Fuhr%2CO&author=Matern%2CE&author=Fenske%2CD)
+
+  28. P. Sevillano, O. Fuhr, O. Hampe, S. Lebedkin, E. Matern, D. Fenske, and M. M. Kappes (2007). _Inorg. Chem._ **46** , 7294–7298.
+
+[Article](https://doi.org/10.1021%2Fic062107e)  [CAS](/articles/cas-
+redirect/1:CAS:528:DC%2BD2sXotlCrt7s%3D)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Inorg.%20Chem.&doi=10.1021%2Fic062107e&volume=46&pages=7294-7298&publication_year=2007&author=Sevillano%2CP&author=Fuhr%2CO&author=Hampe%2CO&author=Lebedkin%2CS&author=Matern%2CE&author=Fenske%2CD&author=Kappes%2CMM)
+
+  29. V. W.-W. Yam, E. C.-C. Cheng, and K.-K. Cheung (1999). _Angew. Chem._ **111** , 193–195.
+
+[Article](https://doi.org/10.1002%2F%28SICI%291521-3757%2819990115%29111%3A1%2F2%3C193%3A%3AAID-
+ANGE193%3E3.0.CO%3B2-J)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.&doi=10.1002%2F%28SICI%291521-3757%2819990115%29111%3A1%2F2%3C193%3A%3AAID-
+ANGE193%3E3.0.CO%3B2-J&volume=111&pages=193-195&publication_year=1999&author=Yam%2CVW-W&author=Cheng%2CEC-C&author=Cheung%2CK-K)
+
+  30. V. W.-W. Yam, E. C.-C. Cheng, and K.-K. Cheung (1999). _Angew. Chem. Int. Ed._ **38** , 197–199.
+
+[Article](https://doi.org/10.1002%2F%28SICI%291521-3773%2819990115%2938%3A1%2F2%3C197%3A%3AAID-
+ANIE197%3E3.0.CO%3B2-Z)  [CAS](/articles/cas-
+redirect/1:CAS:528:DyaK1MXpsVejug%3D%3D)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.%20Int.%20Ed.&doi=10.1002%2F%28SICI%291521-3773%2819990115%2938%3A1%2F2%3C197%3A%3AAID-
+ANIE197%3E3.0.CO%3B2-Z&volume=38&pages=197-199&publication_year=1999&author=Yam%2CVW-W&author=Cheng%2CEC-C&author=Cheung%2CK-K)
+
+  31. V. W.-W. Yam, E. C.-C. Cheng, and Z.-Y. Zhou (2000). _Angew. Chem._ **112** , 1749–1751.
+
+[Article](https://doi.org/10.1002%2F%28SICI%291521-3757%2820000502%29112%3A9%3C1749%3A%3AAID-
+ANGE1749%3E3.0.CO%3B2-Q)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.&doi=10.1002%2F%28SICI%291521-3757%2820000502%29112%3A9%3C1749%3A%3AAID-
+ANGE1749%3E3.0.CO%3B2-Q&volume=112&pages=1749-1751&publication_year=2000&author=Yam%2CVW-W&author=Cheng%2CEC-C&author=Zhou%2CZ-Y)
+
+  32. V. W.-W. Yam, E. C.-C. Cheng, and Z.-Y. Zhou (2000). _Angew. Chem. Int. Ed._ **39** , 1683–1685.
+
+[Article](https://doi.org/10.1002%2F%28SICI%291521-3773%2820000502%2939%3A9%3C1683%3A%3AAID-
+ANIE1683%3E3.0.CO%3B2-1)  [CAS](/articles/cas-
+redirect/1:CAS:528:DC%2BD3cXjtlOhsrc%3D)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.%20Int.%20Ed.&doi=10.1002%2F%28SICI%291521-3773%2820000502%2939%3A9%3C1683%3A%3AAID-
+ANIE1683%3E3.0.CO%3B2-1&volume=39&pages=1683-1685&publication_year=2000&author=Yam%2CVW-W&author=Cheng%2CEC-C&author=Zhou%2CZ-Y)
+
+  33. D. Wiedemann and P. W. Roesky (2009). _Z. Anorg. Allg. Chem._ **635** , 125–129.
+
+[Article](https://doi.org/10.1002%2Fzaac.200800368)  [CAS](/articles/cas-
+redirect/1:CAS:528:DC%2BD1MXhtVCjtb4%3D)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Z.%20Anorg.%20Allg.%20Chem.&doi=10.1002%2Fzaac.200800368&volume=635&pages=125-129&publication_year=2009&author=Wiedemann%2CD&author=Roesky%2CPW)
+
+  34. H. Schmidbaur (2000). _Gold Bulletin_ **33** , 3–10.
+
+[Article](https://link.springer.com/doi/10.1007/BF03215477)
+[CAS](/articles/cas-redirect/1:CAS:528:DC%2BD3MXmsFKgtw%3D%3D)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Gold%20Bulletin&doi=10.1007%2FBF03215477&volume=33&pages=3-10&publication_year=2000&author=Schmidbaur%2CH)
+
+  35. F. Canales, M. Concepción Gimeno, P. G. Jones, and A. Laguna (1994). _Angew. Chem._ **106** , 811–812.
+
+[Article](https://doi.org/10.1002%2Fange.19941060723)  [CAS](/articles/cas-
+redirect/1:CAS:528:DyaK2cXkslagtrk%3D)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.&doi=10.1002%2Fange.19941060723&volume=106&pages=811-812&publication_year=1994&author=Canales%2CF&author=Concepci%C3%B3n%20Gimeno%2CM&author=Jones%2CPG&author=Laguna%2CA)
+
+  36. F. Canales, M. Concepción Gimeno, P. G. Jones, and A. Laguna (1994). _Angew. Chem. Int. Ed._ **33** , 769–770.
+
+[Article](https://doi.org/10.1002%2Fanie.199407691)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.%20Int.%20Ed.&doi=10.1002%2Fanie.199407691&volume=33&pages=769-770&publication_year=1994&author=Canales%2CF&author=Concepci%C3%B3n%20Gimeno%2CM&author=Jones%2CPG&author=Laguna%2CA)
+
+  37. F. Canales, M. Concepción Gimeno, A. Laguna, and M. D. Villacampa (1996). _Inorg. Chim. Acta_ **244** , 95–103.
+
+[Article](https://doi.org/10.1016%2F0020-1693%2895%2904759-X)
+[CAS](/articles/cas-redirect/1:CAS:528:DyaK28XhvVKluro%3D)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Inorg.%20Chim.%20Acta&doi=10.1016%2F0020-1693%2895%2904759-X&volume=244&pages=95-103&publication_year=1996&author=Canales%2CF&author=Concepci%C3%B3n%20Gimeno%2CM&author=Laguna%2CA&author=Villacampa%2CMD)
+
+  38. F. Canales, M. Concepción Gimeno, A. Laguna, and P. G. Jones (1996). _J. Am. Chem. Soc._ **118** , 4839–4845.
+
+[Article](https://doi.org/10.1021%2Fja9517678)  [CAS](/articles/cas-
+redirect/1:CAS:528:DyaK28Xis1ynt7g%3D)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=J.%20Am.%20Chem.%20Soc.&doi=10.1021%2Fja9517678&volume=118&pages=4839-4845&publication_year=1996&author=Canales%2CF&author=Concepci%C3%B3n%20Gimeno%2CM&author=Laguna%2CA&author=Jones%2CPG)
+
+  39. P. Teo, L. L. Koh, and T. S. A. Hor (2007). _Chem. Commun._ **222** , 5–2227.
+
+[ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Chem.%20Commun.&volume=222&pages=5-2227&publication_year=2007&author=Teo%2CP&author=Koh%2CLL&author=Hor%2CTSA)
+
+  40. F. Canales, M. Concepción Gimeno, A. Laguna, and P. G. Jones (1996). _Organometallics_ **15** , 3412–3415.
+
+[Article](https://doi.org/10.1021%2Fom960153o)  [CAS](/articles/cas-
+redirect/1:CAS:528:DyaK28XjvFWksrg%3D)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Organometallics&doi=10.1021%2Fom960153o&volume=15&pages=3412-3415&publication_year=1996&author=Canales%2CF&author=Concepci%C3%B3n%20Gimeno%2CM&author=Laguna%2CA&author=Jones%2CPG)
+
+  41. A. Avey, D. M. Schut, T. J. R. Weakley, and D. R. Tyler (1993). _Inorg. Chem._ **32** , 233–236.
+
+[Article](https://doi.org/10.1021%2Fic00054a021)  [CAS](/articles/cas-
+redirect/1:CAS:528:DyaK3sXotFSmtA%3D%3D)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Inorg.%20Chem.&doi=10.1021%2Fic00054a021&volume=32&pages=233-236&publication_year=1993&author=Avey%2CA&author=Schut%2CDM&author=Weakley%2CTJR&author=Tyler%2CDR)
+
+  42. P. Sevillano, O. Fuhr, and D. Fenske (2007). _Z. Anorg. Allg. Chem._ **633** , 1783–1786.
+
+[Article](https://doi.org/10.1002%2Fzaac.200700146)  [CAS](/articles/cas-
+redirect/1:CAS:528:DC%2BD2sXhtVyjtLnF)  [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Z.%20Anorg.%20Allg.%20Chem.&doi=10.1002%2Fzaac.200700146&volume=633&pages=1783-1786&publication_year=2007&author=Sevillano%2CP&author=Fuhr%2CO&author=Fenske%2CD)
+
+[Download references](https://citation-
+needed.springer.com/v2/references/10.1007/s10876-012-0487-6?format=refman&flavour=references)
+
+## Acknowledgments
+
+The authors are thankful to the DFG-Center for Functional Nanostructures (CFN)
+for financial support.
+
+## Author information
+
+### Authors and Affiliations
+
+  1. Institute of Inorganic Chemistry, Karlsruhe Institute of Technology (KIT), Engesser Str. 15, 76131, Karlsruhe, Germany
+
+Wen Yu & Dieter Fenske
+
+  2. Center for Functional Nanostructures (CFN), Karlsruhe Institute of Technology (KIT), Wolfgang-Gaede-Str. 1a, 76131, Karlsruhe, Germany
+
+Wen Yu, Olaf Fuhr & Dieter Fenske
+
+  3. Institute of Nanotechnology (INT), Karlsruhe Institute of Technology (KIT), Hermann-von-Helmholtz-Platz 1, Blgd. 640, 76344, Eggenstein-Leopoldshafen, Germany
+
+Olaf Fuhr & Dieter Fenske
+
+Authors
+
+  1. Wen Yu
+
+[View author publications](/search?dc.creator=Wen%20Yu)
+
+You can also search for this author in
+[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Wen%20Yu)
+[Google
+Scholar](http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Wen%20Yu%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+
+  2. Olaf Fuhr
+
+[View author publications](/search?dc.creator=Olaf%20Fuhr)
+
+You can also search for this author in
+[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Olaf%20Fuhr)
+[Google
+Scholar](http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Olaf%20Fuhr%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+
+  3. Dieter Fenske
+
+[View author publications](/search?dc.creator=Dieter%20Fenske)
+
+You can also search for this author in
+[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Dieter%20Fenske)
+[Google
+Scholar](http://scholar.google.co.uk/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Dieter%20Fenske%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en)
+
+### Corresponding authors
+
+Correspondence to [Olaf Fuhr](mailto:olaf.fuhr@kit.edu) or [Dieter
+Fenske](mailto:dieter.fenske@kit.edu).
+
+## Additional information
+
+Dedicated to Prof. Rick Adams on the occasion of his 65th birthday.
+
+## Rights and permissions
+
+[Reprints and
+permissions](https://s100.copyright.com/AppDispatchServlet?title=Derivatives%20of%20Bis%28diphenylphosphino%29maleic%20Anhydride%20as%20Ligands%20in%20Polynuclear%20Gold%28I%29%20Complexes&author=Wen%20Yu%20et%20al&contentID=10.1007%2Fs10876-012-0487-6&copyright=Springer%20Science%2BBusiness%20Media%2C%20LLC&publication=1040-7278&publicationDate=2012-05-15&publisherName=SpringerNature&orderBeanReset=true)
+
+## About this article
+
+### Cite this article
+
+Yu, W., Fuhr, O. & Fenske, D. Derivatives of Bis(diphenylphosphino)maleic
+Anhydride as Ligands in Polynuclear Gold(I) Complexes. _J Clust Sci_ **23** ,
+753–766 (2012). https://doi.org/10.1007/s10876-012-0487-6
+
+[Download citation](https://citation-
+needed.springer.com/v2/references/10.1007/s10876-012-0487-6?format=refman&flavour=citation)
+
+  * Received: 28 February 2012
+
+  * Published: 15 May 2012
+
+  * Issue Date: September 2012
+
+  * DOI: https://doi.org/10.1007/s10876-012-0487-6
+
+### Share this article
+
+Anyone you share the following link with will be able to read this content:
+
+Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Copy to clipboard
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+### Keywords
+
+  * [Gold](/search?query=Gold&facet-discipline="Chemistry")
+  * [Sulfur](/search?query=Sulfur&facet-discipline="Chemistry")
+  * [Selenium](/search?query=Selenium&facet-discipline="Chemistry")
+  * [Maleic anhydride](/search?query=Maleic%20anhydride&facet-discipline="Chemistry")
+  * [Crystal structure](/search?query=Crystal%20structure&facet-discipline="Chemistry")
+
+[ Use our pre-submission checklist ](https://beta.springernature.com/pre-
+submission?journalId=10876)
+
+Avoid common mistakes on your manuscript.
+
+  * Sections
+  * Figures
+  * References
+
+  * Abstract
+  * Introduction
+  * Experimental Section
+  * Results and Discussion
+  * Conclusion and Outlook
+  * References
+  * Acknowledgments
+  * Author information
+  * Additional information
+  * Rights and permissions
+  * About this article
+
+Advertisement
+
+  * **Fig.  1**
+
+View in article[Full size
+image](https://link.springer.com/article/10.1007/s10876-012-0487-6/figures/1)
+
+  * **Fig.  2**
+
+View in article[Full size
+image](https://link.springer.com/article/10.1007/s10876-012-0487-6/figures/2)
+
+  * **Scheme  1**
+
+View in article[Full size
+image](https://link.springer.com/article/10.1007/s10876-012-0487-6/schemes/1)
+
+  * **Fig.  3**
+
+View in article[Full size
+image](https://link.springer.com/article/10.1007/s10876-012-0487-6/figures/3)
+
+  * **Fig.  4**
+
+View in article[Full size
+image](https://link.springer.com/article/10.1007/s10876-012-0487-6/figures/4)
+
+  * **Fig.  5**
+
+View in article[Full size
+image](https://link.springer.com/article/10.1007/s10876-012-0487-6/figures/5)
+
+  * **Fig.  6**
+
+View in article[Full size
+image](https://link.springer.com/article/10.1007/s10876-012-0487-6/figures/6)
+
+  * **Fig.  7**
+
+View in article[Full size
+image](https://link.springer.com/article/10.1007/s10876-012-0487-6/figures/7)
+
+  1. J. F. Corrigan, O. Fuhr, and D. Fenske (2009). _Adv. Mater._ **21** , 1867–1871.
+
+[Article](https://doi.org/10.1002%2Fadma.200802897)
+[CAS](https://link.springer.com/articles/cas-
+redirect/1:CAS:528:DC%2BD1MXls12qtL8%3D) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Adv.%20Mater.&doi=10.1002%2Fadma.200802897&volume=21&pages=1867-1871&publication_year=2009&author=Corrigan%2CJF&author=Fuhr%2CO&author=Fenske%2CD)
+
+  2. S. Dehnen, A. Eichhöfer, and D. Fenske (2002). _Eur. J. Inorg. Chem._ **27** , 9–317.
+
+[ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Eur.%20J.%20Inorg.%20Chem.&volume=27&pages=9-317&publication_year=2002&author=Dehnen%2CS&author=Eichh%C3%B6fer%2CA&author=Fenske%2CD)
+
+  3. M. L. Fu, I. Isaac, D. Fenske, and O. Fuhr (2010). _Angew. Chem._ **122** , 7052–7056.
+
+[Article](https://doi.org/10.1002%2Fange.201001301) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.&doi=10.1002%2Fange.201001301&volume=122&pages=7052-7056&publication_year=2010&author=Fu%2CML&author=Isaac%2CI&author=Fenske%2CD&author=Fuhr%2CO)
+
+  4. M. L. Fu, I. Isaac, D. Fenske, and O. Fuhr (2010). _Angew. Chem. Int. Ed._ **49** , 6899–6903.
+
+[Article](https://doi.org/10.1002%2Fanie.201001301)
+[CAS](https://link.springer.com/articles/cas-
+redirect/1:CAS:528:DC%2BC3cXhtFGnsbbJ) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.%20Int.%20Ed.&doi=10.1002%2Fanie.201001301&volume=49&pages=6899-6903&publication_year=2010&author=Fu%2CML&author=Isaac%2CI&author=Fenske%2CD&author=Fuhr%2CO)
+
+  5. C. E. Anson, A. Eichhöfer, I. Isaac, D. Fenske, O. Fuhr, P. Sevillano, C. Persau, D. Stahlke, and J. Zhang (2008). _Angew. Chem._ **120** , 1346–1351.
+
+[Article](https://doi.org/10.1002%2Fange.200704249) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.&doi=10.1002%2Fange.200704249&volume=120&pages=1346-1351&publication_year=2008&author=Anson%2CCE&author=Eichh%C3%B6fer%2CA&author=Isaac%2CI&author=Fenske%2CD&author=Fuhr%2CO&author=Sevillano%2CP&author=Persau%2CC&author=Stahlke%2CD&author=Zhang%2CJ)
+
+  6. C. E. Anson, A. Eichhöfer, I. Isaac, D. Fenske, O. Fuhr, P. Sevillano, C. Persau, D. Stahlke, and J. Zhang (2008). _Angew. Chem. Int. Ed._ **47** , 1326–1331.
+
+[Article](https://doi.org/10.1002%2Fanie.200704249)
+[CAS](https://link.springer.com/articles/cas-
+redirect/1:CAS:528:DC%2BD1cXit1Cisbw%3D) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.%20Int.%20Ed.&doi=10.1002%2Fanie.200704249&volume=47&pages=1326-1331&publication_year=2008&author=Anson%2CCE&author=Eichh%C3%B6fer%2CA&author=Isaac%2CI&author=Fenske%2CD&author=Fuhr%2CO&author=Sevillano%2CP&author=Persau%2CC&author=Stahlke%2CD&author=Zhang%2CJ)
+
+  7. D. Fenske, T. Langetepe, M. M. Kappes, O. Hampe, and P. Weis (2000). _Angew. Chem._ **112** , 1925–1928.
+
+[Article](https://doi.org/10.1002%2F%28SICI%291521-3757%2820000515%29112%3A10%3C1925%3A%3AAID-
+ANGE1925%3E3.0.CO%3B2-Q) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.&doi=10.1002%2F%28SICI%291521-3757%2820000515%29112%3A10%3C1925%3A%3AAID-
+ANGE1925%3E3.0.CO%3B2-Q&volume=112&pages=1925-1928&publication_year=2000&author=Fenske%2CD&author=Langetepe%2CT&author=Kappes%2CMM&author=Hampe%2CO&author=Weis%2CP)
+
+  8. D. Fenske, T. Langetepe, M. M. Kappes, O. Hampe, and P. Weis (2000). _Angew. Chem. Int. Ed._ **39** , 1857–1860.
+
+[Article](https://doi.org/10.1002%2F%28SICI%291521-3773%2820000515%2939%3A10%3C1857%3A%3AAID-
+ANIE1857%3E3.0.CO%3B2-C) [CAS](https://link.springer.com/articles/cas-
+redirect/1:CAS:528:DC%2BD3cXjsF2itbs%3D) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.%20Int.%20Ed.&doi=10.1002%2F%28SICI%291521-3773%2820000515%2939%3A10%3C1857%3A%3AAID-
+ANIE1857%3E3.0.CO%3B2-C&volume=39&pages=1857-1860&publication_year=2000&author=Fenske%2CD&author=Langetepe%2CT&author=Kappes%2CMM&author=Hampe%2CO&author=Weis%2CP)
+
+  9. S. Lebedkin, T. Langetepe, P. Sevillano, D. Fenske, and M. M. Kappes (2002). _J. Phys. Chem. B_ **106** , 9019–9026.
+
+[Article](https://doi.org/10.1021%2Fjp021100p)
+[CAS](https://link.springer.com/articles/cas-
+redirect/1:CAS:528:DC%2BD38XlvVOrtbw%3D) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=J.%20Phys.%20Chem.%20B&doi=10.1021%2Fjp021100p&volume=106&pages=9019-9026&publication_year=2002&author=Lebedkin%2CS&author=Langetepe%2CT&author=Sevillano%2CP&author=Fenske%2CD&author=Kappes%2CMM)
+
+  10. P. Sevillano, T. Langetepe, and D. Fenske (2003). _Z. Anorg. Allg. Chem._ **629** , 207–214.
+
+[Article](https://doi.org/10.1002%2Fzaac.200390033)
+[CAS](https://link.springer.com/articles/cas-
+redirect/1:CAS:528:DC%2BD3sXhsVartrc%3D) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Z.%20Anorg.%20Allg.%20Chem.&doi=10.1002%2Fzaac.200390033&volume=629&pages=207-214&publication_year=2003&author=Sevillano%2CP&author=Langetepe%2CT&author=Fenske%2CD)
+
+  11. D. Fenske and H. J. Becher (1974). _Chem. Ber._ **107** , 117–122.
+
+[Article](https://doi.org/10.1002%2Fcber.19741070114)
+[CAS](https://link.springer.com/articles/cas-
+redirect/1:CAS:528:DyaE2cXhtFGmtLw%3D) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Chem.%20Ber.&doi=10.1002%2Fcber.19741070114&volume=107&pages=117-122&publication_year=1974&author=Fenske%2CD&author=Becher%2CHJ)
+
+  12. D. Fenske and H. J. Becher (1975). _Chem. Ber._ **108** , 2115–2123.
+
+[Article](https://doi.org/10.1002%2Fcber.19751080629)
+[CAS](https://link.springer.com/articles/cas-
+redirect/1:CAS:528:DyaE2MXkvFOnur0%3D) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Chem.%20Ber.&doi=10.1002%2Fcber.19751080629&volume=108&pages=2115-2123&publication_year=1975&author=Fenske%2CD&author=Becher%2CHJ)
+
+  13. D. Fenske (1976). _Angew. Chem._ **88** , 415–416.
+
+[Article](https://doi.org/10.1002%2Fange.19760881212)
+[CAS](https://link.springer.com/articles/cas-
+redirect/1:CAS:528:DyaE28XkvVKnur8%3D) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.&doi=10.1002%2Fange.19760881212&volume=88&pages=415-416&publication_year=1976&author=Fenske%2CD)
+
+  14. D. Fenske (1976). _Angew. Chem. Int. Ed._ **15** , 381–382.
+
+[ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.%20Int.%20Ed.&volume=15&pages=381-382&publication_year=1976&author=Fenske%2CD)
+
+  15. D. Fenske (1979). _Chem. Ber._ **112** , 363–375.
+
+[Article](https://doi.org/10.1002%2Fcber.19791120132)
+[CAS](https://link.springer.com/articles/cas-
+redirect/1:CAS:528:DyaE1MXhtlOqu7g%3D) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Chem.%20Ber.&doi=10.1002%2Fcber.19791120132&volume=112&pages=363-375&publication_year=1979&author=Fenske%2CD)
+
+  16. W. Bensmann and D. Fenske (1979). _Angew. Chem._ **81** , 754–755.
+
+[Article](https://doi.org/10.1002%2Fange.19790910927) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.&doi=10.1002%2Fange.19790910927&volume=81&pages=754-755&publication_year=1979&author=Bensmann%2CW&author=Fenske%2CD)
+
+  17. W. Bensmann and D. Fenske (1979). _Angew. Chem. Int. Ed._ **18** , 677–679.
+
+[ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.%20Int.%20Ed.&volume=18&pages=677-679&publication_year=1979&author=Bensmann%2CW&author=Fenske%2CD)
+
+  18. D. Fenske and P. Stock (1982). _Angew. Chem._ **94** , 393–394.
+
+[Article](https://doi.org/10.1002%2Fange.19820940533)
+[CAS](https://link.springer.com/articles/cas-
+redirect/1:CAS:528:DyaL38Xkt1equr0%3D) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.&doi=10.1002%2Fange.19820940533&volume=94&pages=393-394&publication_year=1982&author=Fenske%2CD&author=Stock%2CP)
+
+  19. D. Fenske and P. Stock (1982). _Angew. Chem. Int. Ed._ **21** , 356–357.
+
+[ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.%20Int.%20Ed.&volume=21&pages=356-357&publication_year=1982&author=Fenske%2CD&author=Stock%2CP)
+
+  20. D. Fenske and A. Christidis (1981). _Angew. Chem._ **93** , 113–115.
+
+[Article](https://doi.org/10.1002%2Fange.19810930129)
+[CAS](https://link.springer.com/articles/cas-
+redirect/1:CAS:528:DyaL3MXhsFOjtrg%3D) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.&doi=10.1002%2Fange.19810930129&volume=93&pages=113-115&publication_year=1981&author=Fenske%2CD&author=Christidis%2CA)
+
+  21. D. Fenske and A. Christidis (1981). _Angew. Chem. Int. Ed._ **20** , 129–131.
+
+[Article](https://doi.org/10.1002%2Fanie.198101291) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.%20Int.%20Ed.&doi=10.1002%2Fanie.198101291&volume=20&pages=129-131&publication_year=1981&author=Fenske%2CD&author=Christidis%2CA)
+
+  22. J. A. van Doorn, J. H. G. Frijns, and N. Meijboom (1990). _J. Chem. Soc. Perkin Trans._ **2** , 479–485.
+
+[ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=J.%20Chem.%20Soc.%20Perkin%20Trans.&volume=2&pages=479-485&publication_year=1990&author=Doorn%2CJA&author=Frijns%2CJHG&author=Meijboom%2CN)
+
+  23. H. D. Kaesz (ed), _Inorganic Syntheses, vol. 26_ (Wiley, Hoboken, 1989), p 86.
+
+  24. G. M. Sheldrick (2008). _Acta Crystallogr. Sect. A_ **64** , 112–122.
+
+[Article](https://doi.org/10.1107%2FS0108767307043930) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Acta%20Crystallogr.%20Sect.%20A&doi=10.1107%2FS0108767307043930&volume=64&pages=112-122&publication_year=2008&author=Sheldrick%2CGM)
+
+  25. A. L. Spek (2003). _J. Appl. Cryst._ **36** , 7–13.
+
+[Article](https://doi.org/10.1107%2FS0021889802022112)
+[CAS](https://link.springer.com/articles/cas-
+redirect/1:CAS:528:DC%2BD3sXltlChtw%3D%3D) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=J.%20Appl.%20Cryst.&doi=10.1107%2FS0021889802022112&volume=36&pages=7-13&publication_year=2003&author=Spek%2CAL)
+
+  26. P. V. D. Sluis and A. L. Spek (1990). _Acta Cryst._ **A46** , 194–201.
+
+[ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Acta%20Cryst.&volume=A46&pages=194-201&publication_year=1990&author=Sluis%2CPVD&author=Spek%2CAL)
+
+  27. P. Sevillano, O. Fuhr, E. Matern, and D. Fenske (2006). _Z. Anorg. Allg. Chem._ **632** , 735–738.
+
+[Article](https://doi.org/10.1002%2Fzaac.200500416)
+[CAS](https://link.springer.com/articles/cas-
+redirect/1:CAS:528:DC%2BD28XktVSms70%3D) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Z.%20Anorg.%20Allg.%20Chem.&doi=10.1002%2Fzaac.200500416&volume=632&pages=735-738&publication_year=2006&author=Sevillano%2CP&author=Fuhr%2CO&author=Matern%2CE&author=Fenske%2CD)
+
+  28. P. Sevillano, O. Fuhr, O. Hampe, S. Lebedkin, E. Matern, D. Fenske, and M. M. Kappes (2007). _Inorg. Chem._ **46** , 7294–7298.
+
+[Article](https://doi.org/10.1021%2Fic062107e)
+[CAS](https://link.springer.com/articles/cas-
+redirect/1:CAS:528:DC%2BD2sXotlCrt7s%3D) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Inorg.%20Chem.&doi=10.1021%2Fic062107e&volume=46&pages=7294-7298&publication_year=2007&author=Sevillano%2CP&author=Fuhr%2CO&author=Hampe%2CO&author=Lebedkin%2CS&author=Matern%2CE&author=Fenske%2CD&author=Kappes%2CMM)
+
+  29. V. W.-W. Yam, E. C.-C. Cheng, and K.-K. Cheung (1999). _Angew. Chem._ **111** , 193–195.
+
+[Article](https://doi.org/10.1002%2F%28SICI%291521-3757%2819990115%29111%3A1%2F2%3C193%3A%3AAID-
+ANGE193%3E3.0.CO%3B2-J) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.&doi=10.1002%2F%28SICI%291521-3757%2819990115%29111%3A1%2F2%3C193%3A%3AAID-
+ANGE193%3E3.0.CO%3B2-J&volume=111&pages=193-195&publication_year=1999&author=Yam%2CVW-W&author=Cheng%2CEC-C&author=Cheung%2CK-K)
+
+  30. V. W.-W. Yam, E. C.-C. Cheng, and K.-K. Cheung (1999). _Angew. Chem. Int. Ed._ **38** , 197–199.
+
+[Article](https://doi.org/10.1002%2F%28SICI%291521-3773%2819990115%2938%3A1%2F2%3C197%3A%3AAID-
+ANIE197%3E3.0.CO%3B2-Z) [CAS](https://link.springer.com/articles/cas-
+redirect/1:CAS:528:DyaK1MXpsVejug%3D%3D) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.%20Int.%20Ed.&doi=10.1002%2F%28SICI%291521-3773%2819990115%2938%3A1%2F2%3C197%3A%3AAID-
+ANIE197%3E3.0.CO%3B2-Z&volume=38&pages=197-199&publication_year=1999&author=Yam%2CVW-W&author=Cheng%2CEC-C&author=Cheung%2CK-K)
+
+  31. V. W.-W. Yam, E. C.-C. Cheng, and Z.-Y. Zhou (2000). _Angew. Chem._ **112** , 1749–1751.
+
+[Article](https://doi.org/10.1002%2F%28SICI%291521-3757%2820000502%29112%3A9%3C1749%3A%3AAID-
+ANGE1749%3E3.0.CO%3B2-Q) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.&doi=10.1002%2F%28SICI%291521-3757%2820000502%29112%3A9%3C1749%3A%3AAID-
+ANGE1749%3E3.0.CO%3B2-Q&volume=112&pages=1749-1751&publication_year=2000&author=Yam%2CVW-W&author=Cheng%2CEC-C&author=Zhou%2CZ-Y)
+
+  32. V. W.-W. Yam, E. C.-C. Cheng, and Z.-Y. Zhou (2000). _Angew. Chem. Int. Ed._ **39** , 1683–1685.
+
+[Article](https://doi.org/10.1002%2F%28SICI%291521-3773%2820000502%2939%3A9%3C1683%3A%3AAID-
+ANIE1683%3E3.0.CO%3B2-1) [CAS](https://link.springer.com/articles/cas-
+redirect/1:CAS:528:DC%2BD3cXjtlOhsrc%3D) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.%20Int.%20Ed.&doi=10.1002%2F%28SICI%291521-3773%2820000502%2939%3A9%3C1683%3A%3AAID-
+ANIE1683%3E3.0.CO%3B2-1&volume=39&pages=1683-1685&publication_year=2000&author=Yam%2CVW-W&author=Cheng%2CEC-C&author=Zhou%2CZ-Y)
+
+  33. D. Wiedemann and P. W. Roesky (2009). _Z. Anorg. Allg. Chem._ **635** , 125–129.
+
+[Article](https://doi.org/10.1002%2Fzaac.200800368)
+[CAS](https://link.springer.com/articles/cas-
+redirect/1:CAS:528:DC%2BD1MXhtVCjtb4%3D) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Z.%20Anorg.%20Allg.%20Chem.&doi=10.1002%2Fzaac.200800368&volume=635&pages=125-129&publication_year=2009&author=Wiedemann%2CD&author=Roesky%2CPW)
+
+  34. H. Schmidbaur (2000). _Gold Bulletin_ **33** , 3–10.
+
+[Article](https://link.springer.com/doi/10.1007/BF03215477)
+[CAS](https://link.springer.com/articles/cas-
+redirect/1:CAS:528:DC%2BD3MXmsFKgtw%3D%3D) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Gold%20Bulletin&doi=10.1007%2FBF03215477&volume=33&pages=3-10&publication_year=2000&author=Schmidbaur%2CH)
+
+  35. F. Canales, M. Concepción Gimeno, P. G. Jones, and A. Laguna (1994). _Angew. Chem._ **106** , 811–812.
+
+[Article](https://doi.org/10.1002%2Fange.19941060723)
+[CAS](https://link.springer.com/articles/cas-
+redirect/1:CAS:528:DyaK2cXkslagtrk%3D) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.&doi=10.1002%2Fange.19941060723&volume=106&pages=811-812&publication_year=1994&author=Canales%2CF&author=Concepci%C3%B3n%20Gimeno%2CM&author=Jones%2CPG&author=Laguna%2CA)
+
+  36. F. Canales, M. Concepción Gimeno, P. G. Jones, and A. Laguna (1994). _Angew. Chem. Int. Ed._ **33** , 769–770.
+
+[Article](https://doi.org/10.1002%2Fanie.199407691) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Angew.%20Chem.%20Int.%20Ed.&doi=10.1002%2Fanie.199407691&volume=33&pages=769-770&publication_year=1994&author=Canales%2CF&author=Concepci%C3%B3n%20Gimeno%2CM&author=Jones%2CPG&author=Laguna%2CA)
+
+  37. F. Canales, M. Concepción Gimeno, A. Laguna, and M. D. Villacampa (1996). _Inorg. Chim. Acta_ **244** , 95–103.
+
+[Article](https://doi.org/10.1016%2F0020-1693%2895%2904759-X)
+[CAS](https://link.springer.com/articles/cas-
+redirect/1:CAS:528:DyaK28XhvVKluro%3D) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Inorg.%20Chim.%20Acta&doi=10.1016%2F0020-1693%2895%2904759-X&volume=244&pages=95-103&publication_year=1996&author=Canales%2CF&author=Concepci%C3%B3n%20Gimeno%2CM&author=Laguna%2CA&author=Villacampa%2CMD)
+
+  38. F. Canales, M. Concepción Gimeno, A. Laguna, and P. G. Jones (1996). _J. Am. Chem. Soc._ **118** , 4839–4845.
+
+[Article](https://doi.org/10.1021%2Fja9517678)
+[CAS](https://link.springer.com/articles/cas-
+redirect/1:CAS:528:DyaK28Xis1ynt7g%3D) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=J.%20Am.%20Chem.%20Soc.&doi=10.1021%2Fja9517678&volume=118&pages=4839-4845&publication_year=1996&author=Canales%2CF&author=Concepci%C3%B3n%20Gimeno%2CM&author=Laguna%2CA&author=Jones%2CPG)
+
+  39. P. Teo, L. L. Koh, and T. S. A. Hor (2007). _Chem. Commun._ **222** , 5–2227.
+
+[ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Chem.%20Commun.&volume=222&pages=5-2227&publication_year=2007&author=Teo%2CP&author=Koh%2CLL&author=Hor%2CTSA)
+
+  40. F. Canales, M. Concepción Gimeno, A. Laguna, and P. G. Jones (1996). _Organometallics_ **15** , 3412–3415.
+
+[Article](https://doi.org/10.1021%2Fom960153o)
+[CAS](https://link.springer.com/articles/cas-
+redirect/1:CAS:528:DyaK28XjvFWksrg%3D) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Organometallics&doi=10.1021%2Fom960153o&volume=15&pages=3412-3415&publication_year=1996&author=Canales%2CF&author=Concepci%C3%B3n%20Gimeno%2CM&author=Laguna%2CA&author=Jones%2CPG)
+
+  41. A. Avey, D. M. Schut, T. J. R. Weakley, and D. R. Tyler (1993). _Inorg. Chem._ **32** , 233–236.
+
+[Article](https://doi.org/10.1021%2Fic00054a021)
+[CAS](https://link.springer.com/articles/cas-
+redirect/1:CAS:528:DyaK3sXotFSmtA%3D%3D) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Inorg.%20Chem.&doi=10.1021%2Fic00054a021&volume=32&pages=233-236&publication_year=1993&author=Avey%2CA&author=Schut%2CDM&author=Weakley%2CTJR&author=Tyler%2CDR)
+
+  42. P. Sevillano, O. Fuhr, and D. Fenske (2007). _Z. Anorg. Allg. Chem._ **633** , 1783–1786.
+
+[Article](https://doi.org/10.1002%2Fzaac.200700146)
+[CAS](https://link.springer.com/articles/cas-
+redirect/1:CAS:528:DC%2BD2sXhtVyjtLnF) [ Google
+Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Z.%20Anorg.%20Allg.%20Chem.&doi=10.1002%2Fzaac.200700146&volume=633&pages=1783-1786&publication_year=2007&author=Sevillano%2CP&author=Fuhr%2CO&author=Fenske%2CD)
+
+### Discover content
+
+  * [Journals A-Z](https://link.springer.com/journals/a/1)
+  * [Books A-Z](https://link.springer.com/books/a/1)
+
+### Publish with us
+
+  * [Journal finder](https://link.springer.com/journals)
+  * [Publish your research](https://www.springernature.com/gp/authors)
+  * [Open access publishing](https://www.springernature.com/gp/open-research/about/the-fundamentals-of-open-access-and-open-research)
+
+### Products and services
+
+  * [Our products](https://www.springernature.com/gp/products)
+  * [Librarians](https://www.springernature.com/gp/librarians)
+  * [Societies](https://www.springernature.com/gp/societies)
+  * [Partners and advertisers](https://www.springernature.com/gp/partners)
+
+### Our imprints
+
+  * [Springer](https://www.springer.com/)
+  * [Nature Portfolio](https://www.nature.com/)
+  * [BMC](https://www.biomedcentral.com/)
+  * [Palgrave Macmillan](https://www.palgrave.com/)
+  * [Apress](https://www.apress.com/)
+
+  * Your privacy choices/Manage cookies
+  * [Your US state privacy rights](https://www.springernature.com/gp/legal/ccpa)
+  * [Accessibility statement](https://www.springernature.com/gp/info/accessibility)
+  * [Terms and conditions](https://link.springer.com/termsandconditions)
+  * [Privacy policy](https://link.springer.com/privacystatement)
+  * [Help and support](https://support.springernature.com/en/support/home)
+  * [Cancel contracts here](https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations)
+
+114.212.170.53
+
+LID 4548 - SpringerLink Jiangsu eBo Consortium 2006-9 copyright (3001144869) -
+Jiangsu eBook Consortium (3991438083) - Nanjing University Library
+(2000205776) - SpringerLink Jiangsu eBook Consortium 2016-2018 copyright years
+(3002351941) - Springer ejournal Jiangsu Regional consortium (3902333164) -
+China Institute of Science & Technology acting through National Science and
+(3000202650) - 5520 SLCC Jiangsu (3000162591) - SLCC Jiangsu eJournals
+Consortium 2015-2017 (3991465546) - Springer Protocols DRAA National
+consortium (3000882202) - 10786 SLCC Jiangsu (3000803042) - 7217 SpringerLink
+Jiangsu eBook Consortium 2010-2012 copyright year (3000203264) - China ebooks
+trial 2013 (3001022832) - Nature DRAA eJournal National Consortium
+(3902333280)
+
+[ ](https://www.springernature.com/)
+
+© 2025 Springer Nature
+
+  *[DOI]: Digital Object Identifier
+

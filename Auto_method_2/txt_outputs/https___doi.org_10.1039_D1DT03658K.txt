@@ -1,0 +1,371 @@
+Jump to main content  Jump to site search
+
+[Publishing](/ "Publishing home page")
+
+  * [Journals](/en/journals?key=title&value=current)
+  * [Books](https://books.rsc.org/books/search-results?fl_SiteID=5&page=1&f_ContentType=Book&sort=Date+-+Newest+First)
+  * [Databases](https://www.rsc.org/journals-books-databases/databases-literature-updates/)
+
+Search
+
+[Advanced](/en/search/advancedsearch)
+
+[](/en/account/logon)
+
+[](https://www.rsc.org/basket/shoppingcart/orderitems?returnurl=https://pubs.rsc.org/en/content/articlelanding/2022/dt/d1dt03658k)
+
+[](https://www.rsc.org)
+
+Search
+
+__
+
+You must enter a search term
+
+[Advanced search](/en/search/advancedsearch)
+
+Network access provided by:  **NANJING UNIVERSITY**
+
+You do not have JavaScript enabled. Please enable JavaScript to access the
+full features of the site or access our [non-JavaScript
+page](/en/home/nonjavascriptversion).
+
+  
+
+[Issue 5,
+2022](/en/journals/journal/dt?issueid=dt051005&type=current&issnprint=1477-9226
+"Issue 5, 2022")
+
+  * [ Previous Article ](/en/Content/ArticleLanding/2022/DT/D1DT03952K)
+  * [ Next Article ](/en/Content/ArticleLanding/2022/DT/D1DT02988F)
+
+[ From the journal: Dalton Transactions ](/en/journals/journal/dt)
+
+  
+
+##  Synthesis, structural and photophysical properties of
+dimethylphosphino(perfluoro-)phenylene-based gold(i) dimers†
+
+[Felix Müller](/en/results?searchtext=Author%3AFelix%20M%C3%BCller),
+[](https://orcid.org/0000-0002-4037-1055 "Select to open ORCID record for
+Felix Müller \(orcid.org/0000-0002-4037-1055\) in a new window") ‡ _a_
+[Lucas Wickemeyer](/en/results?searchtext=Author%3ALucas%20Wickemeyer),
+[](https://orcid.org/0000-0001-8176-3656 "Select to open ORCID record for
+Lucas Wickemeyer \(orcid.org/0000-0001-8176-3656\) in a new window") ‡ _a_
+[Jan Schwabedissen](/en/results?searchtext=Author%3AJan%20Schwabedissen),
+[](https://orcid.org/0000-0002-6914-6003 "Select to open ORCID record for Jan
+Schwabedissen \(orcid.org/0000-0002-6914-6003\) in a new window") _a_
+[Martin Ertl](/en/results?searchtext=Author%3AMartin%20Ertl),_b_   [Beate
+Neumann](/en/results?searchtext=Author%3ABeate%20Neumann),_a_   [Hans-Georg
+Stammler](/en/results?searchtext=Author%3AHans-Georg%20Stammler),
+[](https://orcid.org/0000-0002-0918-7057 "Select to open ORCID record for
+Hans-Georg Stammler \(orcid.org/0000-0002-0918-7057\) in a new window") _a_
+[Uwe Monkowius](/en/results?searchtext=Author%3AUwe%20Monkowius)
+[](https://orcid.org/0000-0003-0662-2866 "Select to open ORCID record for Uwe
+Monkowius \(orcid.org/0000-0003-0662-2866\) in a new window") _b_  and
+[Norbert W. Mitzel](/en/results?searchtext=Author%3ANorbert%20W.%20Mitzel)
+[](https://orcid.org/0000-0002-3271-5217 "Select to open ORCID record for
+Norbert W. Mitzel \(orcid.org/0000-0002-3271-5217\) in a new window") *_a_  
+
+Author affiliations
+
+*  Corresponding authors 
+
+a Lehrstuhl für Anorganische Chemie und Strukturchemie; Centrum für Molekulare
+Materialien CM2, Fakultät für Chemie, Universität Bielefeld,
+Universitätsstraße 25, D-33615 Bielefeld, Germany  
+**E-mail:** [mitzel@uni-bielefeld.de](mailto:mitzel@uni-bielefeld.de
+"mitzel@uni-bielefeld.de")
+
+b School of Education, Chemistry, Johannes Kepler University Linz,
+Altenbergerstr. 69, A-4040 Linz, Austria
+
+### Abstract
+
+Starting with 1,2-dibromobenzene and 1,2,3,4-tetrafluorobenzene,
+dimethyl(2-(trimethylstannyl)phenyl)phosphane, Me2P(_o_ -C6H4)SnMe3, and
+dimethyl-[2,3,4,5-tetrafluoro-6-(trimethylstannyl)phenyl]phosphane, Me2P(_o_
+-C6F4)SnMe3, were synthesized and used in tin-gold exchange reactions to
+prepare two gold(I) dimers, bis[(2-dimethylphosphino)phenyl]di-gold(I),
+[Au2(μ-2-C6H4PMe2)2], and
+bis[(2-dimethylphosphino)-3,4,5,6-tetrafluorophenyl]di-gold(I),
+[Au2(μ-2-C6F4PMe2)2], respectively. Both tin precursor molecules, as well as
+the gold(I) complexes, were characterized by multinuclear NMR spectroscopy,
+CHN analysis and X-ray diffraction experiments. Both gold(I) dimers were
+further investigated by the means of computational as well as photophysical
+methods.
+
+  * This article is part of the themed collection: [Spotlight Collection: Fluorinated ligands](/en/journals/articlecollectionlanding?sercode=dt&themeid=cfcf7820-7794-4248-863a-d72fe5d0dd14)
+
+You have access to this article
+
+Please wait while we load your content...  Something went wrong. Try again?
+
+About
+
+Cited by
+
+Related
+
+Download options Please wait...
+
+## Supplementary files
+
+  * [ Supplementary information  PDF (2593K) ](https://www.rsc.org/suppdata/d1/dt/d1dt03658k/d1dt03658k1.pdf)
+  * [ Crystal structure data  CIF (14053K) ](https://www.rsc.org/suppdata/d1/dt/d1dt03658k/d1dt03658k2.cif)
+
+## Article information
+
+DOI
+
+    <https://doi.org/10.1039/D1DT03658K>
+
+**Article type**
+
+    Paper
+
+Submitted
+
+    28 Oct 2021
+
+Accepted
+
+    28 Dec 2021
+
+First published
+
+    28 Dec 2021
+
+###  Download Citation
+
+_**Dalton Trans.**_ , 2022,**51** , 1955-1967  
+
+BibTex EndNote MEDLINE ProCite ReferenceManager RefWorks RIS
+
+### Permissions
+
+Request permissions
+
+###  Synthesis, structural and photophysical properties of
+dimethylphosphino(perfluoro-)phenylene-based gold(I) dimers
+
+F. Müller, L. Wickemeyer, J. Schwabedissen, M. Ertl, B. Neumann, H. Stammler,
+U. Monkowius and N. W. Mitzel, _Dalton Trans._ , 2022, **51** , 1955 **DOI:**
+10.1039/D1DT03658K
+
+To request permission to reproduce material from this article, please go to
+the [Copyright Clearance Center request
+page](https://marketplace.copyright.com/rs-ui-
+web/mp/search/all/10.1039%2fD1DT03658K).
+
+If you are **an author contributing to an RSC publication, you do not need to
+request permission** provided correct acknowledgement is given.
+
+If you are **the author of this article, you do not need to request permission
+to reproduce figures and diagrams** provided correct acknowledgement is given.
+If you want to reproduce the whole article in a third-party publication
+(excluding your thesis/dissertation for which permission is not required)
+please go to the [Copyright Clearance Center request
+page](https://marketplace.copyright.com/rs-ui-
+web/mp/search/all/10.1039%2fD1DT03658K).
+
+Read more about [how to correctly acknowledge RSC
+content](https://www.rsc.org/journals-books-databases/journal-authors-
+reviewers/licences-copyright-permissions/#acknowledgements).
+
+### Social activity
+
+[
+](https://www.altmetric.com/details.php?domain=pubs.rsc.org&doi=10.1039%2Fd1dt03658k)
+
+[ Tweet
+](https://twitter.com/intent/tweet/?text=Synthesis%2c+structural+and+photophysical+properties+of+dimethylphosphino\(perfluoro-\)phenylene-
+based+gold\(i\)+dimers+-+now+published+in+Dalton+Transactions&url=https%3a%2f%2fpubs.rsc.org%2fen%2fcontent%2farticlelanding%2f2022%2fdt%2fd1dt03658k)
+
+[ Share
+](/en/Image/GetQrCode?url=https%3A%2F%2Fpubs.rsc.org%2Fen%2Fcontent%2Farticlelanding%2F2022%2Fdt%2Fd1dt03658k)
+
+## Search articles by author
+
+Felix Müller
+
+Lucas Wickemeyer
+
+Jan Schwabedissen
+
+Martin Ertl
+
+Beate Neumann
+
+Hans-Georg Stammler
+
+Uwe Monkowius
+
+Norbert W. Mitzel
+
+Fetching data from CrossRef.  
+This may take some time to load.
+
+Loading related content
+
+### Spotlight
+
+### Advertisements
+
+  * [rsc.org](https://www.rsc.org)
+  * [Journals, books & databases](https://www.rsc.org/journals-books-databases/)
+
+  * [Home](https://www.rsc.org/)
+  * [About us](https://www.rsc.org/about-us/)
+  * [Membership & professional community](https://www.rsc.org/membership-and-community/)
+  * [Campaigning & outreach](https://www.rsc.org/campaigning-outreach/)
+  * [Journals, books & databases](https://www.rsc.org/journals-books-databases/)
+  * [Teaching & learning](https://www.rsc.org/teaching-and-learning/)
+  * [News & events](https://www.rsc.org/news-events/)
+  * [Locations & contacts](https://www.rsc.org/locations-contacts/)
+  * [Careers](https://www.rsc.org/careers/)
+  * [Awards & funding](https://www.rsc.org/awards-funding/)
+  * [Advertise](https://www.rsc.org/advertise/)
+  * [Help & legal](https://www.rsc.org/help-legal/)
+  * [Privacy policy](https://www.rsc.org/help-legal/legal/privacy/)
+  * [Terms & conditions](https://www.rsc.org/help-legal/legal/terms-conditions/)
+
+* * *
+
+[Facebook](https://www.facebook.com/RoyalSocietyofChemistry)
+[Twitter](https://twitter.com/RoySocChem)
+[LinkedIn](https://www.linkedin.com/company/23105)
+[YouTube](https://www.youtube.com/user/wwwRSCorg)
+
+© Royal Society of Chemistry 2025  
+Registered charity number: 207890
+
+* * *
+
+This website collects cookies to deliver a better user experience.  See how
+this site uses [Cookies](/en/content/cookies "See how this site uses
+cookies").  [Do not sell my personal data](/en/content/cookies "Do not sell my
+personal data").
+
+Este site coleta cookies para oferecer uma melhor experiência ao usuário.
+Veja como este site usa [Cookies](/en/content/cookies "Veja como este site usa
+cookies").
+
+[Publishing](/ "Publishing home page")
+
+## Journals
+
+  * [Current Journals](/en/journals?key=title&value=current)
+  * [Archive Journals](/en/journals?key=title&value=archive)
+  * [All Journals](/en/journals?key=title&value=all)
+
+## Books
+
+  * [Browse Books](https://books.rsc.org/books/search-results?fl_SiteID=5&page=1&f_ContentType=Book&sort=Date+-+Newest+First)
+  * [Series](https://books.rsc.org/books/collections/series)
+  * [For Authors and Editors](https://www.rsc.org/journals-books-databases/book-authors/propose-book-idea/)
+  * [About](https://www.rsc.org/journals-books-databases/book-authors/)
+
+## Databases
+
+  * [Literature Updates](https://www.rsc.org/journals-books-databases/databases-literature-updates/)
+  * [ChemSpider](http://www.chemspider.com/)
+  * [The Merck Index*](https://www.rsc.org/merck-index)
+  * [MarinLit](https://marinlit.rsc.org/)
+
+## More
+
+  * [For Members](https://www.rsc.org/resources-tools/research-tools/#access)
+  * [For Librarians](/en/librarian/home)
+  * [Subscribe](https://www.rsc.org/journals-books-databases/about-journals/journal-email-alerts-service/)
+  * [RSS Feeds](/en/ealerts/rssfeed)
+  * [Blogs](http://blogs.rsc.org/)
+  * [Chemistry World](https://www.chemistryworld.com/)
+  * [Education in Chemistry](https://edu.rsc.org/eic)
+  * [Open Access](https://www.rsc.org/journals-books-databases/open-access/)
+  * [Historical Collection](http://pubs.rsc.org/historical-collection)
+
+## Privacy preference center
+
+When you visit any website, it may store or retrieve information on your
+browser, mostly in the form of cookies. This information might be about you,
+your preferences or your device and is mostly used to make the site work as
+you expect it to. The information does not usually directly identify you, but
+it can give you a more personalised web experience. Because we respect your
+right to privacy, you can choose not to allow some types of cookies. Click on
+the different category headings to find out more and change our default
+settings. However, blocking some types of cookies may impact your experience
+of the site and the services we are able to offer.
+
+Allow all
+
+###  Manage consent preferences
+
+#### Strictly necessary cookies
+
+Always active
+
+These cookies are necessary for the website to function and cannot be switched
+off in our systems. They are usually only set in response to actions made by
+you which amount to a request for services, such as setting your privacy
+preferences, logging in or filling in forms. You can set your browser to block
+or alert you about these cookies, but some parts of the site will not then
+work. These cookies do not store any personally identifiable information.
+
+#### Analytical cookies
+
+Always active
+
+These cookies allow us to count visits and traffic sources so we can measure
+and improve the performance of our site. They help us to know which pages are
+the most and least popular and see how visitors move around the site. All
+information these cookies collect is aggregated and therefore anonymous. If
+you do not allow these cookies we will not know when you have visited our
+site, and will not be able to monitor its performance.
+
+#### Functional cookies
+
+Always active
+
+These cookies enable the website to provide enhanced functionality and
+personalisation. They may be set by us or by third party providers whose
+services we have added to our pages. If you do not allow these cookies then
+some or all of these services may not function properly.
+
+#### Targeting cookies
+
+Always active
+
+These cookies may be set through our site by our advertising partners. They
+may be used by those companies to build a profile of your interests and show
+you relevant adverts on other sites. They do not store directly personal
+information, but are based on uniquely identifying your browser and internet
+device. If you do not allow these cookies, you will experience less targeted
+advertising.
+
+Back Button
+
+### Cookie List
+
+Search Icon
+
+Filter Icon
+
+Clear
+
+checkbox label label
+
+Apply Cancel
+
+Consent Leg.Interest
+
+checkbox label label
+
+checkbox label label
+
+checkbox label label
+
+Confirm My Choices
+
+[](https://www.onetrust.com/products/cookie-consent/)
+

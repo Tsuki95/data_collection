@@ -1,0 +1,9 @@
+﻿Index,URL,1. 化合物简称,2. 化合物全称,3. 结构式,4. 氧化电势,5. 还原电势,6. 溶剂,7. 参比电极,8. CCDC编号,9. 图片代号
+1,https://doi.org/10.1021/acs.organomet.2c00200,NN–Au–P_n_Bu3,"(4,4,5,5-Tetramethyl-4,5-dihydro-1H-imidazole-3-oxide-1-oxyl-2-ido)(tri-n-butylphosphine)gold",（未提供）,0.11 V,-1.68 V,0.1 M Bu4NBF4/MeCN,Fc/Fc+,2165806,未提供
+2,https://doi.org/10.1021/acs.organomet.2c00200,NN–Au–PFPh3,"(4,4,5,5-Tetramethyl-4,5-dihydro-1H-imidazole-3-oxide-1-oxyl-2-ido)(tris(4-fluorophenyl)phosphine)gold",（未提供）,0.14 V,-1.64 V,0.1 M Bu4NBF4/MeCN,Fc/Fc+,2165807,未提供
+3,https://doi.org/10.1038/s41598-019-48584-5,1,"[2,3-bis(tert-butylmethylphosphino)quinoxaline]digold(I)",未提供,−0.98 V,−1.20 V,DMSO,Ag/AgCl,1817925,未提供
+4,https://doi.org/10.1038/s41598-019-48584-5,2,"Bis[2,3-bis(tert-butylmethylphosphino)quinoxaline]gold(I) chloride",未提供,−1.38 V（有两个可逆过程）,−1.26 V、−1.38 V,DMSO,Ag/AgCl,1817924,未提供
+5,https://doi.org/10.1038/s41598-019-48584-5,3,"(2-benzoylpyridine)[(2,3-tert-butylmethylphosphino)quinoxaline]gold(III) dichloride",未提供,−1.27 V,−0.80 V、−1.46 V,DMSO,Ag/AgCl,未提供,未提供
+6,https://doi.org/10.1038/s41598-019-48584-5,4,"Bis[μ-[1,2-ethanediylbis[diphenylphosphine-κP]]]digold(I) diperchlorate",未提供,未提供,−0.84 V、−1.54 V,MeCN,未提供,1852670,未提供
+7,https://doi.org/10.1038/s41598-019-48584-5,5,"Bis[1,2-ethanediylbis[diphenylphosphine-κP]]gold(I) perchlorate",未提供,未提供,−0.81 V、−1.55 V,MeCN,未提供,1852671,未提供
+8,https://doi.org/10.1038/s41598-019-48584-5,6,"(2-benzoylpyridine)[1,2-ethanediylbis[diphenylphosphine]]gold(III) dichloride",未提供,−0.86 V、−1.31 V,−1.01 V、−1.37 V,Chloroform,未提供,未提供,未提供

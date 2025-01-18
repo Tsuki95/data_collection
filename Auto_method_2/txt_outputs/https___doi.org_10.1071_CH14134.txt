@@ -1,0 +1,513 @@
+[__Register](/account/register)      [__Login](/account/login)
+
+[CSIRO Publishing](/)
+
+  * [Home](/)
+  * [Books](/books)
+  * [Journals](/journals)
+  * [LEARNING](/learning)
+  * [Blog](https://blog.publish.csiro.au/)
+
+show or hide menu items
+
+[](/ch)
+
+An international journal for chemical science
+
+[__Shopping Cart: ( empty )](/cart)
+
+Search our journals
+
+You are here: [Home](/) > [Journals](/journals) > [CH](/ch) > CH14134
+
+**RESEARCH ARTICLE**
+
+[Previous](/ch/CH14144) [Next](/ch/CH14170) [ Contents Vol 67(7)
+](/ch/issue/6955)
+
+# Synthesis and Structural Characterization of a Series of Group 11
+2,2-Dialkyl-1,3-dicyclohexylguanidinate Complexes
+
+Sonya K. Adas A , Jesus A. Ocana A and Scott D. Bunge A B
+
+\+ Author Affiliations
+
+\- Author Affiliations  
+
+A Kent State University, Department of Chemistry and Biochemistry, Kent OH
+44242, USA.
+
+B Corresponding author. Email: [sbunge@kent.edu](mailto:sbunge@kent.edu)
+
+_Australian Journal of Chemistry_ 67(7) 1021-1029
+https://doi.org/10.1071/CH14134  
+Submitted: 11 March 2014  Accepted: 16 April 2014   Published: 4 June 2014  
+
+Access Article
+
+## Abstract
+
+The addition of either lithium dimethylamide or lithium diethylamide to a
+tetrahydrofuran (THF) solution of 1,3-dicyclohexylcarbodiimide yielded THF
+adducts of lithium 2,2-dimethyl-1,3-dicyclohexylguandidinate (**1**) and
+lithium 2,2-diethyl-1,3-dicyclohexylguandidinate (**2**), respectively. One
+equivalent of either **1** or **2** was subsequently reacted with one
+equivalent of Group 11 halide (CuCl, AgBr, and AuCl) to generate oligonuclear
+complexes with the general formula {M[CyNC(NR2)NCy]}_n_ where M, R, and _n_
+are respectively Cu, CH3, 2 (**3**); Cu, CH2CH3, 2 (**4**); Ag, CH3, 3
+(**5**); Ag, CH2CH3, 3 (**6**); Au, CH3, 2 (**7**); and Au, CH2CH3, 2 (**8**).
+Compounds **1** –**8** were characterized by single-crystal X-ray diffraction.
+The bulk powders for all complexes were found to be in agreement with the
+crystal structures based on elemental analyses, Fourier transform infrared
+spectroscopy, and 1H, 13C, and 7Li NMR studies. The unique structural aspects
+of this family of Group 11 complexes are highlighted.
+
+  
+
+## References
+
+[1]  I. Pattison, K. Wade, B. K. Wyatt, _J. Chem. Soc. A_ **1968 __**, 837.  
+         | [Crossref](https://doi.org/10.1039/J19680000837) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=J. Chem. Soc. A&volume=&pages=837-&publication_year=1968&author=I%2E%20Pattison&hl=en&doi=10.1039/J19680000837) | [1:CAS:528:DyaF1cXpsFCmsw%3D%3D&md5=f8a03cbba842f39e0c48c6e70b031f6cCAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DyaF1cXpsFCmsw%3D%3D&md5=f8a03cbba842f39e0c48c6e70b031f6c) |   
+  
+
+[2]  W. Schneider, A. Bauer, A. Schier, H. Schmidbaur, _Chem. Ber._ **1997
+__**,_130_ , 1417.  
+         | [Crossref](https://doi.org/10.1002/CBER.19971301010) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Chem. Ber.&volume=130&pages=1417-&publication_year=1997&author=W%2E%20Schneider&hl=en&doi=10.1002/CBER.19971301010) | [1:CAS:528:DyaK2sXmsVWhsLg%3D&md5=98262c6137181c752249ff004744e007CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DyaK2sXmsVWhsLg%3D&md5=98262c6137181c752249ff004744e007) |   
+  
+
+[3]  N. Kuhn, R. Fawzi, M. Steimann, J. Wiethoff, _Z. Anorg. Allg. Chem._
+**1997 __**,_623_ , 554.  
+         | [Crossref](https://doi.org/10.1002/ZAAC.19976230186) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Z. Anorg. Allg. Chem.&volume=623&pages=554-&publication_year=1997&author=N%2E%20Kuhn&hl=en&doi=10.1002/ZAAC.19976230186) | [1:CAS:528:DyaK2sXis1Glt7s%3D&md5=81a1f17f9444a8cb367454488af759bcCAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DyaK2sXis1Glt7s%3D&md5=81a1f17f9444a8cb367454488af759bc) |   
+  
+
+[4]  N. De Vries, C. E. Costello, A. G. Jones, A. Davison, _Inorg. Chem._
+**1990 __**,_29_ , 1348.  
+         | [Crossref](https://doi.org/10.1021/IC00332A012) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Inorg. Chem.&volume=29&pages=1348-&publication_year=1990&author=N%2E%20De%20Vries&hl=en&doi=10.1021/IC00332A012) | [1:CAS:528:DyaK3cXhslWjsbg%3D&md5=c1e738ba2103a9d895e494487bc6cd14CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DyaK3cXhslWjsbg%3D&md5=c1e738ba2103a9d895e494487bc6cd14) |   
+  
+
+[5]  M. A. Paver, D. S. Wright, D. Stalke, _Angew. Chem. Int. Ed. Engl._
+**1993 __**,_32_ , 428.  
+         | [Crossref](https://doi.org/10.1002/ANIE.199304281) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Angew. Chem. Int. Ed. Engl.&volume=32&pages=428-&publication_year=1993&author=M%2E%20A%2E%20Paver&hl=en&doi=10.1002/ANIE.199304281) |   
+  
+
+[6]  W. Clegg, R. Snaith, H. M. M. Shearer, K. Wade, G. Whitehead, _J. Chem.
+Soc., Dalton Trans._ **1983 __**, 1309.  
+         | [Crossref](https://doi.org/10.1039/DT9830001309) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=J. Chem. Soc., Dalton Trans.&volume=&pages=1309-&publication_year=1983&author=W%2E%20Clegg&hl=en&doi=10.1039/DT9830001309) | [1:CAS:528:DyaL3sXmtVerurk%3D&md5=59bfc0333481eea2b72a6b10947a5530CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DyaL3sXmtVerurk%3D&md5=59bfc0333481eea2b72a6b10947a5530) |   
+  
+
+[7]  W. Clegg, R. E. Mulvey, R. Snaith, G. E. Toogood, K. Wade, _J. Chem. Soc.
+Chem. Commun._ **1986 __**, 1740.  
+         | [Crossref](https://doi.org/10.1039/C39860001740) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=J. Chem. Soc. Chem. Commun.&volume=&pages=1740-&publication_year=1986&author=W%2E%20Clegg&hl=en&doi=10.1039/C39860001740) | [1:CAS:528:DyaL2sXpsVyqsA%3D%3D&md5=5537d00d48d867275749dffbea8b13e5CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DyaL2sXpsVyqsA%3D%3D&md5=5537d00d48d867275749dffbea8b13e5) |   
+  
+
+[8]  A. J. Edwards, M. A. Paver, P. R. Raithby, M.-A. Rennie, C. A. Russell,
+D. S. Wright, _J. Chem. Soc., Dalton Trans._ **1995 __**, 1587.  
+         | [Crossref](https://doi.org/10.1039/DT9950001587) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=J. Chem. Soc., Dalton Trans.&volume=&pages=1587-&publication_year=1995&author=A%2E%20J%2E%20Edwards&hl=en&doi=10.1039/DT9950001587) | [1:CAS:528:DyaK2MXlvFeiurY%3D&md5=c0f79b004c235a9f63d1bc26171dc521CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DyaK2MXlvFeiurY%3D&md5=c0f79b004c235a9f63d1bc26171dc521) |   
+  
+
+[9]  R. Longhi, R. S. Drago, _Inorg. Chem._ **1965 __**,_4_ , 11.  
+         | [Crossref](https://doi.org/10.1021/IC50023A002) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Inorg. Chem.&volume=4&pages=11-&publication_year=1965&author=R%2E%20Longhi&hl=en&doi=10.1021/IC50023A002) | [1:CAS:528:DyaF2MXitVCiug%3D%3D&md5=634a2c70165a372bc7c21bacda4c216eCAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DyaF2MXitVCiug%3D%3D&md5=634a2c70165a372bc7c21bacda4c216e) |   
+  
+
+[10]  P. J. Bailey, S. Pace, _Coord. Chem. Rev._ **2001 __**,_214_ , 91.  
+         | [Crossref](https://doi.org/10.1016/S0010-8545\(00\)00389-1) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Coord. Chem. Rev.&volume=214&pages=91-&publication_year=2001&author=P%2E%20J%2E%20Bailey&hl=en&doi=10.1016/S0010-8545\(00\)00389-1) | [1:CAS:528:DC%2BD3MXhslemsbg%3D&md5=09edc379a402080417babbec943e6769CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BD3MXhslemsbg%3D&md5=09edc379a402080417babbec943e6769) |   
+  
+
+[11]  A. R. Cowley, A. J. Downs, H. J. Himmel, S. Marchant, S. Parsons, J. A.
+Yeoman, _Dalton Trans._ **2005 __**, 1591.  
+         | [Crossref](https://doi.org/10.1039/B501818H) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Dalton Trans.&volume=&pages=1591-&publication_year=2005&author=A%2E%20R%2E%20Cowley&hl=en&doi=10.1039/B501818H) | [1:CAS:528:DC%2BD2MXjsFKgsbw%3D&md5=2d2170ff1fbec6bfa59743dbbf902f21CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BD2MXjsFKgsbw%3D&md5=2d2170ff1fbec6bfa59743dbbf902f21) | [15852107PubMed](https://pubmed.ncbi.nlm.nih.gov/15852107) |   
+  
+
+[12]  M. P. Coles, _Dalton Trans._ **2006 __**, 985.  
+         | [Crossref](https://doi.org/10.1039/B515490A) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Dalton Trans.&volume=&pages=985-&publication_year=2006&author=M%2E%20P%2E%20Coles&hl=en&doi=10.1039/B515490A) | [1:CAS:528:DC%2BD28XhtlGktL0%3D&md5=c724b6e2ad92741d2f760dcc9f8969b1CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BD28XhtlGktL0%3D&md5=c724b6e2ad92741d2f760dcc9f8969b1) | [16474883PubMed](https://pubmed.ncbi.nlm.nih.gov/16474883) |   
+  
+
+[13]  F. T. Edelmann, in _Recent Progress in the Chemistry of Metal
+Amidinates, Guanidinates: Syntheses, Catalysis, Materials_ (Eds A. F. Hill, M.
+J. Fink) **2013** , Vol. 61, pp. 55–374 (Elsevier Academic Press Inc: San
+Diego, CA).  
+  
+
+[14]  M. P. Coles, _Chem. Commun._ **2009 __**, 3659.  
+         | [Crossref](https://doi.org/10.1039/B901940E) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Chem. Commun.&volume=&pages=3659-&publication_year=2009&author=M%2E%20P%2E%20Coles&hl=en&doi=10.1039/B901940E) | [1:CAS:528:DC%2BD1MXnslentLw%3D&md5=0bef196c004b3565f30822ca276ed1f9CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BD1MXnslentLw%3D&md5=0bef196c004b3565f30822ca276ed1f9) |   
+  
+
+[15]  F. T. Edelmann, in _Advances in the Coordination Chemistry of Amidinate,
+Guanidinate Ligands_ (Eds A. F. Hill, M. J. Fink) **2008** , Vol. 57, p.
+183–352 (Elsevier Academic Press Inc: San Diego, CA).  
+  
+
+[16]  A. Gobbi, G. Frenking, _J. Am. Chem. Soc._ **1993 __**,_115_ , 2362.  
+         | [Crossref](https://doi.org/10.1021/JA00059A035) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=J. Am. Chem. Soc.&volume=115&pages=2362-&publication_year=1993&author=A%2E%20Gobbi&hl=en&doi=10.1021/JA00059A035) | [1:CAS:528:DyaK3sXhvFSrtb8%3D&md5=5fee13731495f3b51ac109726e09d608CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DyaK3sXhvFSrtb8%3D&md5=5fee13731495f3b51ac109726e09d608) |   
+  
+
+[17]  R. Kempe, _Angew. Chem. Int. Ed._ **2000 __**,_39_ , 468.  
+         | [Crossref](https://doi.org/10.1002/\(SICI\)1521-3773\(20000204\)39:3<468::AID-ANIE468>3.0.CO;2-G) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Angew. Chem. Int. Ed.&volume=39&pages=468-&publication_year=2000&author=R%2E%20Kempe&hl=en&doi=10.1002/\(SICI\)1521-3773\(20000204\)39:3<468::AID-ANIE468>3.0.CO;2-G) | [1:CAS:528:DC%2BD3cXhtlagu78%3D&md5=3ce10c0ba0e1ffd429703b63b0d6d448CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BD3cXhtlagu78%3D&md5=3ce10c0ba0e1ffd429703b63b0d6d448) |   
+  
+
+[18]  T. J. J. Whitehorne, J. P. Coyle, A. Mahmood, W. H. Monillas, G. P. A.
+Yap, S. T. Barry, _Eur. J. Inorg. Chem._ **2011 __**, 3240.  
+         | [Crossref](https://doi.org/10.1002/EJIC.201100262) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Eur. J. Inorg. Chem.&volume=&pages=3240-&publication_year=2011&author=T%2E%20J%2E%20J%2E%20Whitehorne&hl=en&doi=10.1002/EJIC.201100262) | [1:CAS:528:DC%2BC3MXntlKhtLc%3D&md5=47d432aa3f59bf3f048a2bd5a3946ef0CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BC3MXntlKhtLc%3D&md5=47d432aa3f59bf3f048a2bd5a3946ef0) |   
+  
+
+[19]  T. Kim, Y. Yao, J. P. Coyle, S. T. Barry, F. Zaera, _Chem. Mater._
+**2013 __**,_25_ , 3630.  
+         | [Crossref](https://doi.org/10.1021/CM401707H) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Chem. Mater.&volume=25&pages=3630-&publication_year=2013&author=T%2E%20Kim&hl=en&doi=10.1021/CM401707H) | [1:CAS:528:DC%2BC3sXhsVWjsLrN&md5=efe3a3af49dd638f19057c8a2d630153CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BC3sXhsVWjsLrN&md5=efe3a3af49dd638f19057c8a2d630153) |   
+  
+
+[20]  M. D. Irwin, H. E. Abdou, A. A. Mohamed, J. P. Fackler, _Chem. Commun._
+**2003 __**, 2882.  
+         | [Crossref](https://doi.org/10.1039/B309724M) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Chem. Commun.&volume=&pages=2882-&publication_year=2003&author=M%2E%20D%2E%20Irwin&hl=en&doi=10.1039/B309724M) | [1:CAS:528:DC%2BD3sXptVWksLo%3D&md5=41cb9be0eec0c43708fd1e8faaab6813CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BD3sXptVWksLo%3D&md5=41cb9be0eec0c43708fd1e8faaab6813) |   
+  
+
+[21]  H. E. Abdou, A. A. Mohamed, J. P. Fackler, _Inorg. Chem._ **2007
+__**,_46_ , 141.  
+         | [Crossref](https://doi.org/10.1021/IC0612449) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Inorg. Chem.&volume=46&pages=141-&publication_year=2007&author=H%2E%20E%2E%20Abdou&hl=en&doi=10.1021/IC0612449) | [1:CAS:528:DC%2BD28Xht12lsLvN&md5=972c8b8bc3af3a66956034bf4e86ba21CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BD28Xht12lsLvN&md5=972c8b8bc3af3a66956034bf4e86ba21) | [17198422PubMed](https://pubmed.ncbi.nlm.nih.gov/17198422) |   
+  
+
+[22]  A. A. Mohamed, A. P. Mayer, H. E. Abdou, M. D. Irwin, L. M. Perez, J. P.
+Fackler, _Inorg. Chem._ **2007 __**,_46_ , 11165.  
+         | [Crossref](https://doi.org/10.1021/IC701399S) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Inorg. Chem.&volume=46&pages=11165-&publication_year=2007&author=A%2E%20A%2E%20Mohamed&hl=en&doi=10.1021/IC701399S) | [1:CAS:528:DC%2BD2sXhtlWqsLzF&md5=717b76095e3d986bb126fe1e1945687bCAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BD2sXhtlWqsLzF&md5=717b76095e3d986bb126fe1e1945687b) | [18020445PubMed](https://pubmed.ncbi.nlm.nih.gov/18020445) |   
+  
+
+[23]  A. A. Mohamed, H. E. Abdou, A. Mayer, J. P. Fackler, _J. Clust. Sci._
+**2008 __**,_19_ , 551.  
+         | [Crossref](https://doi.org/10.1007/S10876-008-0198-1) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=J. Clust. Sci.&volume=19&pages=551-&publication_year=2008&author=A%2E%20A%2E%20Mohamed&hl=en&doi=10.1007/S10876-008-0198-1) | [1:CAS:528:DC%2BD1cXhsV2gur%2FP&md5=486a3182d9db14a19cb6e36173b09c67CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BD1cXhsV2gur%2FP&md5=486a3182d9db14a19cb6e36173b09c67) |   
+  
+
+[24]  J. P. Coyle, P. A. Johnson, G. A. DiLabio, S. T. Barry, J. Müller,
+_Inorg. Chem._ **2010 __**,_49_ , 2844.  
+         | [Crossref](https://doi.org/10.1021/IC902247W) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Inorg. Chem.&volume=49&pages=2844-&publication_year=2010&author=J%2E%20P%2E%20Coyle&hl=en&doi=10.1021/IC902247W) | [1:CAS:528:DC%2BC3cXhvVGqu7Y%3D&md5=5a67573bedbf4d6a88a37ade0e4e4976CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BC3cXhvVGqu7Y%3D&md5=5a67573bedbf4d6a88a37ade0e4e4976) | [20151641PubMed](https://pubmed.ncbi.nlm.nih.gov/20151641) |   
+  
+
+[25]  J. A. Bertke, S. D. Bunge, _Dalton Trans._ **2007 __**, 4647.  
+         | [Crossref](https://doi.org/10.1039/B712054K) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Dalton Trans.&volume=&pages=4647-&publication_year=2007&author=J%2E%20A%2E%20Bertke&hl=en&doi=10.1039/B712054K) | [1:CAS:528:DC%2BD2sXhtFKrtr7O&md5=a19e3fef367feb3e2b4b11cf49636b99CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BD2sXhtFKrtr7O&md5=a19e3fef367feb3e2b4b11cf49636b99) | [17940644PubMed](https://pubmed.ncbi.nlm.nih.gov/17940644) |   
+  
+
+[26]  S. D. Bunge, J. M. Lance, J. A. Bertke, _Organometallics_ **2007
+__**,_26_ , 6320.  
+         | [Crossref](https://doi.org/10.1021/OM700501G) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Organometallics&volume=26&pages=6320-&publication_year=2007&author=S%2E%20D%2E%20Bunge&hl=en&doi=10.1021/OM700501G) | [1:CAS:528:DC%2BD2sXht1KisbbM&md5=c535d9167a92c1a8a7e39b3344da0040CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BD2sXht1KisbbM&md5=c535d9167a92c1a8a7e39b3344da0040) |   
+  
+
+[27]  T. L. Cleland, S. D. Bunge, _Polyhedron_ **2007 __**,_26_ , 5506.  
+         | [Crossref](https://doi.org/10.1016/J.POLY.2007.08.013) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Polyhedron&volume=26&pages=5506-&publication_year=2007&author=T%2E%20L%2E%20Cleland&hl=en&doi=10.1016/J.POLY.2007.08.013) | [1:CAS:528:DC%2BD2sXht1Giu7vN&md5=f2d612e79eb959987890be4dc6758bfbCAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BD2sXht1Giu7vN&md5=f2d612e79eb959987890be4dc6758bfb) |   
+  
+
+[28]  S. D. Bunge, J. A. Bertke, T. L. Cleland, _Inorg. Chem._ **2009
+__**,_48_ , 8037.  
+         | [Crossref](https://doi.org/10.1021/IC9007153) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Inorg. Chem.&volume=48&pages=8037-&publication_year=2009&author=S%2E%20D%2E%20Bunge&hl=en&doi=10.1021/IC9007153) | [1:CAS:528:DC%2BD1MXovVelsL0%3D&md5=d8477a2d7aed927a74ed00eaceed36e8CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BD1MXovVelsL0%3D&md5=d8477a2d7aed927a74ed00eaceed36e8) | [19624099PubMed](https://pubmed.ncbi.nlm.nih.gov/19624099) |   
+  
+
+[29]  S. D. Bunge, J. A. Ocana, T. L. Cleland, J. L. Steele, _Inorg. Chem._
+**2009 __**,_48_ , 4619.  
+         | [Crossref](https://doi.org/10.1021/IC9003627) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Inorg. Chem.&volume=48&pages=4619-&publication_year=2009&author=S%2E%20D%2E%20Bunge&hl=en&doi=10.1021/IC9003627) | [1:CAS:528:DC%2BD1MXkvVyktL8%3D&md5=8b4dac060237973cc13dcdf6feae9dbaCAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BD1MXkvVyktL8%3D&md5=8b4dac060237973cc13dcdf6feae9dba) | [19388654PubMed](https://pubmed.ncbi.nlm.nih.gov/19388654) |   
+  
+
+[30]  T. E. Janini, R. Rakosi, C. B. Durr, J. A. Bertke, S. D. Bunge, _Dalton
+Trans._ **2009 __**, 10601.  
+         | [Crossref](https://doi.org/10.1039/B917377C) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Dalton Trans.&volume=&pages=10601-&publication_year=2009&author=T%2E%20E%2E%20Janini&hl=en&doi=10.1039/B917377C) | [1:CAS:528:DC%2BD1MXhsVOhtLzK&md5=303361c9ba210d87d560e72b389df907CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BD1MXhsVOhtLzK&md5=303361c9ba210d87d560e72b389df907) | [20023885PubMed](https://pubmed.ncbi.nlm.nih.gov/20023885) |   
+  
+
+[31]  J. D. Monegan, S. D. Bunge, _Inorg. Chem._ **2009 __**,_48_ , 3248.  
+         | [Crossref](https://doi.org/10.1021/IC8022776) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Inorg. Chem.&volume=48&pages=3248-&publication_year=2009&author=J%2E%20D%2E%20Monegan&hl=en&doi=10.1021/IC8022776) | [1:CAS:528:DC%2BD1MXit1Kltr0%3D&md5=e52659f2dcd4d3e5a8e434e6b505bb94CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BD1MXit1Kltr0%3D&md5=e52659f2dcd4d3e5a8e434e6b505bb94) | [19239201PubMed](https://pubmed.ncbi.nlm.nih.gov/19239201) |   
+  
+
+[32]  A. M. Willcocks, T. P. Robinson, C. Roche, T. Pugh, S. P. Richards, A.
+J. Kingsley, J. P. Lowe, A. L. Johnson, _Inorg. Chem._ **2012 __**,_51_ , 246.  
+         | [Crossref](https://doi.org/10.1021/IC201602M) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Inorg. Chem.&volume=51&pages=246-&publication_year=2012&author=A%2E%20M%2E%20Willcocks&hl=en&doi=10.1021/IC201602M) | [1:CAS:528:DC%2BC3MXhs1ajsbjO&md5=aab6f91e1cbcd90a254f472b6a0067bbCAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BC3MXhs1ajsbjO&md5=aab6f91e1cbcd90a254f472b6a0067bb) | [22168209PubMed](https://pubmed.ncbi.nlm.nih.gov/22168209) |   
+  
+
+[33]  A. D. Becke, _J. Chem. Phys._ **1993 __**,_98_ , 5648.  
+         | [Crossref](https://doi.org/10.1063/1.464913) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=J. Chem. Phys.&volume=98&pages=5648-&publication_year=1993&author=A%2E%20D%2E%20Becke&hl=en&doi=10.1063/1.464913) | [1:CAS:528:DyaK3sXisVWgtrw%3D&md5=bd225cbbb5eb5750cbd4a95028b56b80CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DyaK3sXisVWgtrw%3D&md5=bd225cbbb5eb5750cbd4a95028b56b80) |   
+  
+
+[34]  C. Lee, W. Yang, R. G. Parr, _Phys. Rev._ **1998 __**,_B37_ , 785.  
+  
+
+[35]  A. J. H. Wachters, _J. Chem. Phys._ **1970 __**,_52_ , 1033.  
+         | [Crossref](https://doi.org/10.1063/1.1673095) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=J. Chem. Phys.&volume=52&pages=1033-&publication_year=1970&author=A%2E%20J%2E%20H%2E%20Wachters&hl=en&doi=10.1063/1.1673095) | [1:CAS:528:DyaE3cXotlSrtQ%3D%3D&md5=9a94418800b35fd914ef09bdee83ad16CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DyaE3cXotlSrtQ%3D%3D&md5=9a94418800b35fd914ef09bdee83ad16) |   
+  
+
+[36]  P. J. Hay, _J. Chem. Phys._ **1977 __**,_66_ , 4377.  
+         | [Crossref](https://doi.org/10.1063/1.433731) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=J. Chem. Phys.&volume=66&pages=4377-&publication_year=1977&author=P%2E%20J%2E%20Hay&hl=en&doi=10.1063/1.433731) | [1:CAS:528:DyaE2sXksVCntb0%3D&md5=eaab40fab95c830bd82fcf632e1baee4CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DyaE2sXksVCntb0%3D&md5=eaab40fab95c830bd82fcf632e1baee4) |   
+  
+
+[37]  A. E. Reed, R. B. Weinstock, F. Weinhold, _J. Chem. Phys._ **1985
+__**,_83_ , 735.  
+         | [Crossref](https://doi.org/10.1063/1.449486) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=J. Chem. Phys.&volume=83&pages=735-&publication_year=1985&author=A%2E%20E%2E%20Reed&hl=en&doi=10.1063/1.449486) | [1:CAS:528:DyaL2MXltFSisLY%3D&md5=aceb541a1fe9d5614d3d50316f774022CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DyaL2MXltFSisLY%3D&md5=aceb541a1fe9d5614d3d50316f774022) |   
+  
+
+[38]  _Spartan ‘04 for Windows_ **2004** (Wavefunction, Inc.: Irvine, CA).  
+  
+
+[39]  M. J. Frisch, G. W. Trucks, H. B. Schlegel, G. E. Scuseria, M. A. Robb,
+J. R. Cheeseman, V. G. Zakrzewski, J. A. Montgomery, R. E. Stratmann, J. C.
+Burant, S. Dapprich, J. M. Millam, A. D. Daniels, K. N. Kudin, M. C. Strain,
+O. Farkas, J. Tomasi, V. Barone, M. Cossi, R. Cammi, B. Mennucci, C. Pomelli,
+C. Adamo, S. Clifford, J. Ochterski, G. A. Petersson, P. Y. Ayala, Q. Cui, K.
+Morokuma, D. K. Malick, A. D. Rabuck, K. Raghavachari, J. B. Foresman, J.
+Cioslowski, J. V. Ortiz, B. B. Stefanov, G. Liu, A. Liashenko, P. Piskorz, I.
+Komaromi, R. Gomperts, R. L. Martin, D. J. Fox, T. Keith, M. A. Al-Laham, C.
+Y. Peng, A. Nanayakkara, C. Gonzalez, M. Challacombe, P. M. W. Gill, B.
+Johnson, W. Chen, M. W. Wong, J. L. Andres, C. Gonzalez, M. Head-Gordon, E. S.
+Replogle, J. A. Pople, _Gaussian 98, Revision A.11.2_ **2001** (Gaussian,
+Inc.: Pittsburgh, PA).  
+  
+
+[40]  E. D. Glendening, A. E. Reed, J. E. Carpenter, F. Weinhold, _NBO Version
+3.1_ **1996** (Theoretical Chemistry Institute, University of Wisconsin:
+Madison, WI)  
+  
+
+[41]  H. Shen, H. S. Chan, Z. W. Xie, _Organometallics_ **2006 __**,_25_ ,
+5515.  
+         | [Crossref](https://doi.org/10.1021/OM060811X) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Organometallics&volume=25&pages=5515-&publication_year=2006&author=H%2E%20Shen&hl=en&doi=10.1021/OM060811X) | [1:CAS:528:DC%2BD28XhtVOiu7nL&md5=d9469ef635f2cfbdf62356db7e8d5047CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BD28XhtVOiu7nL&md5=d9469ef635f2cfbdf62356db7e8d5047) |   
+  
+
+[42]  M. K. T. Tin, G. P. A. Yap, D. S. Richeson, _Inorg. Chem._ **1999
+__**,_38_ , 998.  
+         | [Crossref](https://doi.org/10.1021/IC980709V) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Inorg. Chem.&volume=38&pages=998-&publication_year=1999&author=M%2E%20K%2E%20T%2E%20Tin&hl=en&doi=10.1021/IC980709V) | [1:CAS:528:DyaK1MXhtFagtrk%3D&md5=7a8eba56e506e996130d09c95b0c2d46CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DyaK1MXhtFagtrk%3D&md5=7a8eba56e506e996130d09c95b0c2d46) |   
+  
+
+[43]  A. Baunemann, M. Winter, K. Csapek, C. Gemel, R. A. Fischer, _Eur. J.
+Inorg. Chem._ **2006 __**, 4665.  
+         | [Crossref](https://doi.org/10.1002/EJIC.200600653) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Eur. J. Inorg. Chem.&volume=&pages=4665-&publication_year=2006&author=A%2E%20Baunemann&hl=en&doi=10.1002/EJIC.200600653) | [1:CAS:528:DC%2BD28XhtlWnsr3L&md5=50906cce7ea7cee98cb793d86d53d8dbCAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BD28XhtlWnsr3L&md5=50906cce7ea7cee98cb793d86d53d8db) |   
+  
+
+[44]  H. Hao, C. Cui, G. Bai, H. W. Roesky, M. Noltemeyer, H.-G. Schmidt, Y.
+Ding, _Z. Anorg. Allg. Chem._ **2000 __**,_626_ , 1660.  
+         | [Crossref](https://doi.org/10.1002/1521-3749\(200007\)626:7<1660::AID-ZAAC1660>3.0.CO;2-J) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Z. Anorg. Allg. Chem.&volume=626&pages=1660-&publication_year=2000&author=H%2E%20Hao&hl=en&doi=10.1002/1521-3749\(200007\)626:7<1660::AID-ZAAC1660>3.0.CO;2-J) | [1:CAS:528:DC%2BD3cXltV2ltr4%3D&md5=51ede7467b4feaf99efe3740edcfea6dCAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BD3cXltV2ltr4%3D&md5=51ede7467b4feaf99efe3740edcfea6d) |   
+  
+
+[45]  X.-A. Pang, Y.-M. Yao, J.-F. Wang, H.-T. Sheng, Y. Zhang, Q. Shen,
+_Chin. J. Chem._ **2005 __**,_23_ , 1193.  
+         | [Crossref](https://doi.org/10.1002/CJOC.200591193) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Chin. J. Chem.&volume=23&pages=1193-&publication_year=2005&author=X%2E%2DA%2E%20Pang&hl=en&doi=10.1002/CJOC.200591193) | [1:CAS:528:DC%2BD2MXhtVSkt7vM&md5=5ae5d5cc2ca616b9aa0230298d828797CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BD2MXhtVSkt7vM&md5=5ae5d5cc2ca616b9aa0230298d828797) |   
+  
+
+[46]  Y. Zhang, M. Wang, Y. Yao, Q. Shen, _Chin. Sci. Bull._ **2005 __**,_50_
+, 2817.  
+         | [1:CAS:528:DC%2BD28XhsVertbs%3D&md5=591a32a4e7c55961754b0b7c9728913aCAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BD28XhsVertbs%3D&md5=591a32a4e7c55961754b0b7c9728913a) |   
+  
+
+[47]  H. Shen, H.-S. Chan, Z. Xie, _J. Am. Chem. Soc._ **2007 __**,_129_ ,
+12934.  
+         | [Crossref](https://doi.org/10.1021/JA0754498) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=J. Am. Chem. Soc.&volume=129&pages=12934-&publication_year=2007&author=H%2E%20Shen&hl=en&doi=10.1021/JA0754498) | [1:CAS:528:DC%2BD2sXhtFWksbnM&md5=6aceae4f98df63f39cfc37effb054237CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BD2sXhtFWksbnM&md5=6aceae4f98df63f39cfc37effb054237) | [17918846PubMed](https://pubmed.ncbi.nlm.nih.gov/17918846) |   
+  
+
+[48]  J.-F. Sun, X.-T. Chen, Z.-L. Xue, _Inorg. Chim. Acta_ **2009 __**,_362_
+, 4251.  
+         | [Crossref](https://doi.org/10.1016/J.ICA.2009.05.049) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Inorg. Chim. Acta&volume=362&pages=4251-&publication_year=2009&author=J%2E%2DF%2E%20Sun&hl=en&doi=10.1016/J.ICA.2009.05.049) | [1:CAS:528:DC%2BD1MXps1SqtLo%3D&md5=04e892e63916fa85bb1e0ed7b4573d49CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BD1MXps1SqtLo%3D&md5=04e892e63916fa85bb1e0ed7b4573d49) |   
+  
+
+[49]  T. K. Panda, H. Tsurugi, K. Pal, H. Kaneko, K. Mashima,
+_Organometallics_ **2010 __**,_29_ , 34.  
+         | [Crossref](https://doi.org/10.1021/OM901027V) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Organometallics&volume=29&pages=34-&publication_year=2010&author=T%2E%20K%2E%20Panda&hl=en&doi=10.1021/OM901027V) | [1:CAS:528:DC%2BD1MXhsFensLvL&md5=9c645605dcb204dfde8191e4db79e364CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BD1MXhsFensLvL&md5=9c645605dcb204dfde8191e4db79e364) |   
+  
+
+[50]  B. Sharma, S.-J. Chen, J. K. C. Abbott, X.-T. Chen, Z.-L. Xue, _Inorg.
+Chem._ **2012 __**,_51_ , 25.  
+         | [Crossref](https://doi.org/10.1021/IC2021676) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Inorg. Chem.&volume=51&pages=25-&publication_year=2012&author=B%2E%20Sharma&hl=en&doi=10.1021/IC2021676) | [1:CAS:528:DC%2BC3MXhs1ajsL3P&md5=cfe3a630033fd123aacf684e79a918e5CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BC3MXhs1ajsL3P&md5=cfe3a630033fd123aacf684e79a918e5) | [22168235PubMed](https://pubmed.ncbi.nlm.nih.gov/22168235) |   
+  
+
+[51]  G. R. Giesbrecht, A. Shafir, J. Arnold, _J. Chem. Soc., Dalton Trans._
+**1999 __**, 3601.  
+         | [Crossref](https://doi.org/10.1039/A904295D) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=J. Chem. Soc., Dalton Trans.&volume=&pages=3601-&publication_year=1999&author=G%2E%20R%2E%20Giesbrecht&hl=en&doi=10.1039/A904295D) | [1:CAS:528:DyaK1MXms1Cmt7c%3D&md5=092b2abf97dbc443637d7ddfaa6292ddCAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DyaK1MXms1Cmt7c%3D&md5=092b2abf97dbc443637d7ddfaa6292dd) |   
+  
+
+[52]  D. Rudolf, E. Kaifer, H. J. Himmel, _Eur. J. Inorg. Chem._ **2010 __**,
+4952.  
+         | [Crossref](https://doi.org/10.1002/EJIC.201000598) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Eur. J. Inorg. Chem.&volume=&pages=4952-&publication_year=2010&author=D%2E%20Rudolf&hl=en&doi=10.1002/EJIC.201000598) | [1:CAS:528:DC%2BC3cXhtlalu7vJ&md5=11194b6217b32e3198486b7a5f3b57e6CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BC3cXhtlalu7vJ&md5=11194b6217b32e3198486b7a5f3b57e6) |   
+  
+
+[53]  H. F. Han, W. J. Li, H. Y. Li, _Acta Crystallogr. E_ **2010 __**,_E66_ ,
+m1579.  
+         | [Crossref](https://doi.org/10.1107/S1600536810046477) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Acta Crystallogr. E&volume=E66&pages=m1579-&publication_year=2010&author=H%2E%20F%2E%20Han&hl=en&doi=10.1107/S1600536810046477) |   
+  
+
+[54]  X. A. Pang, Y. M. Yao, J. F. Wang, H. T. Sheng, Y. Zhang, Q. Shen,
+_Chin. J. Chem._ **2005 __**,_23_ , 1193.  
+         | [Crossref](https://doi.org/10.1002/CJOC.200591193) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Chin. J. Chem.&volume=23&pages=1193-&publication_year=2005&author=X%2E%20A%2E%20Pang&hl=en&doi=10.1002/CJOC.200591193) | [1:CAS:528:DC%2BD2MXhtVSkt7vM&md5=5ae5d5cc2ca616b9aa0230298d828797CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BD2MXhtVSkt7vM&md5=5ae5d5cc2ca616b9aa0230298d828797) |   
+  
+
+[55]  C. L. Boyd, B. R. Tyrrell, P. Mountford, _Acta Crystallogr. E_ **2002
+__**,_E58_ , m597.  
+         | [Crossref](https://doi.org/10.1107/S1600536802017579) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Acta Crystallogr. E&volume=E58&pages=m597-&publication_year=2002&author=C%2E%20L%2E%20Boyd&hl=en&doi=10.1107/S1600536802017579) |   
+  
+
+[56]  C. F. Caro, P. B. Hitchcock, M. F. Lappert, M. Layh, _Chem. Commun._
+**1998 __**,_12_ , 1297.  
+         | [Crossref](https://doi.org/10.1039/A708976G) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Chem. Commun.&volume=12&pages=1297-&publication_year=1998&author=C%2E%20F%2E%20Caro&hl=en&doi=10.1039/A708976G) |   
+  
+
+[57]  L. Yang, D. R. Powell, R. P. Houser, _Dalton Trans._ **2007 __**, 955.  
+         | [Crossref](https://doi.org/10.1039/B617136B) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Dalton Trans.&volume=&pages=955-&publication_year=2007&author=L%2E%20Yang&hl=en&doi=10.1039/B617136B) | [17308676PubMed](https://pubmed.ncbi.nlm.nih.gov/17308676) |   
+  
+
+[58]  F. A. Cotton, X. J. Feng, D. J. Timmons, _Inorg. Chem._ **1998 __**,_37_
+, 4066.  
+         | [Crossref](https://doi.org/10.1021/IC980137E) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Inorg. Chem.&volume=37&pages=4066-&publication_year=1998&author=F%2E%20A%2E%20Cotton&hl=en&doi=10.1021/IC980137E) | [1:CAS:528:DyaK1cXkvF2jurs%3D&md5=bcbef19569119723b57b9f49fc27119cCAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DyaK1cXkvF2jurs%3D&md5=bcbef19569119723b57b9f49fc27119c) | [11670525PubMed](https://pubmed.ncbi.nlm.nih.gov/11670525) |   
+  
+
+[59]  F. A. Cotton, G. Wilkinson, C. A. Murillo, M. Bochmann, _Advances in
+Inorganic Chemistry_ **1999** (Wiley-Interscience: New York, NY).  
+  
+
+[60]  B. S. Lim, A. Rahtu, J. S. Park, R. G. Gordon, _Inorg. Chem._ **2003
+__**,_42_ , 7951.  
+         | [Crossref](https://doi.org/10.1021/IC0345424) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Inorg. Chem.&volume=42&pages=7951-&publication_year=2003&author=B%2E%20S%2E%20Lim&hl=en&doi=10.1021/IC0345424) | [1:CAS:528:DC%2BD3sXosVSnt7g%3D&md5=e2542b4d170f34877c4cfdc7746cb430CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BD3sXosVSnt7g%3D&md5=e2542b4d170f34877c4cfdc7746cb430) | [14632513PubMed](https://pubmed.ncbi.nlm.nih.gov/14632513) |   
+  
+
+[61]  J. P. Coyle, W. H. Monillas, G. P. A. Yap, S. T. Barry, _Inorg. Chem._
+**2008 __**,_47_ , 683.  
+         | [Crossref](https://doi.org/10.1021/IC701317Y) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Inorg. Chem.&volume=47&pages=683-&publication_year=2008&author=J%2E%20P%2E%20Coyle&hl=en&doi=10.1021/IC701317Y) | [1:CAS:528:DC%2BD2sXhsVCrsbzE&md5=e3a3dab8399c6ae16fe63b591ff0e612CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BD2sXhsVCrsbzE&md5=e3a3dab8399c6ae16fe63b591ff0e612) | [18095672PubMed](https://pubmed.ncbi.nlm.nih.gov/18095672) |   
+  
+
+[62]  Z. W. Li, S. T. Barry, R. G. Gordon, _Inorg. Chem._ **2005 __**,_44_ ,
+1728.  
+         | [Crossref](https://doi.org/10.1021/IC048492U) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Inorg. Chem.&volume=44&pages=1728-&publication_year=2005&author=Z%2E%20W%2E%20Li&hl=en&doi=10.1021/IC048492U) | [1:CAS:528:DC%2BD2MXptlShsg%3D%3D&md5=595a530fa741ae0abd4d3edee1f29cf5CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BD2MXptlShsg%3D%3D&md5=595a530fa741ae0abd4d3edee1f29cf5) |   
+  
+
+[63]  S. Patai, Z. Rappoport, _The Chemistry of Amidines and Imidinates_ (_2_)
+**1991** (Wiley: New York, NY).  
+  
+
+[64]  M. P. Coles, P. B. Hitchcock, _Organometallics_ **2003 __**,_22_ , 5201.  
+         | [Crossref](https://doi.org/10.1021/OM0341092) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Organometallics&volume=22&pages=5201-&publication_year=2003&author=M%2E%20P%2E%20Coles&hl=en&doi=10.1021/OM0341092) | [1:CAS:528:DC%2BD3sXos1aqurY%3D&md5=b1f986593bafedc69baf4182d1eb66c6CAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BD3sXos1aqurY%3D&md5=b1f986593bafedc69baf4182d1eb66c6) |   
+  
+
+[65]  C. Jones, C. Schulten, L. Fohlmeister, A. Stasch, K. S. Murray, B.
+Moubaraki, S. Kohl, M. Z. Ertem, L. Gagliardi, C. J. Cramer, _Chem. Eur. J._
+**2011 __**,_17_ , 1294.  
+         | [Crossref](https://doi.org/10.1002/CHEM.201002388) | [GoogleScholarGoogle Scholar](https://scholar.google.com/scholar_lookup?title=&journal=Chem. Eur. J.&volume=17&pages=1294-&publication_year=2011&author=C%2E%20Jones&hl=en&doi=10.1002/CHEM.201002388) | [1:CAS:528:DC%2BC3MXmvVSktg%3D%3D&md5=67e654e0523ab80d6b9039fb62087bcfCAS](https://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&action=reflink&origin=csiro&version=1.0&pissn=0004-9425&pyear=2014&coi=1:CAS:528:DC%2BC3MXmvVSktg%3D%3D&md5=67e654e0523ab80d6b9039fb62087bcf) | [21243697PubMed](https://pubmed.ncbi.nlm.nih.gov/21243697) |   
+  
+  
+
+[](/ch/PublishingPolicies)
+
+[ Full Text ](/ch/Fulltext/CH14134) [PDF (731 KB)](/ch/pdf/CH14134)
+
+[Supplementary MaterialSupplementary Material (1.3
+MB)](/ch/acc/CH14134/CH14134_AC.pdf)
+
+[Export Citation](/ch/ExportCitation/CH14134) [Get
+Permission](https://www.copyright.com/openurl.do?contentIdType=doi&issn=0004-9425&contentID=10.1071/CH14134)
+
+Share
+
+[](/linkout/facebook/u=www.publish.csiro.au/ch/CH14134)
+[](/linkout/twitter/url=www.publish.csiro.au/ch/CH14134&text=Synthesis and
+Structural Characterization of a Series of Group 11
+2,2-Dialkyl-1,3-dicyclohexylguanidinate Complexes)
+[](/linkout/linkedin/mini=true&url=www.publish.csiro.au/ch/CH14134)
+[](mailto:?to=&subject=Currently reading in Australian Journal of
+Chemistry&body=Synthesis and Structural Characterization of a Series of Group
+11 2,2-Dialkyl-1,3-dicyclohexylguanidinate Complexes
+https://www.publish.csiro.au/ch/CH14134)
+
+View Dimensions
+
+[ 5 CITATIONS
+](https://badge.dimensions.ai/details/doi/10.1071/CH14134?domain=https://www.publish.csiro.au)
+
+## Journal Navigation
+
+  * Left Panel Navigation[Journal Home](/ch)
+    * [About the Journal](/ch/AbouttheJournal)
+    * [Editorial Structure](/ch/EditorialStructure)
+    * [Publishing Policies](/ch/PublishingPolicies)
+    * [Lower Income Countries](/ch/LowerIncomeCountries)
+    * [Contacts](/ch/Contacts)
+  * Left Panel Navigation[Content](/ch/content)
+    * [Left Panel NavigationLatest](/ch#Latest)
+    * [Left Panel NavigationJust Accepted](/ch#JustAccepted)
+    * [Left Panel NavigationMost Read](/ch#MostRead)
+    * [Left Panel NavigationCollections](/ch#Collections)
+    * [Call for Papers](/ch/content/CallforPapers)
+    * [All Content](/ch/content/allissues)
+    * [Special Issues](/ch/content/specialissues)
+    * [Research Fronts](/ch/content/researchfronts)
+  * Left Panel Navigation[For Authors](/ch/forauthors)
+    * [General Information](/ch/forauthors/GeneralInformation)
+    * [Scope](/ch/forauthors/Scope)
+    * Submit Article 
+    * [Author Instructions](/ch/forauthors/AuthorInstructions)
+    * [Licence to Publish](/ch/forauthors/LicencetoPublish)
+    * [Open Access](/ch/forauthors/OpenAccess)
+    * [Read and Publish](/ch/forauthors/ReadandPublish)
+    * [Publishing Charges](/ch/forauthors/PublishingCharges)
+  * Left Panel Navigation[For Reviewers](/ch/forreviewers)
+    * [Reviewer Guidelines](/ch/forreviewers/ReviewerGuidelines)
+    * Review Article 
+    * [Reviewer Recognition](/ch/forreviewers/ReviewerRecognition)
+    * [Annual Reviewer Index](/ch/forreviewers/AnnualReviewerIndex)
+  * Left Panel Navigation[For Subscribers](/ch/forsubscribers)
+    * [Subscription Prices](/ch/forsubscribers/SubscriptionPrices)
+    * [Customer Service](/ch/forsubscribers/customerservice)
+    * [Library Recommendation](/ch/forsubscribers/libraryrecommendation)
+  * Left Panel Navigation[For Advertisers](/ch/foradvertisers)
+
+## e-Alerts
+
+Subscribe to our [Email Alert](?nid=25&aid=685) or
+[](http://www.publish.csiro.au/RSS_Feed/CSIRO_Publishing_Recent_CH.xml) feeds
+for the latest journal papers.
+
+  
+
+## Affiliated with RACI
+
+[](http://www.raci.org.au)  
+[Royal Australian  
+Chemical Institute](http://www.raci.org.au)
+
+## Connect with AJC
+
+[](https://twitter.com/AusJChem
+
+)
+
+## Links
+
+Links first column
+
+  * [About Us](/aboutus)
+  * [Contact Us](/aboutus/contactus)
+  * [Help](/aboutus/help)
+  * [Workshops](/workshops)
+  * [Cosmos ](/learning/cosmos)
+
+## Browse by subject
+
+Browse by subject first column
+
+  * [Animals](/Animals)
+  * [Built Environment](/BuiltEnvironment)
+  * [Food & Agriculture](/FoodAndAgriculture)
+  * [Gardening & Horticulture](/GardeningAndHorticulture)
+  * [Children](/Children)
+
+Browse by subject second column
+
+  * [Marine & Freshwater](/MarineAndFreshwater)
+  * [Natural Environment](/NaturalEnvironment)
+  * [Physical Sciences](/PhysicalSciences)
+  * [Plants & Fungi](/PlantsAndFungi)
+  * [Science in Society](/ScienceinSociety)
+
+## Connect with us
+
+[](https://www.facebook.com/pages/CSIRO-PUBLISHING/70534682887)
+[](https://twitter.com/CSIROPublishing)
+[](https://www.instagram.com/csiropublishing/)
+[](https://www.linkedin.com/company/csiro-publishing)
+
+We acknowledge the Traditional Owners of the land, sea and waters, of the
+areas that we live and work on across Australia. We acknowledge their
+continuing connection to their culture, their contribution to our shared
+knowledge, and pay our respects to their Elders past and present.
+
+[Copyright](/journals/copyright) [Legal Notice and
+Disclaimer](/aboutus/legal&privacy) [Privacy](/aboutus/legal&privacy#7)
+
+[](https://www.csiro.au) [](http://www.science.org.au)
+

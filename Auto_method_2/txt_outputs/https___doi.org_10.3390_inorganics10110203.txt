@@ -1,0 +1,2607 @@
+[](https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/)
+
+  * Consent
+  * Details
+  * [#IABV2SETTINGS#]
+  * About
+
+## This website uses cookies
+
+We use cookies to personalise content and ads, to provide social media
+features and to analyse our traffic. We also share information about your use
+of our site with our social media, advertising and analytics partners who may
+combine it with other information that you’ve provided to them or that they’ve
+collected from your use of their services.
+
+Consent Selection
+
+**Necessary**
+
+**Preferences**
+
+**Statistics**
+
+**Marketing**
+
+Show details
+
+  * Necessary  28
+
+Necessary cookies help make a website usable by enabling basic functions like
+page navigation and access to secure areas of the website. The website cannot
+function properly without these cookies.
+
+    * Cookiebot1[Learn more about this provider](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy")
+
+**1.gif** Used to count the number of sessions to the website, necessary for
+optimizing CMP product delivery.
+
+**Maximum Storage Duration** : Session**Type** : Pixel Tracker
+
+    * CrazyEgg1[Learn more about this provider](https://www.crazyegg.com/privacy "CrazyEgg's privacy policy")
+
+**_ce.cch** Stores the user's cookie consent state for the current domain
+
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+
+    * Google2[Learn more about this provider](https://business.safety.google/privacy/ "Google's privacy policy")
+
+Some of the data collected by this provider is for the purposes of
+personalization and measuring advertising effectiveness.
+
+**test_cookie** Used to check if the user's browser supports cookies.
+
+**Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
+
+**ar_debug** Checks whether a technical debugger-cookie is present.
+
+**Maximum Storage Duration** : 3 months**Type** : HTTP Cookie
+
+    * LinkedIn1[Learn more about this provider](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy")
+
+**li_gc** Stores the user's cookie consent state for the current domain
+
+**Maximum Storage Duration** : 180 days**Type** : HTTP Cookie
+
+    * commenting.mdpi.com2
+
+**SESS#** Preserves users states across page requests.
+
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+
+**XSRF-TOKEN** Ensures visitor browsing-security by preventing cross-site
+request forgery. This cookie is essential for the security of the website and
+visitor.
+
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+
+    * commenting.mdpi.com  
+consent.cookiebot.com  
+2
+
+**CookieConsent  [x2]**Stores the user's cookie consent state for the current
+domain
+
+**Maximum Storage Duration** : 1 year**Type** : HTTP Cookie
+
+    * matomo.mdpi.com1
+
+**_pk_testcookie_domain** This cookie determines whether the browser accepts
+cookies.
+
+**Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
+
+    * mdpi.com4
+
+**__cfruid** This cookie is a part of the services provided by Cloudflare -
+Including load-balancing, deliverance of website content and serving DNS
+connection for website operators.
+
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+
+**_cfuvid** This cookie is a part of the services provided by Cloudflare -
+Including load-balancing, deliverance of website content and serving DNS
+connection for website operators.
+
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+
+**cf_clearance** This cookie is used to distinguish between humans and bots.
+
+**Maximum Storage Duration** : 1 year**Type** : HTTP Cookie
+
+**MDPIPHPSESSID** Pending
+
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+
+    * mdpi.com  
+mdpi.org  
+mdpi-res.com  
+t.co  
+4
+
+**__cf_bm  [x4]**This cookie is used to distinguish between humans and bots.
+This is beneficial for the website, in order to make valid reports on the use
+of their website.
+
+**Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
+
+    * script.crazyegg.com  
+www.mdpi.com  
+2
+
+**ce_successful_csp_check  [x2]**Detects whether user behaviour tracking
+should be active on the website.
+
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+
+    * www.jisc.ac.uk1
+
+**AWSALBCORS** Registers which server-cluster is serving the visitor. This is
+used in context with load balancing, in order to optimize user experience.
+
+**Maximum Storage Duration** : 7 days**Type** : HTTP Cookie
+
+    * www.mdpi.com7
+
+**iconify0** Used by the website's content management system (CMS) to
+determine how the website's menu-tabs should be displayed.
+
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+
+**iconify1** This cookie is set to ensure proper product displays on the
+website.
+
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+
+**iconify2** Used by the website's content management system (CMS) to
+determine how the website's menu-tabs should be displayed.
+
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+
+**iconify3** Determines the device used to access the website. This allows the
+website to be formatted accordingly.
+
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+
+**iconify4** Used by the website's content management system (CMS) to
+determine how the website's menu-tabs should be displayed.
+
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+
+**iconify-count** Used by the website's content management system (CMS) to
+determine how the website's menu-tabs should be displayed.
+
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+
+**iconify-version** Used by the website's content management system (CMS) to
+determine how the website's menu-tabs should be displayed.
+
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+
+  * Preferences  3
+
+Preference cookies enable a website to remember information that changes the
+way the website behaves or looks, like your preferred language or the region
+that you are in.
+
+    * LinkedIn1[Learn more about this provider](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy")
+
+**lidc** Registers which server-cluster is serving the visitor. This is used
+in context with load balancing, in order to optimize user experience.
+
+**Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
+
+    * www.mdpi.com2
+
+**mdpi_layout_type** This cookie is used to store user setting of using fixed
+desktop layout instead of the default responsive layout
+
+**Maximum Storage Duration** : 1 year**Type** : HTTP Cookie
+
+**settings** This cookie is used to determine the preferred language of the
+visitor and sets the language accordingly on the website, if possible.
+
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+
+  * Statistics  22
+
+Statistic cookies help website owners to understand how visitors interact with
+websites by collecting and reporting information anonymously.
+
+    * CrazyEgg5[Learn more about this provider](https://www.crazyegg.com/privacy "CrazyEgg's privacy policy")
+
+**_ce.clock_data** Collects data on the user’s navigation and behavior on the
+website. This is used to compile statistical reports and heatmaps for the
+website owner.
+
+**Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
+
+**_ce.s** Collects data on the user’s navigation and behavior on the website.
+This is used to compile statistical reports and heatmaps for the website
+owner.
+
+**Maximum Storage Duration** : 1 year**Type** : HTTP Cookie
+
+**cebs** Tracks the individual sessions on the website, allowing the website
+to compile statistical data from multiple visits. This data can also be used
+to create leads for marketing purposes.
+
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+
+**cebsp_** Collects data on the user’s navigation and behavior on the website.
+This is used to compile statistical reports and heatmaps for the website
+owner.
+
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+
+**cetabid** Sets a unique ID for the session. This allows the website to
+obtain data on visitor behaviour for statistical purposes.
+
+**Maximum Storage Duration** : Session**Type** : HTML Local Storage
+
+    * Google5[Learn more about this provider](https://business.safety.google/privacy/ "Google's privacy policy")
+
+Some of the data collected by this provider is for the purposes of
+personalization and measuring advertising effectiveness.
+
+**collect** Used to send data to Google Analytics about the visitor's device
+and behavior. Tracks the visitor across devices and marketing channels.
+
+**Maximum Storage Duration** : Session**Type** : Pixel Tracker
+
+**_ga** Registers a unique ID that is used to generate statistical data on how
+the visitor uses the website.
+
+**Maximum Storage Duration** : 2 years**Type** : HTTP Cookie
+
+**_ga_#** Used by Google Analytics to collect data on the number of times a
+user has visited the website as well as dates for the first and most recent
+visit.
+
+**Maximum Storage Duration** : 2 years**Type** : HTTP Cookie
+
+**_gat** Used by Google Analytics to throttle request rate
+
+**Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
+
+**_gid** Registers a unique ID that is used to generate statistical data on
+how the visitor uses the website.
+
+**Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
+
+    * Hotjar5[Learn more about this provider](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy")
+
+**hjActiveViewportIds** This cookie contains an ID string on the current
+session. This contains non-personal information on what subpages the visitor
+enters – this information is used to optimize the visitor's experience.
+
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+
+**hjViewportId** Saves the user's screen size in order to adjust the size of
+images on the website.
+
+**Maximum Storage Duration** : Session**Type** : HTML Local Storage
+
+**_hjSession_#** Collects statistics on the visitor's visits to the website,
+such as the number of visits, average time spent on the website and what pages
+have been read.
+
+**Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
+
+**_hjSessionUser_#** Collects statistics on the visitor's visits to the
+website, such as the number of visits, average time spent on the website and
+what pages have been read.
+
+**Maximum Storage Duration** : 1 year**Type** : HTTP Cookie
+
+**_hjTLDTest** Registers statistical data on users' behaviour on the website.
+Used for internal analytics by the website operator.
+
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+
+    * Twitter Inc.1[Learn more about this provider](https://twitter.com/en/privacy "Twitter Inc.'s privacy policy")
+
+**personalization_id** This cookie is set by Twitter - The cookie allows the
+visitor to share content from the website onto their Twitter profile.
+
+**Maximum Storage Duration** : 400 days**Type** : HTTP Cookie
+
+    * matomo.mdpi.com3
+
+**_pk_id#** Collects statistics on the user's visits to the website, such as
+the number of visits, average time spent on the website and what pages have
+been read.
+
+**Maximum Storage Duration** : 1 year**Type** : HTTP Cookie
+
+**_pk_ref#** Used by Piwik Analytics Platform to identify the referring
+website from which the visitor has come.
+
+**Maximum Storage Duration** : 6 months**Type** : HTTP Cookie
+
+**_pk_ses#** Used by Piwik Analytics Platform to track page requests from the
+visitor during the session.
+
+**Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
+
+    * script.crazyegg.com  
+www.mdpi.com  
+2
+
+**ce_fvd  [x2]**Collects data on the user’s navigation and behavior on the
+website. This is used to compile statistical reports and heatmaps for the
+website owner.
+
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+
+    * www.mdpi.com1
+
+**sentryReplaySession** Registers data on visitors' website-behaviour. This is
+used for internal analysis and website optimization.
+
+**Maximum Storage Duration** : Session**Type** : HTML Local Storage
+
+  * Marketing  41
+
+Marketing cookies are used to track visitors across websites. The intention is
+to display ads that are relevant and engaging for the individual user and
+thereby more valuable for publishers and third party advertisers.
+
+    * Meta Platforms, Inc.3[Learn more about this provider](https://www.facebook.com/policy.php/ " Meta Platforms, Inc.'s privacy policy")
+
+**lastExternalReferrer** Detects how the user reached the website by
+registering their last URL-address.
+
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+
+**lastExternalReferrerTime** Detects how the user reached the website by
+registering their last URL-address.
+
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+
+**_fbp** Used by Facebook to deliver a series of advertisement products such
+as real time bidding from third party advertisers.
+
+**Maximum Storage Duration** : 3 months**Type** : HTTP Cookie
+
+    * Google4[Learn more about this provider](https://business.safety.google/privacy/ "Google's privacy policy")
+
+Some of the data collected by this provider is for the purposes of
+personalization and measuring advertising effectiveness.
+
+**IDE** Pending
+
+**Maximum Storage Duration** : 400 days**Type** : HTTP Cookie
+
+**NID** Registers a unique ID that identifies a returning user's device. The
+ID is used for targeted ads.
+
+**Maximum Storage Duration** : 6 months**Type** : HTTP Cookie
+
+**pagead/1p-user-list/#** Tracks if the user has shown interest in specific
+products or events across multiple websites and detects how the user navigates
+between sites. This is used for measurement of advertisement efforts and
+facilitates payment of referral-fees between websites.
+
+**Maximum Storage Duration** : Session**Type** : Pixel Tracker
+
+**_gcl_au** Used by Google AdSense for experimenting with advertisement
+efficiency across websites using their services.
+
+**Maximum Storage Duration** : 3 months**Type** : HTTP Cookie
+
+    * LinkedIn1[Learn more about this provider](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy")
+
+**bcookie** Used by the social networking service, LinkedIn, for tracking the
+use of embedded services.
+
+**Maximum Storage Duration** : 1 year**Type** : HTTP Cookie
+
+    * Twitter Inc.8[Learn more about this provider](https://twitter.com/en/privacy "Twitter Inc.'s privacy policy")
+
+**1/i/adsct  [x2]**Collects data on user behaviour and interaction in order to
+optimize the website and make advertisement on the website more relevant.
+
+**Maximum Storage Duration** : Session**Type** : Pixel Tracker
+
+**i/adsct  [x2]**The cookie is used by Twitter.com in order to determine the
+number of visitors accessing the website through Twitter advertisement
+content.
+
+**Maximum Storage Duration** : Session**Type** : Pixel Tracker
+
+**muc_ads** Collects data on user behaviour and interaction in order to
+optimize the website and make advertisement on the website more relevant.
+
+**Maximum Storage Duration** : 400 days**Type** : HTTP Cookie
+
+**guest_id** Collects data related to the user's visits to the website, such
+as the number of visits, average time spent on the website and which pages
+have been loaded, with the purpose of personalising and improving the Twitter
+service.
+
+**Maximum Storage Duration** : 400 days**Type** : HTTP Cookie
+
+**guest_id_ads** Collects information on user behaviour on multiple websites.
+This information is used in order to optimize the relevance of advertisement
+on the website.
+
+**Maximum Storage Duration** : 400 days**Type** : HTTP Cookie
+
+**guest_id_marketing** Collects information on user behaviour on multiple
+websites. This information is used in order to optimize the relevance of
+advertisement on the website.
+
+**Maximum Storage Duration** : 400 days**Type** : HTTP Cookie
+
+    * YouTube22[Learn more about this provider](https://business.safety.google/privacy/ "YouTube's privacy policy")
+
+**#-#** Used to track user’s interaction with embedded content.
+
+**Maximum Storage Duration** : Session**Type** : HTML Local Storage
+
+**__Secure-ROLLOUT_TOKEN** Pending
+
+**Maximum Storage Duration** : 180 days**Type** : HTTP Cookie
+
+**iU5q-!O9@$** Registers a unique ID to keep statistics of what videos from
+YouTube the user has seen.
+
+**Maximum Storage Duration** : Session**Type** : HTML Local Storage
+
+**LAST_RESULT_ENTRY_KEY** Used to track user’s interaction with embedded
+content.
+
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+
+**LogsDatabaseV2:V#||LogsRequestsStore** Used to track user’s interaction with
+embedded content.
+
+**Maximum Storage Duration** : Persistent**Type** : IndexedDB
+
+**nextId** Used to track user’s interaction with embedded content.
+
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+
+**remote_sid** Necessary for the implementation and functionality of YouTube
+video-content on the website.
+
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+
+**requests** Used to track user’s interaction with embedded content.
+
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+
+**ServiceWorkerLogsDatabase#SWHealthLog** Necessary for the implementation and
+functionality of YouTube video-content on the website.
+
+**Maximum Storage Duration** : Persistent**Type** : IndexedDB
+
+**TESTCOOKIESENABLED** Used to track user’s interaction with embedded content.
+
+**Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
+
+**VISITOR_INFO1_LIVE** Tries to estimate the users' bandwidth on pages with
+integrated YouTube videos.
+
+**Maximum Storage Duration** : 180 days**Type** : HTTP Cookie
+
+**YSC** Registers a unique ID to keep statistics of what videos from YouTube
+the user has seen.
+
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+
+**yt.innertube::nextId** Registers a unique ID to keep statistics of what
+videos from YouTube the user has seen.
+
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+
+**ytidb::LAST_RESULT_ENTRY_KEY** Stores the user's video player preferences
+using embedded YouTube video
+
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+
+**YtIdbMeta#databases** Used to track user’s interaction with embedded
+content.
+
+**Maximum Storage Duration** : Persistent**Type** : IndexedDB
+
+**yt-remote-cast-available** Stores the user's video player preferences using
+embedded YouTube video
+
+**Maximum Storage Duration** : Session**Type** : HTML Local Storage
+
+**yt-remote-cast-installed** Stores the user's video player preferences using
+embedded YouTube video
+
+**Maximum Storage Duration** : Session**Type** : HTML Local Storage
+
+**yt-remote-connected-devices** Stores the user's video player preferences
+using embedded YouTube video
+
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+
+**yt-remote-device-id** Stores the user's video player preferences using
+embedded YouTube video
+
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+
+**yt-remote-fast-check-period** Stores the user's video player preferences
+using embedded YouTube video
+
+**Maximum Storage Duration** : Session**Type** : HTML Local Storage
+
+**yt-remote-session-app** Stores the user's video player preferences using
+embedded YouTube video
+
+**Maximum Storage Duration** : Session**Type** : HTML Local Storage
+
+**yt-remote-session-name** Stores the user's video player preferences using
+embedded YouTube video
+
+**Maximum Storage Duration** : Session**Type** : HTML Local Storage
+
+    * cdn.pbgrd.com2
+
+**pagead/gen_204** Collects data on visitor behaviour from multiple websites,
+in order to present more relevant advertisement - This also allows the website
+to limit the number of times that they are shown the same advertisement.
+
+**Maximum Storage Duration** : Session**Type** : Pixel Tracker
+
+**csi** Collects data on visitors' preferences and behaviour on the website -
+This information is used make content and advertisement more relevant to the
+specific visitor.
+
+**Maximum Storage Duration** : Session**Type** : Pixel Tracker
+
+    * pub.mdpi-res.com1
+
+**OAID** Registers a unique ID that identifies a returning user's device. The
+ID is used for targeted ads.
+
+**Maximum Storage Duration** : 1 year**Type** : HTTP Cookie
+
+  * Unclassified 5
+
+Unclassified cookies are cookies that we are in the process of classifying,
+together with the providers of individual cookies.
+
+    * www.mdpi.com5
+
+**iconify5** Pending
+
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+
+**iconify6** Pending
+
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+
+**mdpi_layout_type_v2** Pending
+
+**Maximum Storage Duration** : 1 year**Type** : HTTP Cookie
+
+**settings_cached** Pending
+
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+
+**turnstile-error** Pending
+
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+
+Cross-domain consent[#BULK_CONSENT_DOMAINS_COUNT#] [#BULK_CONSENT_TITLE#]
+
+List of domains your consent applies to: [#BULK_CONSENT_DOMAINS#]
+
+Cookie declaration last updated on 2024/12/27 by
+[Cookiebot](https://www.cookiebot.com "Cookiebot")
+
+## [#IABV2_TITLE#]
+
+[#IABV2_BODY_INTRO#]
+
+[#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#]
+
+[#IABV2_BODY_PREFERENCE_INTRO#]
+
+[#IABV2_LABEL_PURPOSES#]
+
+[#IABV2_BODY_PURPOSES_INTRO#]
+
+[#IABV2_BODY_PURPOSES#]
+
+[#IABV2_LABEL_FEATURES#]
+
+[#IABV2_BODY_FEATURES_INTRO#]
+
+[#IABV2_BODY_FEATURES#]
+
+[#IABV2_LABEL_PARTNERS#]
+
+[#IABV2_BODY_PARTNERS_INTRO#]
+
+[#IABV2_BODY_PARTNERS#]
+
+Cookies are small text files that can be used by websites to make a user's
+experience more efficient.  
+  
+The law states that we can store cookies on your device if they are strictly
+necessary for the operation of this site. For all other types of cookies we
+need your permission.  
+  
+This site uses different types of cookies. Some cookies are placed by third
+party services that appear on our pages.  
+  
+You can at any time change or withdraw your consent from the Cookie
+Declaration on our website.  
+  
+Learn more about who we are, how you can contact us and how we process
+personal data in our Privacy Policy.  
+  
+Please state your consent ID and date when you contact us regarding your
+consent.
+
+**Do not sell or share my personal information**
+
+Deny Allow selection Customize
+
+Allow all
+
+__
+
+Next Article in Journal  
+
+[Enhancement in the Performance of Dye Sensitized Solar Cells (DSSCs) by
+Incorporation of Reduced Graphene Oxide (RGO) and Carbon Nanotubes (CNTs) in
+ZnO Nanostructures](/2304-6740/10/11/204)
+
+Next Article in Special Issue  
+
+[Structural Study of Model Rhodium(I) Carbonylation Catalysts Activated by
+Indole-2-/Indoline-2-Carboxylate Bidentate Ligands and Kinetics of Iodomethane
+Oxidative Addition](/2304-6740/10/12/251)
+
+__
+
+Previous Article in Journal  
+
+[A 2D Porous Zinc-Organic Framework Platform for Loading of
+5-Fluorouracil](/2304-6740/10/11/202)
+
+Previous Article in Special Issue  
+
+[Synthesis, Single Crystal X-ray Structure, Spectroscopy and Substitution
+Behavior of Niobium(V) Complexes Activated by Chloranilate as Bidentate
+Ligand](/2304-6740/10/10/166)
+
+## Journals
+
+[Active Journals](/about/journals) [Find a Journal](/about/journalfinder)
+[Journal Proposal](/about/journals/proposal) [Proceedings
+Series](/about/proceedings)
+
+## [Topics ](/topics)
+
+## Information
+
+[For Authors](/authors) [For Reviewers](/reviewers) [For Editors](/editors)
+[For Librarians](/librarians) [For Publishers](/publishing_services) [For
+Societies](/societies) [For Conference Organizers](/conference_organizers)
+
+[Open Access Policy](/openaccess) [Institutional Open Access Program](/ioap)
+[Special Issues Guidelines](/special_issues_guidelines) [Editorial
+Process](/editorial_process) [Research and Publication Ethics](/ethics)
+[Article Processing Charges](/apc) [Awards](/awards)
+[Testimonials](/testimonials)
+
+## [Editing Services ](/authors/english)
+
+## Initiatives
+
+[Sciforum](https://sciforum.net) [MDPI Books](https://www.mdpi.com/books)
+[Preprints.org](https://www.preprints.org) [Scilit](https://www.scilit.net)
+[SciProfiles](https://sciprofiles.com)
+[Encyclopedia](https://encyclopedia.pub) [JAMS](https://jams.pub) [Proceedings
+Series](/about/proceedings)
+
+## About
+
+[Overview](/about) [Contact](/about/contact)
+[Careers](https://careers.mdpi.com) [News](/about/announcements)
+[Press](/about/press) [Blog](http://blog.mdpi.com/)
+
+[Sign In / Sign Up](/user/login)
+
+## Notice
+
+You can make submissions to other journals
+[here](https://susy.mdpi.com/user/manuscripts/upload).
+
+_clear_
+
+## Notice
+
+You are accessing a machine-readable page. In order to be human-readable,
+please install an RSS reader.
+
+Continue Cancel
+
+_clear_
+
+All articles published by MDPI are made immediately available worldwide under
+an open access license. No special permission is required to reuse all or part
+of the article published by MDPI, including figures and tables. For articles
+published under an open access Creative Common CC BY license, any part of the
+article may be reused without permission provided that the original article is
+clearly cited. For more information, please refer to
+<https://www.mdpi.com/openaccess>.
+
+Feature papers represent the most advanced research with significant potential
+for high impact in the field. A Feature Paper should be a substantial original
+Article that involves several techniques or approaches, provides an outlook
+for future research directions and describes possible research applications.
+
+Feature papers are submitted upon individual invitation or recommendation by
+the scientific editors and must receive positive feedback from the reviewers.
+
+Editor’s Choice articles are based on recommendations by the scientific
+editors of MDPI journals from around the world. Editors select a small number
+of articles recently published in the journal that they believe will be
+particularly interesting to readers, or important in the respective research
+area. The aim is to provide a snapshot of some of the most exciting work
+published in the various research areas of the journal.
+
+Original Submission Date Received: .
+
+You seem to have javascript disabled. Please note that many of the page
+functionalities won't work as expected without javascript enabled.
+
+[ ](/)
+
+_clear_ [ _zoom_out_map_ ](/toggle_desktop_layout_cookie "Toggle desktop
+layout") _search_ _menu_
+
+[ ](/)
+
+  * [Journals](/about/journals)
+    *       * [ Active Journals ](/about/journals)
+      * [ Find a Journal ](/about/journalfinder)
+      * [ Journal Proposal ](/about/journals/proposal)
+      * [ Proceedings Series ](/about/proceedings)
+
+  * [Topics](/topics)
+  * [Information](/authors)
+    *       * [For Authors](/authors)
+      * [For Reviewers](/reviewers)
+      * [For Editors](/editors)
+      * [For Librarians](/librarians)
+      * [For Publishers](/publishing_services)
+      * [For Societies](/societies)
+      * [For Conference Organizers](/conference_organizers)
+
+      * [Open Access Policy](/openaccess)
+      * [Institutional Open Access Program](/ioap)
+      * [Special Issues Guidelines](/special_issues_guidelines)
+      * [Editorial Process](/editorial_process)
+      * [Research and Publication Ethics](/ethics)
+      * [Article Processing Charges](/apc)
+      * [Awards](/awards)
+      * [Testimonials](/testimonials)
+
+  * [Editing Services](/authors/english)
+  * [Initiatives](/about/initiatives)
+    *       * [ Sciforum ](https://sciforum.net)
+      * [ MDPI Books ](https://www.mdpi.com/books)
+      * [ Preprints.org ](https://www.preprints.org)
+      * [ Scilit ](https://www.scilit.net)
+      * [ SciProfiles ](https://sciprofiles.com)
+      * [ Encyclopedia ](https://encyclopedia.pub)
+      * [ JAMS ](https://jams.pub)
+      * [ Proceedings Series ](/about/proceedings)
+
+  * [About](/about)
+    *       * [ Overview ](/about)
+      * [ Contact ](/about/contact)
+      * [ Careers ](https://careers.mdpi.com)
+      * [ News ](/about/announcements)
+      * [ Press ](/about/press)
+      * [ Blog ](http://blog.mdpi.com/)
+
+[Sign In / Sign Up](/user/login) [Submit](
+https://susy.mdpi.com/user/manuscripts/upload?journal=inorganics
+
+    )
+
+
+
+
+
+Search for Articles:
+
+Title / Keyword
+
+Author / Affiliation / Email
+
+Journal
+
+All Journals Acoustics  Acta Microbiologica Hellenica (AMH)  Actuators
+Adhesives  Administrative Sciences  Adolescents  Advances in Respiratory
+Medicine (ARM)  Aerobiology  Aerospace  Agriculture  AgriEngineering
+Agrochemicals  Agronomy  AI  Air  Algorithms  Allergies  Alloys  Analytica
+Analytics  Anatomia  Anesthesia Research  Animals  Antibiotics  Antibodies
+Antioxidants  Applied Biosciences  Applied Mechanics  Applied Microbiology
+Applied Nano  Applied Sciences  Applied System Innovation (ASI)  AppliedChem
+AppliedMath  Aquaculture Journal  Architecture  Arthropoda  Arts  Astronomy
+Atmosphere  Atoms  Audiology Research  Automation  Axioms  Bacteria  Batteries
+Behavioral Sciences  Beverages  Big Data and Cognitive Computing (BDCC)
+BioChem  Bioengineering  Biologics  Biology  Biology and Life Sciences Forum
+Biomass  Biomechanics  BioMed  Biomedicines  BioMedInformatics  Biomimetics
+Biomolecules  Biophysica  Biosensors  Biosphere  BioTech  Birds  Blockchains
+Brain Sciences  Buildings  Businesses  C  Cancers  Cardiogenetics  Catalysts
+Cells  Ceramics  Challenges  ChemEngineering  Chemistry  Chemistry Proceedings
+Chemosensors  Children  Chips  CivilEng  Clean Technologies (Clean Technol.)
+Climate  Clinical and Translational Neuroscience (CTN)  Clinical Bioenergetics
+Clinics and Practice  Clocks & Sleep  Coasts  Coatings  Colloids and
+Interfaces  Colorants  Commodities  Complications  Compounds  Computation
+Computer Sciences & Mathematics Forum  Computers  Condensed Matter
+Conservation  Construction Materials  Corrosion and Materials Degradation
+(CMD)  Cosmetics  COVID  Craniomaxillofacial Trauma & Reconstruction (CMTR)
+Crops  Cryo  Cryptography  Crystals  Current Issues in Molecular Biology
+(CIMB)  Current Oncology  Dairy  Data  Dentistry Journal  Dermato
+Dermatopathology  Designs  Diabetology  Diagnostics  Dietetics  Digital
+Disabilities  Diseases  Diversity  DNA  Drones  Drugs and Drug Candidates
+(DDC)  Dynamics  Earth  Ecologies  Econometrics  Economies  Education Sciences
+Electricity  Electrochem  Electronic Materials  Electronics  Emergency Care
+and Medicine  Encyclopedia  Endocrines  Energies  Energy Storage and
+Applications (ESA)  Eng  Engineering Proceedings  Entropy  Environmental and
+Earth Sciences Proceedings  Environments  Epidemiologia  Epigenomes  European
+Burn Journal (EBJ)  European Journal of Investigation in Health, Psychology
+and Education (EJIHPE)  Fermentation  Fibers  FinTech  Fire  Fishes  Fluids
+Foods  Forecasting  Forensic Sciences  Forests  Fossil Studies  Foundations
+Fractal and Fractional (Fractal Fract)  Fuels  Future  Future Internet  Future
+Pharmacology  Future Transportation  Galaxies  Games  Gases  Gastroenterology
+Insights  Gastrointestinal Disorders  Gastronomy  Gels  Genealogy  Genes
+Geographies  GeoHazards  Geomatics  Geometry  Geosciences  Geotechnics
+Geriatrics  Glacies  Gout, Urate, and Crystal Deposition Disease (GUCDD)
+Grasses  Green Health  Hardware  Healthcare  Hearts  Hemato  Hematology
+Reports  Heritage  Histories  Horticulturae  Hospitals  Humanities  Humans
+Hydrobiology  Hydrogen  Hydrology  Hygiene  Immuno  Infectious Disease Reports
+Informatics  Information  Infrastructures  Inorganics  Insects  Instruments
+Intelligent Infrastructure and Construction  International Journal of
+Environmental Research and Public Health (IJERPH)  International Journal of
+Financial Studies (IJFS)  International Journal of Molecular Sciences (IJMS)
+International Journal of Neonatal Screening (IJNS)  International Journal of
+Orofacial Myology and Myofunctional Therapy (IJOM)  International Journal of
+Plant Biology (IJPB)  International Journal of Topology  International Journal
+of Translational Medicine (IJTM)  International Journal of Turbomachinery,
+Propulsion and Power (IJTPP)  International Medical Education (IME)
+Inventions  IoT  ISPRS International Journal of Geo-Information (IJGI)  J
+Journal of Ageing and Longevity (JAL)  Journal of Cardiovascular Development
+and Disease (JCDD)  Journal of Clinical & Translational Ophthalmology (JCTO)
+Journal of Clinical Medicine (JCM)  Journal of Composites Science (J. Compos.
+Sci.)  Journal of Cybersecurity and Privacy (JCP)  Journal of Dementia and
+Alzheimer's Disease (JDAD)  Journal of Developmental Biology (JDB)  Journal of
+Experimental and Theoretical Analyses (JETA)  Journal of Functional
+Biomaterials (JFB)  Journal of Functional Morphology and Kinesiology (JFMK)
+Journal of Fungi (JoF)  Journal of Imaging (J. Imaging)  Journal of
+Intelligence (J. Intell.)  Journal of Low Power Electronics and Applications
+(JLPEA)  Journal of Manufacturing and Materials Processing (JMMP)  Journal of
+Marine Science and Engineering (JMSE)  Journal of Market Access & Health
+Policy (JMAHP)  Journal of Mind and Medical Sciences (JMMS)  Journal of
+Molecular Pathology (JMP)  Journal of Nanotheranostics (JNT)  Journal of
+Nuclear Engineering (JNE)  Journal of Otorhinolaryngology, Hearing and Balance
+Medicine (JOHBM)  Journal of Parks  Journal of Personalized Medicine (JPM)
+Journal of Pharmaceutical and BioTech Industry (JPBI)  Journal of Respiration
+(JoR)  Journal of Risk and Financial Management (JRFM)  Journal of Sensor and
+Actuator Networks (JSAN)  Journal of the Oman Medical Association (JOMA)
+Journal of Theoretical and Applied Electronic Commerce Research (JTAER)
+Journal of Vascular Diseases (JVD)  Journal of Xenobiotics (JoX)  Journal of
+Zoological and Botanical Gardens (JZBG)  Journalism and Media  Kidney and
+Dialysis  Kinases and Phosphatases  Knowledge  LabMed  Laboratories  Land
+Languages  Laws  Life  Limnological Review  Lipidology  Liquids  Literature
+Livers  Logics  Logistics  Lubricants  Lymphatics  Machine Learning and
+Knowledge Extraction (MAKE)  Machines  Macromol  Magnetism  Magnetochemistry
+Marine Drugs  Materials  Materials Proceedings  Mathematical and Computational
+Applications (MCA)  Mathematics  Medical Sciences  Medical Sciences Forum
+Medicina  Medicines  Membranes  Merits  Metabolites  Metals  Meteorology
+Methane  Methods and Protocols (MPs)  Metrics  Metrology  Micro  Microbiology
+Research  Micromachines  Microorganisms  Microplastics  Microwave  Minerals
+Mining  Modelling  Modern Mathematical Physics  Molbank  Molecules  Multimodal
+Technologies and Interaction (MTI)  Muscles  Nanoenergy Advances
+Nanomanufacturing  Nanomaterials  NDT  Network  Neuroglia  Neurology
+International  NeuroSci  Nitrogen  Non-Coding RNA (ncRNA)  Nursing Reports
+Nutraceuticals  Nutrients  Obesities  Oceans  Onco  Optics  Oral  Organics
+Organoids  Osteology  Oxygen  Parasitologia  Particles  Pathogens
+Pathophysiology  Pediatric Reports  Pets  Pharmaceuticals  Pharmaceutics
+Pharmacoepidemiology  Pharmacy  Philosophies  Photochem  Photonics  Phycology
+Physchem  Physical Sciences Forum  Physics  Physiologia  Plants  Plasma
+Platforms  Pollutants  Polymers  Polysaccharides  Populations  Poultry
+Powders  Proceedings  Processes  Prosthesis  Proteomes  Psychiatry
+International  Psychoactives  Psychology International  Publications  Quantum
+Beam Science (QuBS)  Quantum Reports  Quaternary  Radiation  Reactions  Real
+Estate  Receptors  Recycling  Regional Science and Environmental Economics
+(RSEE)  Religions  Remote Sensing  Reports  Reproductive Medicine (Reprod.
+Med.)  Resources  Rheumato  Risks  Robotics  Ruminants  Safety  Sci  Scientia
+Pharmaceutica (Sci. Pharm.)  Sclerosis  Seeds  Sensors  Separations  Sexes
+Signals  Sinusitis  Smart Cities  Social Sciences  Société Internationale
+d’Urologie Journal (SIUJ)  Societies  Software  Soil Systems  Solar  Solids
+Spectroscopy Journal  Sports  Standards  Stats  Stresses  Surfaces  Surgeries
+Surgical Techniques Development  Sustainability  Sustainable Chemistry
+Symmetry  SynBio  Systems  Targets  Taxonomy  Technologies  Telecom  Textiles
+Thalassemia Reports  Therapeutics  Thermo  Time and Space  Tomography  Tourism
+and Hospitality  Toxics  Toxins  Transplantology  Trauma Care  Trends in
+Higher Education  Tropical Medicine and Infectious Disease (TropicalMed)
+Universe  Urban Science  Uro  Vaccines  Vehicles  Venereology  Veterinary
+Sciences  Vibration  Virtual Worlds  Viruses  Vision  Waste  Water  Wild  Wind
+Women  World  World Electric Vehicle Journal (WEVJ)  Youth  Zoonotic Diseases
+
+Inorganics  ****
+
+Article Type
+
+All Article Types Article Review Communication Editorial Abstract Book Review
+Brief Communication Brief Report Case Report Clinicopathological Challenge
+Comment Commentary Concept Paper Conference Report Correction Creative Data
+Descriptor Discussion Entry Essay Expression of Concern Extended Abstract
+Field Guide Giants in Urology Guidelines Hypothesis Interesting Images Letter
+New Book Received Obituary Opinion Perspective Proceeding Paper Project Report
+Protocol Registered Report Reply Retraction Short Note Study Protocol
+Systematic Review Technical Note Tutorial Urology around the World Viewpoint
+
+All Article Types ****
+
+
+
+
+
+Advanced Search
+
+
+
+Section
+
+All SectionsBioinorganic ChemistryCoordination ChemistryInorganic
+MaterialsInorganic Solid-State ChemistryOrganometallic ChemistryGeneral
+
+All Sections ****
+
+Special Issue
+
+All Special Issues _Inorganics_ : 10th Anniversary2D Materials for
+Optoelectronic DevicesA Themed Issue in Honor of Professor Michel Armand on
+the Occasion of His 75th BirthdayAdvanced X-Ray Crystallographic Structural
+Studies in Inorganic ChemistryAdvances in Electrodes and Electrolyte
+Engineering for High-Performance Zn Batteries and SupercapacitorsAdvances in
+Metallic Nanoparticles for Antibacterial and Antibiofilm ControlAdvances in
+Sonication and Microwave Processing on InorganicsApplications of Density
+Functional Theory in Inorganic ChemistryChemistry of the Uranyl
+IonCornerstones in Contemporary Inorganic ChemistryElectrocatalytic Hydrogen
+Production by Molecular Metal ComplexesElectrode/Electrolyte Interface in
+Lithium-Ion BatteriesFifth Element: The Current State of Boron ChemistryFrom
+Nanocatalysts to Single-Atom CatalystsGas Sensors Based on Inorganic
+MaterialsHalogen and Chalcogen Bonding in Crystal DesignInnovative Inorganic
+SynthesisInorganic Compounds for CatalysisInorganic NanostructuresInorganic
+Photocatalysts for Environmental ApplicationsInorganic Syntheses Assisted by
+Microwave HeatingInorganics Emerging Investigators Themed Collection
+2024/2025Ionic Thermoelectric Materials and DevicesLanthanide Single-Molecule
+MagnetsManganese Chemistry: From Fundamentals to ApplicationsMetal
+Carbonates—from Amorphous Carbonates to Carbonate ComplexesMetal Centre
+Triggered CO2 ActivationMetal Hydrogen Systems: Fundamental Properties and
+Current Applications for Energy Storage and ConversionMetal Ions in
+Organometallics, Polymer Science and BioinorganicsNew Trends in Vanadium
+Chemistry, Biochemistry, and Medicinal Chemistry, 2nd EditionNovel Catalysts
+for Photoelectrochemical Energy ConversionPalladium Catalysts: From Design to
+ApplicationsPeriodic Law and Systems of Chemical Elements: Yesterday, Today,
+TomorrowPerovskite Oxide for Catalytic and Energy Conversion
+ApplicationPhotochemistry & Photophysics of Transition Metal ComplexesPlatinum
+Group Metal Complexes as Luminescent MaterialsResearch and Development of
+High-Performance Aqueous Battery Materials and SystemsState-of-the-Art
+Inorganic Chemistry in GermanyState-of-the-Art Inorganic Chemistry in
+ItalySynergy between Main Group and Transition Metal ChemistrySynthesis,
+Application and Magnetic Properties of Bi- and Polynuclear Metal
+ComplexesSynthesis, Structural Analysis and Biological Activity of Metal
+ComplexesTraversing the Boundaries of Inorganic ChemistryWomen’s Special Issue
+Series: _Inorganics_
+
+All Special Issues ****
+
+Volume
+
+Issue
+
+Number
+
+Page
+
+
+
+Logical OperatorOperator
+
+AND OR
+
+Search Text
+
+Search Type
+
+All fields Title Abstract Keywords Authors Affiliations Doi Full Text
+References
+
+
+
+_add_circle_outline_
+
+_remove_circle_outline_
+
+
+
+
+
+[Journals](/about/journals)
+
+[Inorganics](/journal/inorganics)
+
+[Volume 10](/2304-6740/10)
+
+[Issue 11](/2304-6740/10/11)
+
+10.3390/inorganics10110203
+
+[ ](/journal/inorganics)
+
+[ Submit to this Journal
+](https://susy.mdpi.com/user/manuscripts/upload?form%5Bjournal_id%5D%3D167) [
+Review for this Journal ](https://susy.mdpi.com/volunteer/journals/review) [
+Propose a Special Issue
+](/journalproposal/sendproposalspecialissue/inorganics)
+
+► ▼ Article Menu
+
+## Article Menu
+
+  * Academic Editor
+
+[Maurizio
+Peruzzini](https://sciprofiles.com/profile/996770?utm_source=mdpi.com&utm_medium=website&utm_campaign=avatar_name)
+
+  * [Subscribe SciFeed](/2304-6740/10/11/203/scifeed_display)
+  * Recommended Articles
+  * Related Info Link
+
+    * [Google Scholar](https://scholar.google.com/scholar?q=Digold%20Phosphinine%20Complexes%20Are%20Stable%20with%20a%20Bis%28Phosphinine%29%20Ligand%20but%20Not%20with%20a%202-Phosphinophosphinine)
+
+  * More by Authors Links
+
+    * on DOAJ
+
+      * [Cleaves, P. A.](http://doaj.org/search/articles?source=%7B%22query%22%3A%7B%22query_string%22%3A%7B%22query%22%3A%22%5C%22Peter%20A.%20Cleaves%5C%22%22%2C%22default_operator%22%3A%22AND%22%2C%22default_field%22%3A%22bibjson.author.name%22%7D%7D%7D)
+      *       * [Gourlay, B.](http://doaj.org/search/articles?source=%7B%22query%22%3A%7B%22query_string%22%3A%7B%22query%22%3A%22%5C%22Ben%20Gourlay%5C%22%22%2C%22default_operator%22%3A%22AND%22%2C%22default_field%22%3A%22bibjson.author.name%22%7D%7D%7D)
+      *       * [Marseglia, M.](http://doaj.org/search/articles?source=%7B%22query%22%3A%7B%22query_string%22%3A%7B%22query%22%3A%22%5C%22Margot%20Marseglia%5C%22%22%2C%22default_operator%22%3A%22AND%22%2C%22default_field%22%3A%22bibjson.author.name%22%7D%7D%7D)
+      *       * [Ward, D. J.](http://doaj.org/search/articles?source=%7B%22query%22%3A%7B%22query_string%22%3A%7B%22query%22%3A%22%5C%22Daniel%20J.%20Ward%5C%22%22%2C%22default_operator%22%3A%22AND%22%2C%22default_field%22%3A%22bibjson.author.name%22%7D%7D%7D)
+      *       * [Mansell, S. M.](http://doaj.org/search/articles?source=%7B%22query%22%3A%7B%22query_string%22%3A%7B%22query%22%3A%22%5C%22Stephen%20M.%20Mansell%5C%22%22%2C%22default_operator%22%3A%22AND%22%2C%22default_field%22%3A%22bibjson.author.name%22%7D%7D%7D)
+      *     * on Google Scholar
+
+      * [Cleaves, P. A.](https://scholar.google.com/scholar?q=Peter%20A.%20Cleaves)
+      *       * [Gourlay, B.](https://scholar.google.com/scholar?q=Ben%20Gourlay)
+      *       * [Marseglia, M.](https://scholar.google.com/scholar?q=Margot%20Marseglia)
+      *       * [Ward, D. J.](https://scholar.google.com/scholar?q=Daniel%20J.%20Ward)
+      *       * [Mansell, S. M.](https://scholar.google.com/scholar?q=Stephen%20M.%20Mansell)
+      *     * on PubMed
+
+      * [Cleaves, P. A.](http://www.pubmed.gov/?cmd=Search&term=Peter%20A.%20Cleaves)
+      *       * [Gourlay, B.](http://www.pubmed.gov/?cmd=Search&term=Ben%20Gourlay)
+      *       * [Marseglia, M.](http://www.pubmed.gov/?cmd=Search&term=Margot%20Marseglia)
+      *       * [Ward, D. J.](http://www.pubmed.gov/?cmd=Search&term=Daniel%20J.%20Ward)
+      *       * [Mansell, S. M.](http://www.pubmed.gov/?cmd=Search&term=Stephen%20M.%20Mansell)
+      * 
+/ajax/scifeed/subscribe
+
+Article Views 1879
+
+Citations 2
+
+  * Table of Contents
+
+    * Abstract
+    * Introduction
+    * Results
+    * Discussion
+    * Materials and Methods
+    * Supplementary Materials
+    * Author Contributions
+    * Funding
+    * Data Availability Statement
+    * Acknowledgments
+    * Conflicts of Interest
+    * References
+
+[
+](https://www.altmetric.com/details.php?domain=www.mdpi.com&citation_id=138281656)
+Altmetric _share_ Share _announcement_ Help [ _format_quote_ Cite
+](javascript:void\(0\);) [ _question_answer_ Discuss in SciProfiles
+](https://sciprofiles.com/discussion-
+groups/public/10.3390/inorganics10110203?utm_source=mpdi.com&utm_medium=publication&utm_campaign=discuss_in_sciprofiles
+"Discuss in Sciprofiles") _thumb_up_ ...  Endorse _textsms_ ...  Comment
+
+## Need Help?
+
+### Support
+
+Find support for a specific problem in the support section of our website.
+
+[ Get Support ](/about/contactform)
+
+### Feedback
+
+Please let us know what you think of our products and services.
+
+[ Give Feedback ](/feedback/send)
+
+### Information
+
+Visit our dedicated information section to learn more about MDPI.
+
+[ Get Information ](/authors)
+
+_clear_
+
+## JSmol Viewer
+
+_clear_
+
+_first_page_
+
+[ __Download PDF](/2304-6740/10/11/203/pdf?version=1668145951)
+
+_settings_
+
+[ Order Article Reprints ](/2304-6740/10/11/203/reprints)
+
+Font Type:
+
+_Arial_ _Georgia_ _Verdana_
+
+Font Size:
+
+Aa Aa Aa
+
+Line Spacing:
+
+__ __ __
+
+Column Width:
+
+__ __ __
+
+Background:
+
+__
+
+__
+
+__
+
+Open AccessArticle
+
+#  Digold Phosphinine Complexes Are Stable with a Bis(Phosphinine) Ligand but
+Not with a 2-Phosphinophosphinine
+
+by
+
+Peter A. Cleaves
+
+Peter A. Cleaves
+
+[ SciProfiles
+](https://sciprofiles.com/profile/1983281?utm_source=mdpi.com&utm_medium=website&utm_campaign=avatar_name)[
+Scilit ](https://scilit.net/scholars?q=Peter%20A.%20Cleaves)[ Preprints.org
+](https://www.preprints.org/search?search1=Peter%20A.%20Cleaves&field1=authors)[
+Google Scholar ](https://scholar.google.com/scholar?q=Peter%20A.%20Cleaves)
+
+,
+
+Ben Gourlay
+
+Ben Gourlay
+
+[ SciProfiles
+](https://sciprofiles.com/profile/2087294?utm_source=mdpi.com&utm_medium=website&utm_campaign=avatar_name)[
+Scilit ](https://scilit.net/scholars?q=Ben%20Gourlay)[ Preprints.org
+](https://www.preprints.org/search?search1=Ben%20Gourlay&field1=authors)[
+Google Scholar ](https://scholar.google.com/scholar?q=Ben%20Gourlay)
+
+,
+
+Margot Marseglia
+
+Margot Marseglia
+
+[ SciProfiles
+](https://sciprofiles.com/profile/author/eDFDZnJmMy9VZjlMY1pMVndWa1huaEwxVlg1YTRHQjJGUUlYY3FFT1p0ND0=?utm_source=mdpi.com&utm_medium=website&utm_campaign=avatar_name)[
+Scilit ](https://scilit.net/scholars?q=Margot%20Marseglia)[ Preprints.org
+](https://www.preprints.org/search?search1=Margot%20Marseglia&field1=authors)[
+Google Scholar ](https://scholar.google.com/scholar?q=Margot%20Marseglia)
+
+,
+
+Daniel J. Ward
+
+Daniel J. Ward
+
+[ SciProfiles
+](https://sciprofiles.com/profile/2579292?utm_source=mdpi.com&utm_medium=website&utm_campaign=avatar_name)[
+Scilit ](https://scilit.net/scholars?q=Daniel%20J.%20Ward)[ Preprints.org
+](https://www.preprints.org/search?search1=Daniel%20J.%20Ward&field1=authors)[
+Google Scholar ](https://scholar.google.com/scholar?q=Daniel%20J.%20Ward)
+
+and
+
+Stephen M. Mansell
+
+Stephen M. Mansell
+
+[ SciProfiles
+](https://sciprofiles.com/profile/210365?utm_source=mdpi.com&utm_medium=website&utm_campaign=avatar_name)[
+Scilit ](https://scilit.net/scholars?q=Stephen%20M.%20Mansell)[ Preprints.org
+](https://www.preprints.org/search?search1=Stephen%20M.%20Mansell&field1=authors)[
+Google Scholar ](https://scholar.google.com/scholar?q=Stephen%20M.%20Mansell)
+
+*[__](mailto:s.mansell@hw.ac.uk)[](https://orcid.org/0000-0002-9332-3698)
+
+Institute of Chemical Sciences, School of Engineering and Physical Sciences,
+Heriot-Watt University, Edinburgh EH14 4AS, UK
+
+*
+
+Author to whom correspondence should be addressed.
+
+_Inorganics_ **2022** , _10_(11), 203;
+<https://doi.org/10.3390/inorganics10110203>
+
+Submission received: 20 October 2022 / Revised: 2 November 2022 / Accepted: 4
+November 2022 / Published: 11 November 2022
+
+(This article belongs to the Special Issue [Synergy between Main Group and
+Transition Metal Chemistry](  
+    /journal/inorganics/special_issues/synergy_main_group_transition_metal_chemistry
+))  
+
+Download _keyboard_arrow_down_
+
+[Download PDF](/2304-6740/10/11/203/pdf?version=1668145951)  
+Download PDF with Cover  
+Download XML  
+[Download Epub](/2304-6740/10/11/203/epub)  
+[Download Supplementary Material](javascript:void\(0\);)  
+
+Browse Figures
+
+[ ](https://pub.mdpi-
+res.com/inorganics/inorganics-10-00203/article_deploy/html/images/inorganics-10-00203-ag.png?1670997851
+"
+
+                        <strong>Graphical abstract</strong><br/>
+                                                    
+                                                ") [ ](https://pub.mdpi-res.com/inorganics/inorganics-10-00203/article_deploy/html/images/inorganics-10-00203-g001.png?1668146019 "
+                        <strong>Figure 1</strong><br/>
+                                                    <p>Gold phosphinine complexes.</p>
+                                                ") [ ](https://pub.mdpi-res.com/inorganics/inorganics-10-00203/article_deploy/html/images/inorganics-10-00203-g002.png?1668146016 "
+                        <strong>Figure 2</strong><br/>
+                                                    <p>Molecular structure of <b>21</b> \(thermal ellipsoids at 50%; all H atoms have been omitted for clarity\). Selected bond lengths \(Å\) and angles \(°\): Au1-Cl1 2.2742\(12\), Au1-P1 2.2078\(12\), P1-C1 1.721\(4\), P1-C5 1.709\(4\), C1-C2 1.396\(6\), C2-C3 1.398\(6\), C2-C6 1.524\(6\), C3-C4 1.396\(6\), C4-C5 1.388\(6\), P1-Au1-Cl1 178.13\(4\), η<sup>2</sup> interaction: Au1-C1′ 3.287, Au1-C2′ 3.460.</p>
+                                                ") [ ](https://pub.mdpi-res.com/inorganics/inorganics-10-00203/article_deploy/html/images/inorganics-10-00203-g003.png?1668146015 "
+                        <strong>Figure 3</strong><br/>
+                                                    <p>Molecular structure of <b>25</b> \(thermal ellipsoids at 50%; H atoms on the Ph and Me groups have been omitted for clarity\). A chloroform solvate molecule has also been omitted for clarity. Selected bond lengths \(Å\) and angles \(°\): Au1-Au2 3.0576\(2\), Au1-Cl1 2.3047\(9\), Au1-P1 2.2180\(10\), Au2-Cl2 2.2919\(10\), Au2-P2 2.2401\(10\), P1-O1 1.596\(3\), P1-C1-1.787\(4\), P1-C5 1.800\(4\), P2-C1 1.818\(3\), C1-C2 1.370\(5\), C2-C3 1.462\(5\), C3-C4 1.340\(6\), C4-C5 1.490\(6\), P1-Au1-Cl1 169.29\(4\), P2-Au2-Cl2 173.94\(3\), P1-C1-P2 114.4\(2\).</p>
+                                                ") [ ](https://pub.mdpi-res.com/inorganics/inorganics-10-00203/article_deploy/html/images/inorganics-10-00203-sch001.png?1668146017 "
+                        <strong>Scheme 1</strong><br/>
+                                                    <p>Synthesis of gold phosphinine complexes.</p>
+                                                ")
+
+[Versions Notes](/2304-6740/10/11/203/notes)
+
+## Abstract
+
+The reaction of
+[bis{3-methyl-6-(trimethylsilyl)phosphinine-2-yl}dimethylsilane] (**19**) with
+one and two equivalents of [AuCl(tht)] was attempted in order to selectively
+form the mono and digold species, respectively. The digold species
+[(AuCl)2(**19**)] (**21**) was synthesized in 32% yield and comprehensibly
+characterized (multinuclear NMR spectroscopy, elemental analysis, mass
+spectrometry and single-crystal X-ray diffraction). The monogold species
+showed no 31P nuclear magnetic resonance at 25 °C but two resonances at −70 °C
+due to rapid exchange of AuCl between the phosphinine donors at 25 °C and was
+also susceptible to redistribution reactions to form the digold species.
+Analogous reactions of [AuCl(tht)] with
+2-diphenylphosphino-3-methyl-6-trimethylsilylphosphinine (**22**) revealed
+preferential coordination of the AuCl unit to the PPh2 donor first, with
+coordination to the phosphinine achieved upon reaction with the second
+equivalent of [AuCl(tht)]. Unexpectedly, the digold complex was not stable,
+undergoing decomposition to give an unidentified black precipitate. Structural
+information could only be obtained on the digold hydrolysis product
+[(AuCl)2(1-OH-2-PPh2-3-MePC5H4)], which showed an aurophilic interaction.
+
+Keywords:
+
+[phosphinine](/search?q=phosphinine); [phosphorus
+ligands](/search?q=phosphorus+ligands); [gold
+complexes](/search?q=gold+complexes); [ligand
+properties](/search?q=ligand+properties)
+
+[](https://pub.mdpi-
+res.com/inorganics/inorganics-10-00203/article_deploy/html/images/inorganics-10-00203-ag.png?1670997851
+"<strong>Graphical Abstract</strong>")
+
+Graphical Abstract
+
+##  1\. Introduction
+
+Phosphinines are aromatic six-membered phosphorus heterocycles, and their
+properties are often contrasted with their nitrogen analogue, pyridine. First
+synthesized in 1966 by Märkl [1], the parent unsubstituted phosphinine was
+later synthesized by Ashe in 1971 [2]. Phosphinines feature low-coordinate
+phosphorus and P-C multiple bonding, so have been historically important in
+the development of main group chemistry [3]. More recently, their coordination
+chemistry and applications in homogeneous catalysis have reinvigorated this
+area of research [4,5,6,7,8,9,10,11]. The ability of phosphinines to act as
+π-accepting ligands gives them the ability to interact in a dynamic fashion
+with transition metal (TM) centres, opening up the possibility of synergy
+between the main group element and TM.
+
+While metallic gold has had a significant impact on humanity, gold complexes
+have attracted less attention. Exceptions include Au(I) and Au(III) compounds
+used in medicine [12,13] and the discovery of gold’s unique catalytic ability
+in the 1980s [14]. The subsequent decades following this discovery saw a rapid
+growth in interest into gold catalysis [15,16]. Gold(I) complexes have a
+linear structure and commonly feature one chloride ligand in addition to a
+neutral ligand. These complexes are usually activated for catalysis using a
+silver salt to perform halide abstraction forming silver chloride and the
+catalytically active coordinatively unsaturated cation [AuL]+. This cationic
+species can then coordinate to π-systems, which activates the π-system towards
+nucleophilic attack [17].
+
+The first example of a gold phosphinine complex was published in 1973 when
+Schmidbaur and coworkers combined 2,4,6-triphenylphosphinine with [AuCl(CO)],
+forming the gold phosphinine **1** (Figure 1) [18]. **1** was subsequently
+synthesized using [AuCl(tht)] (tht = tetrahydrothiophene) and
+crystallographically characterized [19]. This complex remained the only
+example of a gold phosphinine for more than 25 years until Mathey, Le Floch
+and coworkers reported the next examples of gold phosphinine complexes when
+studying the coordination chemistry and reactivity of bis(silyl)phosphinine
+gold complexes (**2** –**5**). They found that coordination to gold activated
+the phosphinine towards [4 + 2] cycloaddition reactions with alkynes to form
+phosphabarrelenes [20].
+
+**Figure 1.** Gold phosphinine complexes.
+
+Phosphinine macrocycles were also developed [21] from a diazaphosphinine
+intermediate [22,23] which led to the formation of Au(I) complexes and a rare
+example of a Au(0) complex [24,25]. Mezailles and coworkers investigated gold
+complexes of an SPS pincer ligand derived from nucleophilic attack at the
+phosphinine P atom (e.g., with LinBu or LiMe) [26]. [AuCl(2,4,6-tBu3-PC5H2)],
+the tertiary butyl analogue of **1** , was synthesized [27], whereas the
+analogous complex with the 1,3,5-triphosphabenzene 2,4,6-tBu3P3C3 [28] could
+not be made. Triphosphabenzene was, however, shown to coordinate to Au in an
+η1 mode in [Au(2,4,6-tBu3P3C3)(L)][SbF6] (L = NHC or bulky phosphine) [29].
+Phosphinine gold complexes with pendent phenol and catechol moieties (Figure
+1, **6** –**9**) were synthesized to probe the immobilization of phosphinines
+on TiO2 and surface-modified SiO2. Coordination to gold showed a decrease in
+the 31P NMR chemical shift (∆δ = −30–−33 ppm), but reactions with TiO2 or SiO2
+of either the gold complex or phosphinine precursor showed a loss of the
+aromatic phosphinine moiety [30]. Other gold phosphinine complexes bearing
+hydroxyl substituents have since been described (**10** and **11**), as well
+as some unusual 2-oxy-phosphinines (**12** and **13**) [31,32]. The
+phosphinine gold complexes **14** and **15** were synthesized to investigate
+the photoluminescence of Au phosphinine complexes. Photoluminescence was
+detected in the solid state but not in solution [33]. Gold phosphinine
+complexes have also been studied for their application in homogeneous
+catalysis, including **16,** which was characterized to investigate the
+properties of very bulky phosphinine ligands for applications in asymmetric Rh
+catalysis [34]. The gold phosphinine complexes **1** , **17** and **18** were
+used by the Müller group in two studies to investigate the use of gold
+phosphinines in gold-catalysed cyclization reactions [35,36].
+
+As well as phosphinines, other low-coordinate phosphorus species are known
+that are not part of an aromatic system. They are kinetically stabilized using
+sterically bulky groups such as Mes* (2,4,6-tri-t-butylphenyl) [37].
+Phosphaalkenes with Mes* substituents have been applied in gold catalysis, and
+we became interested in this work because a digold bis(phosphaalkene) complex
+was shown to be effective without the use of a silver salt [38]. The removal
+of silver salts is a desirable feature for gold catalysis in order to
+eliminate any effects from the silver atoms that are present, which have been
+known to interfere with the catalytic cycle through the formation of off-cycle
+intermediates [39]. Phosphaalkenes are, like phosphinines, weak σ-donor
+ligands but strong π-accepting ligands [40]. Their π-accepting ability is
+thought to increase the Lewis acidity of a coordinated gold center and hence
+promote catalytic activity despite the bound chloride [39]. Additionally, a
+digold bis(phosphaalkene)complex featuring an aurophilic interaction was
+effective as a catalyst for the cyclization of a 1,6-enyne, whereas an isomer
+without an aurophilic interaction showed almost no catalytic activity under
+the same conditions [38]. This prompted us to investigate phosphinine gold
+complexes that could coordinate two gold atoms to see if and when aurophilic
+interactions were present and whether silver-free catalysis would result. Our
+results show that the formation of stable digold complexes was not always
+straightforward, being highly dependent on the ligand used.
+
+##  2\. Results
+
+Two ligands were utilized in this research: a bis(phosphinine) (**19**)
+[41,42] and a phosphinophosphinine (**22** , Scheme 1) [43,44].
+
+**Scheme 1.** Synthesis of gold phosphinine complexes.
+
+These two ligands feature different separations between the two phosphorus
+donors, with the phosphinophosphinine often functioning as a small bite-angle
+ligand [45], which has proven useful in homogeneous catalysis [43,46,47,48].
+The bis(phosphinine) forms a six-membered chelate ring, and consequently has a
+larger separation between the two donor atoms. For gold complexes, chelation
+was not anticipated, but the distance between the two gold atoms would be
+controlled based on the ligand framework. Due to the potential moisture
+sensitivity of phosphinines deriving from the P-C multiple bonding,
+experiments were conducted under anaerobic conditions with dry solvents.
+**19** featured one 31P nuclear magnetic resonance at 261 ppm. The addition of
+one equivalent of [AuCl(tht)] led to the complete loss of this resonance, with
+no new resonance appearing. The addition of a second equivalent of [AuCl(tht)]
+gave a new complex with a 31P nuclear magnetic resonance at 209 ppm, revealing
+a decrease in chemical shift upon coordination to gold of 52 ppm. Multinuclear
+NMR spectroscopic analysis is in agreement with a symmetrical structure, with
+only one set of resonances for the phosphinine rings and one 13C and 1H
+resonance for the SiMe2 linker. The digold complex **21** precipitated out of
+the reaction in pure form, as determined by elemental analysis, and single
+crystals suitable for X-ray diffraction were grown from a CH2Cl2 solution
+layered with hexane at 5 °C (Figure 2; see Supplementary information for
+additional crystallographic details).
+
+**Figure 2.** Molecular structure of **21** (thermal ellipsoids at 50%; all H
+atoms have been omitted for clarity). Selected bond lengths (Å) and angles
+(°): Au1-Cl1 2.2742(12), Au1-P1 2.2078(12), P1-C1 1.721(4), P1-C5 1.709(4),
+C1-C2 1.396(6), C2-C3 1.398(6), C2-C6 1.524(6), C3-C4 1.396(6), C4-C5
+1.388(6), P1-Au1-Cl1 178.13(4), η2 interaction: Au1-C1′ 3.287, Au1-C2′ 3.460.
+
+The structure determined by X-ray diffraction showed a bis(phosphinine) with
+Au-Cl units bound to each phosphorus atom, as expected. The Au-Cl bonds are
+orientated in opposite directions, with the phosphinine rings situated in
+almost perpendicular planes at an angle of 80.3°. The molecule is situated on
+a twofold rotation axis passing through Si1 of the SiMe2 group. As expected,
+the P-Au-Cl motif is almost linear, with a bond angle of 178.13(4)°. This bond
+angle is in line with what has been observed previously in known gold
+phosphinine complexes where the P-Au-Cl bond angle typically falls in the
+range of 176–178° with some exceptions, such as when affected by a second gold
+center in the range of an aurophilic attraction [19,27,30,33,35,36]. The P-Au
+bond length is 2.208(1) Å, which is within the error of reported values for
+phosphinine gold complexes ranging from 2.20–2.23 Å. The Au-Cl bond has a
+length of 2.274(1) Å, again within the range of known phosphinine gold
+complexes in the literature, which are mostly within 2.27–2.28 Å and are all
+within the range of 2.27–2.31 Å [19,27,30,33,35,36]. The P-C bonds within the
+aromatic ring are 1.721(4) Å and 1.709(4) Å, and the four C-C bonds are
+between 1.388(6)–1.398(6) Å, clearly in agreement with its aromatic nature.
+The shortest Au-Au distance in the crystal structure is 5.35 Å, which is
+significantly greater than usual the range of aurophilic interactions, both
+intermolecular and intramolecular, which is normally between 2.50–3.50 Å [49].
+Comparisons can be made with the structure of [AuCl(2,6-Me2–4-Ph-PC5H2], which
+displayed an Au…Au distance of 3.60 Å [19]. However, the Au-arene distances of
+3.29 Å and 3.46 Å (from Au1 to the C atoms in the C1-C2 bond) are in the range
+of known Au…π(arene) interactions [50]. In fact, the solid-state structure of
+**1** displayed two different Au…arene interactions (two independent molecules
+in the asymmetric unit cell), 3.32(3) Å for an η1 interaction to the meta
+carbon, and with Au…C distances of 3.39(3) and 3.44(3) Å in an η2 interaction
+[19]. It is possible that the π-accepting ability of the phosphinine increases
+the Lewis acidity of the gold center, giving it a greater propensity to
+coordinate to π-systems such as the C=C bond of an adjacent phosphinine ring.
+
+Further attempts were made to characterize and isolate the monogold
+intermediate, but, unfortunately, crystallization of solutions of **20** only
+led to the digold product **21**. Reinvestigation of the 31P{1H} NMR spectra
+of **20** at low temperature showed the appearance of two resonances at 259
+and 207 ppm at −70 °C, similar to the free phosphinine and bound phosphinine
+signals seen in **19** and **21,** respectively. Thus, the lack of a
+phosphorus resonance for **20** at 25 °C is a consequence of rapid exchange of
+the AuCl unit between P donor sites, causing a broadening of the signal to the
+extent that it could not be observed. 1H NMR spectra of solutions of **20**
+and **21** at 25 °C were very similar, with the major difference being the
+amount of free tht present from the [AuCl(tht)] precursor (see Supplementary
+information). The addition of another equivalent of [AuCl(tht)] to a solution
+of **20,** which exhibited no 31P NMR signal, resulted in the 31P nuclear
+magnetic resonance of **21** being observed.
+
+The addition of one equivalent of [AuCl(tht)] to the phosphinophosphinine
+**22** demonstrated coordination of the AuCl unit to the phosphine donor
+(**23**), as anticipated from previous studies that identified selenation of
+the phosphine donor in preference to the phosphinine moiety [42]. The
+phosphinine doublet resonance (252 ppm, 86 Hz) was at an almost identical
+chemical shift to that observed in the free ligand (250 ppm, 32 Hz) [43], but
+the coupling had increased greatly. In contrast, the ClAuPPh2 unit was
+identified as a doublet at 29.5 ppm (c.f. −7.5 ppm in **22**). The addition of
+a second equivalent of [AuCl(tht)] led to coordination of the phosphinine
+donor, as revealed by 31P NMR spectroscopy by the broad resonance at 207 ppm,
+at a very similar chemical shift to **21** (209 ppm). However, this digold
+species turned out to be unexpectedly unstable at room temperature,
+particularly when concentrations were increased in many attempts to scale up
+and isolate this compound. The addition of two equivalents of [AuCl(tht)] to
+**22** caused the precipitation of a black solid almost immediately, with more
+black precipitate forming over time. This severely hampered any attempts to
+acquire further data on this complex, as even carefully filtering and storing
+solutions of this compound at −20 °C led to the formation of a purple-black
+precipitate covering the walls of the Schlenk vessel used to exclude air and
+moisture.
+
+The reaction of **22** with [AuCl(SMe2)] was attempted using non-dry
+chloroform as the solvent in order to see what effect moisture had on the
+reaction. As anticipated, 31P NMR spectroscopy revealed the loss of all
+resonances in the aromatic region, with a mixture of products now evident. 31P
+nuclear magnetic resonances ranged between 99.5 and 3 ppm, with the major
+product identified by two doublet resonances at 66.6 and 27.1 ppm (115 Hz).
+The reaction of complexes featuring the phosphinophosphinine ligand with water
+was observed previously [44]. Out of this reaction mixture, a crystal suitable
+for X-ray diffraction experiments was grown and the molecular structure of
+**25** was obtained (Figure 3). An AuCl unit was bound to each phosphorus atom
+with similar Au-P distances of 2.2180(10) (Au1-P1) and 2.2401(10) Å (Au2-P2).
+There was a short Au…Au distance of 3.0576(2) Å well within the range of
+normal aurophilic interactions [50]. The phosphinine moiety was no longer
+present, as water had added over the P1=C5 bond to generate a
+phosphacyclohexadiene with C1=C2 (1.370(5) Å) and C3=C4 (1.340(6) Å) double
+bonds now present. The H atom on the P-OH moiety was located in the Fourier
+difference map and refined corroborating the assignment of this species. Also
+notable is that the SiMe3 group has been removed and replaced with an H atom.
+This outcome has been noted in a [Ru(C6Me6)]+ complex [44]; however, here the
+additional H atom was located bound to the ortho-CPPh2 carbon rather than the
+C5 position, as was noted in **25**. Cleavage of phosphinine-SiMe3 groups can
+be achieved readily using HCl [47,51], and it is possible that HCl as an
+impurity in the chloroform solvent led to this outcome.
+
+**Figure 3.** Molecular structure of **25** (thermal ellipsoids at 50%; H
+atoms on the Ph and Me groups have been omitted for clarity). A chloroform
+solvate molecule has also been omitted for clarity. Selected bond lengths (Å)
+and angles (°): Au1-Au2 3.0576(2), Au1-Cl1 2.3047(9), Au1-P1 2.2180(10),
+Au2-Cl2 2.2919(10), Au2-P2 2.2401(10), P1-O1 1.596(3), P1-C1-1.787(4), P1-C5
+1.800(4), P2-C1 1.818(3), C1-C2 1.370(5), C2-C3 1.462(5), C3-C4 1.340(6),
+C4-C5 1.490(6), P1-Au1-Cl1 169.29(4), P2-Au2-Cl2 173.94(3), P1-C1-P2 114.4(2).
+
+##  3\. Discussion
+
+The aim at the beginning of this work was to compare monogold species with
+digold analogues using the ditopic ligands **19** and **22**. For the
+symmetrical bis(phosphinine) ligand **19** , this was not possible, as **20**
+could not be isolated without ligand redistribution occurring to form the
+digold species. However, the formation of the symmetrical digold species
+**21** was achieved, and this species showed evidence of additional
+Au…π(arene) interactions rather than an aurophilic interaction, as was
+initially anticipated. The ditopic phosphinophosphinine ligand showed
+preferential binding of AuCl to the phosphine donor, with a second equivalent
+of AuCl binding to the phosphinine donor. However, this complex showed very
+poor stability, an unexpected outcome, which meant we could not determine its
+molecular structure in order to establish whether or not aurophilic
+interactions were present. Instead, a hydrolysis product was characterized by
+X-ray crystallography and revealed that, as anticipated, this small bite-angle
+ligand enforces close proximity of two AuCl units, leading to an aurophilic
+interaction. However, the phosphinine unit was no longer present, having
+reacted with water, and the SiMe3 substituent was also no longer present.
+
+##  4\. Materials and Methods
+
+All reactions requiring inert conditions were performed under an oxygen-free
+nitrogen atmosphere using standard Schlenk-line techniques or using an MBRUAN
+UNILab Plus glovebox, unless otherwise noted. Dry toluene was obtained from a
+solvent purification system (MBraun SP-300) and stored over 4 Å molecular
+sieves prior to use. When required to be dry, C6D6 and CDCl3 were dried over
+activated 4 Å molecular sieves prior to use. Non-dry solvents were used as
+received from Fisher Scientific or Goss Scientific (deuterated solvents). The
+phosphinines **19** [41] and **22** [43] were synthesized as previously
+described. NMR spectra were obtained using either a Bruker AVIII400 (400 MHz)
+or AVIIHD (400 MHz) spectrometer. 1H NMR spectra were recorded at 400 MHz and
+referenced to the residual solvent peak (7.26 for CDCl3 and 7.16 for C6D6).
+13C{1H} NMR spectra were recorded at 101 MHz and referenced to the residual
+solvent peak (77.16 for CDCl3 and 128.06 for C6D6). 31P{1H} NMR spectra were
+recorded at 162 MHz and referenced to an external standard. Mass spectrometry
+was conducted at the National Mass Spectrometry Facility at Swansea University
+using the techniques stated. Elemental analyses were performed by Dr Brian
+Hutton (Heriot-Watt University, Edinburgh, UK).
+
+Single crystals suitable for X-ray diffraction were covered in inert oil and
+placed under the cold stream of a Bruker D8 Venture four-circle diffractometer
+cooled to 100 K. Exposures were collected using Mo or Cu Kα radiation.
+Indexing, data collection and absorption corrections were performed. The
+structures were then solved using SHELXT [52] and refined by full-matrix
+least-squares refinement (SHELXL) [53] interfaced with the programme OLEX2
+[54].
+
+####  4.1. Attempted preparation of **20**
+
+Under nitrogen, **19** (228 mg, 0.54 mmol), [AuCl(tht)] (169 mg, 0.313 mmol)
+and toluene were sealed in a Schlenk flask. The solution was stirred for 18 h
+at room temperature, forming a precipitate. The solvent was removed under
+reduced pressure and the resultant solid was dried. Recrystallization using
+CH2Cl2 solutions layered with hexane at 5 °C led to the formation of **21**.
+
+**31 P{1H} (162 MHz, C6D6, 298 K):** No signal. **31 P{1H} (162 MHz, C6D6, 203
+K):** 258.7 and 207.0 ppm.
+
+####  4.2. Preparation of **21**
+
+Under nitrogen, **19** (219 mg, 0.521 mmol), [AuCl(tht)] (340 mg, 1.059 mmol)
+and toluene (30 cm3) were combined in a Schlenk flask, and the reaction was
+stirred at room temperature for 18 h forming a white precipitate. The
+supernatant solvent was removed by filtration and the solid was dried under
+reduced pressure, yielding **21** as a white powder (145.6 mg, 0.164 mmol,
+32%).
+
+**31 P{1H} (162 MHz, CDCl3, 298 K)** δ = 209.3 (s, phosphinine-P); **1 H NMR
+(400 MHz, CDCl3, 298 K)** δ = 8.19 (dd, 2 H, 3JP-H = 31.7 Hz, and 3JH-H = 8.5
+Hz, meta-phosphinine-H), 7.42 (dd, 2 H, 3JH-H = 8.5 Hz, 4JP-H = 4.9 Hz, para-
+phosphinine-H), 2.70 (d, 6 H, 4JP-H = 1.3 Hz, phosphinine-Me), 1.05 (s, 6 H,
+SiMe2), 0.46 (s, 18 H, SiMe3); 13C{1H}(100.6 MHz, CDCl3, 298 K) δ = 156.2 (br.
+s, ortho-CSiMe2), δ = 156.1 (d, 4.8 Hz, meta-CMe), δ = 155.7 (m, ortho-
+CSiMe3), 143.7 (m, CH, meta-Ar-H), 130.9 (d, 3JP-C = 46.6 Hz CH, para-Ar-H), δ
+= 28.6 (m, meta-Me), 6.7 (t, 4.8 Hz, SiMe2), 0.7 (m, SiMe3); **29 Si{1H} NMR
+(79.5 MHz, CDCl3, 298 K)** δ = 0.00 (d, 2JP-Si = 18.5 Hz, SiMe3), −3.97 (d,
+2JP-Si = 20.6 Hz, SiMe2); **HRMS (ASAP/QTof):** m/z: calcd. for
+C20H34P2Cl197Au2Si3: 849.0463 [M-Cl]+, found: 849.0474; **elemental
+analysis:** anal. calcd. for C20H34P2Cl2Au2Si3: C 27.13, H 3.87, N 0, found: C
+27.31, H 3.92, N 0.
+
+####  4.3. Reactions of **22** with [AuCl(L)]
+
+NMR-scale reactions were attempted for one equivalent of phosphinophosphinine
+**22** (7–10 mg) with either one or two equivalents of gold reagent [AuCl(L)]
+(L = tht, SMe2; 6.4–18.3 mg). When L = SMe2, the reaction was performed in
+non-dry (wet) CDCl3, under air, and when L = tht (tetrahydrothiophene), the
+reaction was prepared in the glovebox under N2 using dry C6D6. In all cases,
+reagents were charged to separate vials; the solvent was added first to **22**
+to give a very pale-yellow solution, then this was added to the gold reagent.
+On mixing at room temperature, this afforded a bright yellow solution. At this
+point, the sample was sealed in an NMR tube equipped with a J. Young cap, and
+31P{1H} NMR spectra were taken.
+
+Larger-scale reactions were performed similar to the following: **22** (106
+mg, 0.29 mmol), [AuCl(tht)] (100 mg, 0.31 mmol) and toluene were sealed in a
+Schlenk flask. The solution was stirred for 18 h at room temperature, forming
+a precipitate. The solvent was removed under vacuum and the solid was dried
+under reduced pressure.
+
+Using two equivalents of [AuCl(tht)] (202 mg, 0.630 mmol), 101 mg **22** was
+used (0.274 mmol). The formation of purple-black ppt. was noticed from
+decomposition.
+
+####  4.4. Data for **23** :
+
+**31 P{1H} (162 MHz, CDCl3, 298 K)** δ = 252 (d, 2JP-P = 86 Hz) and 29.5 ppm
+(d, 2JP-P = 86 Hz).
+
+####  4.5. Data for **24** :
+
+**31 P{1H} (162 MHz, CDCl3, 298 K)** δ = 206.7 ppm (bs) and 27.8 ppm (d, 2JP-P
+= 48.6 Hz).
+
+##  Supplementary Materials
+
+The following are available online at
+<https://www.mdpi.com/article/10.3390/inorganics10110203/s1>, NMR and mass
+spectra, table of additional crystallographic information. CIF and check CIF
+output files for the solid-state structures of **21** and **25**.
+
+## Author Contributions
+
+Conceptualization, P.A.C. and S.M.M.; methodology, P.A.C., B.G. and S.M.M.;
+validation, M.M., B.G., D.J.W. and S.M.M.; formal analysis, all authors.;
+investigation, all authors.; data curation, S.M.M.; writing—original draft
+preparation, S.M.M.; writing—review and editing, all authors; visualization,
+S.M.M.; supervision, S.M.M.; project administration, S.M.M.; funding
+acquisition, S.M.M. All authors have read and agreed to the published version
+of the manuscript.
+
+## Funding
+
+This research was funded by the Leverhulme Trust (RPG-2016-338 for supporting
+P.A.C.) and EaSI-cat funded a PhD studentship (D.J.W.).
+
+## Data Availability Statement
+
+The crystallographic data in this study are available in the Cambridge
+Structural Database, deposition numbers CCDC 2212070 (**21**) and 2212069
+(**25**).
+
+## Acknowledgments
+
+We thank the National Mass Spectrometry Facility at Swansea University for
+help with mass spectrometry analysis. We thank Brian Hutton (Heriot-Watt
+University) for help with elemental analysis, David Ellis (Heriot-Watt
+University) for help with the low temperature NMR studies and Georgina Rosair
+(Heriot-Watt University) for collecting the X-ray diffraction data.
+
+## Conflicts of Interest
+
+The authors declare no conflict of interest.
+
+## References
+
+  1. Märkl, G. 2,4,6-Triphenylphosphabenzene. Angew. Chem. Int. Ed. **1966** , 5, 846–847. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=2,4,6-Triphenylphosphabenzene&author=M%C3%A4rkl,+G.&publication_year=1966&journal=Angew.+Chem.+Int.+Ed.&volume=5&pages=846%E2%80%93847&doi=10.1002/anie.196608463)] [[CrossRef](https://doi.org/10.1002/anie.196608463)]
+  2. Ashe, A.J. Phosphabenzene and arsabenzene. J. Am. Chem. Soc. **1971** , 93, 3293–3295. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Phosphabenzene+and+arsabenzene&author=Ashe,+A.J.&publication_year=1971&journal=J.+Am.+Chem.+Soc.&volume=93&pages=3293%E2%80%933295&doi=10.1021/ja00742a038)] [[CrossRef](https://doi.org/10.1021/ja00742a038)]
+  3. Ashe, A.J. The Route to Phosphabenzene and Beyond. Eur. J. Inorg. Chem. **2016** , 2016, 572–574. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=The+Route+to+Phosphabenzene+and+Beyond&author=Ashe,+A.J.&publication_year=2016&journal=Eur.+J.+Inorg.+Chem.&volume=2016&pages=572%E2%80%93574&doi=10.1002/ejic.201600007)] [[CrossRef](https://doi.org/10.1002/ejic.201600007)] [[Green Version](https://deepblue.lib.umich.edu/bitstream/2027.42/117476/1/572_ftp.pdf)]
+  4. Müller, C.; Vogt, D. Phosphinines as ligands in homogeneous catalysis: Recent developments, concepts and perspectives. Dalton Trans. **2007** , 47, 5505–5523. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Phosphinines+as+ligands+in+homogeneous+catalysis:+Recent+developments,+concepts+and+perspectives&author=M%C3%BCller,+C.&author=Vogt,+D.&publication_year=2007&journal=Dalton+Trans.&volume=47&pages=5505%E2%80%935523&doi=10.1039/b712456m)] [[CrossRef](https://doi.org/10.1039/b712456m)]
+  5. Müller, C.; Vogt, D. Recent developments in the chemistry of donor-functionalized phosphinines. C. R. Chim. **2010** , 13, 1127–1143. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Recent+developments+in+the+chemistry+of+donor-functionalized+phosphinines&author=M%C3%BCller,+C.&author=Vogt,+D.&publication_year=2010&journal=C.+R.+Chim.&volume=13&pages=1127%E2%80%931143&doi=10.1016/j.crci.2010.03.009)] [[CrossRef](https://doi.org/10.1016/j.crci.2010.03.009)]
+  6. Müller, C.; Vogt, D. Phosphinine-Based Ligands in Homogeneous Catalysis: State of the Art and Future Perspectives. In Phosphorus Compounds. Catalysis by Metal Complexes; Peruzzini, M., Gonsalvi, L., Eds.; Springer: Dordrecht, The Netherlands, 2011; Volume 37. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Phosphinine-Based+Ligands+in+Homogeneous+Catalysis:+State+of+the+Art+and+Future+Perspectives&author=M%C3%BCller,+C.&author=Vogt,+D.&publication_year=2011)]
+  7. Müller, C. Phosphinine Ligands. In Phosphorus(III) Ligands in Homogeneous Catalysis: Design and Synthesis; John Wiley & Sons, Ltd.: Hoboken, NJ, USA, 2012; pp. 287–307. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Phosphinine+Ligands&author=M%C3%BCller,+C.&publication_year=2012&pages=287%E2%80%93307)]
+  8. Müller, C.; Broeckx, L.E.E.; de Krom, I.; Weemers, J.J.M. Developments in the Coordination Chemistry of Phosphinines. Eur. J. Inorg. Chem. **2013** , 2013, 187–202. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Developments+in+the+Coordination+Chemistry+of+Phosphinines&author=M%C3%BCller,+C.&author=Broeckx,+L.E.E.&author=de+Krom,+I.&author=Weemers,+J.J.M.&publication_year=2013&journal=Eur.+J.+Inorg.+Chem.&volume=2013&pages=187%E2%80%93202&doi=10.1002/ejic.201200912)] [[CrossRef](https://doi.org/10.1002/ejic.201200912)]
+  9. Müller, C.; Sklorz, J.A.W.; de Krom, I.; Loibl, A.; Habicht, M.; Bruce, M.; Pfeifer, G.; Wiecko, J. Recent Developments in the Chemistry of Pyridyl-functionalized, Low-coordinate Phosphorus Heterocycles. Chem. Lett. **2014** , 43, 1390–1404. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Recent+Developments+in+the+Chemistry+of+Pyridyl-functionalized,+Low-coordinate+Phosphorus+Heterocycles&author=M%C3%BCller,+C.&author=Sklorz,+J.A.W.&author=de+Krom,+I.&author=Loibl,+A.&author=Habicht,+M.&author=Bruce,+M.&author=Pfeifer,+G.&author=Wiecko,+J.&publication_year=2014&journal=Chem.+Lett.&volume=43&pages=1390%E2%80%931404&doi=10.1246/cl.140553)] [[CrossRef](https://doi.org/10.1246/cl.140553)] [[Green Version](http://www.journal.csj.jp/doi/pdf/10.1246/cl.140553)]
+  10. Coles, N.T.; Sofie Abels, A.; Leitl, J.; Wolf, R.; Grützmacher, H.; Müller, C. Phosphinine-based ligands: Recent developments in coordination chemistry and applications. Coord. Chem. Rev. **2021** , 433, 213729. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Phosphinine-based+ligands:+Recent+developments+in+coordination+chemistry+and+applications&author=Coles,+N.T.&author=Sofie+Abels,+A.&author=Leitl,+J.&author=Wolf,+R.&author=Gr%C3%BCtzmacher,+H.&author=M%C3%BCller,+C.&publication_year=2021&journal=Coord.+Chem.+Rev.&volume=433&pages=213729&doi=10.1016/j.ccr.2020.213729)] [[CrossRef](https://doi.org/10.1016/j.ccr.2020.213729)]
+  11. Weber, L. Phosphorus Heterocycles: From Laboratory Curiosities to Ligands in Highly Efficient Catalysts. Angew. Chem. Int. Ed. Engl. **2002** , 41, 563–572. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Phosphorus+Heterocycles:+From+Laboratory+Curiosities+to+Ligands+in+Highly+Efficient+Catalysts&author=Weber,+L.&publication_year=2002&journal=Angew.+Chem.+Int.+Ed.+Engl.&volume=41&pages=563%E2%80%93572&doi=10.1002/1521-3773\(20020215\)41:4%3C563::AID-ANIE563%3E3.0.CO;2-Q)] [[CrossRef](https://doi.org/10.1002/1521-3773\(20020215\)41:4<563::AID-ANIE563>3.0.CO;2-Q)]
+  12. Kostova, I.; Bentham Science, P. Gold Coordination Complexes as Anticancer Agents. Anti-Cancer Agents Med. Chem. **2006** , 6, 19–32. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Gold+Coordination+Complexes+as+Anticancer+Agents&author=Kostova,+I.&author=Bentham+Science,+P.&publication_year=2006&journal=Anti-Cancer+Agents+Med.+Chem.&volume=6&pages=19%E2%80%9332&doi=10.2174/187152006774755500)] [[CrossRef](https://doi.org/10.2174/187152006774755500)]
+  13. Best, S.L.; Sadler, P.J. Gold drugs: Mechanism of action and toxicity. Gold Bull. **1996** , 29, 87–93. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Gold+drugs:+Mechanism+of+action+and+toxicity&author=Best,+S.L.&author=Sadler,+P.J.&publication_year=1996&journal=Gold+Bull.&volume=29&pages=87%E2%80%9393&doi=10.1007/BF03214741)] [[CrossRef](https://doi.org/10.1007/BF03214741)]
+  14. Hutchings, G.J. Catalysis by gold. Catal. Today **2005** , 100, 55–61. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Catalysis+by+gold&author=Hutchings,+G.J.&publication_year=2005&journal=Catal.+Today&volume=100&pages=55%E2%80%9361&doi=10.1016/j.cattod.2004.12.016)] [[CrossRef](https://doi.org/10.1016/j.cattod.2004.12.016)]
+  15. Hashmi, A.S.K.; Rudolph, M. Gold catalysis in total synthesis. Chem. Soc. Rev. **2008** , 37, 1766–1775. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Gold+catalysis+in+total+synthesis&author=Hashmi,+A.S.K.&author=Rudolph,+M.&publication_year=2008&journal=Chem.+Soc.+Rev.&volume=37&pages=1766%E2%80%931775&doi=10.1039/b615629k&pmid=18762826)] [[CrossRef](https://doi.org/10.1039/b615629k)] [[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/18762826)]
+  16. Hashmi, A.S.K. Gold-Catalyzed Organic Reactions. Chem. Rev. **2007** , 107, 3180–3211. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Gold-Catalyzed+Organic+Reactions&author=Hashmi,+A.S.K.&publication_year=2007&journal=Chem.+Rev.&volume=107&pages=3180%E2%80%933211&doi=10.1021/cr000436x&pmid=17580975)] [[CrossRef](https://doi.org/10.1021/cr000436x)] [[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/17580975)]
+  17. Campeau, D.; León Rayo, D.F.; Mansour, A.; Muratov, K.; Gagosz, F. Gold-Catalyzed Reactions of Specially Activated Alkynes, Allenes, and Alkenes. Chem. Rev. **2021** , 121, 8756–8867. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Gold-Catalyzed+Reactions+of+Specially+Activated+Alkynes,+Allenes,+and+Alkenes&author=Campeau,+D.&author=Le%C3%B3n+Rayo,+D.F.&author=Mansour,+A.&author=Muratov,+K.&author=Gagosz,+F.&publication_year=2021&journal=Chem.+Rev.&volume=121&pages=8756%E2%80%938867&doi=10.1021/acs.chemrev.0c00788)] [[CrossRef](https://doi.org/10.1021/acs.chemrev.0c00788)]
+  18. Dash, K.C.; Eberlein, J.; Schmidbaur, H. Gold(i) Halide Complexes of 2,4,6-Triphenyl-Phosphabenzene. Synth. React. Inorg. Met.-Org. Chem. **1973** , 3, 375–380. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Gold\(i\)+Halide+Complexes+of+2,4,6-Triphenyl-Phosphabenzene&author=Dash,+K.C.&author=Eberlein,+J.&author=Schmidbaur,+H.&publication_year=1973&journal=Synth.+React.+Inorg.+Met.-Org.+Chem.&volume=3&pages=375%E2%80%93380&doi=10.1080/00945717308057283)] [[CrossRef](https://doi.org/10.1080/00945717308057283)]
+  19. Stott, J.; Bruhn, C.; Siemeling, U. Crystal Structures of the Gold(I) Phosphinine Complexes [AuCl(C5H2P-2,6-Me2-4-Ph)] and [AuCl(C5H2P-2,4,6-Ph3)]. Z. Für Nat. B **2013** , 68, 853–859. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Crystal+Structures+of+the+Gold\(I\)+Phosphinine+Complexes+\[AuCl\(C5H2P-2,6-Me2-4-Ph\)\]+and+\[AuCl\(C5H2P-2,4,6-Ph3\)\]&author=Stott,+J.&author=Bruhn,+C.&author=Siemeling,+U.&publication_year=2013&journal=Z.+F%C3%BCr+Nat.+B&volume=68&pages=853%E2%80%93859&doi=10.5560/znb.2013-3155)] [[CrossRef](https://doi.org/10.5560/znb.2013-3155)]
+  20. Mézailles, N.; Ricard, L.; Mathey, F.; Le Floch, P. Synthesis, X-ray Crystal Structures and Reactivity Towards Alkynes of Gold(I)–Phosphinine Complexes. Eur. J. Inorg. Chem. **1999** , 1999, 2233–2241. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Synthesis,+X-ray+Crystal+Structures+and+Reactivity+Towards+Alkynes+of+Gold\(I\)%E2%80%93Phosphinine+Complexes&author=M%C3%A9zailles,+N.&author=Ricard,+L.&author=Mathey,+F.&author=Le+Floch,+P.&publication_year=1999&journal=Eur.+J.+Inorg.+Chem.&volume=1999&pages=2233%E2%80%932241&doi=10.1002/\(SICI\)1099-0682\(199912\)1999:12%3C2233::AID-EJIC2233%3E3.0.CO;2-2)] [[CrossRef](https://doi.org/10.1002/\(SICI\)1099-0682\(199912\)1999:12<2233::AID-EJIC2233>3.0.CO;2-2)]
+  21. Avarvari, N.; Mézailles, N.; Ricard, L.; Floch, P.L.; Mathey, F. Silacalix-[n]-phosphaarenes: Macrocyclic Ligands Based on Dicoordinate Phosphorus Centers. Science **1998** , 280, 1587–1589. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Silacalix-\[n\]-phosphaarenes:+Macrocyclic+Ligands+Based+on+Dicoordinate+Phosphorus+Centers&author=Avarvari,+N.&author=M%C3%A9zailles,+N.&author=Ricard,+L.&author=Floch,+P.L.&author=Mathey,+F.&publication_year=1998&journal=Science&volume=280&pages=1587%E2%80%931589&doi=10.1126/science.280.5369.1587)] [[CrossRef](https://doi.org/10.1126/science.280.5369.1587)]
+  22. Avarvari, N.; Le Floch, P.; Mathey, F. 1,3,2-Diazaphosphinines: New, Versatile Precursors of 1,2-Azaphosphinines and Polyfunctional Phosphinines. J. Am. Chem. Soc. **1996** , 118, 11978–11979. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=1,3,2-Diazaphosphinines:%E2%80%89+New,+Versatile+Precursors+of+1,2-Azaphosphinines+and+Polyfunctional+Phosphinines&author=Avarvari,+N.&author=Le+Floch,+P.&author=Mathey,+F.&publication_year=1996&journal=J.+Am.+Chem.+Soc.&volume=118&pages=11978%E2%80%9311979&doi=10.1021/ja962736v)] [[CrossRef](https://doi.org/10.1021/ja962736v)]
+  23. Avarvari, N.; Le Floch, P.; Ricard, L.; Mathey, F. 1,3,2-Diazaphosphinines and -Diazaarsinines as Precursors for Polyfunctional Phosphinines and Arsinines. Organometallics **1997** , 16, 4089–4098. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=1,3,2-Diazaphosphinines+and+-Diazaarsinines+as+Precursors+for+Polyfunctional+Phosphinines+and+Arsinines&author=Avarvari,+N.&author=Le+Floch,+P.&author=Ricard,+L.&author=Mathey,+F.&publication_year=1997&journal=Organometallics&volume=16&pages=4089%E2%80%934098&doi=10.1021/om970414+)] [[CrossRef](https://doi.org/10.1021/om970414+)]
+  24. Mézailles, N.; Avarvari, N.; Maigrot, N.; Ricard, L.; Mathey, F.; Le Floch, P.; Cataldo, L.; Berclaz, T.; Geoffroy, M. Gold(I) and Gold(0) Complexes of Phosphinine-Based Macrocycles. Angew. Chem. Int. Ed. Engl. **1999** , 38, 3194–3197. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Gold\(I\)+and+Gold\(0\)+Complexes+of+Phosphinine-Based+Macrocycles&author=M%C3%A9zailles,+N.&author=Avarvari,+N.&author=Maigrot,+N.&author=Ricard,+L.&author=Mathey,+F.&author=Le+Floch,+P.&author=Cataldo,+L.&author=Berclaz,+T.&author=Geoffroy,+M.&publication_year=1999&journal=Angew.+Chem.+Int.+Ed.+Engl.&volume=38&pages=3194%E2%80%933197&doi=10.1002/\(SICI\)1521-3773\(19991102\)38:21%3C3194::AID-ANIE3194%3E3.0.CO;2-O)] [[CrossRef](https://doi.org/10.1002/\(SICI\)1521-3773\(19991102\)38:21<3194::AID-ANIE3194>3.0.CO;2-O)]
+  25. Moores, A.; Mézailles, N.; Maigrot, N.; Ricard, L.; Mathey, F.; Le Floch, P. Synthesis and Reactivity Towards Cationic Group 11 Metal Centers of an Extended Silacalix-[3]-phosphinine Macrocycle. Eur. J. Inorg. Chem. **2002** , 2002, 2034–2039. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Synthesis+and+Reactivity+Towards+Cationic+Group+11+Metal+Centers+of+an+Extended+Silacalix-\[3\]-phosphinine+Macrocycle&author=Moores,+A.&author=M%C3%A9zailles,+N.&author=Maigrot,+N.&author=Ricard,+L.&author=Mathey,+F.&author=Le+Floch,+P.&publication_year=2002&journal=Eur.+J.+Inorg.+Chem.&volume=2002&pages=2034%E2%80%932039&doi=10.1002/1099-0682\(200208\)2002:8%3C2034::AID-EJIC2034%3E3.0.CO;2-A)] [[CrossRef](https://doi.org/10.1002/1099-0682\(200208\)2002:8<2034::AID-EJIC2034>3.0.CO;2-A)]
+  26. Doux, M.; Ricard, L.; Le Floch, P.; Mézailles, N. Group 11 metal complexes of SPS-based pincer ligands: Syntheses, X-ray structures and reactivity. Dalton Trans. **2004** , 16, 2593–2600. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Group+11+metal+complexes+of+SPS-based+pincer+ligands:+Syntheses,+X-ray+structures+and+reactivity&author=Doux,+M.&author=Ricard,+L.&author=Le+Floch,+P.&author=M%C3%A9zailles,+N.&publication_year=2004&journal=Dalton+Trans.&volume=16&pages=2593%E2%80%932600&doi=10.1039/B406792D&pmid=15303178)] [[CrossRef](https://doi.org/10.1039/B406792D)] [[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/15303178)]
+  27. Clendenning, S.B.; Hitchcock, P.B.; Lawless, G.A.; Nixon, J.F.; Tate, C.W. Differences in the η1-ligating properties of 2,4,6-tritertiarybutyl-phosphabenzene, PC5H2Bu3t and 2,4,6-tritertiarybutyl-1,3,5-triphosphabenzene, P3C3Bu3t. J. Organomet. Chem. **2010** , 695, 717–720. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Differences+in+the+%CE%B71-ligating+properties+of+2,4,6-tritertiarybutyl-phosphabenzene,+PC5H2Bu3t+and+2,4,6-tritertiarybutyl-1,3,5-triphosphabenzene,+P3C3Bu3t&author=Clendenning,+S.B.&author=Hitchcock,+P.B.&author=Lawless,+G.A.&author=Nixon,+J.F.&author=Tate,+C.W.&publication_year=2010&journal=J.+Organomet.+Chem.&volume=695&pages=717%E2%80%93720&doi=10.1016/j.jorganchem.2009.12.005)] [[CrossRef](https://doi.org/10.1016/j.jorganchem.2009.12.005)]
+  28. Falconer, R.L.; Russell, C.A. 1,3,5-Triphosphabenzenes: Synthesis, reactivity and theory. Coord. Chem. Rev. **2015** , 297–298, 146–167. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=1,3,5-Triphosphabenzenes:+Synthesis,+reactivity+and+theory&author=Falconer,+R.L.&author=Russell,+C.A.&publication_year=2015&journal=Coord.+Chem.+Rev.&volume=297%E2%80%93298&pages=146%E2%80%93167&doi=10.1016/j.ccr.2015.02.010)] [[CrossRef](https://doi.org/10.1016/j.ccr.2015.02.010)]
+  29. Townsend, N.S.; Green, M.; Russell, C.A. Cationic Gold(I) Complexes of 2,4,6-Tri-tert-butyl-1,3,5-triphosphabenzene. Organometallics **2012** , 31, 2543–2545. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Cationic+Gold\(I\)+Complexes+of+2,4,6-Tri-tert-butyl-1,3,5-triphosphabenzene&author=Townsend,+N.S.&author=Green,+M.&author=Russell,+C.A.&publication_year=2012&journal=Organometallics&volume=31&pages=2543%E2%80%932545&doi=10.1021/om201265n)] [[CrossRef](https://doi.org/10.1021/om201265n)]
+  30. Komath Mallissery, S.; Nieger, M.; Gudat, D. On the Surface Reactivity of Functionalized Phosphinines on Inorganic Supports. Z. Anorg. Allg. Chem. **2010** , 636, 1354–1360. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=On+the+Surface+Reactivity+of+Functionalized+Phosphinines+on+Inorganic+Supports&author=Komath+Mallissery,+S.&author=Nieger,+M.&author=Gudat,+D.&publication_year=2010&journal=Z.+Anorg.+Allg.+Chem.&volume=636&pages=1354%E2%80%931360&doi=10.1002/zaac.200900545)] [[CrossRef](https://doi.org/10.1002/zaac.200900545)]
+  31. Mao, Y.; Lim, K.M.H.; Li, Y.; Ganguly, R.; Mathey, F. The Original Coordination Chemistry of 2-Phosphaphenol with Copper(I) and Gold(I) Halides. Organometallics **2013** , 32, 3562–3565. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=The+Original+Coordination+Chemistry+of+2-Phosphaphenol+with+Copper\(I\)+and+Gold\(I\)+Halides&author=Mao,+Y.&author=Lim,+K.M.H.&author=Li,+Y.&author=Ganguly,+R.&author=Mathey,+F.&publication_year=2013&journal=Organometallics&volume=32&pages=3562%E2%80%933565&doi=10.1021/om400207y)] [[CrossRef](https://doi.org/10.1021/om400207y)]
+  32. Hou, Y.; Li, Z.; Li, Y.; Liu, P.; Su, C.-Y.; Puschmann, F.; Grützmacher, H. Making the unconventional μ2-P bridging binding mode more conventional in phosphinine complexes. Chem. Sci. **2019** , 10, 3168–3180. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Making+the+unconventional+%CE%BC2-P+bridging+binding+mode+more+conventional+in+phosphinine+complexes&author=Hou,+Y.&author=Li,+Z.&author=Li,+Y.&author=Liu,+P.&author=Su,+C.-Y.&author=Puschmann,+F.&author=Gr%C3%BCtzmacher,+H.&publication_year=2019&journal=Chem.+Sci.&volume=10&pages=3168%E2%80%933180&doi=10.1039/C8SC05281F)] [[CrossRef](https://doi.org/10.1039/C8SC05281F)]
+  33. Moussa, J.; Chamoreau, L.M.; Amouri, H. Gold(I) complexes with a phosphinine ligand: Synthesis and structural characterization. RSC Adv. **2014** , 4, 11539–11542. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Gold\(I\)+complexes+with+a+phosphinine+ligand:+Synthesis+and+structural+characterization&author=Moussa,+J.&author=Chamoreau,+L.M.&author=Amouri,+H.&publication_year=2014&journal=RSC+Adv.&volume=4&pages=11539%E2%80%9311542&doi=10.1039/c3ra47132b)] [[CrossRef](https://doi.org/10.1039/c3ra47132b)]
+  34. Weemers, J.J.M.; van der Graaff, W.N.P.; Pidko, E.A.; Lutz, M.; Müller, C. Bulky Phosphinines: From a Molecular Design to an Application in Homogeneous Catalysis. Chem.-Eur. J. **2013** , 19, 8991–9004. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Bulky+Phosphinines:+From+a+Molecular+Design+to+an+Application+in+Homogeneous+Catalysis&author=Weemers,+J.J.M.&author=van%E2%80%85der%E2%80%85Graaff,+W.N.P.&author=Pidko,+E.A.&author=Lutz,+M.&author=M%C3%BCller,+C.&publication_year=2013&journal=Chem.-Eur.+J.&volume=19&pages=8991%E2%80%939004&doi=10.1002/chem.201300557&pmid=23670813)] [[CrossRef](https://doi.org/10.1002/chem.201300557)] [[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/23670813)]
+  35. Rigo, M.; Hettmanczyk, L.; Heutz, F.J.L.; Hohloch, S.; Lutz, M.; Sarkar, B.; Müller, C. Phosphinines versus mesoionic carbenes: A comparison of structurally related ligands in Au(i)-catalysis. Dalton Trans. **2017** , 46, 86–95. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Phosphinines+versus+mesoionic+carbenes:+A+comparison+of+structurally+related+ligands+in+Au\(i\)-catalysis&author=Rigo,+M.&author=Hettmanczyk,+L.&author=Heutz,+F.J.L.&author=Hohloch,+S.&author=Lutz,+M.&author=Sarkar,+B.&author=M%C3%BCller,+C.&publication_year=2017&journal=Dalton+Trans.&volume=46&pages=86%E2%80%9395&doi=10.1039/C6DT03766F&pmid=27897296)] [[CrossRef](https://doi.org/10.1039/C6DT03766F)] [[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/27897296)]
+  36. Rigo, M.; Habraken, E.R.M.; Bhattacharyya, K.; Weber, M.; Ehlers, A.W.; Mézailles, N.; Slootweg, J.C.; Müller, C. Phosphinine-Based Ligands in Gold-Catalyzed Reactions. Chem.-Eur. J. **2019** , 25, 8769–8779. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Phosphinine-Based+Ligands+in+Gold-Catalyzed+Reactions&author=Rigo,+M.&author=Habraken,+E.R.M.&author=Bhattacharyya,+K.&author=Weber,+M.&author=Ehlers,+A.W.&author=M%C3%A9zailles,+N.&author=Slootweg,+J.C.&author=M%C3%BCller,+C.&publication_year=2019&journal=Chem.-Eur.+J.&volume=25&pages=8769%E2%80%938779&doi=10.1002/chem.201900938)] [[CrossRef](https://doi.org/10.1002/chem.201900938)]
+  37. Yoshifuji, M. Chemistry of Several Sterically Bulky Molecules with P=P, P=C, and C≡P Bond. Molecules **2022** , 27, 1557. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Chemistry+of+Several+Sterically+Bulky+Molecules+with+P=P,+P=C,+and+C%E2%89%A1P+Bond&author=Yoshifuji,+M.&publication_year=2022&journal=Molecules&volume=27&pages=1557&doi=10.3390/molecules27051557&pmid=35268657)] [[CrossRef](https://doi.org/10.3390/molecules27051557)] [[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/35268657)]
+  38. Freytag, M.; Ito, S.; Yoshifuji, M. Coordination Behavior of Sterically Protected Phosphaalkenes on the AuCl Moiety Leading to Catalytic 1,6-Enyne Cycloisomerization. Chem. -Asian J. **2006** , 1, 693–700. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Coordination+Behavior+of+Sterically+Protected+Phosphaalkenes+on+the+AuCl+Moiety+Leading+to+Catalytic+1,6-Enyne+Cycloisomerization&author=Freytag,+M.&author=Ito,+S.&author=Yoshifuji,+M.&publication_year=2006&journal=Chem.+-Asian+J.&volume=1&pages=693%E2%80%93700&doi=10.1002/asia.200600155)] [[CrossRef](https://doi.org/10.1002/asia.200600155)]
+  39. Franchino, A.; Montesinos-Magraner, M.; Echavarren, A.M. Silver-Free Catalysis with Gold(I) Chloride Complexes. Bull. Chem. Soc. Jpn. **2021** , 94, 1099–1117. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Silver-Free+Catalysis+with+Gold\(I\)+Chloride+Complexes&author=Franchino,+A.&author=Montesinos-Magraner,+M.&author=Echavarren,+A.M.&publication_year=2021&journal=Bull.+Chem.+Soc.+Jpn.&volume=94&pages=1099%E2%80%931117&doi=10.1246/bcsj.20200358)] [[CrossRef](https://doi.org/10.1246/bcsj.20200358)]
+  40. Le Floch, P. Phosphaalkene, phospholyl and phosphinine ligands: New tools in coordination chemistry and catalysis. Coord. Chem. Rev. **2006** , 250, 627–681. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Phosphaalkene,+phospholyl+and+phosphinine+ligands:+New+tools+in+coordination+chemistry+and+catalysis&author=Le+Floch,+P.&publication_year=2006&journal=Coord.+Chem.+Rev.&volume=250&pages=627%E2%80%93681&doi=10.1016/j.ccr.2005.04.032)] [[CrossRef](https://doi.org/10.1016/j.ccr.2005.04.032)]
+  41. Cleaves, P.A.; Mansell, S.M. Unexpected Multiple Coordination Modes in Silyl-Bridged Bis(phosphinine) Complexes. Organometallics **2019** , 38, 1595–1605. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Unexpected+Multiple+Coordination+Modes+in+Silyl-Bridged+Bis\(phosphinine\)+Complexes&author=Cleaves,+P.A.&author=Mansell,+S.M.&publication_year=2019&journal=Organometallics&volume=38&pages=1595%E2%80%931605&doi=10.1021/acs.organomet.9b00034)] [[CrossRef](https://doi.org/10.1021/acs.organomet.9b00034)]
+  42. Cleaves, P.A.; Gourlay, B.; Newland, R.J.; Westgate, R.; Mansell, S.M. Reactivity Studies of Phosphinines: The Selenation of Diphenyl-Phosphine Substituents and Formation of a Chelating Bis(Phosphinine) Palladium(II) Complex. Inorganics **2022** , 10, 17. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Reactivity+Studies+of+Phosphinines:+The+Selenation+of+Diphenyl-Phosphine+Substituents+and+Formation+of+a+Chelating+Bis\(Phosphinine\)+Palladium\(II\)+Complex&author=Cleaves,+P.A.&author=Gourlay,+B.&author=Newland,+R.J.&author=Westgate,+R.&author=Mansell,+S.M.&publication_year=2022&journal=Inorganics&volume=10&pages=17&doi=10.3390/inorganics10020017)] [[CrossRef](https://doi.org/10.3390/inorganics10020017)]
+  43. Newland, R.J.; Wyatt, M.F.; Wingad, R.L.; Mansell, S.M. A ruthenium(II) bis(phosphinophosphinine) complex as a precatalyst for transfer-hydrogenation and hydrogen-borrowing reactions. Dalton Trans. **2017** , 46, 6172–6176. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=A+ruthenium\(II\)+bis\(phosphinophosphinine\)+complex+as+a+precatalyst+for+transfer-hydrogenation+and+hydrogen-borrowing+reactions&author=Newland,+R.J.&author=Wyatt,+M.F.&author=Wingad,+R.L.&author=Mansell,+S.M.&publication_year=2017&journal=Dalton+Trans.&volume=46&pages=6172%E2%80%936176&doi=10.1039/C7DT01022B&pmid=28436519)] [[CrossRef](https://doi.org/10.1039/C7DT01022B)] [[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/28436519)] [[Green Version](https://pubs.rsc.org/en/content/articlepdf/2017/dt/c7dt01022b)]
+  44. Newland, R.J.; Delve, M.P.; Wingad, R.L.; Mansell, S.M. Two isomers of a bis(diphenylphosphino)-phosphinine, and the synthesis and reactivity of Ru arene/Cp* phosphinophosphinine complexes. N. J. Chem. **2018** , 42, 19625–19636. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Two+isomers+of+a+bis\(diphenylphosphino\)-phosphinine,+and+the+synthesis+and+reactivity+of+Ru+arene/Cp*+phosphinophosphinine+complexes&author=Newland,+R.J.&author=Delve,+M.P.&author=Wingad,+R.L.&author=Mansell,+S.M.&publication_year=2018&journal=N.+J.+Chem.&volume=42&pages=19625%E2%80%9319636&doi=10.1039/C8NJ03632B)] [[CrossRef](https://doi.org/10.1039/C8NJ03632B)] [[Green Version](http://orca.cf.ac.uk/128779/1/PP.pdf)]
+  45. Mansell, S.M. Catalytic applications of small bite-angle diphosphorus ligands with single-atom linkers. Dalton Trans. **2017** , 46, 15157–15174. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Catalytic+applications+of+small+bite-angle+diphosphorus+ligands+with+single-atom+linkers&author=Mansell,+S.M.&publication_year=2017&journal=Dalton+Trans.&volume=46&pages=15157%E2%80%9315174&doi=10.1039/C7DT03395H)] [[CrossRef](https://doi.org/10.1039/C7DT03395H)]
+  46. Newland, R.J.; Lynam, J.M.; Mansell, S.M. Small bite-angle 2-phosphinophosphinine ligands enable rhodium-catalysed hydroboration of carbonyls. Chem. Commun. **2018** , 54, 5482–5485. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Small+bite-angle+2-phosphinophosphinine+ligands+enable+rhodium-catalysed+hydroboration+of+carbonyls&author=Newland,+R.J.&author=Lynam,+J.M.&author=Mansell,+S.M.&publication_year=2018&journal=Chem.+Commun.&volume=54&pages=5482%E2%80%935485&doi=10.1039/C8CC01880D&pmid=29756624)] [[CrossRef](https://doi.org/10.1039/C8CC01880D)] [[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/29756624)] [[Green Version](https://pubs.rsc.org/en/content/articlepdf/2018/cc/c8cc01880d)]
+  47. Newland, R.J.; Smith, A.; Smith, D.M.; Fey, N.; Hanton, M.J.; Mansell, S.M. Accessing Alkyl- and Alkenylcyclopentanes from Cr-Catalyzed Ethylene Oligomerization Using 2-Phosphinophosphinine Ligands. Organometallics **2018** , 37, 1062–1073. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Accessing+Alkyl-+and+Alkenylcyclopentanes+from+Cr-Catalyzed+Ethylene+Oligomerization+Using+2-Phosphinophosphinine+Ligands&author=Newland,+R.J.&author=Smith,+A.&author=Smith,+D.M.&author=Fey,+N.&author=Hanton,+M.J.&author=Mansell,+S.M.&publication_year=2018&journal=Organometallics&volume=37&pages=1062%E2%80%931073&doi=10.1021/acs.organomet.8b00063)] [[CrossRef](https://doi.org/10.1021/acs.organomet.8b00063)] [[Green Version](https://research-information.bris.ac.uk/files/155752653/Phosphinine_MCO4_paper_V20_AAM.pdf)]
+  48. Trodden, E.C.; Delve, M.P.; Luz, C.; Newland, R.J.; Andresen, J.M.; Mansell, S.M. A ruthenium cis-dihydride with 2-phosphinophosphinine ligands catalyses the acceptorless dehydrogenation of benzyl alcohol. Dalton Trans. **2021** , 50, 13407–13411. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=A+ruthenium+cis-dihydride+with+2-phosphinophosphinine+ligands+catalyses+the+acceptorless+dehydrogenation+of+benzyl+alcohol&author=Trodden,+E.C.&author=Delve,+M.P.&author=Luz,+C.&author=Newland,+R.J.&author=Andresen,+J.M.&author=Mansell,+S.M.&publication_year=2021&journal=Dalton+Trans.&volume=50&pages=13407%E2%80%9313411&doi=10.1039/D1DT02508B)] [[CrossRef](https://doi.org/10.1039/D1DT02508B)]
+  49. Schmidbaur, H.; Schier, A. Aurophilic interactions as a subject of current research: An up-date. Chem. Soc. Rev. **2012** , 41, 370–412. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Aurophilic+interactions+as+a+subject+of+current+research:+An+up-date&author=Schmidbaur,+H.&author=Schier,+A.&publication_year=2012&journal=Chem.+Soc.+Rev.&volume=41&pages=370%E2%80%93412&doi=10.1039/C1CS15182G)] [[CrossRef](https://doi.org/10.1039/C1CS15182G)]
+  50. Caracelli, I.; Zukerman-Schpector, J.; Tiekink, E.R.T. Supra-molecular synthons based on gold…π(arene) interactions. Gold Bull. **2013** , 46, 81–89. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Supra-molecular+synthons+based+on+gold%E2%80%A6%CF%80\(arene\)+interactions&author=Caracelli,+I.&author=Zukerman-Schpector,+J.&author=Tiekink,+E.R.T.&publication_year=2013&journal=Gold+Bull.&volume=46&pages=81%E2%80%9389&doi=10.1007/s13404-013-0088-7)] [[CrossRef](https://doi.org/10.1007/s13404-013-0088-7)] [[Green Version](https://link.springer.com/content/pdf/10.1007/s13404-013-0088-7.pdf)]
+  51. Habicht, M.H.; Wossidlo, F.; Bens, T.; Pidko, E.A.; Müller, C. 2-(Trimethylsilyl)-λ3-Phosphinine: Synthesis, Coordination Chemistry, and Reactivity. Chem.-Eur. J. **2018** , 24, 944–952. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=2-\(Trimethylsilyl\)-%CE%BB3-Phosphinine:+Synthesis,+Coordination+Chemistry,+and+Reactivity&author=Habicht,+M.H.&author=Wossidlo,+F.&author=Bens,+T.&author=Pidko,+E.A.&author=M%C3%BCller,+C.&publication_year=2018&journal=Chem.-Eur.+J.&volume=24&pages=944%E2%80%93952&doi=10.1002/chem.201704539)] [[CrossRef](https://doi.org/10.1002/chem.201704539)]
+  52. Sheldrick, G. SHELXT—Integrated space-group and crystal-structure determination. Acta Crystallogr. A **2015** , 71, 3–8. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=SHELXT%E2%80%94Integrated+space-group+and+crystal-structure+determination&author=Sheldrick,+G.&publication_year=2015&journal=Acta+Crystallogr.+A&volume=71&pages=3%E2%80%938&doi=10.1107/S2053273314026370)] [[CrossRef](https://doi.org/10.1107/S2053273314026370)]
+  53. Sheldrick, G. A short history of SHELX. Acta Crystallogr. A **2008** , 64, 112–122. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=A+short+history+of+SHELX&author=Sheldrick,+G.&publication_year=2008&journal=Acta+Crystallogr.+A&volume=64&pages=112%E2%80%93122&doi=10.1107/S0108767307043930&pmid=18156677)] [[CrossRef](https://doi.org/10.1107/S0108767307043930)] [[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/18156677)] [[Green Version](http://journals.iucr.org/a/issues/2008/01/00/sc5010/sc5010.pdf)]
+  54. Dolomanov, O.V.; Bourhis, L.J.; Gildea, R.J.; Howard, J.A.K.; Puschmann, H. OLEX2: A complete structure solution, refinement and analysis program. J. Appl. Crystallogr. **2009** , 42, 339–341. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=OLEX2:+A+complete+structure+solution,+refinement+and+analysis+program&author=Dolomanov,+O.V.&author=Bourhis,+L.J.&author=Gildea,+R.J.&author=Howard,+J.A.K.&author=Puschmann,+H.&publication_year=2009&journal=J.+Appl.+Crystallogr.&volume=42&pages=339%E2%80%93341&doi=10.1107/S0021889808042726)] [[CrossRef](https://doi.org/10.1107/S0021889808042726)]
+
+**Figure 1.** Gold phosphinine complexes.
+
+[](/inorganics/inorganics-10-00203/article_deploy/html/images/inorganics-10-00203-g001.png)
+
+**Scheme 1.** Synthesis of gold phosphinine complexes.
+
+[](/inorganics/inorganics-10-00203/article_deploy/html/images/inorganics-10-00203-sch001.png)
+
+**Figure 2.** Molecular structure of **21** (thermal ellipsoids at 50%; all H
+atoms have been omitted for clarity). Selected bond lengths (Å) and angles
+(°): Au1-Cl1 2.2742(12), Au1-P1 2.2078(12), P1-C1 1.721(4), P1-C5 1.709(4),
+C1-C2 1.396(6), C2-C3 1.398(6), C2-C6 1.524(6), C3-C4 1.396(6), C4-C5
+1.388(6), P1-Au1-Cl1 178.13(4), η2 interaction: Au1-C1′ 3.287, Au1-C2′ 3.460.
+
+[](/inorganics/inorganics-10-00203/article_deploy/html/images/inorganics-10-00203-g002.png)
+
+**Figure 3.** Molecular structure of **25** (thermal ellipsoids at 50%; H
+atoms on the Ph and Me groups have been omitted for clarity). A chloroform
+solvate molecule has also been omitted for clarity. Selected bond lengths (Å)
+and angles (°): Au1-Au2 3.0576(2), Au1-Cl1 2.3047(9), Au1-P1 2.2180(10),
+Au2-Cl2 2.2919(10), Au2-P2 2.2401(10), P1-O1 1.596(3), P1-C1-1.787(4), P1-C5
+1.800(4), P2-C1 1.818(3), C1-C2 1.370(5), C2-C3 1.462(5), C3-C4 1.340(6),
+C4-C5 1.490(6), P1-Au1-Cl1 169.29(4), P2-Au2-Cl2 173.94(3), P1-C1-P2 114.4(2).
+
+[](/inorganics/inorganics-10-00203/article_deploy/html/images/inorganics-10-00203-g003.png)
+
+| **Publisher’s Note:** MDPI stays neutral with regard to jurisdictional
+claims in published maps and institutional affiliations.  
+---|---  
+  
+© 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an
+open access article distributed under the terms and conditions of the Creative
+Commons Attribution (CC BY) license
+(<https://creativecommons.org/licenses/by/4.0/>).
+
+## Share and Cite
+
+[
+__](mailto:?&subject=From%20MDPI%3A%20%22Digold%20Phosphinine%20Complexes%20Are%20Stable%20with%20a%20Bis%28Phosphinine%29%20Ligand%20but%20Not%20with%20a%202-Phosphinophosphinine"&body=https://www.mdpi.com/1938896%3A%0A%0ADigold%20Phosphinine%20Complexes%20Are%20Stable%20with%20a%20Bis%28Phosphinine%29%20Ligand%20but%20Not%20with%20a%202-Phosphinophosphinine%0A%0AAbstract%3A%20The%20reaction%20of%20%5Bbis%7B3-methyl-6-%28trimethylsilyl%29phosphinine-2-yl%7Ddimethylsilane%5D%20%2819%29%20with%20one%20and%20two%20equivalents%20of%20%5BAuCl%28tht%29%5D%20was%20attempted%20in%20order%20to%20selectively%20form%20the%20mono%20and%20digold%20species%2C%20respectively.%20The%20digold%20species%20%5B%28AuCl%292%2819%29%5D%20%2821%29%20was%20synthesized%20in%2032%25%20yield%20and%20comprehensibly%20characterized%20%28multinuclear%20NMR%20spectroscopy%2C%20elemental%20analysis%2C%20mass%20spectrometry%20and%20single-
+crystal%20X-ray%20diffraction%29.%20The%20monogold%20species%20showed%20no%2031P%20nuclear%20magnetic%20resonance%20at%2025%20%26deg%3BC%20but%20two%20resonances%20at%20%26minus%3B70%20%26deg%3BC%20due%20to%20rapid%20exchange%20of%20AuCl%20between%20the%20phosphinine%20donors%20at%2025%20%26deg%3BC%20and%20was%20also%20susceptible%20to%20redistribution%20reactions%20to%20form%20the%20digold%20species.%20Analogous%20reactions%20of%20%5BAuCl%28tht%29%5D%20with%202-diphenylphosphino-3-methyl-6-trimethylsilylphosphinine%20%2822%29%20revealed%20preferential%20coordination%20of%20the%20AuCl%20unit%20to%20the%20PPh2%20donor%20first%2C%20with%20coordination%20to%20the%20phosphinine%20achieved%20upon%20reaction%20with%20the%20second%20equivalent%20of%20%5BAuCl%28tht%29%5D.%20Unexpectedly%2C%20the%20digold%20complex%20was%20not%20stable%2C%20undergoing%20decomposition%20to%20give%20an%20unidentified%20black%20precipitate.%20Structural%20information%20could%20only%20be%20obtained%20on%20the%20digold%20hydrolysis%20product\[...\]
+"Email") [
+__](https://twitter.com/intent/tweet?text=Digold+Phosphinine+Complexes+Are+Stable+with+a+Bis%28Phosphinine%29+Ligand+but+Not+with+a+2-Phosphinophosphinine&hashtags=mdpiinorganics&url=https%3A%2F%2Fwww.mdpi.com%2F1938896&via=inorganics_MDPI)
+[ __](
+http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.mdpi.com%2F1938896&title=Digold%20Phosphinine%20Complexes%20Are%20Stable%20with%20a%20Bis%28Phosphinine%29%20Ligand%20but%20Not%20with%20a%202-Phosphinophosphinine%26source%3Dhttps%3A%2F%2Fwww.mdpi.com%26summary%3DThe%20reaction%20of%20%5Bbis%7B3-methyl-6-%28trimethylsilyl%29phosphinine-2-yl%7Ddimethylsilane%5D%20%2819%29%20with%20one%20and%20two%20equivalents%20of%20%5BAuCl%28tht%29%5D%20was%20attempted%20in%20order%20to%20selectively%20form%20the%20mono%20and%20digold%20species%2C%20respectively.%20The%20digold%20species%20%5B%28AuCl%292%2819%29%5D%20%5B...%5D
+"LinkedIn") [
+__](https://www.facebook.com/sharer.php?u=https://www.mdpi.com/1938896
+"facebook") [ __](javascript:void\(0\); "Wechat") [
+__](http://www.reddit.com/submit?url=https://www.mdpi.com/1938896 "Reddit") [
+__](http://www.mendeley.com/import/?url=https://www.mdpi.com/1938896
+"Mendeley")
+
+**MDPI and ACS Style**
+
+Cleaves, P.A.; Gourlay, B.; Marseglia, M.; Ward, D.J.; Mansell, S.M. Digold
+Phosphinine Complexes Are Stable with a Bis(Phosphinine) Ligand but Not with a
+2-Phosphinophosphinine. _Inorganics_ **2022** , _10_ , 203.
+https://doi.org/10.3390/inorganics10110203
+
+**AMA Style**  
+
+Cleaves PA, Gourlay B, Marseglia M, Ward DJ, Mansell SM. Digold Phosphinine
+Complexes Are Stable with a Bis(Phosphinine) Ligand but Not with a
+2-Phosphinophosphinine. _Inorganics_. 2022; 10(11):203.
+https://doi.org/10.3390/inorganics10110203
+
+**Chicago/Turabian Style**  
+
+Cleaves, Peter A., Ben Gourlay, Margot Marseglia, Daniel J. Ward, and Stephen
+M. Mansell. 2022\. "Digold Phosphinine Complexes Are Stable with a
+Bis(Phosphinine) Ligand but Not with a 2-Phosphinophosphinine" _Inorganics_
+10, no. 11: 203. https://doi.org/10.3390/inorganics10110203
+
+**APA Style**  
+
+Cleaves, P. A., Gourlay, B., Marseglia, M., Ward, D. J., & Mansell, S. M.
+(2022). Digold Phosphinine Complexes Are Stable with a Bis(Phosphinine) Ligand
+but Not with a 2-Phosphinophosphinine. _Inorganics_ , _10_(11), 203.
+https://doi.org/10.3390/inorganics10110203
+
+Note that from the first issue of 2016, this journal uses article numbers
+instead of page numbers. See further details
+[here](https://www.mdpi.com/about/announcements/784).
+
+## Article Metrics
+
+Yes
+
+### Citations
+
+Crossref
+
+
+
+2
+
+Scopus
+
+
+
+[ 2
+](https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85149595403&origin=inward)
+
+Web of Science
+
+
+
+[ 1
+](https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=PARTNER_APP&SrcAuth=LinksAMR&KeyUT=WOS:000911734500001&DestLinkType=FullRecord&DestApp=ALL_WOS&UsrCustomerID=7e717b028bc90856e7c55c7029afc773)
+
+Google Scholar
+
+
+
+[ [click to view]
+](https://scholar.google.com/scholar_lookup?title=Digold+Phosphinine+Complexes+Are+Stable+with+a+Bis%28Phosphinine%29+Ligand+but+Not+with+a+2-Phosphinophosphinine&volume=10&doi=10.3390%2Finorganics10110203&journal=Inorganics&publication_year=2022&author=Peter+A.+Cleaves&author=Ben+Gourlay&author=Margot+Marseglia&author=Daniel+J.+Ward&author=Stephen+M.+Mansell)
+
+No
+
+### Article Access Statistics
+
+Created with Highcharts 4.0.4Chart context menuArticle access
+statisticsArticle Views18\. Oct19\. Oct20\. Oct21\. Oct22\. Oct23\. Oct24\.
+Oct25\. Oct26\. Oct27\. Oct28\. Oct29\. Oct30\. Oct31\. Oct1\. Nov2\. Nov3\.
+Nov4\. Nov5\. Nov6\. Nov7\. Nov8\. Nov9\. Nov10\. Nov11\. Nov12\. Nov13\.
+Nov14\. Nov15\. Nov16\. Nov17\. Nov18\. Nov19\. Nov20\. Nov21\. Nov22\.
+Nov23\. Nov24\. Nov25\. Nov26\. Nov27\. Nov28\. Nov29\. Nov30\. Nov1\. Dec2\.
+Dec3\. Dec4\. Dec5\. Dec6\. Dec7\. Dec8\. Dec9\. Dec10\. Dec11\. Dec12\.
+Dec13\. Dec14\. Dec15\. Dec16\. Dec17\. Dec18\. Dec19\. Dec20\. Dec21\.
+Dec22\. Dec23\. Dec24\. Dec25\. Dec26\. Dec27\. Dec28\. Dec29\. Dec30\.
+Dec31\. Dec1\. Jan2\. Jan3\. Jan4\. Jan5\. Jan6\. Jan7\. Jan8\. Jan9\. Jan10\.
+Jan11\. Jan12\. Jan13\. Jan14\. Jan15\. Jan05001000150020002500
+
+For more information on the journal statistics, click
+[here](/journal/inorganics/stats).
+
+Multiple requests from the same IP address are counted as one view.
+
+## Supplementary Material
+
+  * **Supplementary File 1:**
+
+[ ZIP-Document ](/2304-6740/10/11/203/s1?version=1668145951) (ZIP, 500 KiB)
+
+_clear_
+
+Zoom | Orient  | As Lines  | As Sticks  | As Cartoon  | As Surface  | Previous Scene | Next Scene
+
+## Cite
+
+Export citation file: [BibTeX](javascript:window.document.forms\['export-bibtex'\].submit\(\)) | [EndNote](javascript:window.document.forms\['export-endnote'\].submit\(\)) | [RIS](javascript:window.document.forms\['export-ris'\].submit\(\))
+
+**MDPI and ACS Style**
+
+Cleaves, P.A.; Gourlay, B.; Marseglia, M.; Ward, D.J.; Mansell, S.M. Digold
+Phosphinine Complexes Are Stable with a Bis(Phosphinine) Ligand but Not with a
+2-Phosphinophosphinine. _Inorganics_ **2022** , _10_ , 203.
+https://doi.org/10.3390/inorganics10110203
+
+**AMA Style**  
+
+Cleaves PA, Gourlay B, Marseglia M, Ward DJ, Mansell SM. Digold Phosphinine
+Complexes Are Stable with a Bis(Phosphinine) Ligand but Not with a
+2-Phosphinophosphinine. _Inorganics_. 2022; 10(11):203.
+https://doi.org/10.3390/inorganics10110203
+
+**Chicago/Turabian Style**  
+
+Cleaves, Peter A., Ben Gourlay, Margot Marseglia, Daniel J. Ward, and Stephen
+M. Mansell. 2022\. "Digold Phosphinine Complexes Are Stable with a
+Bis(Phosphinine) Ligand but Not with a 2-Phosphinophosphinine" _Inorganics_
+10, no. 11: 203. https://doi.org/10.3390/inorganics10110203
+
+**APA Style**  
+
+Cleaves, P. A., Gourlay, B., Marseglia, M., Ward, D. J., & Mansell, S. M.
+(2022). Digold Phosphinine Complexes Are Stable with a Bis(Phosphinine) Ligand
+but Not with a 2-Phosphinophosphinine. _Inorganics_ , _10_(11), 203.
+https://doi.org/10.3390/inorganics10110203
+
+Note that from the first issue of 2016, this journal uses article numbers
+instead of page numbers. See further details
+[here](https://www.mdpi.com/about/announcements/784).
+
+_clear_
+
+_[Inorganics](/journal/inorganics)_ , EISSN 2304-6740, Published by MDPI
+
+[RSS](/rss/journal/inorganics) [Content Alert](/journal/inorganics/toc-alert)
+
+###  Further Information
+
+[ Article Processing Charges ](/apc) [ Pay an Invoice ](/about/payment) [ Open
+Access Policy ](/openaccess) [ Contact MDPI ](/about/contact) [ Jobs at MDPI
+](https://careers.mdpi.com)
+
+###  Guidelines
+
+[ For Authors ](/authors) [ For Reviewers ](/reviewers) [ For Editors
+](/editors) [ For Librarians ](/librarians) [ For Publishers
+](/publishing_services) [ For Societies ](/societies) [ For Conference
+Organizers ](/conference_organizers)
+
+###  MDPI Initiatives
+
+[ Sciforum ](https://sciforum.net) [ MDPI Books ](https://www.mdpi.com/books)
+[ Preprints.org ](https://www.preprints.org) [ Scilit
+](https://www.scilit.net) [ SciProfiles
+](https://sciprofiles.com?utm_source=mpdi.com&utm_medium=bottom_menu&utm_campaign=initiative)
+[ Encyclopedia ](https://encyclopedia.pub) [ JAMS ](https://jams.pub) [
+Proceedings Series ](/about/proceedings)
+
+###  Follow MDPI
+
+[ LinkedIn ](https://www.linkedin.com/company/mdpi) [ Facebook
+](https://www.facebook.com/MDPIOpenAccessPublishing) [ Twitter
+](https://twitter.com/MDPIOpenAccess)
+
+Subscribe to receive issue release notifications and newsletters from MDPI
+journals
+
+Acoustics Acta Microbiologica Hellenica Actuators Adhesives Administrative
+Sciences Adolescents Advances in Respiratory Medicine Aerobiology Aerospace
+Agriculture AgriEngineering Agrochemicals Agronomy AI Air Algorithms Allergies
+Alloys Analytica Analytics Anatomia Anesthesia Research Animals Antibiotics
+Antibodies Antioxidants Applied Biosciences Applied Mechanics Applied
+Microbiology Applied Nano Applied Sciences Applied System Innovation
+AppliedChem AppliedMath Aquaculture Journal Architecture Arthropoda Arts
+Astronomy Atmosphere Atoms Audiology Research Automation Axioms Bacteria
+Batteries Behavioral Sciences Beverages Big Data and Cognitive Computing
+BioChem Bioengineering Biologics Biology Biology and Life Sciences Forum
+Biomass Biomechanics BioMed Biomedicines BioMedInformatics Biomimetics
+Biomolecules Biophysica Biosensors Biosphere BioTech Birds Blockchains Brain
+Sciences Buildings Businesses C Cancers Cardiogenetics Catalysts Cells
+Ceramics Challenges ChemEngineering Chemistry Chemistry Proceedings
+Chemosensors Children Chips CivilEng Clean Technologies Climate Clinical and
+Translational Neuroscience Clinical Bioenergetics Clinics and Practice Clocks
+& Sleep Coasts Coatings Colloids and Interfaces Colorants Commodities
+Complications Compounds Computation Computer Sciences & Mathematics Forum
+Computers Condensed Matter Conservation Construction Materials Corrosion and
+Materials Degradation Cosmetics COVID Craniomaxillofacial Trauma &
+Reconstruction Crops Cryo Cryptography Crystals Current Issues in Molecular
+Biology Current Oncology Dairy Data Dentistry Journal Dermato Dermatopathology
+Designs Diabetology Diagnostics Dietetics Digital Disabilities Diseases
+Diversity DNA Drones Drugs and Drug Candidates Dynamics Earth Ecologies
+Econometrics Economies Education Sciences Electricity Electrochem Electronic
+Materials Electronics Emergency Care and Medicine Encyclopedia Endocrines
+Energies Energy Storage and Applications Eng Engineering Proceedings Entropy
+Environmental and Earth Sciences Proceedings Environments Epidemiologia
+Epigenomes European Burn Journal European Journal of Investigation in Health,
+Psychology and Education Fermentation Fibers FinTech Fire Fishes Fluids Foods
+Forecasting Forensic Sciences Forests Fossil Studies Foundations Fractal and
+Fractional Fuels Future Future Internet Future Pharmacology Future
+Transportation Galaxies Games Gases Gastroenterology Insights Gastrointestinal
+Disorders Gastronomy Gels Genealogy Genes Geographies GeoHazards Geomatics
+Geometry Geosciences Geotechnics Geriatrics Glacies Gout, Urate, and Crystal
+Deposition Disease Grasses Green Health Hardware Healthcare Hearts Hemato
+Hematology Reports Heritage Histories Horticulturae Hospitals Humanities
+Humans Hydrobiology Hydrogen Hydrology Hygiene Immuno Infectious Disease
+Reports Informatics Information Infrastructures Inorganics Insects Instruments
+Intelligent Infrastructure and Construction International Journal of
+Environmental Research and Public Health International Journal of Financial
+Studies International Journal of Molecular Sciences International Journal of
+Neonatal Screening International Journal of Orofacial Myology and
+Myofunctional Therapy International Journal of Plant Biology International
+Journal of Topology International Journal of Translational Medicine
+International Journal of Turbomachinery, Propulsion and Power International
+Medical Education Inventions IoT ISPRS International Journal of Geo-
+Information J Journal of Ageing and Longevity Journal of Cardiovascular
+Development and Disease Journal of Clinical & Translational Ophthalmology
+Journal of Clinical Medicine Journal of Composites Science Journal of
+Cybersecurity and Privacy Journal of Dementia and Alzheimer's Disease Journal
+of Developmental Biology Journal of Experimental and Theoretical Analyses
+Journal of Functional Biomaterials Journal of Functional Morphology and
+Kinesiology Journal of Fungi Journal of Imaging Journal of Intelligence
+Journal of Low Power Electronics and Applications Journal of Manufacturing and
+Materials Processing Journal of Marine Science and Engineering Journal of
+Market Access & Health Policy Journal of Mind and Medical Sciences Journal of
+Molecular Pathology Journal of Nanotheranostics Journal of Nuclear Engineering
+Journal of Otorhinolaryngology, Hearing and Balance Medicine Journal of Parks
+Journal of Personalized Medicine Journal of Pharmaceutical and BioTech
+Industry Journal of Respiration Journal of Risk and Financial Management
+Journal of Sensor and Actuator Networks Journal of the Oman Medical
+Association Journal of Theoretical and Applied Electronic Commerce Research
+Journal of Vascular Diseases Journal of Xenobiotics Journal of Zoological and
+Botanical Gardens Journalism and Media Kidney and Dialysis Kinases and
+Phosphatases Knowledge LabMed Laboratories Land Languages Laws Life
+Limnological Review Lipidology Liquids Literature Livers Logics Logistics
+Lubricants Lymphatics Machine Learning and Knowledge Extraction Machines
+Macromol Magnetism Magnetochemistry Marine Drugs Materials Materials
+Proceedings Mathematical and Computational Applications Mathematics Medical
+Sciences Medical Sciences Forum Medicina Medicines Membranes Merits
+Metabolites Metals Meteorology Methane Methods and Protocols Metrics Metrology
+Micro Microbiology Research Micromachines Microorganisms Microplastics
+Microwave Minerals Mining Modelling Modern Mathematical Physics Molbank
+Molecules Multimodal Technologies and Interaction Muscles Nanoenergy Advances
+Nanomanufacturing Nanomaterials NDT Network Neuroglia Neurology International
+NeuroSci Nitrogen Non-Coding RNA Nursing Reports Nutraceuticals Nutrients
+Obesities Oceans Onco Optics Oral Organics Organoids Osteology Oxygen
+Parasitologia Particles Pathogens Pathophysiology Pediatric Reports Pets
+Pharmaceuticals Pharmaceutics Pharmacoepidemiology Pharmacy Philosophies
+Photochem Photonics Phycology Physchem Physical Sciences Forum Physics
+Physiologia Plants Plasma Platforms Pollutants Polymers Polysaccharides
+Populations Poultry Powders Proceedings Processes Prosthesis Proteomes
+Psychiatry International Psychoactives Psychology International Publications
+Quantum Beam Science Quantum Reports Quaternary Radiation Reactions Real
+Estate Receptors Recycling Regional Science and Environmental Economics
+Religions Remote Sensing Reports Reproductive Medicine Resources Rheumato
+Risks Robotics Ruminants Safety Sci Scientia Pharmaceutica Sclerosis Seeds
+Sensors Separations Sexes Signals Sinusitis Smart Cities Social Sciences
+Société Internationale d’Urologie Journal Societies Software Soil Systems
+Solar Solids Spectroscopy Journal Sports Standards Stats Stresses Surfaces
+Surgeries Surgical Techniques Development Sustainability Sustainable Chemistry
+Symmetry SynBio Systems Targets Taxonomy Technologies Telecom Textiles
+Thalassemia Reports Therapeutics Thermo Time and Space Tomography Tourism and
+Hospitality Toxics Toxins Transplantology Trauma Care Trends in Higher
+Education Tropical Medicine and Infectious Disease Universe Urban Science Uro
+Vaccines Vehicles Venereology Veterinary Sciences Vibration Virtual Worlds
+Viruses Vision Waste Water Wild Wind Women World World Electric Vehicle
+Journal Youth Zoonotic Diseases
+
+Select options
+
+  * Acoustics
+  * Acta Microbiologica Hellenica
+  * Actuators
+  * Adhesives
+  * Administrative Sciences
+  * Adolescents
+  * Advances in Respiratory Medicine
+  * Aerobiology
+  * Aerospace
+  * Agriculture
+  * AgriEngineering
+  * Agrochemicals
+  * Agronomy
+  * AI
+  * Air
+  * Algorithms
+  * Allergies
+  * Alloys
+  * Analytica
+  * Analytics
+  * Anatomia
+  * Anesthesia Research
+  * Animals
+  * Antibiotics
+  * Antibodies
+  * Antioxidants
+  * Applied Biosciences
+  * Applied Mechanics
+  * Applied Microbiology
+  * Applied Nano
+  * Applied Sciences
+  * Applied System Innovation
+  * AppliedChem
+  * AppliedMath
+  * Aquaculture Journal
+  * Architecture
+  * Arthropoda
+  * Arts
+  * Astronomy
+  * Atmosphere
+  * Atoms
+  * Audiology Research
+  * Automation
+  * Axioms
+  * Bacteria
+  * Batteries
+  * Behavioral Sciences
+  * Beverages
+  * Big Data and Cognitive Computing
+  * BioChem
+  * Bioengineering
+  * Biologics
+  * Biology
+  * Biology and Life Sciences Forum
+  * Biomass
+  * Biomechanics
+  * BioMed
+  * Biomedicines
+  * BioMedInformatics
+  * Biomimetics
+  * Biomolecules
+  * Biophysica
+  * Biosensors
+  * Biosphere
+  * BioTech
+  * Birds
+  * Blockchains
+  * Brain Sciences
+  * Buildings
+  * Businesses
+  * C
+  * Cancers
+  * Cardiogenetics
+  * Catalysts
+  * Cells
+  * Ceramics
+  * Challenges
+  * ChemEngineering
+  * Chemistry
+  * Chemistry Proceedings
+  * Chemosensors
+  * Children
+  * Chips
+  * CivilEng
+  * Clean Technologies
+  * Climate
+  * Clinical and Translational Neuroscience
+  * Clinical Bioenergetics
+  * Clinics and Practice
+  * Clocks & Sleep
+  * Coasts
+  * Coatings
+  * Colloids and Interfaces
+  * Colorants
+  * Commodities
+  * Complications
+  * Compounds
+  * Computation
+  * Computer Sciences & Mathematics Forum
+  * Computers
+  * Condensed Matter
+  * Conservation
+  * Construction Materials
+  * Corrosion and Materials Degradation
+  * Cosmetics
+  * COVID
+  * Craniomaxillofacial Trauma & Reconstruction
+  * Crops
+  * Cryo
+  * Cryptography
+  * Crystals
+  * Current Issues in Molecular Biology
+  * Current Oncology
+  * Dairy
+  * Data
+  * Dentistry Journal
+  * Dermato
+  * Dermatopathology
+  * Designs
+  * Diabetology
+  * Diagnostics
+  * Dietetics
+  * Digital
+  * Disabilities
+  * Diseases
+  * Diversity
+  * DNA
+  * Drones
+  * Drugs and Drug Candidates
+  * Dynamics
+  * Earth
+  * Ecologies
+  * Econometrics
+  * Economies
+  * Education Sciences
+  * Electricity
+  * Electrochem
+  * Electronic Materials
+  * Electronics
+  * Emergency Care and Medicine
+  * Encyclopedia
+  * Endocrines
+  * Energies
+  * Energy Storage and Applications
+  * Eng
+  * Engineering Proceedings
+  * Entropy
+  * Environmental and Earth Sciences Proceedings
+  * Environments
+  * Epidemiologia
+  * Epigenomes
+  * European Burn Journal
+  * European Journal of Investigation in Health, Psychology and Education
+  * Fermentation
+  * Fibers
+  * FinTech
+  * Fire
+  * Fishes
+  * Fluids
+  * Foods
+  * Forecasting
+  * Forensic Sciences
+  * Forests
+  * Fossil Studies
+  * Foundations
+  * Fractal and Fractional
+  * Fuels
+  * Future
+  * Future Internet
+  * Future Pharmacology
+  * Future Transportation
+  * Galaxies
+  * Games
+  * Gases
+  * Gastroenterology Insights
+  * Gastrointestinal Disorders
+  * Gastronomy
+  * Gels
+  * Genealogy
+  * Genes
+  * Geographies
+  * GeoHazards
+  * Geomatics
+  * Geometry
+  * Geosciences
+  * Geotechnics
+  * Geriatrics
+  * Glacies
+  * Gout, Urate, and Crystal Deposition Disease
+  * Grasses
+  * Green Health
+  * Hardware
+  * Healthcare
+  * Hearts
+  * Hemato
+  * Hematology Reports
+  * Heritage
+  * Histories
+  * Horticulturae
+  * Hospitals
+  * Humanities
+  * Humans
+  * Hydrobiology
+  * Hydrogen
+  * Hydrology
+  * Hygiene
+  * Immuno
+  * Infectious Disease Reports
+  * Informatics
+  * Information
+  * Infrastructures
+  * Inorganics
+  * Insects
+  * Instruments
+  * Intelligent Infrastructure and Construction
+  * International Journal of Environmental Research and Public Health
+  * International Journal of Financial Studies
+  * International Journal of Molecular Sciences
+  * International Journal of Neonatal Screening
+  * International Journal of Orofacial Myology and Myofunctional Therapy
+  * International Journal of Plant Biology
+  * International Journal of Topology
+  * International Journal of Translational Medicine
+  * International Journal of Turbomachinery, Propulsion and Power
+  * International Medical Education
+  * Inventions
+  * IoT
+  * ISPRS International Journal of Geo-Information
+  * J
+  * Journal of Ageing and Longevity
+  * Journal of Cardiovascular Development and Disease
+  * Journal of Clinical & Translational Ophthalmology
+  * Journal of Clinical Medicine
+  * Journal of Composites Science
+  * Journal of Cybersecurity and Privacy
+  * Journal of Dementia and Alzheimer's Disease
+  * Journal of Developmental Biology
+  * Journal of Experimental and Theoretical Analyses
+  * Journal of Functional Biomaterials
+  * Journal of Functional Morphology and Kinesiology
+  * Journal of Fungi
+  * Journal of Imaging
+  * Journal of Intelligence
+  * Journal of Low Power Electronics and Applications
+  * Journal of Manufacturing and Materials Processing
+  * Journal of Marine Science and Engineering
+  * Journal of Market Access & Health Policy
+  * Journal of Mind and Medical Sciences
+  * Journal of Molecular Pathology
+  * Journal of Nanotheranostics
+  * Journal of Nuclear Engineering
+  * Journal of Otorhinolaryngology, Hearing and Balance Medicine
+  * Journal of Parks
+  * Journal of Personalized Medicine
+  * Journal of Pharmaceutical and BioTech Industry
+  * Journal of Respiration
+  * Journal of Risk and Financial Management
+  * Journal of Sensor and Actuator Networks
+  * Journal of the Oman Medical Association
+  * Journal of Theoretical and Applied Electronic Commerce Research
+  * Journal of Vascular Diseases
+  * Journal of Xenobiotics
+  * Journal of Zoological and Botanical Gardens
+  * Journalism and Media
+  * Kidney and Dialysis
+  * Kinases and Phosphatases
+  * Knowledge
+  * LabMed
+  * Laboratories
+  * Land
+  * Languages
+  * Laws
+  * Life
+  * Limnological Review
+  * Lipidology
+  * Liquids
+  * Literature
+  * Livers
+  * Logics
+  * Logistics
+  * Lubricants
+  * Lymphatics
+  * Machine Learning and Knowledge Extraction
+  * Machines
+  * Macromol
+  * Magnetism
+  * Magnetochemistry
+  * Marine Drugs
+  * Materials
+  * Materials Proceedings
+  * Mathematical and Computational Applications
+  * Mathematics
+  * Medical Sciences
+  * Medical Sciences Forum
+  * Medicina
+  * Medicines
+  * Membranes
+  * Merits
+  * Metabolites
+  * Metals
+  * Meteorology
+  * Methane
+  * Methods and Protocols
+  * Metrics
+  * Metrology
+  * Micro
+  * Microbiology Research
+  * Micromachines
+  * Microorganisms
+  * Microplastics
+  * Microwave
+  * Minerals
+  * Mining
+  * Modelling
+  * Modern Mathematical Physics
+  * Molbank
+  * Molecules
+  * Multimodal Technologies and Interaction
+  * Muscles
+  * Nanoenergy Advances
+  * Nanomanufacturing
+  * Nanomaterials
+  * NDT
+  * Network
+  * Neuroglia
+  * Neurology International
+  * NeuroSci
+  * Nitrogen
+  * Non-Coding RNA
+  * Nursing Reports
+  * Nutraceuticals
+  * Nutrients
+  * Obesities
+  * Oceans
+  * Onco
+  * Optics
+  * Oral
+  * Organics
+  * Organoids
+  * Osteology
+  * Oxygen
+  * Parasitologia
+  * Particles
+  * Pathogens
+  * Pathophysiology
+  * Pediatric Reports
+  * Pets
+  * Pharmaceuticals
+  * Pharmaceutics
+  * Pharmacoepidemiology
+  * Pharmacy
+  * Philosophies
+  * Photochem
+  * Photonics
+  * Phycology
+  * Physchem
+  * Physical Sciences Forum
+  * Physics
+  * Physiologia
+  * Plants
+  * Plasma
+  * Platforms
+  * Pollutants
+  * Polymers
+  * Polysaccharides
+  * Populations
+  * Poultry
+  * Powders
+  * Proceedings
+  * Processes
+  * Prosthesis
+  * Proteomes
+  * Psychiatry International
+  * Psychoactives
+  * Psychology International
+  * Publications
+  * Quantum Beam Science
+  * Quantum Reports
+  * Quaternary
+  * Radiation
+  * Reactions
+  * Real Estate
+  * Receptors
+  * Recycling
+  * Regional Science and Environmental Economics
+  * Religions
+  * Remote Sensing
+  * Reports
+  * Reproductive Medicine
+  * Resources
+  * Rheumato
+  * Risks
+  * Robotics
+  * Ruminants
+  * Safety
+  * Sci
+  * Scientia Pharmaceutica
+  * Sclerosis
+  * Seeds
+  * Sensors
+  * Separations
+  * Sexes
+  * Signals
+  * Sinusitis
+  * Smart Cities
+  * Social Sciences
+  * Société Internationale d’Urologie Journal
+  * Societies
+  * Software
+  * Soil Systems
+  * Solar
+  * Solids
+  * Spectroscopy Journal
+  * Sports
+  * Standards
+  * Stats
+  * Stresses
+  * Surfaces
+  * Surgeries
+  * Surgical Techniques Development
+  * Sustainability
+  * Sustainable Chemistry
+  * Symmetry
+  * SynBio
+  * Systems
+  * Targets
+  * Taxonomy
+  * Technologies
+  * Telecom
+  * Textiles
+  * Thalassemia Reports
+  * Therapeutics
+  * Thermo
+  * Time and Space
+  * Tomography
+  * Tourism and Hospitality
+  * Toxics
+  * Toxins
+  * Transplantology
+  * Trauma Care
+  * Trends in Higher Education
+  * Tropical Medicine and Infectious Disease
+  * Universe
+  * Urban Science
+  * Uro
+  * Vaccines
+  * Vehicles
+  * Venereology
+  * Veterinary Sciences
+  * Vibration
+  * Virtual Worlds
+  * Viruses
+  * Vision
+  * Waste
+  * Water
+  * Wild
+  * Wind
+  * Women
+  * World
+  * World Electric Vehicle Journal
+  * Youth
+  * Zoonotic Diseases
+
+Subscribe
+
+© 1996-2025 MDPI (Basel, Switzerland) unless otherwise stated
+
+Disclaimer
+
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in
+all publications are solely those of the individual author(s) and
+contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s)
+disclaim responsibility for any injury to people or property resulting from
+any ideas, methods, instructions or products referred to in the content.
+
+[ Terms and Conditions ](/about/terms-and-conditions) [ Privacy Policy
+](/about/privacy)
+
+We use cookies on our website to ensure you get the best experience.  
+Read more about our cookies [here](/about/privacy).
+
+[Accept](/accept_cookies)
+
+## Share Link
+
+[
+__](mailto:?&subject=From%20MDPI%3A%20%22Digold%20Phosphinine%20Complexes%20Are%20Stable%20with%20a%20Bis%28Phosphinine%29%20Ligand%20but%20Not%20with%20a%202-Phosphinophosphinine"&body=https://www.mdpi.com/1938896%3A%0A%0ADigold%20Phosphinine%20Complexes%20Are%20Stable%20with%20a%20Bis%28Phosphinine%29%20Ligand%20but%20Not%20with%20a%202-Phosphinophosphinine
+
+The%20reaction%20of%20%5Bbis%7B3-methyl-6-%28trimethylsilyl%29phosphinine-2-yl%7Ddimethylsilane%5D%20%2819%29%20with%20one%20and%20two%20equivalents%20of%20%5BAuCl%28tht%29%5D%20was%20attempted%20in%20order%20to%20selectively%20form%20the%20mono%20and%20digold%20species%2C%20respectively.%20The%20digold%20species%20%5B%28AuCl%292%2819%29%5D%20%2821%29%20was%20synthesized%20in%2032%25%20yield%20and%20comprehensibly%20characterized%20%28multinuclear%20NMR%20spectroscopy%2C%20elemental%20analysis%2C%20mass%20spectrometry%20and%20single-
+crystal%20X-ray%20diffraction%29.%20The%20monogold%20species%20showed%20no%2031P%20nuclear%20magnetic%20resonance%20at%2025%20%C2%B0C%20but%20two%20resonances%20at%20%E2%88%9270%20%C2%B0C%20due%20to%20rapid%20exchange%20of%20AuCl%20between%20the%20phosphinine%20donors%20at%2025%20%C2%B0C%20and%20was%20also%20susceptible%20to%20redistribution%20reactions%20to%20form%20the%20digold%20species.%20Analogous%20reactions%20of%20%5BAuCl%28tht%29%5D%20with%202-diphenylphosphino-3-methyl-6-trimethylsilylphosphinine%20%2822%29%20revealed%20preferential%20coordination%20of%20the%20AuCl%20unit%20to%20the%20PPh2%20donor%20first%2C%20with%20coordination%20to%20the%20phosphinine%20achieved%20upon%20reaction%20with%20the%20second%20equivalent%20of%20%5BAuCl%28tht%29%5D.%20Unexpectedly%2C%20the%20digold%20complex%20was%20not%20stable%2C%20undergoing%20decomposition%20to%20give%20an%20unidentified%20black%20precipitate.%20Structural%20information%20could%20only%20be%20obtained%20on%20the%20digold%20hydrolysis%20product\[...\]
+"Email") [
+__](https://twitter.com/intent/tweet?text=Digold+Phosphinine+Complexes+Are+Stable+with+a+Bis%28Phosphinine%29+Ligand+but+Not+with+a+2-Phosphinophosphinine&hashtags=mdpiinorganics&url=https%3A%2F%2Fwww.mdpi.com%2F1938896&via=inorganics_MDPI
+"Twitter") [ __](
+http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.mdpi.com%2F1938896&title=Digold%20Phosphinine%20Complexes%20Are%20Stable%20with%20a%20Bis%28Phosphinine%29%20Ligand%20but%20Not%20with%20a%202-Phosphinophosphinine%26source%3Dhttps%3A%2F%2Fwww.mdpi.com%26summary%3DThe%20reaction%20of%20%5Bbis%7B3-methyl-6-%28trimethylsilyl%29phosphinine-2-yl%7Ddimethylsilane%5D%20%2819%29%20with%20one%20and%20two%20equivalents%20of%20%5BAuCl%28tht%29%5D%20was%20attempted%20in%20order%20to%20selectively%20form%20the%20mono%20and%20digold%20species%2C%20respectively.%20The%20digold%20species%20%5B%28AuCl%292%2819%29%5D%20%5B...%5D
+"LinkedIn") [
+__](https://www.facebook.com/sharer.php?u=https://www.mdpi.com/1938896
+"facebook") [ __](javascript:void\(0\); "Wechat") [
+__](http://www.reddit.com/submit?url=https://www.mdpi.com/1938896 "Reddit") [
+__](http://www.mendeley.com/import/?url=https://www.mdpi.com/1938896
+"Mendeley") [
+__](http://www.citeulike.org/posturl?url=https://www.mdpi.com/1938896
+"CiteULike")
+
+Copy
+
+_clear_
+
+## Share
+
+https://www.mdpi.com/1938896
+
+_clear_
+
+Back to TopTop
+
+  *   *   *   * 
+

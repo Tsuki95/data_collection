@@ -1,0 +1,811 @@
+[](/e)| Acta Crystallographica Section E  
+Acta Crystallographica  
+Section E CRYSTALLOGRAPHIC COMMUNICATIONS  
+---|---  
+  
+[](/ "Crystallography Journals Online") [IUCr](http://www.iucr.org
+"International Union of Crystallography") [IT](http://it.iucr.org
+"International Tables") [WDC](http://wdc.iucr.org "World Directory of
+Crystallographers")
+
+search IUCr Journals
+
+[home ](/e/) [archive ](/e/services/archive.html) [editors
+](/e/services/editors.html) [for authors ](/e/services/authorservices.html)
+[for readers ](/e/services/readerservices.html) [submit
+](/e/services/submit.html) [open access ](/services/oa/openaccess_e.html)
+
+journal menu
+
+[home ](/e/) [archive ](/e/services/archive.html) [editors
+](/e/services/editors.html) [for authors ](/e/services/authorservices.html)
+[for readers ](/e/services/readerservices.html) [submit
+](/e/services/submit.html) [open access ](/services/oa/openaccess_e.html)
+
+[ ](/e/issues/2011/08/00/index.html "Issue contents")
+
+[Issue contents](/e/issues/2011/08/00/index.html "Issue contents")
+
+[ ](/e/issues/2011/08/00/bg2412/bg2412.pdf "PDF")
+
+[Download PDF of article](/e/issues/2011/08/00/bg2412/bg2412.pdf "PDF")
+
+[ ](https://scripts.iucr.org/cgi-bin/sendcif?bg2412 "CIF")
+
+[Download CIF](https://scripts.iucr.org/cgi-bin/sendcif?bg2412 "CIF")
+
+[ ](https://scripts.iucr.org/cgi-bin/sendcif?bg2412&Qmime=cif "3D view")
+
+[3D view](https://scripts.iucr.org/cgi-bin/sendcif?bg2412&Qmime=cif "3D view")
+
+[ ]( "Navigation")
+
+Navigation  
+
+  * 1\. Related literature
+  * 2\. Experimental
+  * Supporting Information
+  * References
+
+[ ](/services/help/highlight.html "highlighting")
+
+Highlighting  
+Dictionary of Crystallography  
+IUPAC Gold Book  
+[more ...](/services/help/highlight.html)
+
+[ ](https://scripts.iucr.org/cgi-bin/biblio_page?bg2412 "Download citation")
+
+Download citation Format| | BIBTeX  
+---|---|---  
+| | EndNote  
+| | RefMan  
+| | Refer  
+| | Medline  
+| | CIF  
+| | SGML  
+| | Plain Text  
+  
+[ ](https://scripts.iucr.org/cgi-bin/citedin?bg2412 "Statistics")
+
+[Article statistics](https://scripts.iucr.org/cgi-bin/citedin?bg2412
+"Statistics")
+
+[Share]()
+
+[ ](/e/issues/2011/08/00/hy2451/ "Previous article")
+
+[Previous article](/e/issues/2011/08/00/hy2451/ "Previous article")
+
+[ ](/e/issues/2011/08/00/cv6646/ "Next article")
+
+[Next article](/e/issues/2011/08/00/cv6646/ "Next article")
+
+[ ](/e/issues/2011/08/00/hy2451/ "Previous article")
+
+[Previous article](/e/issues/2011/08/00/hy2451/ "Previous article")
+
+[ ](/e/issues/2011/08/00/index.html "Issue contents")
+
+[Issue contents](/e/issues/2011/08/00/index.html "Issue contents")
+
+[ ](/e/issues/2011/08/00/bg2412/bg2412.pdf "PDF")
+
+[Download PDF of article](/e/issues/2011/08/00/bg2412/bg2412.pdf "PDF")
+
+[ ](https://scripts.iucr.org/cgi-bin/sendcif?bg2412 "CIF")
+
+[Download CIF](https://scripts.iucr.org/cgi-bin/sendcif?bg2412 "CIF")
+
+[ ](https://scripts.iucr.org/cgi-bin/sendcif?bg2412&Qmime=cif "3D view")
+
+[3D view](https://scripts.iucr.org/cgi-bin/sendcif?bg2412&Qmime=cif "3D view")
+
+[ ]( "Navigation")
+
+Navigation  
+
+  * 1\. Related literature
+  * 2\. Experimental
+  * Supporting Information
+  * References
+
+[ ](/services/help/highlight.html "highlighting")
+
+Highlighting  
+Dictionary of Crystallography  
+IUPAC Gold Book  
+[more ...](/services/help/highlight.html)
+
+[ ](https://scripts.iucr.org/cgi-bin/biblio_page?bg2412 "Download citation")
+
+Download citation Format| | BIBTeX  
+---|---|---  
+| | EndNote  
+| | RefMan  
+| | Refer  
+| | Medline  
+| | CIF  
+| | SGML  
+| | Plain Text  
+  
+[ ](https://scripts.iucr.org/cgi-bin/citedin?bg2412 "Statistics")
+
+[Article statistics](https://scripts.iucr.org/cgi-bin/citedin?bg2412
+"Statistics")
+
+[Share]()
+
+[ ](/e/issues/2011/08/00/cv6646/ "Next article")
+
+[Next article](/e/issues/2011/08/00/cv6646/ "Next article")
+
+## metal-organic compounds\\(\def\hfill{\hskip 5em}\def\hfil{\hskip
+3em}\def\eqno#1{\hfil {#1}}\\)
+
+[](/e)| CRYSTALLOGRAPHIC  
+COMMUNICATIONS  
+---|---  
+  
+ISSN: 2056-9890
+
+[Volume 67](/e/services/archive.html)| [Part 8](../index.html)| [August
+2011](../index.html)| Page m1163  
+
+[doi:10.1107/S1600536811028856](http://dx.doi.org/10.1107/S1600536811028856)
+
+Open  access
+
+## {μ-1,2-Bis[bis­(4-meth­­oxy­phen­yl)phosphan­yl]-1,2-di­methyl­hydrazine-κ2
+_P_ :_P_ ′}bis­­[chloridogold(I)] tetra­hydro­furan disolvate
+
+**[ Frederik H. Kriel](https://scripts.iucr.org/cgi-
+bin/citedin?search_on=name&author_name=Kriel%2C%20F%2EH%2E),a* [Manuel A.
+Fernandes](https://scripts.iucr.org/cgi-
+bin/citedin?search_on=name&author_name=Fernandes%2C%20M%2EA%2E)b and [Judy
+Coates](https://scripts.iucr.org/cgi-
+bin/citedin?search_on=name&author_name=Coates%2C%20J%2E)a**
+
+**a**AuTEK, Mintek, Private Bag X3015, Randburg, 2125, South Africa, and
+**b**Molecular Science Institute, School of Chemistry, University of the
+Witwatersrand, PO Wits, 2050, Johannesburg, South Africa  
+*Correspondence e-mail: [erikk@mintek.co.za](mailto:erikk%40mintek.co.za)
+
+(Received 29 June 2011; accepted 18 July 2011; online 30 July 2011)
+
+The title compound, [Au2Cl2(C30H34N2O4P2)]·2C4H8O, is formed from a bidentate
+phosphine ligand complexed to two almost linearly coordinated gold(I) atoms
+[P—Au—Cl = 175.68 (3) Å]. The nuclei are 3.122 (2) Å apart. The mol­ecule
+exhibits a twofold rotation axis.
+
+PowerPoint slides
+
+### Related literature
+
+For the synthesis of the parent ligand and related structures utilizing
+alternative metals, see: Reddy _et al._ (1994, 1995); Slawin _et al._ (2002);
+Kriel _et al._ (2010 _a_,_b_, 2011 _a_,_b_). For Au⋯Au inter­actions, see:
+Holleman & Wiberg (2001).
+
+### Experimental
+
+##### Crystal data
+
+  * [Au2Cl2(C30H34N2O4P2)]·2C4H8O
+  * _M_ _r_ = 1157.57
+  * Monoclinic, _C_ 2/_c_
+  * _a_ = 23.208 (5) Å
+  * _b_ = 9.080 (5) Å
+  * _c_ = 20.220 (5) Å
+  * β = 92.414 (5)°
+  * _V_ = 4257 (3) Å3
+  * _Z_ = 4
+  * Mo _K_ α radiation
+  * μ = 7.13 mm−1
+  * _T_ = 173 K
+  * 0.58 × 0.45 × 0.10 mm
+
+  
+---  
+  
+##### Data collection
+
+  * Bruker SMART CCD area-detector diffractometer
+  * Absorption correction: multi-scan (_SADABS_ ; Bruker, 1999) _T_ min = 0.044, _T_ max = 0.567
+  * 33198 measured reflections
+  * 5264 independent reflections
+  * 4679 reflections with _I_ > 2σ(_I_)
+  * _R_ int = 0.040
+
+  
+---  
+  
+##### Refinement
+
+  * _R_[_F_ 2 > 2σ(_F_ 2)] = 0.019
+  * _wR_(_F_ 2) = 0.049
+  * _S_ = 1.04
+  * 5264 reflections
+  * 235 parameters
+  * H-atom parameters constrained
+  * Δρmax = 1.08 e Å−3
+  * Δρmin = −0.80 e Å−3
+
+  
+---  
+  
+Data collection: _SMART-NT_ (Bruker, 1998); cell
+[refinement:](https://dictionary.iucr.org/Refinement) _SAINT-Plus_ (Bruker,
+1999); data reduction: _SAINT-Plus_ ; program(s) used to solve structure:
+_SHELXS97_ (Sheldrick, 2008); program(s) used to refine structure: _SHELXL97_
+(Sheldrick, 2008); molecular graphics: _ORTEP-3_ (Farrugia, 1997) and
+_Mercury_ (Macrae _et al._ , 2008); software used to prepare material for
+publication: _WinGX_ (Farrugia, 1999).
+
+### Supporting information
+
+[Crystal structure:](https://dictionary.iucr.org/Crystal_structure) contains
+datablocks I, global. DOI:
+[10.1107/S1600536811028856/bg2412sup1.cif](http://dx.doi.org//10.1107/S1600536811028856/bg2412sup1.cif)
+
+Structure factors: contains datablock I. DOI:
+[10.1107/S1600536811028856/bg2412Isup2.hkl](http://dx.doi.org//10.1107/S1600536811028856/bg2412Isup2.hkl)
+
+[checkCIF report](https://journals.iucr.org/paper?bg2412&checkcif=yes)
+
+  
+
+Supplementary crystallographic information
+
+Supporting text
+
+S1. Comment top
+
+The title compound (C30H34Au2Cl2N2O4P2.2(C4H8O)), formed from a bidentate
+phosphine ligand complexed to two linear gold(I) nuclei, readilly crystalizes
+out of dichloromethane (DCM) with the addition of a few drops of
+tetrahydrofuran (THF). The [crystal
+structure](https://dictionary.iucr.org/Crystal_structure) includes a THF
+solvent molecule. The complex molecule is bisected by a two fold axis throul
+the N-N' and Au-Au' lines (Fig 1). Gold(I) has an almost linear coordination
+with a P—Au—Cl angle of 175.68 (3) °. The Au—Au distance within the complex is
+3.122 (2) Å, well within the range of aurophilic interactions (described in
+Holleman _et al._ , 2001, as being normally between 2.7 Å and 3.4 Å). Other
+bond lengths are within expected ranges.
+
+The structure exhibits columns of complexes arranged head-to-tail along b,
+forming channels filled with THF. There is an intercolumnar contact involving
+chloride atoms in one molecule and hydrogen atoms on the methyl substituted
+hydrazine bridge of a neighbouring one, in the same column (Cl1···H1ci:
+2.892Å, (i): 1-x,1+y,1/2-z, site A in Fig 2). There are also weak
+intercolumnar H-bonding contacts (O1···H13ii: 2.629Å, (ii): 3/2-x,-1/2-y,1-z),
+site B in Fig 2). Finally, the THF solvato molecule is weakly attached to the
+columns by a pair of O···H contacts (O3···H15:2.608 Å; O3···H15b: 2.557 Å)
+(site C in Fig. 2).
+
+S2. Experimental top
+
+The complex was synthesized by dissolving tetrahydrothiophenegold(I) chloride
+[(THT)AuCl] in DCM and adding 0.5 equivalents of the corresponding ligand
+(bis(di(4-methoxyphenyl)phosphino)-1,2-dimethylhydrazine. The addition of a
+few drops of THF led to the growth of crystals suitable for use in single-
+crystal X-Ray analysis. The presence of THF during the initial complexation
+led to undesirable side products as a result of the breakdown of the ligand.
+
+S3. Refinement top
+
+The H atoms were positioned geometrically and allowed to ride on their
+respective parent atoms, with C—H = 0.93 (CH) or 0.96 (CH3) Å, and with _U_ eq
+= 1.2 (CH) or 1.5 (CH3) _U_ eq(C).
+
+Related literature top
+
+For the synthesis of the parent ligand and related structures utilizing
+alternative metals, see: Reddy _et al._ (1994, 1995); Slawin _et al._ (2002);
+Kriel _et al._ (2010 _a_ ,_b_ , 2011 _a_ ,_b_). For Au···Au interactions, see:
+Holleman & Wiberg (2001).
+
+Computing details top
+
+Data collection: _SMART-NT_ (Bruker, 1998); cell
+[refinement:](https://dictionary.iucr.org/Refinement) _SAINT-Plus_ (Bruker,
+1999); data reduction: _SAINT-Plus_ (Bruker, 1999); program(s) used to solve
+structure: _SHELXS97_ (Sheldrick, 2008); program(s) used to refine structure:
+_SHELXL97_ (Sheldrick, 2008); molecular graphics: _ORTEP-3_ (Farrugia, 1997)
+and _Mercury_ (Macrae _et al._ , 2008); software used to prepare material for
+publication: _WinGX_ (Farrugia, 1999).
+
+Supporting figures
+
+Figures top
+
+[](./bg2412fig1.html) |  Fig. 1. : Molecular structure of **I** drawn with displacement ellipsoids at the 50% probability level. Hydrogen atoms and solvent THF have been omitted for clarity.  
+---|---  
+[](./bg2412fig2.html) |  Fig. 2. : Packing of compound **I** showing short contacts.  
+  
+Supporting crystallographic data
+
+{µ-1,2-Bis[bis(4-methoxyphenyl)phosphanyl]-1,2-dimethylhydrazine- κ2 _P_ :_P_
+'}bis[chloridogold(I)] tetrahydrofuran disolvate top
+
+Crystal data top [Au2Cl2(C30H34N2O4P2)]·2C4H8O|  _F_(000) = 2248  
+---|---  
+ _M_ _r_ = 1157.57|  _D_ x = 1.806 Mg m−3  
+Monoclinic, _C_ 2/_c_|  Mo _K_ α radiation, λ = 0.71073 Å  
+Hall symbol: -C 2yc| Cell parameters from 7327 reflections  
+ _a_ = 23.208 (5) Å| θ = 2.4–28.3°  
+ _b_ = 9.080 (5) Å| µ = 7.13 mm−1  
+ _c_ = 20.220 (5) Å|  _T_ = 173 K  
+β = 92.414 (5)°| Plate, colourless  
+ _V_ = 4257 (3) Å3| 0.58 × 0.45 × 0.10 mm  
+ _Z_ = 4|  
+  
+Data collection top Bruker SMART CCD area-detector  
+diffractometer| 5264 independent reflections  
+---|---  
+Radiation source: fine-focus sealed tube| 4679 reflections with _I_ > 2σ(_I_)  
+Graphite monochromator|  _R_ int = 0.040  
+phi and ω scans| θmax = 28.3°, θmin = 1.8°  
+Absorption correction: multi-scan  
+(_SADABS_ ; Bruker, 1999)| _h_ = −30→30  
+ _T_ min = 0.044, _T_ max = 0.567|  _k_ = −12→11  
+33198 measured reflections|  _l_ = −25→26  
+  
+Refinement top Refinement on _F_ 2| Primary atom site location: structure-
+invariant direct methods  
+---|---  
+Least-squares matrix: full| Secondary atom site location: difference Fourier
+map  
+ _R_[_F_ 2 > 2σ(_F_ 2)] = 0.019| Hydrogen site location: inferred from
+neighbouring sites  
+ _wR_(_F_ 2) = 0.049| H-atom parameters constrained  
+ _S_ = 1.04|  _w_ = 1/[σ2(_F_ o2) + (0.0199 _P_)2 \+ 7.2119 _P_]  
+where _P_ = (_F_ o2 \+ 2 _F_ c2)/3  
+5264 reflections| (Δ/σ)max = 0.004  
+235 parameters| Δρmax = 1.08 e Å−3  
+0 restraints| Δρmin = −0.80 e Å−3  
+  
+Crystal data top [Au2Cl2(C30H34N2O4P2)]·2C4H8O|  _V_ = 4257 (3) Å3  
+---|---  
+ _M_ _r_ = 1157.57|  _Z_ = 4  
+Monoclinic, _C_ 2/_c_|  Mo _K_ α radiation  
+ _a_ = 23.208 (5) Å| µ = 7.13 mm−1  
+ _b_ = 9.080 (5) Å|  _T_ = 173 K  
+ _c_ = 20.220 (5) Å| 0.58 × 0.45 × 0.10 mm  
+β = 92.414 (5)°|  
+  
+Data collection top Bruker SMART CCD area-detector  
+diffractometer| 5264 independent reflections  
+---|---  
+Absorption correction: multi-scan  
+(_SADABS_ ; Bruker, 1999)| 4679 reflections with _I_ > 2σ(_I_)  
+_T_ min = 0.044, _T_ max = 0.567|  _R_ int = 0.040  
+33198 measured reflections|  
+  
+Refinement top _R_[_F_ 2 > 2σ(_F_ 2)] = 0.019| 0 restraints  
+---|---  
+ _wR_(_F_ 2) = 0.049| H-atom parameters constrained  
+ _S_ = 1.04| Δρmax = 1.08 e Å−3  
+5264 reflections| Δρmin = −0.80 e Å−3  
+235 parameters|  
+  
+Special details top **Experimental**. Reaction:
+bis(di(4-methoxyphenyl)phosphino)-1,2-dimethylhydrazine: 167 mg (0.29 mmol),
+(THT)AuCl: 200 mg (0.57 mmol), dichloromethane: 5 ml, tetrahydrofuran: few
+drops, Yield: 75%. Colourless to grey crystals. 1H NMR: (CDCl3, 300 MHz) δH
+7.79 (t, Arom, _J_ = 8.2 Hz, 4H) 7.41 (t, Arom, _J_ = 8.2 Hz, 4H), 6.97 (d,
+Arom, _J_ = 7.6 Hz, 4H), 6.81 (d, Arom, _J_ = 7.6 Hz, 4H), 3.86 (s, OMe, 6H),
+3.81 (s, OMe, 6H), 2.69 (d, NCH3, 3 _J_ (1H-31P) _=_ 5.8 Hz, 6H). 13C NMR:
+(CDCl3, 75 MHz) δC 163.5 (d, Arom, _J =_ 33.4 Hz), 135.9 (m, Arom), 115.3 (m,
+Arom), 55.52 and 55.45 (s, OCH3), 35.1 (s, NCH3). 31P NMR:(CDCl3, 121 MHz) δP
+85.1. MS: 977 (83%, _M_ \- Cl), 245 (80%, P(PhOMe)2). EA:Calc:
+(Au2Cl2P2O4N2C30H34) C 35.56%, H 3.38%, N 2.76%. Found: C 36.78%, H 3.79%, N
+2.47%. MP: 166 – 170 °C.  
+---  
+**Geometry**. All e.s.d.'s (except the e.s.d. in the dihedral angle between
+two l.s. planes) are estimated using the full covariance matrix. The cell
+e.s.d.'s are taken into account individually in the estimation of e.s.d.'s in
+distances, angles and torsion angles; correlations between e.s.d.'s in cell
+parameters are only used when they are defined by crystal symmetry. An
+approximate (isotropic) treatment of cell e.s.d.'s is used for estimating
+e.s.d.'s involving l.s. planes.  
+**Refinement**. Refinement of _F_ 2 against ALL reflections. The weighted _R_
+-factor _wR_ and goodness of fit _S_ are based on _F_ 2, conventional _R_
+-factors _R_ are based on _F_ , with _F_ set to zero for negative _F_ 2. The
+threshold expression of _F_ 2 > σ(_F_ 2) is used only for calculating _R_
+-factors(gt) _etc_. and is not relevant to the choice of reflections for
+refinement. _R_ -factors based on _F_ 2 are statistically about twice as large
+as those based on _F_ , and _R_ \- factors based on ALL data will be even
+larger.  
+  
+Fractional atomic coordinates and isotropic or equivalent isotropic displacement parameters (Å2) top | _x_|  _y_|  _z_|  _U_ iso*/_U_ eq|   
+---|---|---|---|---|---  
+C1| 0.56719 (14)| −0.3148 (4)| 0.26405 (15)| 0.0437 (8)|  
+H1A| 0.5974| −0.3050| 0.2976| 0.066*|  
+H1B| 0.5830| −0.3040| 0.2212| 0.066*|  
+H1C| 0.5497| −0.4102| 0.2673| 0.066*|  
+C11| 0.58836 (10)| −0.0866 (3)| 0.37553 (12)| 0.0238 (5)|  
+C12| 0.60878 (11)| −0.1775 (3)| 0.42700 (13)| 0.0316 (6)|  
+H12| 0.5836| −0.2413| 0.4473| 0.038*|  
+C13| 0.66594 (12)| −0.1732 (3)| 0.44792 (14)| 0.0383 (6)|  
+H13| 0.6794| −0.2351| 0.4818| 0.046*|  
+C14| 0.70353 (11)| −0.0767 (3)| 0.41852 (15)| 0.0360 (6)|  
+C15| 0.68388 (11)| 0.0165 (3)| 0.36871 (13)| 0.0337 (6)|  
+H15| 0.7089| 0.0826| 0.3496| 0.040*|  
+C16| 0.62614 (11)| 0.0104 (3)| 0.34742 (12)| 0.0287 (5)|  
+H16| 0.6127| 0.0727| 0.3137| 0.034*|  
+C17| 0.80122 (14)| −0.0045 (5)| 0.4075 (2)| 0.0714 (12)|  
+H17A| 0.8385| −0.0180| 0.4291| 0.107*|  
+H17B| 0.7916| 0.0983| 0.4069| 0.107*|  
+H17C| 0.8019| −0.0405| 0.3629| 0.107*|  
+C21| 0.47826 (10)| −0.2085 (3)| 0.40186 (12)| 0.0237 (5)|  
+C22| 0.45316 (11)| −0.1382 (3)| 0.45396 (13)| 0.0287 (5)|  
+H22| 0.4534| −0.0358| 0.4559| 0.034*|  
+C23| 0.42742 (12)| −0.2182 (3)| 0.50370 (13)| 0.0336 (6)|  
+H23| 0.4113| −0.1699| 0.5390| 0.040*|  
+C24| 0.42619 (11)| −0.3700 (3)| 0.49983 (14)| 0.0299 (6)|  
+C25| 0.45039 (11)| −0.4422 (3)| 0.44695 (13)| 0.0283 (5)|  
+H25| 0.4490| −0.5444| 0.4442| 0.034*|  
+C26| 0.47638 (11)| −0.3615 (3)| 0.39880 (13)| 0.0271 (5)|  
+H26| 0.4929| −0.4100| 0.3638| 0.032*|  
+C27| 0.3811 (2)| −0.3925 (4)| 0.6031 (2)| 0.0793 (16)|  
+H27A| 0.3653| −0.4664| 0.6310| 0.119*|  
+H27B| 0.3517| −0.3223| 0.5906| 0.119*|  
+H27C| 0.4122| −0.3431| 0.6267| 0.119*|  
+C31| 0.7520 (3)| 0.4212 (6)| 0.2921 (3)| 0.1022 (19)|  
+H31A| 0.7121| 0.4137| 0.2760| 0.123*|  
+H31B| 0.7767| 0.3897| 0.2574| 0.123*|  
+C32| 0.7659 (4)| 0.5757 (6)| 0.3128 (3)| 0.127 (3)|  
+H32A| 0.7899| 0.6231| 0.2809| 0.152*|  
+H32B| 0.7309| 0.6330| 0.3167| 0.152*|  
+C33| 0.7965 (3)| 0.5625 (8)| 0.3765 (3)| 0.124 (2)|  
+H33A| 0.8348| 0.6048| 0.3751| 0.149*|  
+H33B| 0.7757| 0.6114| 0.4108| 0.149*|  
+C34| 0.7993 (5)| 0.4148 (8)| 0.3874 (6)| 0.240 (8)|  
+H34A| 0.7915| 0.3953| 0.4333| 0.288*|  
+H34B| 0.8381| 0.3809| 0.3799| 0.288*|  
+N1| 0.52377 (8)| −0.2011 (2)| 0.27315 (10)| 0.0240 (4)|  
+O1| 0.75927 (9)| −0.0834 (3)| 0.44229 (12)| 0.0507 (6)|  
+O2| 0.40217 (9)| −0.4604 (2)| 0.54504 (10)| 0.0417 (5)|  
+O3| 0.76126 (16)| 0.3366 (4)| 0.3477 (2)| 0.0940 (11)|  
+P1| 0.51542 (3)| −0.10079 (7)| 0.34180 (3)| 0.02187 (13)|  
+Cl1| 0.41744 (3)| 0.31848 (8)| 0.29583 (4)| 0.04364 (17)|  
+Au1| 0.470213 (4)| 0.109672 (10)| 0.317798 (4)| 0.02473 (4)|  
+  
+Atomic displacement parameters (Å2) top | _U_ 11|  _U_ 22|  _U_ 33|  _U_ 12|  _U_ 13|  _U_ 23  
+---|---|---|---|---|---|---  
+C1| 0.0542 (17)| 0.0412 (18)| 0.0345 (15)| 0.0252 (15)| −0.0130 (13)| −0.0115
+(13)  
+C11| 0.0244 (11)| 0.0244 (13)| 0.0223 (12)| 0.0004 (9)| −0.0026 (9)| −0.0014
+(9)  
+C12| 0.0331 (13)| 0.0307 (15)| 0.0305 (13)| −0.0038 (11)| −0.0052 (10)| 0.0078
+(11)  
+C13| 0.0369 (14)| 0.0387 (17)| 0.0382 (15)| −0.0021 (13)| −0.0091 (11)| 0.0123
+(13)  
+C14| 0.0283 (12)| 0.0405 (17)| 0.0384 (16)| −0.0014 (12)| −0.0084 (11)| 0.0013
+(13)  
+C15| 0.0300 (13)| 0.0370 (16)| 0.0342 (14)| −0.0065 (11)| 0.0013 (11)| 0.0036
+(12)  
+C16| 0.0310 (12)| 0.0309 (14)| 0.0241 (12)| 0.0002 (11)| −0.0003 (10)| 0.0053
+(10)  
+C17| 0.0293 (15)| 0.090 (3)| 0.094 (3)| −0.0153 (18)| −0.0118 (17)| 0.027 (2)  
+C21| 0.0246 (11)| 0.0223 (13)| 0.0239 (12)| −0.0024 (9)| −0.0029 (9)| 0.0021
+(9)  
+C22| 0.0330 (13)| 0.0221 (13)| 0.0309 (14)| −0.0019 (10)| 0.0028 (10)| −0.0007
+(10)  
+C23| 0.0398 (14)| 0.0312 (15)| 0.0304 (14)| 0.0001 (12)| 0.0081 (11)| −0.0017
+(11)  
+C24| 0.0275 (12)| 0.0299 (15)| 0.0326 (14)| −0.0018 (10)| 0.0026 (10)| 0.0079
+(11)  
+C25| 0.0303 (12)| 0.0209 (13)| 0.0333 (14)| −0.0026 (10)| −0.0026 (10)| 0.0009
+(11)  
+C26| 0.0287 (12)| 0.0235 (13)| 0.0289 (13)| 0.0007 (10)| −0.0001 (10)| −0.0006
+(10)  
+C27| 0.114 (4)| 0.055 (3)| 0.074 (3)| 0.018 (2)| 0.062 (3)| 0.026 (2)  
+C31| 0.154 (6)| 0.091 (4)| 0.064 (3)| −0.039 (4)| 0.022 (3)| 0.004 (3)  
+C32| 0.229 (8)| 0.068 (4)| 0.085 (4)| −0.009 (4)| 0.042 (5)| 0.008 (3)  
+C33| 0.185 (7)| 0.100 (5)| 0.090 (5)| −0.055 (5)| 0.018 (4)| −0.011 (4)  
+C34| 0.248 (11)| 0.096 (6)| 0.356 (17)| −0.057 (6)| −0.225 (12)| 0.061 (7)  
+N1| 0.0299 (10)| 0.0220 (11)| 0.0196 (10)| 0.0040 (8)| −0.0054 (8)| −0.0014
+(8)  
+O1| 0.0295 (10)| 0.0591 (15)| 0.0620 (15)| −0.0089 (10)| −0.0154 (10)| 0.0151
+(12)  
+O2| 0.0475 (11)| 0.0327 (12)| 0.0462 (12)| 0.0009 (9)| 0.0172 (9)| 0.0131 (9)  
+O3| 0.100 (2)| 0.061 (2)| 0.118 (3)| −0.0244 (18)| −0.025 (2)| 0.022 (2)  
+P1| 0.0249 (3)| 0.0202 (3)| 0.0203 (3)| −0.0005 (2)| −0.0015 (2)| 0.0000 (2)  
+Cl1| 0.0563 (4)| 0.0254 (4)| 0.0495 (4)| 0.0139 (3)| 0.0055 (3)| 0.0033 (3)  
+Au1| 0.03095 (6)| 0.01863 (6)| 0.02458 (6)| 0.00191 (4)| 0.00082 (4)| −0.00061
+(3)  
+  
+Geometric parameters (Å, º) top C1—N1| 1.460 (3)| C24—O2| 1.365 (3)  
+---|---|---|---  
+C1—H1A| 0.9600| C24—C25| 1.393 (4)  
+C1—H1B| 0.9600| C25—C26| 1.378 (4)  
+C1—H1C| 0.9600| C25—H25| 0.9300  
+C11—C16| 1.382 (4)| C26—H26| 0.9300  
+C11—C12| 1.395 (4)| C27—O2| 1.430 (4)  
+C11—P1| 1.803 (2)| C27—H27A| 0.9600  
+C12—C13| 1.376 (4)| C27—H27B| 0.9600  
+C12—H12| 0.9300| C27—H27C| 0.9600  
+C13—C14| 1.388 (4)| C31—O3| 1.371 (6)  
+C13—H13| 0.9300| C31—C32| 1.495 (7)  
+C14—O1| 1.362 (3)| C31—H31A| 0.9700  
+C14—C15| 1.378 (4)| C31—H31B| 0.9700  
+C15—C16| 1.391 (3)| C32—C33| 1.449 (9)  
+C15—H15| 0.9300| C32—H32A| 0.9700  
+C16—H16| 0.9300| C32—H32B| 0.9700  
+C17—O1| 1.419 (4)| C33—C34| 1.361 (9)  
+C17—H17A| 0.9600| C33—H33A| 0.9700  
+C17—H17B| 0.9600| C33—H33B| 0.9700  
+C17—H17C| 0.9600| C34—O3| 1.366 (7)  
+C21—C22| 1.382 (4)| C34—H34A| 0.9700  
+C21—C26| 1.391 (4)| C34—H34B| 0.9700  
+C21—P1| 1.807 (2)| N1—N1i| 1.417 (4)  
+C22—C23| 1.396 (4)| N1—P1| 1.678 (2)  
+C22—H22| 0.9300| P1—Au1| 2.2238 (11)  
+C23—C24| 1.380 (4)| Cl1—Au1| 2.2905 (11)  
+C23—H23| 0.9300| Au1—Au1i| 3.1222 (17)  
+| | |   
+N1—C1—H1A| 109.5| C21—C26—H26| 119.6  
+N1—C1—H1B| 109.5| O2—C27—H27A| 109.5  
+H1A—C1—H1B| 109.5| O2—C27—H27B| 109.5  
+N1—C1—H1C| 109.5| H27A—C27—H27B| 109.5  
+H1A—C1—H1C| 109.5| O2—C27—H27C| 109.5  
+H1B—C1—H1C| 109.5| H27A—C27—H27C| 109.5  
+C16—C11—C12| 118.8 (2)| H27B—C27—H27C| 109.5  
+C16—C11—P1| 119.45 (19)| O3—C31—C32| 105.7 (5)  
+C12—C11—P1| 121.61 (19)| O3—C31—H31A| 110.6  
+C13—C12—C11| 120.4 (3)| C32—C31—H31A| 110.6  
+C13—C12—H12| 119.8| O3—C31—H31B| 110.6  
+C11—C12—H12| 119.8| C32—C31—H31B| 110.6  
+C12—C13—C14| 120.1 (3)| H31A—C31—H31B| 108.7  
+C12—C13—H13| 120.0| C33—C32—C31| 105.2 (5)  
+C14—C13—H13| 120.0| C33—C32—H32A| 110.7  
+O1—C14—C15| 124.4 (3)| C31—C32—H32A| 110.7  
+O1—C14—C13| 115.2 (3)| C33—C32—H32B| 110.7  
+C15—C14—C13| 120.4 (2)| C31—C32—H32B| 110.7  
+C14—C15—C16| 119.1 (3)| H32A—C32—H32B| 108.8  
+C14—C15—H15| 120.4| C34—C33—C32| 104.1 (6)  
+C16—C15—H15| 120.4| C34—C33—H33A| 110.9  
+C11—C16—C15| 121.2 (2)| C32—C33—H33A| 110.9  
+C11—C16—H16| 119.4| C34—C33—H33B| 110.9  
+C15—C16—H16| 119.4| C32—C33—H33B| 110.9  
+O1—C17—H17A| 109.5| H33A—C33—H33B| 108.9  
+O1—C17—H17B| 109.5| C33—C34—O3| 113.0 (6)  
+H17A—C17—H17B| 109.5| C33—C34—H34A| 109.0  
+O1—C17—H17C| 109.5| O3—C34—H34A| 109.0  
+H17A—C17—H17C| 109.5| C33—C34—H34B| 109.0  
+H17B—C17—H17C| 109.5| O3—C34—H34B| 109.0  
+C22—C21—C26| 118.8 (2)| H34A—C34—H34B| 107.8  
+C22—C21—P1| 119.4 (2)| N1i—N1—C1| 116.05 (18)  
+C26—C21—P1| 121.73 (19)| N1i—N1—P1| 115.65 (17)  
+C21—C22—C23| 121.0 (3)| C1—N1—P1| 126.33 (17)  
+C21—C22—H22| 119.5| C14—O1—C17| 117.6 (3)  
+C23—C22—H22| 119.5| C24—O2—C27| 117.0 (3)  
+C24—C23—C22| 119.2 (3)| C34—O3—C31| 105.4 (5)  
+C24—C23—H23| 120.4| N1—P1—C11| 102.26 (11)  
+C22—C23—H23| 120.4| N1—P1—C21| 109.71 (12)  
+O2—C24—C23| 124.8 (3)| C11—P1—C21| 104.57 (11)  
+O2—C24—C25| 114.8 (3)| N1—P1—Au1| 110.83 (8)  
+C23—C24—C25| 120.4 (2)| C11—P1—Au1| 116.63 (9)  
+C26—C25—C24| 119.6 (3)| C21—P1—Au1| 112.20 (9)  
+C26—C25—H25| 120.2| P1—Au1—Cl1| 175.68 (3)  
+C24—C25—H25| 120.2| P1—Au1—Au1i| 88.241 (19)  
+C25—C26—C21| 120.9 (2)| Cl1—Au1—Au1i| 94.74 (2)  
+C25—C26—H26| 119.5|  |   
+| | |   
+C16—C11—C12—C13| −1.9 (4)| C13—C14—O1—C17| 170.4 (3)  
+P1—C11—C12—C13| 174.3 (2)| C23—C24—O2—C27| −5.4 (5)  
+C11—C12—C13—C14| 1.0 (5)| C25—C24—O2—C27| 174.8 (3)  
+C12—C13—C14—O1| −178.9 (3)| C33—C34—O3—C31| 26.4 (12)  
+C12—C13—C14—C15| 0.6 (5)| C32—C31—O3—C34| −23.6 (9)  
+O1—C14—C15—C16| 178.3 (3)| N1i—N1—P1—C11| −165.00 (15)  
+C13—C14—C15—C16| −1.3 (5)| C1—N1—P1—C11| 31.7 (3)  
+C12—C11—C16—C15| 1.3 (4)| N1i—N1—P1—C21| 84.44 (16)  
+P1—C11—C16—C15| −175.0 (2)| C1—N1—P1—C21| −78.9 (3)  
+C14—C15—C16—C11| 0.3 (4)| N1i—N1—P1—Au1| −40.01 (16)  
+C26—C21—C22—C23| 1.4 (4)| C1—N1—P1—Au1| 156.7 (2)  
+P1—C21—C22—C23| −175.7 (2)| C16—C11—P1—N1| 76.7 (2)  
+C21—C22—C23—C24| −1.3 (4)| C12—C11—P1—N1| −99.5 (2)  
+C22—C23—C24—O2| −179.7 (3)| C16—C11—P1—C21| −168.9 (2)  
+C22—C23—C24—C25| 0.1 (4)| C12—C11—P1—C21| 14.9 (3)  
+O2—C24—C25—C26| −179.3 (2)| C16—C11—P1—Au1| −44.4 (2)  
+C23—C24—C25—C26| 0.9 (4)| C12—C11—P1—Au1| 139.4 (2)  
+C24—C25—C26—C21| −0.7 (4)| C22—C21—P1—N1| −162.70 (19)  
+C22—C21—C26—C25| −0.5 (4)| C26—C21—P1—N1| 20.2 (2)  
+P1—C21—C26—C25| 176.63 (19)| C22—C21—P1—C11| 88.3 (2)  
+O3—C31—C32—C33| 14.1 (8)| C26—C21—P1—C11| −88.8 (2)  
+C31—C32—C33—C34| 1.1 (10)| C22—C21—P1—Au1| −39.0 (2)  
+C32—C33—C34—O3| −16.7 (13)| C26—C21—P1—Au1| 143.88 (19)  
+C15—C14—O1—C17| −9.2 (5)|  |   
+Symmetry code: (i) − _x_ +1, _y_ , − _z_ +1/2.  
+---  
+  
+Experimental details
+
+Crystal data  
+---  
+Chemical formula| [Au2Cl2(C30H34N2O4P2)]·2C4H8O  
+ _M_ r| 1157.57  
+Crystal system, space group| Monoclinic, _C_ 2/_c_  
+Temperature (K)| 173  
+ _a_ , _b_ , _c_ (Å)| 23.208 (5), 9.080 (5), 20.220 (5)  
+β (°)|  92.414 (5)  
+_V_ (Å3)| 4257 (3)  
+_Z_|  4  
+Radiation type| Mo _K_ α  
+µ (mm−1)| 7.13  
+Crystal size (mm)| 0.58 × 0.45 × 0.10  
+Data collection  
+Diffractometer| Bruker _SMART_ CCD area-detector  
+diffractometer  
+Absorption correction| Multi-scan  
+(_SADABS_ ; Bruker, 1999)  
+_T_ min, _T_ max| 0.044, 0.567  
+No. of measured, independent and  
+observed [_I_ > 2σ(_I_)] reflections| 33198, 5264, 4679  
+_R_ int| 0.040  
+(sin θ/λ)max (Å−1)| 0.667  
+Refinement  
+ _R_[_F_ 2 > 2σ(_F_ 2)], _wR_(_F_ 2), _S_|  0.019, 0.049, 1.04  
+No. of reflections| 5264  
+No. of parameters| 235  
+H-atom treatment| H-atom parameters constrained  
+Δρmax, Δρmin (e Å−3)| 1.08, −0.80  
+  
+Computer programs: _SMART-NT_ (Bruker, 1998), _SAINT-Plus_ (Bruker, 1999),
+_SHELXS97_ (Sheldrick, 2008), _SHELXL97_ (Sheldrick, 2008), _ORTEP-3_
+(Farrugia, 1997) and _Mercury_ (Macrae _et al._ , 2008), _WinGX_ (Farrugia,
+1999).
+
+
+
+### Acknowledgements
+
+The authors would like to thank Project AuTEK (Mintek and Harmony) for
+financial support and the University of the Witwatersrand for the use of their
+facilities.
+
+### References
+
+Bruker (1998). _SMART-NT_. Bruker AXS Inc., Madison, Wisconsin, USA.  [Google
+Scholar](https://scholar.google.com/scholar?q=Bruker%20%281998%29.%20SMART-
+NT.%20Bruker%20AXS%20Inc.%2C%20Madison%2C%20Wisconsin%2C%20USA.)  
+Bruker (1999). _SAINT-Plus_ and _SADABS_. Bruker AXS Inc., Madison, Wisconsin,
+USA.  [Google
+Scholar](https://scholar.google.com/scholar?q=Bruker%20%281999%29.%20SAINT-
+Plus%20and%20SADABS.%20Bruker%20AXS%20Inc.%2C%20Madison%2C%20Wisconsin%2C%20USA.)  
+Farrugia, L. J. (1997). _J. Appl. Cryst._ **30** , 565.
+[CrossRef](http://dx.doi.org/10.1107%2FS0021889897003117) [IUCr
+Journals](https://journals.iucr.org/paper?gl0507) [Google
+Scholar](https://scholar.google.com/scholar?q=Farrugia%2C%20L.%20J.%20%281997%29.%20J.%20Appl.%20Cryst.%2030%2C%20565.)  
+Farrugia, L. J. (1999). _J. Appl. Cryst._ **32** , 837–838.
+[CrossRef](http://dx.doi.org/10.1107%2FS0021889899006020)
+[CAS](http://chemport.cas.org/cgi-
+bin/sdcgi?APP=ftslink&action=reflink&origin=iucr&version=1.0&coi=1:CAS:528:DyaK1MXlsVSlurk%3D&pissn=unknown_on_link_creation&pyear=unknown_on_link_creation&md5=6cb6c91ef91a722804a866190adc3bf1)
+[IUCr Journals](https://journals.iucr.org/paper?gl0608) [Google
+Scholar](https://scholar.google.com/scholar?q=Farrugia%2C%20L.%20J.%20%281999%29.%20J.%20Appl.%20Cryst.%2032%2C%20837%E2%80%93838.)  
+Holleman, A. F. & Wiberg, E. (2001). _Inorganic Chemistry_ , p. 1248. San
+Diego: Academic Press.  [Google
+Scholar](https://scholar.google.com/scholar?q=Holleman%2C%20A.%20F.%20%26%20Wiberg%2C%20E.%20%282001%29.%20Inorganic%20Chemistry%2C%20p.%201248.%20San%20Diego%3A%20Academic%20Press.)  
+Kriel, F. H., Fernandes, M. A. & Caddy, J. (2010 _a_). _Acta Cryst._ E**66** ,
+o1270.  [Web of Science](https://scripts.iucr.org/cgi-
+bin/cr.cgi?rm=isi&ut=000278327100020)
+[CSD](http://www.ccdc.cam.ac.uk/services/structure_request?sid=iucr&id=doi:10.1107%2FS1600536810015886)
+[CrossRef](http://dx.doi.org/10.1107%2FS1600536810015886) [IUCr
+Journals](https://journals.iucr.org/paper?wn2384) [Google
+Scholar](https://scholar.google.com/scholar?q=Kriel%2C%20F.%20H.%2C%20Fernandes%2C%20M.%20A.%20%26%20Caddy%2C%20J.%20%282010a%29.%20Acta%20Cryst.%20E66%2C%20o1270.)  
+Kriel, F. H., Fernandes, M. A. & Coates, J. (2010 _b_). _Acta Cryst._ E**66**
+, m710.  [Web of Science](https://scripts.iucr.org/cgi-
+bin/cr.cgi?rm=isi&ut=000278263300081)
+[CSD](http://www.ccdc.cam.ac.uk/services/structure_request?sid=iucr&id=doi:10.1107%2FS1600536810019094)
+[CrossRef](http://dx.doi.org/10.1107%2FS1600536810019094) [IUCr
+Journals](https://journals.iucr.org/paper?fk2018) [Google
+Scholar](https://scholar.google.com/scholar?q=Kriel%2C%20F.%20H.%2C%20Fernandes%2C%20M.%20A.%20%26%20Coates%2C%20J.%20%282010b%29.%20Acta%20Cryst.%20E66%2C%20m710.)  
+Kriel, F. H., Fernandes, M. A. & Coates, J. (2011 _a_). _Acta Cryst._ E**67**
+, m42.  [Web of Science](https://scripts.iucr.org/cgi-
+bin/cr.cgi?rm=isi&ut=000285628900041)
+[CSD](http://www.ccdc.cam.ac.uk/services/structure_request?sid=iucr&id=doi:10.1107%2FS1600536810050506)
+[CrossRef](http://dx.doi.org/10.1107%2FS1600536810050506) [IUCr
+Journals](https://journals.iucr.org/paper?br2152) [Google
+Scholar](https://scholar.google.com/scholar?q=Kriel%2C%20F.%20H.%2C%20Fernandes%2C%20M.%20A.%20%26%20Coates%2C%20J.%20%282011a%29.%20Acta%20Cryst.%20E67%2C%20m42.)  
+Kriel, F. H., Fernandes, M. A. & Coates, J. (2011 _b_). _Acta Cryst._ E**67**
+, m155.  [Web of Science](https://scripts.iucr.org/cgi-
+bin/cr.cgi?rm=isi&ut=000287034000030)
+[CSD](http://www.ccdc.cam.ac.uk/services/structure_request?sid=iucr&id=doi:10.1107%2FS1600536811000109)
+[CrossRef](http://dx.doi.org/10.1107%2FS1600536811000109) [IUCr
+Journals](https://journals.iucr.org/paper?pb2050) [Google
+Scholar](https://scholar.google.com/scholar?q=Kriel%2C%20F.%20H.%2C%20Fernandes%2C%20M.%20A.%20%26%20Coates%2C%20J.%20%282011b%29.%20Acta%20Cryst.%20E67%2C%20m155.)  
+Macrae, C. F., Bruno, I. J., Chisholm, J. A., Edgington, P. R., McCabe, P.,
+Pidcock, E., Rodriguez-Monge, L., Taylor, R., van de Streek, J. & Wood, P. A.
+(2008). _J. Appl. Cryst._ **41** , 466–470.  [Web of
+Science](https://scripts.iucr.org/cgi-bin/cr.cgi?rm=isi&ut=000253992700027)
+[CrossRef](http://dx.doi.org/10.1107%2FS0021889807067908)
+[CAS](http://chemport.cas.org/cgi-
+bin/sdcgi?APP=ftslink&action=reflink&origin=iucr&version=1.0&coi=1:CAS:528:DC%2BD1cXjt1Gmtb0%3D&pissn=unknown_on_link_creation&pyear=unknown_on_link_creation&md5=c8affd809330e2d73fd7b25e0ee6352f)
+[IUCr Journals](https://journals.iucr.org/paper?dd5037) [Google
+Scholar](https://scholar.google.com/scholar?q=Macrae%2C%20C.%20F.%2C%20Bruno%2C%20I.%20J.%2C%20Chisholm%2C%20J.%20A.%2C%20Edgington%2C%20P.%20R.%2C%20McCabe%2C%20P.%2C%20Pidcock%2C%20E.%2C%20Rodriguez-
+Monge%2C%20L.%2C%20Taylor%2C%20R.%2C%20van%20de%20Streek%2C%20J.%20%26%20Wood%2C%20P.%20A.%20%282008%29.%20J.%20Appl.%20Cryst.%2041%2C%20466%E2%80%93470.)  
+Reddy, V. S., Katti, K. V. & Barnes, C. L. (1994). _Chem. Ber._ **127** ,
+1355–1357.  [CrossRef](http://dx.doi.org/10.1002%2Fcber.19941270805)
+[CAS](http://chemport.cas.org/cgi-
+bin/sdcgi?APP=ftslink&action=reflink&origin=iucr&version=1.0&coi=1:CAS:528:DyaK2cXlvFChtL0%3D&pissn=unknown_on_link_creation&pyear=unknown_on_link_creation&md5=5b80fe6dee177674d7baa6fa2b94be6c)
+[Google
+Scholar](https://scholar.google.com/scholar?q=Reddy%2C%20V.%20S.%2C%20Katti%2C%20K.%20V.%20%26%20Barnes%2C%20C.%20L.%20%281994%29.%20Chem.%20Ber.%20127%2C%201355%E2%80%931357.)  
+Reddy, V. S., Katti, K. V. & Barnes, C. L. (1995). _Inorg. Chem._ **34** ,
+5483–5488.  [CrossRef](http://dx.doi.org/10.1021%2Fic00126a018)
+[CAS](http://chemport.cas.org/cgi-
+bin/sdcgi?APP=ftslink&action=reflink&origin=iucr&version=1.0&coi=1:CAS:528:DyaK2MXosVars7g%3D&pissn=unknown_on_link_creation&pyear=unknown_on_link_creation&md5=97fcd55d0f7bfe1759526d65ce095357)
+[Web of Science](https://scripts.iucr.org/cgi-
+bin/cr.cgi?rm=isi&ut=A1995TC63000018) [Google
+Scholar](https://scholar.google.com/scholar?q=Reddy%2C%20V.%20S.%2C%20Katti%2C%20K.%20V.%20%26%20Barnes%2C%20C.%20L.%20%281995%29.%20Inorg.%20Chem.%2034%2C%205483%E2%80%935488.)  
+Sheldrick, G. M. (2008). _Acta Cryst._ A**64** , 112–122.  [Web of
+Science](https://scripts.iucr.org/cgi-bin/cr.cgi?rm=isi&ut=000251924000011)
+[CrossRef](http://dx.doi.org/10.1107%2FS0108767307043930)
+[CAS](http://chemport.cas.org/cgi-
+bin/sdcgi?APP=ftslink&action=reflink&origin=iucr&version=1.0&coi=1:CAS:528:DC%2BD2sXhsVGhurzO&pissn=unknown_on_link_creation&pyear=unknown_on_link_creation&md5=7c7e9477cd60d66c23e1118eb54da7db)
+[IUCr Journals](https://journals.iucr.org/paper?sc5010) [Google
+Scholar](https://scholar.google.com/scholar?q=Sheldrick%2C%20G.%20M.%20%282008%29.%20Acta%20Cryst.%20A64%2C%20112%E2%80%93122.)  
+Slawin, A. M. Z., Wainwright, M. & Woollins, J. D. (2002). _J. Chem. Soc.
+Dalton Trans._ pp. 513–519.  [Web of Science](https://scripts.iucr.org/cgi-
+bin/cr.cgi?rm=isi&ut=000173818700008)
+[CSD](http://www.ccdc.cam.ac.uk/services/structure_request?sid=iucr&id=doi:10.1039%2Fb107072j)
+[CrossRef](http://dx.doi.org/10.1039%2Fb107072j) [Google
+Scholar](https://scholar.google.com/scholar?q=Slawin%2C%20A.%20M.%20Z.%2C%20Wainwright%2C%20M.%20%26%20Woollins%2C%20J.%20D.%20%282002%29.%20J.%20Chem.%20Soc.%20Dalton%20Trans.%20pp.%20513%E2%80%93519.)  
+
+This is an open-access article distributed under the terms of the [Creative
+Commons Attribution (CC-BY)
+Licence](http://creativecommons.org/licenses/by/2.0/uk/legalcode), which
+permits unrestricted use, distribution, and reproduction in any medium,
+provided the original authors and source are cited.
+
+[](/e)| CRYSTALLOGRAPHIC  
+COMMUNICATIONS  
+---|---  
+  
+ISSN: 2056-9890
+
+[Volume 67](/e/services/archive.html)| [Part 8](../index.html)| [August
+2011](../index.html)| Page m1163  
+
+[doi:10.1107/S1600536811028856](http://dx.doi.org/10.1107/S1600536811028856)
+
+Open  access
+
+Follow Acta Cryst. E| | [](http://www.iucr.org/people/wdc/ealert)  
+---  
+[E-alerts](http://www.iucr.org/people/wdc/ealert "Sign up for e-alerts")| | [](http://twitter.com/#!/ActaCrystE)  
+---  
+[Twitter](http://twitter.com/#!/ActaCrystE "Follow Acta Cryst. on Twitter")| | [](http://www.facebook.com/iucr.org)  
+---  
+[Facebook](http://www.facebook.com/iucr.org "Follow us on facebook")| | [](https://journals.iucr.org/services/rss.html)  
+---  
+[RSS](https://journals.iucr.org/services/rss.html "Sign up for RSS feeds")  
+  
+* * *
+
+Search IUCr Journals |  doi |    
+[Advanced search](https://scripts.iucr.org/cgi-bin/full_search "advanced
+search")  
+---|---|---  
+Author |  All journals IUCrJ Acta Cryst Acta Cryst A Acta Cryst B Acta Cryst C Acta Cryst D Acta Cryst E Acta Cryst F J Appl Cryst J Synchrotron Rad |  volume |  page  
+  
+Copyright © [International Union of Crystallography](http://www.iucr.org/
+"International Union of Crystallography")  
+[Home](https://journals.iucr.org/index.html "Home") [Contact
+us](https://journals.iucr.org/services/contactus.html "Contact us") [Site
+index](https://journals.iucr.org/services/siteindex.html "Site index") [About
+us](http://www.iucr.org/ "About us") [Partners and site
+credits](https://journals.iucr.org/services/organizations.html "Partners and
+site credits") [Help](https://journals.iucr.org/services/help.html "Help")
+[Terms of use](https://journals.iucr.org/services/termsofuse.html "Terms of
+use") [Privacy and cookies](//journals.iucr.org/services/privacy.html "Privacy
+and cookies")
+
+The IUCr is a scientific union serving the interests of crystallographers and
+other scientists employing crystallographic methods.
+
+We use cookies on our websites, and by using this site you are consenting to
+them: **allow all** or
+**[manage](https://journals.iucr.org/services/cookies.html)**
+

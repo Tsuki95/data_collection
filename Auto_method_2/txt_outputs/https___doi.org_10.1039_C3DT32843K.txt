@@ -1,0 +1,354 @@
+Jump to main content  Jump to site search
+
+[Publishing](/ "Publishing home page")
+
+  * [Journals](/en/journals?key=title&value=current)
+  * [Books](https://books.rsc.org/books/search-results?fl_SiteID=5&page=1&f_ContentType=Book&sort=Date+-+Newest+First)
+  * [Databases](https://www.rsc.org/journals-books-databases/databases-literature-updates/)
+
+Search
+
+[Advanced](/en/search/advancedsearch)
+
+[](/en/account/logon)
+
+[](https://www.rsc.org/basket/shoppingcart/orderitems?returnurl=https://pubs.rsc.org/en/content/articlelanding/2013/dt/c3dt32843k)
+
+[](https://www.rsc.org)
+
+Search
+
+__
+
+You must enter a search term
+
+[Advanced search](/en/search/advancedsearch)
+
+Network access provided by:  **NANJING UNIVERSITY**
+
+You do not have JavaScript enabled. Please enable JavaScript to access the
+full features of the site or access our [non-JavaScript
+page](/en/home/nonjavascriptversion).
+
+  
+
+[Issue 18,
+2013](/en/journals/journal/dt?issueid=dt042018&type=current&issnprint=1477-9226
+"Issue 18, 2013")
+
+  * [ Previous Article ](/en/Content/ArticleLanding/2013/DT/C2DT32553E)
+  * [ Next Article ](/en/Content/ArticleLanding/2013/DT/C2DT32760K)
+
+[ From the journal: Dalton Transactions ](/en/journals/journal/dt)
+
+  
+
+##  Highly fluorescent complexes with gold, palladium or platinum linked to
+perylene through a tetrafluorophenyl group†
+
+[Sergio Lentijo](/en/results?searchtext=Author%3ASergio%20Lentijo),_a_
+[Gabriel Aullón](/en/results?searchtext=Author%3AGabriel%20Aull%C3%B3n),_b_
+[Jesús A.
+Miguel](/en/results?searchtext=Author%3AJes%C3%BAs%20A.%20Miguel)*_a_  and
+[Pablo Espinet](/en/results?searchtext=Author%3APablo%20Espinet)*_a_  
+
+Author affiliations
+
+*  Corresponding authors 
+
+a IU CINQUIMA Química Inorgánica, Facultad de Ciencias, Universidad de
+Valladolid, E-47071 Valladolid, Spain  
+**E-mail:** [espinet@qi.uva.es](mailto:espinet@qi.uva.es "espinet@qi.uva.es")
+
+b Departament de Química Inorgànica, Universitat de Barcelona, Martí i
+Franquès 1-11, E-08028 Barcelona, Spain
+
+### Abstract
+
+Treatment of 3-(1-hexynyl)perylene with Co2(CO)8 resulted in the formation of
+the dinuclear cobalt complex [Co2(CO)6(μ–η2-C4H9CC-Per)] (Per = 3-perylenyl)
+(**1**). The perylene derivatives 3-(2,3,5,6-tetrafluorophenyl)perylene
+(PerC6F4H) and 3-(2,3,5,6-tetrafluorophenyl)-9(10)hexylperylene (C6-PerC6F4H)
+were prepared and used to synthesize [AuR(CN _t_ Bu)] (R = PerC6F4**2a**),
+[AuR(CN(C6H2)-3,4,5-(OC12H25)3)] (R = PerC6F4 (**3a**), R = C6-PerC6F4
+(**3b**)), _trans_ -[PdR(PR′3)2X] (R = PerC6F4, R′ = Ph, X = I (**4a**)); (R =
+C6-PerC6F4, R′ = Ph, X = I (**4b**)); (R = PerC6F4, R′ = Et, X = I (**5a**));
+(R = C6-PerC6F4, R′ = Et, X = I (**5b**)); (R = PerC6F4, R′ = Ph, X = NCS
+(**6a**)), and _trans_ -[Pd(PerC6F4)(PEt3)2X] (X = Br (**7a**); X = I
+(**8a**)). The molecular structure of complexes **1** , **2a** , and **6a**
+has been determined by X-ray diffraction analysis. The perylenyl fragments of
+complexes **2a** or **6a** are essentially planar and make dihedral angles to
+the tetrafluorophenyl plane of 57.49° (**2a**) and 77.75° (**6a**). No π–π
+stacking of perylenyl rings is observed in any of the three molecules, but
+**2a** shows association of two monomers (arranged almost antiparallel), with
+an Au⋯Au distance of 3.114 Å. DFT calculations were performed on the
+absorption spectra of representative PerC6F4Y (Y = H, F, Au(CNMe), PtBr(PMe3)2
+and PdBr(PMe3)2). All complexes exhibit fluorescence associated with the
+perylene fragment with emission quantum yields, in solution at room
+temperature, in the range 0.20–0.90 and emission lifetimes ∼4 ns, and no
+significant differences in the emission maxima, due to an efficient electronic
+decoupling of the metal fragment from the HOMO and LUMO of the perylene
+chromophore. The latter is confirmed by DFT calculations.
+
+You have access to this article
+
+Please wait while we load your content...  Something went wrong. Try again?
+
+About
+
+Cited by
+
+Related
+
+Download options Please wait...
+
+## Supplementary files
+
+  * [ Supplementary information  PDF (1197K) ](https://www.rsc.org/suppdata/dt/c3/c3dt32843k/c3dt32843k.pdf)
+  * [ Crystal structure data  TXT (67K) ](https://www.rsc.org/suppdata/dt/c3/c3dt32843k/c3dt32843k.txt)
+
+## Article information
+
+DOI
+
+    <https://doi.org/10.1039/C3DT32843K>
+
+**Article type**
+
+    Paper
+
+Submitted
+
+    27 Nov 2012
+
+Accepted
+
+    09 Jan 2013
+
+First published
+
+    10 Jan 2013
+
+###  Download Citation
+
+_**Dalton Trans.**_ , 2013,**42** , 6353-6365  
+
+BibTex EndNote MEDLINE ProCite ReferenceManager RefWorks RIS
+
+### Permissions
+
+Request permissions
+
+###  Highly fluorescent complexes with gold, palladium or platinum linked to
+perylene through a tetrafluorophenyl group
+
+S. Lentijo, G. Aullón, J. A. Miguel and P. Espinet, _Dalton Trans._ , 2013,
+**42** , 6353 **DOI:** 10.1039/C3DT32843K
+
+To request permission to reproduce material from this article, please go to
+the [Copyright Clearance Center request
+page](https://marketplace.copyright.com/rs-ui-
+web/mp/search/all/10.1039%2fC3DT32843K).
+
+If you are **an author contributing to an RSC publication, you do not need to
+request permission** provided correct acknowledgement is given.
+
+If you are **the author of this article, you do not need to request permission
+to reproduce figures and diagrams** provided correct acknowledgement is given.
+If you want to reproduce the whole article in a third-party publication
+(excluding your thesis/dissertation for which permission is not required)
+please go to the [Copyright Clearance Center request
+page](https://marketplace.copyright.com/rs-ui-
+web/mp/search/all/10.1039%2fC3DT32843K).
+
+Read more about [how to correctly acknowledge RSC
+content](https://www.rsc.org/journals-books-databases/journal-authors-
+reviewers/licences-copyright-permissions/#acknowledgements).
+
+### Social activity
+
+[
+](https://www.altmetric.com/details.php?domain=pubs.rsc.org&doi=10.1039%2Fc3dt32843k)
+
+[ Tweet
+](https://twitter.com/intent/tweet/?text=Highly+fluorescent+complexes+with+gold%2c+palladium+or+platinum+linked+to+perylene+through+a+tetrafluorophenyl+group+-+now+published+in+Dalton+Transactions&url=https%3a%2f%2fpubs.rsc.org%2fen%2fcontent%2farticlelanding%2f2013%2fdt%2fc3dt32843k)
+
+[ Share
+](/en/Image/GetQrCode?url=https%3A%2F%2Fpubs.rsc.org%2Fen%2Fcontent%2Farticlelanding%2F2013%2Fdt%2Fc3dt32843k)
+
+## Search articles by author
+
+Sergio Lentijo
+
+Gabriel Aullón
+
+Jesús A. Miguel
+
+Pablo Espinet
+
+Fetching data from CrossRef.  
+This may take some time to load.
+
+Loading related content
+
+### Spotlight
+
+### Advertisements
+
+  * [rsc.org](https://www.rsc.org)
+  * [Journals, books & databases](https://www.rsc.org/journals-books-databases/)
+
+  * [Home](https://www.rsc.org/)
+  * [About us](https://www.rsc.org/about-us/)
+  * [Membership & professional community](https://www.rsc.org/membership-and-community/)
+  * [Campaigning & outreach](https://www.rsc.org/campaigning-outreach/)
+  * [Journals, books & databases](https://www.rsc.org/journals-books-databases/)
+  * [Teaching & learning](https://www.rsc.org/teaching-and-learning/)
+  * [News & events](https://www.rsc.org/news-events/)
+  * [Locations & contacts](https://www.rsc.org/locations-contacts/)
+  * [Careers](https://www.rsc.org/careers/)
+  * [Awards & funding](https://www.rsc.org/awards-funding/)
+  * [Advertise](https://www.rsc.org/advertise/)
+  * [Help & legal](https://www.rsc.org/help-legal/)
+  * [Privacy policy](https://www.rsc.org/help-legal/legal/privacy/)
+  * [Terms & conditions](https://www.rsc.org/help-legal/legal/terms-conditions/)
+
+* * *
+
+[Facebook](https://www.facebook.com/RoyalSocietyofChemistry)
+[Twitter](https://twitter.com/RoySocChem)
+[LinkedIn](https://www.linkedin.com/company/23105)
+[YouTube](https://www.youtube.com/user/wwwRSCorg)
+
+© Royal Society of Chemistry 2025  
+Registered charity number: 207890
+
+* * *
+
+This website collects cookies to deliver a better user experience.  See how
+this site uses [Cookies](/en/content/cookies "See how this site uses
+cookies").  [Do not sell my personal data](/en/content/cookies "Do not sell my
+personal data").
+
+Este site coleta cookies para oferecer uma melhor experiência ao usuário.
+Veja como este site usa [Cookies](/en/content/cookies "Veja como este site usa
+cookies").
+
+[Publishing](/ "Publishing home page")
+
+## Journals
+
+  * [Current Journals](/en/journals?key=title&value=current)
+  * [Archive Journals](/en/journals?key=title&value=archive)
+  * [All Journals](/en/journals?key=title&value=all)
+
+## Books
+
+  * [Browse Books](https://books.rsc.org/books/search-results?fl_SiteID=5&page=1&f_ContentType=Book&sort=Date+-+Newest+First)
+  * [Series](https://books.rsc.org/books/collections/series)
+  * [For Authors and Editors](https://www.rsc.org/journals-books-databases/book-authors/propose-book-idea/)
+  * [About](https://www.rsc.org/journals-books-databases/book-authors/)
+
+## Databases
+
+  * [Literature Updates](https://www.rsc.org/journals-books-databases/databases-literature-updates/)
+  * [ChemSpider](http://www.chemspider.com/)
+  * [The Merck Index*](https://www.rsc.org/merck-index)
+  * [MarinLit](https://marinlit.rsc.org/)
+
+## More
+
+  * [For Members](https://www.rsc.org/resources-tools/research-tools/#access)
+  * [For Librarians](/en/librarian/home)
+  * [Subscribe](https://www.rsc.org/journals-books-databases/about-journals/journal-email-alerts-service/)
+  * [RSS Feeds](/en/ealerts/rssfeed)
+  * [Blogs](http://blogs.rsc.org/)
+  * [Chemistry World](https://www.chemistryworld.com/)
+  * [Education in Chemistry](https://edu.rsc.org/eic)
+  * [Open Access](https://www.rsc.org/journals-books-databases/open-access/)
+  * [Historical Collection](http://pubs.rsc.org/historical-collection)
+
+## Privacy preference center
+
+When you visit any website, it may store or retrieve information on your
+browser, mostly in the form of cookies. This information might be about you,
+your preferences or your device and is mostly used to make the site work as
+you expect it to. The information does not usually directly identify you, but
+it can give you a more personalised web experience. Because we respect your
+right to privacy, you can choose not to allow some types of cookies. Click on
+the different category headings to find out more and change our default
+settings. However, blocking some types of cookies may impact your experience
+of the site and the services we are able to offer.
+
+Allow all
+
+###  Manage consent preferences
+
+#### Strictly necessary cookies
+
+Always active
+
+These cookies are necessary for the website to function and cannot be switched
+off in our systems. They are usually only set in response to actions made by
+you which amount to a request for services, such as setting your privacy
+preferences, logging in or filling in forms. You can set your browser to block
+or alert you about these cookies, but some parts of the site will not then
+work. These cookies do not store any personally identifiable information.
+
+#### Analytical cookies
+
+Always active
+
+These cookies allow us to count visits and traffic sources so we can measure
+and improve the performance of our site. They help us to know which pages are
+the most and least popular and see how visitors move around the site. All
+information these cookies collect is aggregated and therefore anonymous. If
+you do not allow these cookies we will not know when you have visited our
+site, and will not be able to monitor its performance.
+
+#### Functional cookies
+
+Always active
+
+These cookies enable the website to provide enhanced functionality and
+personalisation. They may be set by us or by third party providers whose
+services we have added to our pages. If you do not allow these cookies then
+some or all of these services may not function properly.
+
+#### Targeting cookies
+
+Always active
+
+These cookies may be set through our site by our advertising partners. They
+may be used by those companies to build a profile of your interests and show
+you relevant adverts on other sites. They do not store directly personal
+information, but are based on uniquely identifying your browser and internet
+device. If you do not allow these cookies, you will experience less targeted
+advertising.
+
+Back Button
+
+### Cookie List
+
+Search Icon
+
+Filter Icon
+
+Clear
+
+checkbox label label
+
+Apply Cancel
+
+Consent Leg.Interest
+
+checkbox label label
+
+checkbox label label
+
+checkbox label label
+
+Confirm My Choices
+
+[](https://www.onetrust.com/products/cookie-consent/)
+

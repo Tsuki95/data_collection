@@ -1,0 +1,902 @@
+  * À propos 
+    * [Notre revue](/chimie/page/notre-revue/)
+    * [Organisation](/chimie/page/equipe-editoriale/)
+    * [Les CR Chimie en libre accès diamant](/chimie/page/libre-acces-diamant/)
+    * [Référencement et archivage](/chimie/page/referencement-archivage/)
+  * Articles et numéros 
+    * [Numéros spéciaux](/chimie/page/numeros-speciaux/)
+    * [Numéros à venir](/chimie/page/numeros-a-venir/)
+    * [Collections transverses](/chimie/page/collections_fr/)
+    * [Articles anciens](/chimie/page/articles-anciens/)
+  * Soumettre un article 
+    * [Instructions aux auteurs](/chimie/page/instructions-aux-auteurs_fr/)
+    * [Soumettre votre manuscrit](/chimie/page/soumettre-votre-article_fr/)
+  * [Actualités](/chimie/page/actualites/)
+
+* * *
+
+    *     * 
+
+Plan
+
+  * Titre
+  * Résumé
+  * Métadonnées
+  * Texte intégral
+  * 1 Introduction
+  * 2 Experimental
+  * 3 Results and discussion
+  * 4 Conclusions
+  * Acknowledgements
+  * Bibliographie
+  * Cité par
+  * Commentaires
+  * Publier un commentaire
+
+  * [](/)
+  * [Mathématique](/mathematique)
+  * [Mécanique](/mecanique)
+  * [Physique](/physique)
+  * [Géoscience](/geoscience)
+  * [Palevol](http://sciencepress.mnhn.fr/fr/periodiques/comptes-rendus-palevol)
+  * [Chimie](/chimie)
+  * [Biologies](/biologies)
+  * [Vie des sciences](https://vds.hypotheses.org/)
+  *     *     * 
+
+[ ](/chimie/)
+
+[](/chimie/)
+
+  * À propos 
+    * [Notre revue](/chimie/page/notre-revue/)
+    * [Organisation](/chimie/page/equipe-editoriale/)
+    * [Les CR Chimie en libre accès diamant](/chimie/page/libre-acces-diamant/)
+    * [Référencement et archivage](/chimie/page/referencement-archivage/)
+  * Articles et numéros 
+    * [Numéros spéciaux](/chimie/page/numeros-speciaux/)
+    * [Numéros à venir](/chimie/page/numeros-a-venir/)
+    * [Collections transverses](/chimie/page/collections_fr/)
+    * [Articles anciens](/chimie/page/articles-anciens/)
+  * Soumettre un article 
+    * [Instructions aux auteurs](/chimie/page/instructions-aux-auteurs_fr/)
+    * [Soumettre votre manuscrit](/chimie/page/soumettre-votre-article_fr/)
+  * [Actualités](/chimie/page/actualites/)
+
+[ Consulter ](/chimie/journals/CRCHIM/)
+
+__ Tout
+
+  * Tout
+  * Auteur
+  * Titre
+  * Bibliographie
+  * Mots-clés
+  * Résumé
+  * Plein texte
+
+__
+
+__ Rechercher
+
+NOT
+
+__
+
+Entre et
+
+Auteur
+
+  * Tout
+  * Auteur
+  * Titre
+  * Date
+  * Bibliographie
+  * Mots-clés
+  * Résumé
+  * Plein texte
+
+__
+
+  * [Précédent](/chimie/articles/10.1016/j.crci.2011.08.004/)
+
+  * [Consulter](/chimie/item/CRCHIM/)
+  * [Volume 15 (2012)](/chimie/volume/CRCHIM_2012__15_2-3/)
+  * [no. 2-3](/chimie/item/CRCHIM_2012__15_2-3/)
+  * [p. 229-236](/chimie/articles/10.1016/j.crci.2011.09.010/)
+
+  * [Suivant](/chimie/articles/10.1016/j.crci.2011.10.001/)
+
+[__](/chimie/articles/10.1016/j.crci.2011.08.004/)[no.
+2-3](/chimie/item/CRCHIM_2012__15_2-3/)
+[__](/chimie/articles/10.1016/j.crci.2011.10.001/)
+
+Plan
+
+  * Titre
+  * Résumé
+  * Métadonnées
+  * Texte intégral
+  * 1 Introduction
+  * 2 Experimental
+  * 3 Results and discussion
+  * 4 Conclusions
+  * Acknowledgements
+  * Bibliographie
+  * Cité par
+  * Commentaires
+  * Publier un commentaire
+
+Version originale  
+
+  * [Version originale   ](/chimie/articles/en/10.1016/j.crci.2011.09.010/)
+
+Afficher les formules comme du code source TeX
+
+  
+
+Intramolecular d10–d10 interactions in neutral, dinuclear Au(I) complexes
+supported by amino-thiazoline- and -thiazole-based P,N-phosphine ligands
+
+[Corinna Voß](/chimie/search?"Corinna Voß"-c)1 ; [Roberto
+Pattacini](/chimie/search?"Roberto Pattacini"-c)1 ; [Pierre
+Braunstein](/chimie/search?"Pierre Braunstein"-c)1
+
+1 Laboratoire de chimie de coordination, UMR 7177 CNRS, université de
+Strasbourg, institut Le Bel, 4, rue Blaise-Pascal, CS 90032, 67081 Strasbourg
+cedex, France  
+
+Comptes Rendus. Chimie, Polyoxometalates, metal wires and other “polymetallic”
+complexes: structure, properties, theoretical modelling, Volume 15 (2012) no.
+2-3, pp. 229-236.
+
+[ ](/chimie/item/10.1016/j.crci.2011.09.010.pdf)
+
+Résumé
+
+The ligands N-(diphenylphosphino)-thiazoline-2-amine (**1**),
+N-(diphenylphosphino)thiazol-2-amine (**2**) and
+N-(diphenylphosphino)-1,3,4-thiadiazol-2-amine **3** , readily reacted with
+[AuCl(THT)] in dichloromethane to form the linearly coordinated complexes
+[AuCl(**1** -κP)] (**5**), [AuCl(**2** -κP)] (**6**) and [AuCl(**3** -κP)]
+(**7**), respectively. Facile deprotonation with t-BuOK or Na2CO3 of **5–7**
+afforded the stable, neutral dinuclear complexes [AuCl(**1** —H-κP,κN)]2
+(**8**), [AuCl(**2** —H-κP,κN)]2 (**9**) and [AuCl(**3** —H-κP,κN)]2 (**10**),
+respectively. The crystal structures of the mononuclear complexes **5** ,
+**6** and **7** and of the dinuclear complexes **8** , **9** and **10** have
+been determined by X-ray diffraction. The latter represent rare examples of
+neutral complexes supported by bridging P,N-ligands which display
+intramolecular Au(I)···Au(I) d10–d10 interactions, in the range
+2.8592(4)–2.8831(4) Å.
+
+**Supplementary Materials:**  
+Supplementary material for this article is supplied as a separate file:
+
+  * [ __mmc1.pdf](/chimie/article/10.1016/j.crci.2011.09.010/file/attach/mmc1.pdf)
+
+Métadonnées
+
+  * Détail
+  * Export
+  * Comment citer
+
+Reçu le : 2011-08-23  
+Accepté le : 2011-09-21  
+Publié le : 2011-10-24  
+
+DOI : [10.1016/j.crci.2011.09.010](https://doi.org/10.1016/j.crci.2011.09.010)  
+
+Mots-clés :  Coordination chemistry, Gold chemistry, Metallophilic
+interactions, Assembling ligands, P, N ligands, Crystal structures, Dinuclear
+complexes  
+
+Affiliations des auteurs :
+
+Corinna Voß 1 ; Roberto Pattacini 1 ; Pierre Braunstein 1
+
+1 Laboratoire de chimie de coordination, UMR 7177 CNRS, université de
+Strasbourg, institut Le Bel, 4, rue Blaise-Pascal, CS 90032, 67081 Strasbourg
+cedex, France  
+
+  * BibTeX
+  * RIS
+  * EndNote
+
+    
+    
+    @article{CRCHIM_2012__15_2-3_229_0,
+         author = {Corinna Vo{\ss} and Roberto Pattacini and Pierre Braunstein},
+         title = {Intramolecular d\protect\textsuperscript{10}{\textendash}d\protect\textsuperscript{10} interactions in neutral, dinuclear {Au(I)} complexes supported by amino-thiazoline- and -thiazole-based {P,N-phosphine} ligands},
+         journal = {Comptes Rendus. Chimie},
+         pages = {229--236},
+         publisher = {Elsevier},
+         volume = {15},
+         number = {2-3},
+         year = {2012},
+         doi = {10.1016/j.crci.2011.09.010},
+         language = {en},
+    }
+
+[](/chimie/export_citation/CRCHIM_2012__15_2-3_229_0/bib/ "Télécharger")
+
+    
+    
+    TY  - JOUR
+    AU  - Corinna Voß
+    AU  - Roberto Pattacini
+    AU  - Pierre Braunstein
+    TI  - Intramolecular d10–d10 interactions in neutral, dinuclear Au(I) complexes supported by amino-thiazoline- and -thiazole-based P,N-phosphine ligands
+    JO  - Comptes Rendus. Chimie
+    PY  - 2012
+    SP  - 229
+    EP  - 236
+    VL  - 15
+    IS  - 2-3
+    PB  - Elsevier
+    DO  - 10.1016/j.crci.2011.09.010
+    LA  - en
+    ID  - CRCHIM_2012__15_2-3_229_0
+    ER  - 
+
+[](/chimie/export_citation/CRCHIM_2012__15_2-3_229_0/ris/ "Télécharger")
+
+    
+    
+    %0 Journal Article
+    %A Corinna Voß
+    %A Roberto Pattacini
+    %A Pierre Braunstein
+    %T Intramolecular d10–d10 interactions in neutral, dinuclear Au(I) complexes supported by amino-thiazoline- and -thiazole-based P,N-phosphine ligands
+    %J Comptes Rendus. Chimie
+    %D 2012
+    %P 229-236
+    %V 15
+    %N 2-3
+    %I Elsevier
+    %R 10.1016/j.crci.2011.09.010
+    %G en
+    %F CRCHIM_2012__15_2-3_229_0
+
+[](/chimie/export_citation/CRCHIM_2012__15_2-3_229_0/enw/ "Télécharger")
+
+    
+    
+    Corinna Voß; Roberto Pattacini; Pierre Braunstein. Intramolecular d10–d10 interactions in neutral, dinuclear Au(I) complexes supported by amino-thiazoline- and -thiazole-based P,N-phosphine ligands. Comptes Rendus. Chimie, Polyoxometalates, metal wires and other “polymetallic” complexes: structure, properties, theoretical modelling, Volume 15 (2012) no. 2-3, pp. 229-236. doi : 10.1016/j.crci.2011.09.010. https://comptes-rendus.academie-sciences.fr/chimie/articles/10.1016/j.crci.2011.09.010/
+
+Version originale du texte intégral  ____
+
+## 1 Introduction
+
+It is now well established that Au(I) centres are prone to display d10–d10
+metal–metal interactions [1]. The term “aurophilicity” is commonly used to
+refer to such interactions in the structural chemistry of gold complexes.
+Although positively charged AuI ([Xe]4f145d10) ions could be expected to repel
+each other on the basis of electrostatics, the attractive interactions between
+these closed valence shell ions result in interatomic distances typically in
+the range between 2.7 and 3.3 Å, often shorter than the sum of the van der
+Waals radii [1]. This phenomenon could not be explained by conventional
+descriptions of chemical bonding [2], but is now well described as dispersion-
+driven and enhanced by relativistic effects [1,2]. However, the conditions for
+the occurrence of aurophilicity and its structural, physical and chemical
+consequences remain difficult to predict, hence further experimental and
+theoretical studies on d10–d10 interactions are needed, whether in homo- or in
+heterometallic systems [1–3]. One way to promote the generation of Au(I)–Au(I)
+interactions is to use assembling ligands to stabilize dinuclear complexes,
+the simplest candidates for such a bonding type. Slight modifications in the
+structural and/or electronic properties of the assembling ligand could allow a
+fine-tuning of the metal–metal bond length. Thus, we selected the
+phosphinoaminothiazoles reported in Scheme 1, namely
+N-(diphenylphosphino)-thiazoline-2-amine (**1**) [4],
+N-(diphenylphosphino)thiazol-2-amine (**2**) [5,6],
+N-(diphenylphosphino)benzo[d]thiazol-2-amine (**3**) [5],
+N-(diphenylphosphino)-1,3,4-thiadiazol-2-amine (**4**) [5], which readily form
+5-membered ring chelates with, e.g., d8-metal ions, as potential bridging
+ligands in gold chemistry for the generation of d10–d10 interactions because
+of their stereoelectronic features, the commercial availability of their
+precursors and their stability when deprotonated [4,5]. Owing to their good
+bridging properties, we have recently used the deprotonated ligands **1**
+—**H** and **4** —H for the formation of, respectively, heterobimetallic
+coordination polymers and complexes, utilizing the free P-bound N donor [7],
+or homo- and heterobimetallic complexes, the latter by taking advantage of the
+endo-cyclic N = CH nitrogen [8]. The complex [Pt(**1** —H-κP,κN)2] showed
+interesting vapoluminescent properties, its emission in the visible region,
+when excited by UV radiation, being dramatically enhanced upon exposure to
+alcohols [5]. The non-coordinated N function of the latter complex is also
+reactive towards organic nucleophiles, e.g. leading to the formation of
+[Pt(**1** —H-κP,κN)(**1** —H·EtNCS-κP,κS] by reaction with EtN = C = S [7]. We
+expected that deprotonated ligands **1** —H – **4** —H could form stable
+dinuclear gold complexes displaying Au···Au interactions, efficiently
+supported by a P–N bridging mode of these heteroditopic ligands.
+
+[](/chimie/article/CRCHIM_2012__15_2-3_229_0/jpg/src/tex/figures/sc1.jpg)Scheme
+1
+
+## 2 Experimental
+
+### 2.1 General considerations
+
+All manipulations were carried out under inert atmosphere, using standard
+Schlenk-line techniques and dried and freshly distilled solvents. The 1H,
+13C{1H}, and 31P{1H} NMR spectra were recorded at 298 K by using the
+instruments Bruker Avance 300 at 300.13, 75.47 and 121.49 MHz, respectively,
+or Bruker Avance 400 at 400.13, 100.61, 161.98 MHz and Bruker Avance 500 at
+500.13, 125.76, 202.46 MHz, respectively, using TMS or H3PO4 (85% in D2O) as
+external standard with downfield shifts reported as positive. All spectra were
+measured at 298 K. The assignments of the signals were made by 1H, 1H-COSY,
+1H, 13C-HMBC and 1H, 13C, HMQC experiments. Elemental C, H, N and S analyses
+were performed by the “Service central d’analyses”, Centre national de la
+recherche scientifique, Lyon or by the “Service de microanalyses”, université
+de Strasbourg. IR spectra were recorded in the region 4000–150 cm−1 on a
+Nicolet 6700 FTIR equipped with the ATR accessory Smart Orbit with diamond
+crystal. The following compounds were prepared according to literature
+procedures: [AuCl(THT)] [9], **1** [4] **2** and **3** [5]. PPh2Cl was freshly
+distilled before use. Other chemicals were commercially available and used as
+received.
+
+### 2.2 Synthesis of [AuCl(**1-κ** P)] (**5**)
+
+Solid ligand **1** (0.300 g, 1.05 mmol) was dissolved in dichloromethane (50
+mL) and [AuCl(THT)] (0.340 g, 1.06 mmol) was added. This solution was stirred
+under N2 at room temperature for 1 h. The volatiles were removed under reduced
+pressure. A colourless powder was obtained and washed twice with 20 mL of
+diethylether, giving **5**. The precipitate was collected by filtration and
+dried under vacuum. Yield: 0.523 g (96% based on ligand **1**). Elemental
+analysis (%) calcd for C15H15AuClN2PS; M = 518.75: C, 34.73; H, 2.91; N, 5.40.
+Found: C, 34.74; H, 3.15; N, 5.46. 1H NMR (CDCl3, 300 MHz) [ppm]: δ = 7.73 (m,
+4H, o-phenyl), 7.42–7.39 (m, 6H, m,p-phenyl), 6.25 (s, br, 1H, NH), 3.63 (t,
+3J(H,H) = 7.2 Hz, 2H, CH**2** -N) and 3.41 (t, 3J(H,H) = 7.2 Hz, 2H, CH**2**
+-S). The poor solubility of (**5**) in common organic solvents prevented the
+recording of a good quality 13C NMR spectrum. 31P{H} NMR (CDCl3, 121 MHz)
+[ppm]: δ = 60.8. FTIR (solid, cm−1): 1599 [s, ν(C = N)], Far-IR (solid, cm−1):
+ν = 320 [s, ν(AuCl)].
+
+### 2.3 Synthesis of [AuCl(**2-κ** P)] (**6**)
+
+Solid ligand **2** (0.100 g, 0.35 mmol) was dissolved in dry dichloromethane
+(15 mL) and solid [AuCl(THT)] (0.113 g, 0.35 mmol) was added to the solution.
+This mixture was stirred under N2 for 1 h. The solvent was evaporated under
+reduced pressure. Complex **6** was obtained as a colourless solid, washed
+twice with diethyl ether (5 mL) and dried under vacuum. Single crystals
+suitable for X-ray analysis were obtained by layering a CH2Cl2 solution with
+pentane. Yield: 0.128 g (71% based on ligand **2**). Elemental analysis (%)
+calcd for C15H13AuClN2PS; M = 516.74: C, 34.87; H, 2.54; N, 5.42 Found: C,
+34.39; H, 2.69; N, 5.34. 1H NMR (CDCl3, 300 MHz) [ppm]: δ = 7.73 (ddd, 4H,
+3J(PH) = 14 Hz, 3J(HH) = 7.1 Hz, 4J(HH) = 1.9 Hz; o-Ph), 7.4–7.6 (m, 6H;
+m,p-Ph), 6.19 (dd, 3J(H,H) = 4.5 Hz, 5J(P,H) = 1.5 Hz, 1H; N-CH), 5.88 (dd,
+3J(H,H) = 4.5 Hz, 5J(P,H) = 3.3 Hz, 1H; S-CH). 13C{H} NMR (CDCl3, 300 MHz)
+[ppm]: δ = 169.9 (s, N-C = N), 132.5 (d, partly masked; i-phenyl) 132.5 (d,
+2J(C,P) = 15 Hz; o-Ph), 132.2 (s; p-Ph), 129.1, (d, 3J(C,P) = 12 Hz;
+m-phenyl), 129.17 (d, J = 14 Hz; i-Ph), 125.7 (s; S–CH = C), 107.3 (s; N–CH =
+C). 31P{H} NMR (CDCl3, 121 MHz) [ppm]: δ = 60.2. FTIR (solid, cm−1): 1580 [s,
+ν(C = N)]. Far-IR (solid, cm−1): 321 [s, ν(Au–Cl)].
+
+### 2.4 Synthesis of [AuCl(**3-κ** P)] (**7**)
+
+Solid [AuCl(THT)] (0.150 g, 0.47 mmol) was dissolved in dichloromethane (20
+mL) and a solution of ligand **3** (0.157 g, 0.47 mmol) in dichloromethane (20
+mL) was added. The mixture was stirred under N2 for 1 h. The volatiles were
+removed under reduced pressure. A colourless precipitate was obtained. The
+solid was washed three times with 20 mL diethylether and dried under vacuum to
+give complex **7** which was recrystallized by layering pentane on a saturated
+CHCl3 solution. Yield: 0.126 g (48% based on [AuCl(THT)]). Elemental analysis
+(%) calcd for C19H15AuClN2PS; M = 566.79: C, 40.26; H, 2.67; N, 4.94; S, 5.66.
+Found: C, 39.91; H, 2.79; N, 4.81; S, 5.63. 1H NMR (CDCl3, 300 MHz) [ppm]: δ =
+7.78 (ddd, 4H, 3J(P,H) = 13.9 Hz, 3J(H,H) = 7.5 Hz, 4J(H,H) = 1.7 Hz;
+o-phenyl), 7.50–7.38 (m, 7H; p,m-phenyl, H4), 7.29 (m, 1H; H6) 7.15 (m, 2H; H7
+and H5). 13C{H} NMR: 167.0 (d, 2J(C,P) = 6.8 Hz; C = N), 137.40 (s; benzo),
+136.4 (s; benzo), 133.5 (d, 1J(C,P) = 75 Hz; i-phenyl), 132.3 (d, 2J(C,P) =
+15.0 Hz; o-phenyl), 131.8 (s, p-phenyl), 128.9 (d, 3J(C,P) = 12.5 Hz;
+m-phenyl), 127.1 (s; C6), 123.7 (s; C5), 122.7 (s; C4), 111.8 (s; C7). 31P{H}
+NMR (CDCl3, 121 MHz) [ppm]: δ = 59.5. FTIR (solid, cm−1): 1564 [s, ν(C = N)],
+Far-IR (solid, cm−1): 319 [s, ν(AuCl)].
+
+### 2.5 Synthesis of [Au(**1** —H**-κ** P,**κ** N)]2 (**8**)
+
+Solid complex **5** (0.414 g, 0.80 mmol) was dissolved in dichloromethane (30
+mL) and t-BuOK (0.300 g, 26 mmol) was added. The solution was stirred under N2
+at room temperature for 1 h. The suspension was filtered and the solution was
+evaporated under reduced pressure. The solid was dissolved in 20 mL
+dichloromethane and pentane was added. Colourless **8** precipitated and was
+collected by decantation. Yield: 0.254 g (68% based on complex **5**.
+Elemental analysis (%) calcd for C30H28Au2N4P2S2; M = 964.58: C, 37.36; H,
+2.93; N, 5.81. Found: C, 37.53; H, 2.97; N, 5.73. 1H NMR (CDCl3; 300 MHz)
+[ppm]: δ = 7.53 (m, 8H; o-phenyl), 7.34–7.22 (m, 12H; m,p-phenyl), 4.20 (t,
+3J(H,H) = 7.2 Hz, 4H; NCH2), 3.28 (t, 3J(H,H) = 7.2 Hz, 4H; SCH2). 13C{1H} NMR
+(CDCl3; 100 MHz) [ppm]: δ = 175.7 (s; N–C–N), 138.0 (d, 1J(C,P) = 75 Hz),
+131.7 (“filled-in” d, simulated, 2+5J(C,P) ≈ 14 Hz, 3J(P,P) ≈ 9.5 Hz; o-Ph),
+130.4 (s; p-Ph), 128.6 (“filled-in” d, simulated, 3+6J(C,P) ≈ 12 Hz, 3J(P, P)
+≈ 9.5 Hz; m-Ph), 59.73 (N–CH2), 32.16 (S–CH2). 31P{H} NMR (CDCl3; 121 MHz)
+[ppm]: δ = 42.0. FTIR (solid, cm−1): 1560 [s, ν(C = N)].
+
+### 2.6 Synthesis of [Au(**2** —H**-κ** P,**κ** N)]2 (**9**)
+
+Solid complex **6** (0.088 g, 0.17 mmol) was dissolved in dichloromethane (25
+mL) and t-BuOK (0.037 g, 0.32 mmol) was added under N2 and the solution was
+stirred for 1 h. The mixture was filtered and the solvent was evaporated under
+reduced pressure. A colourless precipitate of **9** was formed, collected and
+washed with Et2O (30 mL). This dinuclear complex was recrystallized by
+layering pentane on a saturated dichloromethane solution. Yield: 0.031 g (19%
+based on complex **6**). Elemental analysis (%) calcd for C30H24Au2N4P2S2; M =
+960.55: C, 37.51; H, 2.52; N, 5.83. Found: C, 36.80; H, 2.88; N, 5.64. 1H NMR
+(CDCl3; 300 MHz) [ppm]: δ = 7.56 (m, 8H; o-Ph), 7.35–7.20 (m, 12H; m,p-Ph),
+6.94 (d, 1H, 3J = 4.5 Hz; N–CH), 6.26 (dd, 3J(H,H) = 4.5 Hz, 5J(H,P) = 5 Hz,
+1H; S–CH). The poor solubility of compound **9** in common organic solvents
+prevented the recording of the 13C spectrum. 31P{H} NMR (CDCl3; 121 MHz)
+[ppm]: δ = 39.0. FTIR (solid, cm−1): 1574 [s, ν(C = N)].
+
+### 2.7 Synthesis of [Au(**3** —H**-κ** P,**κ** N)]2 (**10**)
+
+Solid [AuCl(THT)] (0.200 g, 0.62 mmol) and ligand **3** (0.207 g, 0.62 mmol)
+were dissolved in dichloromethane (50 mL). The reaction mixture was stirred
+under N2 for 1 h. Sodium carbonate (0.700 g, 6.60 mmol) was added and the
+mixture was stirred for 5 h. The solid was filtered off and the filtrate taken
+to dryness under reduced pressure, affording a colourless precipitate. It was
+washed twice with 20 mL diethylether, giving **10**. Yield: 0.196 g (60% based
+on ligand **3**. Complex **10** was crystallized by layering pentane on a
+saturated CHCl3 solution. Elemental analysis (%) calcd for C38H28Au2N4P2S2; M
+= 1060.67: C, 43.03; H, 2.66; N, 5.28. Found: C, 42.95; H, 2.78; N, 5.14. 1H
+NMR (CDCl3; 500 MHz) [ppm]: δ = 7.68–7.60 (m, 10H; o-phenyl and H7), 7.43 (dd,
+2H, 3J(H,H) = 7.5 Hz, 4J(H,H) = 1.5 Hz; H4), 7.38 (m, 4H; p-phenyl), 7.32 (m,
+8H; m-phenyl), 7.15 (ddd, 3J(H,H) = 7.5 Hz, 3J(H,H) = 7.7 Hz, 4J(H,H) = 1.0
+Hz; H6), 7.07 (ddd, 3J(H,H4) = 3J(H,H5) = 7.5 Hz, 4J(H,H) = 1.5 Hz; H5);
+13C{H} NMR (CDCl3; 125 MHz) [ppm]: δ = 174.9 (s, N–C = N), 149.4 (s; C3) 137.3
+(d, 1J(C,P) = 61 Hz; i-Ph), 131.3 (“filled-in” d, simulated, 2+5J(C,P) ≈ 17
+Hz, 3J(P,P) ≈ 12 Hz; o-Ph), 130.5 (s; p-Ph), 128.7 (“filled-in” d, simulated,
+3+6J(C,P) ≈ 10 Hz, 3J(P,P) ≈ 12 Hz; m-Ph), 128.7 (dd, 4J(P,C) = 3 Hz, 4J(P,C)
+= 3 Hz; C2), 125.2 (s; C6), 122.3 (s; C5), 120.8 (s; C4), 116.7 (s; C7).
+31P{H} NMR (CDCl3; 121 MHz) [ppm]: δ = 39.5. FTIR (solid, cm−1): 1565 [s, ν(C
+= N)].
+
+### 2.8 X-ray data collection and refinement for **5–10**
+
+Suitable crystals for the X-ray analysis were obtained as described above. The
+intensity data were collected at 173(2) K on a Kappa CCD diffractometer [10]
+(graphite monochromated Mo-Kα radiation λ = 0.71073 Å). The structures were
+solved by direct methods (SHELXS-97) and refined by full-matrix least-squares
+procedures (based on F2, SHELXL-97) [11] with anisotropic thermal parameters
+for all the non-hydrogen atoms. The hydrogen atoms were introduced into the
+geometrically calculated positions (SHELXL-97 procedures) and refined riding
+on the corresponding parent atoms, except those on N atoms which were found in
+the difference maps and refined isotropically. Data collection and refinement
+parameters for **5–10** are reported in Table 1. CCDC 840772–840777 (**5–10**)
+contain the supplementary crystallographic data for this paper that can be
+obtained free of charge from the Cambridge Crystallographic Data Centre via
+[www.ccdc.cam.ac.uk/data_request/cif](http://www.ccdc.cam.ac.uk/data_request/cif).
+
+**Table 1**
+
+X-ray data collection and refinement parameters for **5–10**.
+
+Compound| **5**| **6**| **7**| **8**| **9**| **10**  
+---|---|---|---|---|---|---  
+Formula| C15H15Au1Cl1N2PS| C15H13AuClN2PS| C19H15AuClN2PS| C30H28Au2N4P2S2|
+C30H24Au2N4P2S2| C38H28Au2N4P2S2  
+Mass| 518.74| 516.72| 566.79| 964.56| 960.53| 1060.64  
+Crystal system| Triclinic| Monoclinic| Monoclinic| Orthorhombic| Monoclinic|
+Triclinic  
+a/Å| 8.5661(3)| 12.7527(6)| 11.9973(7)| 9.1049(3)| 16.4751(6)| 12.2324(4)  
+b/Å| 8.8903(3)| 8.6138(5)| 10.1616(3)| 23.3032(8)| 11.3575(6)| 17.0012(5)  
+c/Å| 11.300(5)| 18.7048(8)| 18.9570(8)| 28.4310(11)| 18.0291(7)| 18.3825(5)  
+α/°| 90.216(10)| 90.00| 90.00| 90.00| 90.00| 77.8494(16)  
+β/°| 103.867(10)| 129.342(3)| 125.438(3)| 90.00| 120.607(3)| 72.2786(15)  
+γ/°| 101.928(3)| 90.00| 90.00| 90.00| 90.00| 70.3212(15)  
+V/Å3| 816.11(5)| 1589.06(14)| 1882.94(15)| 6032.3(4)| 2903.5(2)| 3403.9(2)  
+T/K| 173(2)| 173(2)| 173(2)| 173(2)| 173(2)| 173(2)  
+Space group| P-1| P21/c| P21/c| F2dd| P21/c| P-1  
+Z| 2| 4| 4| 8| 4| 4  
+μ/mm−1| 9.396| 9.651| 8.155| 9.990| 10.377| 8.863  
+No. of meads. refl.| 5244| 5895| 9675| 6097| 1,1211| 2,2599  
+No. of indep. refl.| 3937| 3621| 5486| 3236| 6906| 15530  
+Rint| 0.0304| 0.0380| 0.0373| 0.0490| 0.0570| 0.0304  
+R1 (I > 2σ(I))| 0.0309| 0.0408| 0.0359| 0.0461| 0.0445| 0.0406  
+wR(F2) (I > 2σ(I))| 0.0625| 0.0923| 0.0774| 0.1130| 0.0671| 0.0941  
+R1 (all data)| 0.0415| 0.0746| 0.0736| 0.0516| 0.0936| 0.0838  
+wR(F2) (all data)| 0.0652| 0.1282| 0.1097| 0.1164| 0.0787| 0.1346  
+S on F2| 1.031| 1.078| 1.016| 1.033| 0.964| 1.025  
+Flack parameter| | | 0.015(14)| | |   
+  
+## 3 Results and discussion
+
+The colourless complex **5** was prepared by reaction of ligand **1** with
+[AuCl(THT)] (tetrahydrothiophene [THT]) in dichloromethane, at room
+temperature for 1 h (Scheme 1).
+
+The NH proton has been displayed on the exo-cyclic nitrogen in **1** , **2**
+and **3** for clarity, but the other tautomer with the H atom on the endo-
+cyclic nitrogen is also present in solution for **1 (**Scheme 2).
+
+[](/chimie/article/CRCHIM_2012__15_2-3_229_0/jpg/src/tex/figures/sc2.jpg)Scheme
+2
+
+The crystal structure of complex **5** was determined by single crystal X-ray
+diffraction and is shown in Fig. 1.
+
+[](/chimie/article/CRCHIM_2012__15_2-3_229_0/jpg/src/tex/figures/gr1.jpg)Fig.
+1
+
+ORTEP of the molecular structure of complex **5**. Ellipsoids at 40%
+probability level. Selected bond lengths [Å] and angles [°]: Au1–Cl(1)
+2.288(1), Au1–P1 2.227(1), P1–N1 1.661(4), N1–C1 1.312(6), N1–C1 1.312(6),
+C1–N2 1.310(7), N2–C2 1.460(7), C2–C3 1.505(8), C3–S1 1.814(6), S1–C1
+1.784(4); Cl1–Au1–P1 177.95(4), Au1–P1–N1 118.5(1), P1–N1–C1 124.9(3),
+N1–C1–N2 123.3(4), N1–C1–S1 126.4(3), N2–C1–S1 110.2(3).
+
+In the crystal structure of complex **5** (Fig. 1), ligand **1** coordinates
+to the gold atom through the phosphorus atom. A terminal chloride also
+coordinates the metal centre, that adopts an almost linear coordination
+geometry [Cl1–Au1–P1 177.95(4)]. The NH proton has been found in the
+difference map and could be located on the endo-cyclic N atom. Centrosymmetric
+pairs of complexes are connected through two N–H···N hydrogen bonds, between
+the exo-cyclic (acceptor) and the endo-cyclic (donor) nitrogen atoms, as shown
+is Fig. 2 (N···N distance between opposite atoms: 3.124(5) Å), to form pseudo-
+dimers.
+
+[](/chimie/article/CRCHIM_2012__15_2-3_229_0/jpg/src/tex/figures/gr2.jpg)Fig.
+2
+
+Diagram of the crystal structure of **5** , showing a pair of complex
+molecules connected by N–H···N hydrogen bonds (symmetry operation generating
+equivalent atoms: –x, –y, –z).
+
+The bonding parameters in **5** are consistent with those in other P–Au–Cl
+complexes, such as [AuCl(PPh3)] [12] (P–Au–Cl 177.95(4)°, P–Au 2.235(3) Å and
+Au–Cl 2.288(1) Å).
+
+The spectroscopic data in solution are consistent with the solid-state
+structure. The 31P{1H} NMR spectrum consists of a singlet at 60.8 ppm,
+downfield shifted with respect to the free ligand (49 ppm) [4]. Complex **5**
+exhibits in the IR spectrum a very intense ν(Au–Cl) stretching absorption at
+320 cm−1 which is comparable to that of [AuCl(THT)] [9] (332 cm−1) and of
+[AuCl(SMe2)] [13] (325 cm−1). The NH proton gives rise to a broad signal at
+6.25 ppm.
+
+A similar reaction was performed with N-(diphenylphosphino)thiazol-2-amine
+(ligand **2**) instead of **1** and gave [AuCl(**2**)] (**6**). Its crystal
+structure is shown in Fig. 3.
+
+[](/chimie/article/CRCHIM_2012__15_2-3_229_0/jpg/src/tex/figures/gr3.jpg)Fig.
+3
+
+ORTEP of the molecular structure of complex **6**. Ellipsoids at 40%
+probability level. Selected bond lengths [Å] and angles [°]: Au1–Cl(1)
+2.294(4), Au1–P1 2.233(3), P1–N1 1.66(1), N1–C1 1.32(1), N1–C1 1.32(1), C1–N2
+1.35(2), N2–C2 1.38(2), C2–C3 1.32(2), C3–S1 1.75(1), S1–C1 1.75(1);
+Cl1–Au1–P1 177.7(1), Au1–P1–N1 119.1(3), P1–N1–C1 121.1(7), N1–C1–N2 122.9(9),
+N1–C1–S1 129.2(8), N2–C1–S1 107.9(7).
+
+The Au(I) atom is coordinated by the phosphorus donor of ligand **2** and by a
+terminal chloride. As in **5** , the coordination geometry is almost linear
+(177.7(1)°) and the bond lengths are similar to those in **5**. As a result of
+the aromaticity of the thiazole ring, the endo-cyclic bond distances are
+significantly shorter than those in **1**. The NH proton has been found in the
+difference maps and is located on the endo-cyclic nitrogen, as in **5**.
+Hydrogen bonded pseudo-dimers, similar to those encountered in **5** are also
+observed in the case of **6** , although a shorter N···N separation was
+observed, 2.93(1) Å vs. 3.124(5) Å in **5**. This is likely due to the absence
+of methylene protons in **6** , that exert steric hindrance towards the
+phenyls of the centrosymmetric counterpart in **5**.
+
+The 31P{1H} NMR spectrum of **6** is similar to that of **5** , and consists
+in a singlet centered at 60.2 ppm. The solid state FTIR spectrum shows the
+diagnostic ν(Au–Cl) band at 321 cm−1. The N–CH and S–CH protons of the
+thiazole ring give rise to two doublets of doublets, owing to their mutual
+coupling and to their relatively strong 5J(P,H) coupling constant of 1.5 and
+3.3 Hz, respectively. The NH resonance is masked by the phenyl absorptions and
+could not be observed.
+
+Similarly to the reactions leading to **5** and **6** , addition of
+[AuCl(THT)] to a solution of N-(diphenylphosphino)benzo[d]thiazol-2-amine
+(ligand **3**) gave [AuCl(**3** -κP)] (**7**) in quantitative yields. Its
+crystal structure is shown in Fig. 4.
+
+[](/chimie/article/CRCHIM_2012__15_2-3_229_0/jpg/src/tex/figures/gr4.jpg)Fig.
+4
+
+ORTEP of the molecular structure of complex **7**. Ellipsoids at 40%
+probability level. Selected bond lengths [Å] and angles [°]: Au1–Cl(1)
+2.310(1), Au1–P1 2.232(1), P1–N1 1.654(7), N1–C1 1.30(1), C1–N2 1.35(1), N2–C2
+1.38(1), C2–C3 1.382(8), C3–S1 1.759(9), S1–C1 1.773(6); Cl1–Au1–P1 179.59(6),
+Au1–P1–N1 115.8(2), P1–N1–C1 123.2(5), N1–C1–N2 122.8(6), N1–C1–S1 128.3(5),
+N2–C1–S1 108.8(5).
+
+As expected, the structure is similar to that of complexes **5** and **6** ,
+but differently from these complexes, the formation of the H-bonded dimers is
+not observed. This is most likely due to the steric hindrance exerted by the
+benzo- group. Instead, the NH hydrogen located on the endo-cyclic N2 forms a
+hydrogen bond with the chlorine ligand of a neighbouring molecule. The
+spectroscopic data are analogous to those found in **5** and **6**.
+
+The Au···S distance increases in the series **5** , **6** , **7** (3.034(1),
+3.293(4) and 3.509(2) Å, respectively) as a result of the variation of the
+Au–P1–N1–C1 dihedral angle (rotation around the P–N bond). This variation
+indicates that no significant Au···S bonding interaction is present, since
+intermolecular interactions (such as the aforementioned H-bonds) overcome this
+hypothetical attraction.
+
+Complexes **5** and **6** were easily deprotonated by t-BuOK and rapidly
+formed the remarkably stable dimers [Au(**1** —H-κP,κN)]2 (**8**) and
+[Au(**2** —H-κP,κN)]2 (**9**), respectively, via halogen cleavage and Au–N
+bond formation (Scheme 3). The complex [Au(**3** —H-κP,κN)]2 (**10**) was
+prepared in a one pot reaction between **3** , [AuCl(THT)] and sodium
+carbonate in dichloromethane. Given the rapidity of the formation of **6**
+under these conditions, and the lack of deprotonation when **3** was treated
+with Na2CO3, **10** is most likely formed in a stepwise reaction through
+deprotonation of **7**. The crystal structures of **8–10** are displayed in
+Figs. 5–7, respectively.
+
+[](/chimie/article/CRCHIM_2012__15_2-3_229_0/jpg/src/tex/figures/sc3.jpg)Scheme
+3[](/chimie/article/CRCHIM_2012__15_2-3_229_0/jpg/src/tex/figures/gr5.jpg)Fig.
+5
+
+ORTEP of the molecular structure of complex **8**. Ellipsoids at 40%
+probability level. Selected bond lengths [Å] and angles [°]: Au1···Au1i
+2.8831(4), Au1–P1 2.252(2), Au1–N2i 2.049(8), P1–N1 1.63(1), N1–C1 1.31(1),
+C1–N2 1.32(1), N2–C2 1.44(1), C2–C3 1.50(2), C3–S1 1.78(1), S1–C1 1.795(9);
+N2i–Au1–P1 177.3(2), P1–Au1···Au1i 81.98(7), N2i–Au1···Au1i 100.5(2),
+Au1–P1–N1 121.9(4), P1–N1–C1 129.1(8), N1–C1–N2 134.2(9), N1–C1–S1 113.4(7),
+N2–C1–S1 112.4(7), Au1–N2i–C1i 126.9(7). Symmetry operation generating
+equivalent atoms (i): x, –y, –z.
+
+[](/chimie/article/CRCHIM_2012__15_2-3_229_0/jpg/src/tex/figures/gr6.jpg)Fig.
+6
+
+ORTEP of the molecular structure of complex **9**. Ellipsoids at 40%
+probability level. Selected bond lengths [Å] and angles [°]: Au1···Au2
+2.8653(5), P1–Au1 2.254(2), N4–Au1 2.083(6), P1–N1 1.633(5), N1–C1 1.30(1),
+C1–N2 1.35(1), C1–S1 1.766(6), S1–C3 1.736(9), C3–C2 1.34(1), C2–N2 1.406(7),
+P2–Au2 2.251(2), N2–Au2 2.068(5), P2–N3 1.635(7), N3–C16 1.32(1), C16–N4
+1.34(1), C16–S2 1.760(8), S2–C18 1.73(1), C18–C17 1.33(1), C17–N4 1.40(1);
+P1–Au1–N4 177.6(2), P2–Au2–N2 174.3(4), P1–Au1–Au2 82.21(6), N4–Au1–Au2
+99.5(2), P2–Au2–Au1 81.32(6), N2–Au2–Au1 99.6(2), Au1–P1–N1 120.3(3), P1–N1–C1
+130.2(6), N1–C1–S1 117.4(6), N1–C1–N2 132.4(7), N2–C1–S1 110.2(6), C1–N2–Au2
+126.8(5), Au2–P2–N3 116.1(3), P2–N3–C16 125.9(6), N3–C16–N4 131.8(7),
+N3–C16–S2 117.3(6), S2–C16–N4 110.9(5), C16–N4–Au1 128.2(5). Masquer
+
+ORTEP of the molecular structure of complex **9**. Ellipsoids at 40%
+probability level. Selected bond lengths [Å] and angles [°]: Au1···Au2
+2.8653(5), P1–Au1 2.254(2), N4–Au1 2.083(6), P1–N1 1.633(5), N1–C1 1.30(1),
+C1–N2 1.35(1), C1–S1 1.766(6), S1–C3 1.736(9), C3–C2 1.34(1), C2–N2 1.406(7),
+... Lire la suite
+
+[](/chimie/article/CRCHIM_2012__15_2-3_229_0/jpg/src/tex/figures/gr7.jpg)Fig.
+7
+
+ORTEP of the molecular structure of complex **10**. Ellipsoids at 40%
+probability level. Only one of the two, very similar, crystallographically
+independent molecules is shown. Selected bond lengths [Å] and angles [°]:
+Au1···Au2 2.8592(4), P1–Au1 2.250(2), N4–Au1 2.084(6), P1–N1 1.645(7), N1–C1
+1.324(9), C1–N2 1.342(10), C1–S1 1.765(8), S1–C3 1.743(8), C3–C2 1.401(12),
+C2–N2 1.396(9), P2–Au2 2.254(2), N2–Au2 2.059(7), P2–N3 1.631(7), N3–C20
+1.313(9), C20–N4 1.326(10), C20–S2 1.774(8), S2–C22 1.749(8), C22–C21
+1.394(11), C21–N4 1.425(9); P1–Au1–N4 173.87(17), P2–Au2–N2 172.86(4),
+P1–Au1–Au2 85.83(5), N4–Au1–Au2 99.00(16), P2–Au2–Au1 85.65(5), N2–Au2–Au1
+100.23(16), Au1–P1–N1 121.9(2), P1–N1–C1 132.7(6), N1–C1–S1 114.5(6), N1–C1–N2
+132.0(8), N2–C1–S1 113.5(5), C1–N2–Au2 128.3(5), Au2–P2–N3 122.2(3), P2–N3–C20
+131.2(6), N3–C20–N4 133.0(7), N3–C20–S2 114.6(6), S2–C20–N4 112.5(5),
+C20–N4–Au1 128.9(5). Masquer
+
+ORTEP of the molecular structure of complex **10**. Ellipsoids at 40%
+probability level. Only one of the two, very similar, crystallographically
+independent molecules is shown. Selected bond lengths [Å] and angles [°]:
+Au1···Au2 2.8592(4), P1–Au1 2.250(2), N4–Au1 2.084(6), P1–N1 1.645(7), ...
+Lire la suite
+
+In the crystal structures of the dinuclear complexes **8** –**10** , the metal
+centres are doubly bridged by two deprotonated P–N ligands (**1** —H, **2** —H
+and **3** —H, respectively), thus forming 10-membered –Au–P–N–C–N–Au–P–N–C–N–
+dimetallacycles**.** Each gold atom is thus coordinated, in a slightly
+distorted linear geometry, by a P and an N donor. A two-fold symmetry axis
+passes through the centroid of the two gold atoms in **8** , whereas dimers
+**9** and **10** show a similar, non crystallographic, approximate C2
+symmetry. In all these dinuclear complexes, the dimetallacycle is not planar.
+For example, in **9** (Fig. 8), the P–Au···Au–N torsion angle is 37.6(2)° and
+the thiazole rings main planes form an angle of 73.7(1)°.
+
+[](/chimie/article/CRCHIM_2012__15_2-3_229_0/jpg/src/tex/figures/gr8.jpg)Fig.
+8
+
+View of the crystal structure of **9**.
+
+The metal–metal separations are consistent with the presence of d10–d10
+aurophilic interactions. In Table 2, comparisons are provided between selected
+structural features of **8** , **9** and **10**.
+
+**Table 2**
+
+Comparison between selected structural parameters of **8** –**10**.
+
+| **8**| **9**| **10**  
+---|---|---|---  
+Au···Au| 2.8831(4)| 2.8653(5)| 2.8592(4)  
+Au–P| 2.252(2)| 2.254(2), 2.251(2)| 2.250(2), 2.254(2)  
+Au–N| 2.049(8)| 2.083(6), 2.068(5)| 2.084(6), 2.059(7)  
+P–N| 1.63(1)| 1.633(5), 1.635(7)| 1.645(7), 1.631(7)  
+P–Au–N| 177.3(2)| 177.6(2), 174.3(4)| 173.87(17), 172.86(4)  
+Au–P–N| 121.9(4)| 116.1(3), 120.3(3)| 121.9(2), 122.2(3)  
+P–N–C| 129.1(8)| 130.2(6), 125.9(5)| 132.7(6), 131.2(6)  
+  
+The Au···Au distances range from 2.8592(4) to 2.8831(4) Å and do not vary
+appreciably within the series, reflecting that the differences between ligands
+**1** –**3** did not affect the bridging behaviour of their deprotonated
+forms. Interestingly, these differences were more significantly felt in the
+pairing by N–H···N hydrogen bonds of the complexes containing the neutral
+ligands (see above). These Au···Au distances compare well with those typically
+observed for such d10–d10 interactions [2,3].
+
+In solution, the dinuclear structures are most likely retained. The
+corresponding 31P{1H} NMR spectra show singlets (41.0, 39.0 and 39.5 ppm for
+**8** , **9** and **10** , respectively), highfield shifted when compared to
+those of the parent mononuclear complexes. Disappearance of the NH 1H NMR
+signal of **5** and of the ν(AuCl) IR absorption for all complexes confirmed
+the completeness of the reaction.
+
+Although considerable work has been done on P,N-binucleating ligands [14],
+only few structures featuring doubly P,N-supported Au(I)–Au(I) interactions
+have been reported previously, featuring 10-membered [15] or eight-membered
+[16] metallacycles but all of these complexes were cationic, in contrast to
+the cases reported here. The 10-membered structures include dicationic
+complexes with phosphino-imine ligands displaying Au···Au distances of
+2.8396(3) Å [15a] and 2.8691(4) Å [15b] and bis(2-pyridyl)phosphole complexes
+with Au···Au distances of 3.1232(9) and 3.1059(7) Å [15c]. The 8-membered
+metallacycles include digold complexes with bridging 2-pyridylphosphine
+ligands and a short Au…Au distance of 2.776(1) Å [16a], and complexes with
+2-(diphenylphosphino)-1-methylimidazoles [16b] or
+tris(2-isopropylimidazol-4(5)yl)phosphines [16c] with Au···Au distances of
+2.8174(10) and 2.8821(15) Å, respectively. Bridging P,N ligands have been also
+used for the assembly of trinuclear [Au3L3]3+ (L = P,N bridging ligand)
+complexes [17].
+
+Attempts to isolate [AuCl(**4**)], using the corresponding thiadiazole-based
+phosphine **4** failed, probably owing to the high sensitivity towards
+hydrolysis or alcoholysis of this P,N ligand. Only degradation products
+resulting from the cleavage of the P–N bond of **4** were observed or
+isolated. Thus, we were not able to isolate the related dimer [AuCl(**4**
+—H-κP,κN)]2, neither in a stepwise approach nor in a one pot synthesis between
+**4** , [AuCl(THT)] and t-BuOK or Na2CO3.
+
+## 4 Conclusions
+
+New mononuclear gold(I) complexes **5** –**7** and dinuclear gold(I) complexes
+**8** –**10** , containing neutral or deprotonated thiazolines- and thiazole-
+based phosphine ligands, respectively, have been prepared and characterized.
+The anionic ligands **1** —H, **2** —H and **3** —H proved to be efficient
+supporting moieties, leading to stable, neutral dimers featuring Au(I)–Au(I)
+d10–d10 interactions in the range 2.8592(4)–2.8831(4) Å. The structures of the
+mononuclear and dinuclear complexes have been determined by X-ray diffraction.
+Although the differences between ligands **1** –**3** had an influence on the
+pairing by N–H…N hydrogen bonds of the complexes containing the neutral
+ligands, because of steric reasons, they did not affect the bridging behaviour
+of their deprotonated forms and thus did not induce large variations of the
+Au(I)–Au(I) distances. The luminescence properties and the coordination
+chemistry of **8–10** will be further explored.
+
+## Acknowledgements
+
+This work was supported by the CNRS, the Ministère de l’Enseignement Supérieur
+et de la Recherche, the Région Alsace (PhD grant to C.V.) and the Agence
+Nationale de la Recherche (ANR-06-BLAN 410).
+
+* * *
+
+Bibliographie  ____
+
+[1] H. Schmidbaur; A. Schier; Z.N. Chen; N. Zhao; Y. Fan; J. Ni; A. Laguna; M.C. Gimeno; H. Schmidbaur; A. Schier; M.J. Katz; K. Sakaib; D.B. Leznoff; H. Schmidbaur Gold. Bull., Modern supramolecular gold chemistry: gold-metal interactions and applicationsModern supramolecular gold chemistry: gold-metal interactions and applications, 41 (2012), p. 1 (p. 1) | [ DOI ](https://doi.org/10.1039/C1CS15182G)
+
+[2] J. Muñiz; C. Wang; P. Pyykkö; P. Pyykkö; P. Pyykkö Angew. Chem. Int. Ed.,
+17 (2011), p. 368
+
+[3] S. Sculfort; P. Braunstein Chem. Soc. Rev., 40 (2011), p. 2741
+
+[4] G. Margraf; R. Pattacini; A. Messaoudi; P. Braunstein Chem. Commun.
+(2006), p. 3098
+
+[5] R. Pattacini; C. Giansante; P. Ceroni; M. Maestri; P. Braunstein Chem.
+Eur. J., 13 (2007), p. 10117
+
+[6] H.L. Milton; M.V. Wheatley; A.M.Z. Slawin; D.J. Woollins Inorg. Chim.
+Acta, 358 (2005), p. 1393
+
+[7] S. Zhang; R. Pattacini; P. Braunstein Dalton Trans., 40 (2011), p. 5711
+
+[8] S. Zhang; R. Pattacini; P. Braunstein Organometallics, 29 (2010), p. 6660
+
+[9] R. Usón; A. Laguna; M. Laguna Inorg. Synth., 26 (1989), p. 85
+
+[10] Bruker–Nonius, Kappa CCD Reference Manual, Nonius BV, The Netherlands,
+1998.
+
+[11] G.M. Sheldrick Acta Crystallogr., Sect. A: Found. Crystallogr., A64
+(2008), p. 112
+
+[12] N.C. Baenziger; W.E. Bennett; D.M. Soboroff Acta Crystallogr., Sect.
+Sci., B32 (1976), p. 962
+
+[13] E.A. Allen; W. Wilkinson Spectrochim. Acta, 28A (1972), p. 2257
+
+[14] S. Maggini Coord. Chem. Rev., 253 (2009), pp. 1793-1832
+
+[15] O. Crespo; E.J. Fernandez; M. Gil; M.C. Gimeno; P.G. Jones; A. Laguna;
+J.M. Lopez-de-Luzuriaga; M.E. Olmos; R.J. Bowen; J. Coates; E.M. Coyanis; D.
+Defayay; M.A. Fernandes; M. Layh; R.M. Moutloali; S. Welsch; B. Nohra; E.V.
+Peresypkina; C. Lescop; M. Scheer; R. Réau Chem. Eur. J., 362 (2002), p. 1319
+
+[16] Y. Inoguchi; B. Milewski-Mahrla; H. Schmidbaur; V.J. Catalano; S.J.
+Horner; P.C. Kunz; M.U. Kassack; A. Hamacher; B. Spingler Dalton Trans., 115
+(1982), p. 3085
+
+[17] U. Monkowius; M. Zabel; M. Fleck; H. Yersin; Z. Naturforsch; C. Khin;
+A.S.K. Hashmi; F. Rominger Eur. J. Inorg. Chem., 64 (2009), p. 1513
+
+* * *
+
+__Cité par
+
+  * Vanitha R. Naina; Akhil K. Singh; Shubham; Julia Krämer; Mohd Iqbal; Peter W. Roesky Synthesis of luminescent coumarin-substituted phosphinoamide-bridged polynuclear gold(i) metallacycles and reactivity studies, Inorganic Chemistry Frontiers, Volume 11 (2024) no. 18, p. 6079 | [DOI:10.1039/d4qi01747a](https://doi.org/10.1039/d4qi01747a)
+  * Ivan V. Ananyev; Nadezhda A. Bokach; Vadim Yu. Kukushkin Structure-directing sulfur...metal noncovalent semicoordination bonding, Acta Crystallographica Section B Structural Science, Crystal Engineering and Materials, Volume 76 (2020) no. 3, p. 436 | [DOI:10.1107/s2052520620005685](https://doi.org/10.1107/s2052520620005685)
+  * Naeem A. Basher Study of New Derivatives of 1,3,4-Thiadiazole and Its Complexes with chromium ion (Cr+3), IOP Conference Series: Materials Science and Engineering, Volume 928 (2020) no. 5, p. 052003 | [DOI:10.1088/1757-899x/928/5/052003](https://doi.org/10.1088/1757-899x/928/5/052003)
+  * Marco Bortoluzzi; Iacopo Ciabatti; Cristiana Cesari; Cristina Femoni; Maria Carmela Iapalucci; Stefano Zacchini Synthesis of the Highly Reduced [Fe6C(CO)15]4– Carbonyl Carbide Cluster and Its Reactions with H+ and [Au(PPh3)]+, European Journal of Inorganic Chemistry, Volume 2017 (2017) no. 25, p. 3135 | [DOI:10.1002/ejic.201700169](https://doi.org/10.1002/ejic.201700169)
+  * Luís M.T. Frija; Armando J.L. Pombeiro; Maximilian N. Kopylovich Coordination chemistry of thiazoles, isothiazoles and thiadiazoles, Coordination Chemistry Reviews, Volume 308 (2016), p. 32 | [DOI:10.1016/j.ccr.2015.10.003](https://doi.org/10.1016/j.ccr.2015.10.003)
+  * Iacopo Ciabatti; Cristina Femoni; Mohammad Hayatifar; Maria Carmela Iapalucci; Stefano Zacchini Co5C and Co4C carbido carbonyl clusters stabilized by [AuPPh3]+ fragments, Inorganica Chimica Acta, Volume 428 (2015), p. 203 | [DOI:10.1016/j.ica.2015.01.032](https://doi.org/10.1016/j.ica.2015.01.032)
+  * Marco Bortoluzzi; Iacopo Ciabatti; Cristina Femoni; Mohammad Hayatifar; Maria Carmela Iapalucci; Giuliano Longoni; Stefano Zacchini Hydride Migration from a Triangular Face to a Tetrahedral Cavity in Tetranuclear Iron Carbonyl Clusters upon Coordination of [AuPPh3]+ Fragments, Angewandte Chemie, Volume 126 (2014) no. 28, p. 7361 | [DOI:10.1002/ange.201403538](https://doi.org/10.1002/ange.201403538)
+  * Marco Bortoluzzi; Iacopo Ciabatti; Cristina Femoni; Mohammad Hayatifar; Maria Carmela Iapalucci; Giuliano Longoni; Stefano Zacchini Hydride Migration from a Triangular Face to a Tetrahedral Cavity in Tetranuclear Iron Carbonyl Clusters upon Coordination of [AuPPh3]+ Fragments, Angewandte Chemie International Edition, Volume 53 (2014) no. 28, p. 7233 | [DOI:10.1002/anie.201403538](https://doi.org/10.1002/anie.201403538)
+  * Iacopo Ciabatti; Cristina Femoni; Mohammad Hayatifar; Maria Carmela Iapalucci; Andrea Ienco; Giuliano Longoni; Gabriele Manca; Stefano Zacchini Octahedral Co-Carbide Carbonyl Clusters Decorated by [AuPPh3]+Fragments: Synthesis, Structural Isomerism, and Aurophilic Interactions of Co6C(CO)12(AuPPh3)4, Inorganic Chemistry, Volume 53 (2014) no. 18, p. 9761 | [DOI:10.1021/ic501346a](https://doi.org/10.1021/ic501346a)
+  * Shuanming Zhang; Roberto Pattacini; Pierre Braunstein Coordination Chemistry of Oxazoline/Thiazoline‐Based P,N Ligands, Advances in Organometallic Chemistry and Catalysis (2013), p. 185 | [DOI:10.1002/9781118742952.ch14](https://doi.org/10.1002/9781118742952.ch14)
+  * Iacopo Ciabatti; Cristina Femoni; Maria Carmela Iapalucci; Andrea Ienco; Giuliano Longoni; Gabriele Manca; Stefano Zacchini Intramolecular d10–d10 Interactions in a Ni6C(CO)9(AuPPh3)4 Bimetallic Nickel–Gold Carbide Carbonyl Cluster, Inorganic Chemistry, Volume 52 (2013) no. 18, p. 10559 | [DOI:10.1021/ic401540s](https://doi.org/10.1021/ic401540s)
+
+_Cité par 11 documents. Sources : Crossref_
+
+* * *
+
+Commentaires - [ Politique __](https://comptes-rendus.academie-
+sciences.fr/page/commenting-en/) __
+
+* * *
+
+Ces articles pourraient vous intéresser
+
+* * *
+
+[Synthesis and characterization of cis-bisdiphenylphosphinoethene gold(I)
+complexes](https://comptes-rendus.academie-
+sciences.fr/chimie/articles/10.5802/crchim.328)
+
+Océane Yvonne Odette Fayet; Stefano Crespi; Andreas Orthaber
+
+C. R. Chim (2024)
+
+* * *
+
+[Catalytic uses of helicenes displaying phosphorus functions](https://comptes-
+rendus.academie-sciences.fr/chimie/articles/10.1016/j.crci.2017.04.002)
+
+Charles S. Demmer; Arnaud Voituriez; Angela Marinetti
+
+C. R. Chim (2017)
+
+* * *
+
+[Synthesis of transition metal-containing carbosilane
+dendrimers](https://comptes-rendus.academie-
+sciences.fr/chimie/articles/10.1016/j.crci.2003.04.003)
+
+Oriol Rossell; Miquel Seco; Inma Angurell
+
+C. R. Chim (2003)
+
+Diffusé par :  [](http://www.centre-mersenne.org/)
+
+Publié par :  [](https://www.academie-sciences.fr)
+
+Développé par :  [](http://www.mathdoc.fr/)
+
+ISSN : 1631-0748  
+e-ISSN : 1878-1543  
+
+  * [ __Nous suivre](/chimie/rss/)
+  * [Contact](/chimie/page/contact_fr/)
+  * [Mentions légales](/chimie/page/mentions-legales_fr/)
+
+__
+
+__
+
