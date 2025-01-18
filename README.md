@@ -15,6 +15,7 @@
 	**问题**  
  因为多了一步转换为markdown所以较慢(作为参考，分析单个pdf使用method 3即可)
 
+****
 # Auto method 1:
 **Preparation：**
 
@@ -55,16 +56,117 @@
 7. 然后运行`pdf_analysis.py`，得到刚下载的文献的分析结果，提取了所有氧化还原电势。  
 8. 然后运行`xyz_download.py`，得到分析结果中CSD编号对应的CSD晶体学数据库中的结构的xyz文件。  
 
+****
 # Auto method 2:
 **Preparation：**
 
-1. 安装CSD python api环境
+1. 安装`CSD python api`环境
 2. 依赖包(版本兼容即可)：  
 	`pandas  
 	openai  
 	playwright   
 	langchain-community   
 	langchain-core`  
+
+**注：**  
+此方法会打开一个虚拟的Google浏览器，在里面进行检索，需要按照这个网站的方法修改Google浏览器属性  
+https://www.bilibili.com/video/BV1xP411Q7LM/?vd_source=c60eedf38c16689fccaa69edc9f75b21  
+
+**Instruction:**
+
+1. 在`windows校园网`下直接运行`run_all_scripts.py`就会生成所有文件。
+2. 如果不搜索双核金，需要在`CSD_search.py`中更改和`Auto method 1`类似的位置。
+
+**Problems:**
+
+1. 有时候网站出现`“verify you are human”`之类的人机验证，就爬取不到文献内容了；但不会报错，会继续爬下一个url。
+2. 用免费的`deepseek`读取网站内容非常慢(读取pdf内容很快)，但是`gpt-4o-mini`读取都较快，故此处用不免费但较便宜的`gpt-4o-mini`。
+
+****
+# Auto method 3:
+**Preparation：**
+
+1. 建一个`python 3.10`的环境
+2. 依赖包(版本兼容即可)：  
+	`PyPDF2   
+	docx   
+	openai   
+	tiktoken`
+
+**Instruction:**
+
+1. 删去`PDF-Extract-Kit-main\assets\demo\layout_detection`下的其他文件，将要分析的单个文献放入此中。
+2. 直接运行`run.py`，然后就会生成带有结构图片的分析结果文件`redox_analysis_filtered.docx`。
+
+**注：**
+如果需要更改存放文件的位置，请同时更改`run.py`和`PDF-Extract-Kit-main\configs\layout_detection_yolo.yaml`配置文件:  
+`run.py`  
+```
+BASE_DIR = os.path.abspath(".")
+WORD_FILE_PATH = os.path.abspath("redox_analysis_filtered.docx")  # 保存提取后的文本的文件路径
+PDF_DIR_PATH = r'E:\\crawler\\PDF-Extract-Kit-main\\assets\\demo\\layout_detection'  # PDF 文件所在的文件夹路径
+OUTPUT_DIR_PATH = r'E:\\crawler\\PDF-Extract-Kit-main\\outputs\\layout_detection'  # 输出文件夹路径
+```
+`PDF-Extract-Kit-main\configs\layout_detection_yolo.yaml`  
+```
+inputs: assets/demo/layout_detection
+outputs: outputs/layout_detection
+```
+
+****
+# Auto method 4:
+**Preparation：**
+
+1. 建一个`python 3.10`的环境  
+2. 下载`MinerU`包  
+3. 依赖包(版本兼容即可)：  
+	`docx   
+	markdown   
+	beautifulsoup  
+	pylatexenc  
+	PyPDF2   
+	openai   
+	tiktoken`
+
+**Instruction:**
+
+1. 在`run_all_scripts.py`更改需要分析的pdf路径，然后直接运行`run_all_scripts.py`, 就会生成所有输出文件。
+```
+# Configure paths
+output = r"E:\\crawler\\autocrawler\\outputs"  # 写入输出文件的目录
+pdf_path = r"E:\\crawler\\dAu_cyclic_volt\\zayakin-et-al-2022-au-au-chemical-bonding-in-nitronyl-nitroxide-gold(i)-derivatives.pdf"  # PDF文件的路径
+```
+
+**注：**
+1. 从`https://github.com/opendatalab/MinerU`里按要求下载`MinerU`包和`Magic PDF`  
+```
+pip install -U "magic-pdf[full]" --extra-index-url https://wheels.myhloli.com
+```
+2. 在`pdf2markdown.py`里将`magic_pdf`的路径更改为下载后的保存路径
+```
+mineru_path = r'E:\\crawler\\MinerU\\MinerU-master\\magic_pdf'  # 替换为你的 MinerU 路径
+sys.path.append(mineru_path)
+```
+3. 在`run_all_scripts.py`中按需更改要分析的PDF文件路径和输出文件目录  
+```
+# Configure paths
+output = r"E:\\crawler\\autocrawler\\outputs"  # 写入输出文件的目录
+pdf_path = r"E:\\crawler\\dAu_cyclic_volt\\zayakin-et-al-2022-au-au-chemical-bonding-in-nitronyl-nitroxide-gold(i)-derivatives.pdf"  # PDF文件的路径
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
