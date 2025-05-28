@@ -1,0 +1,21 @@
+```
+1. 化合物简称：NN−Au−PnBu3
+2. 化合物全称：(4,4,5,5-Tetramethyl-4,5-dihydro-1H-imidazole-3-oxide-1-oxyl-2-ido)(tri-n-buthylphosphine)gold
+3. 氧化电势：0.11 V
+4. 还原电势：−1.68 V
+5. 溶剂：Acetonitrile
+6. 参比电极：Fc/Fc+
+7. 结构式：见文件中相关部分
+8. CCDC编号：2165806
+9. 图片代号：Scheme 3
+
+1. 化合物简称：NN−Au−PFPh3
+2. 化合物全称：(4,4,5,5-Tetramethyl-4,5-dihydro-1H-imidazole-3-oxide-1-oxyl-2-ido)(tris(4-fluorophenyl)phosphine)gold
+3. 氧化电势：0.14 V
+4. 还原电势：−1.64 V
+5. 溶剂：Acetonitrile
+6. 参比电极：Fc/Fc+
+7. 结构式：见文件中相关部分
+8. CCDC编号：2165807
+9. 图片代号：Scheme 3
+```

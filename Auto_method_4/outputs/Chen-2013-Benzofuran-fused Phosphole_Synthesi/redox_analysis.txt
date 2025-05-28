@@ -1,0 +1,33 @@
+1. 化合物简称：3  
+2. 化合物全称：Benzofuran-fused Phosphole Derivative 3  
+3. 氧化电势：+1.09 V vs Fe  
+4. 还原电势：-2.06 V vs Fe  
+5. 溶剂：CH2Cl2  
+6. 参比电极：Ferrocene/Ferrocenium  
+7. 结构式：[Insert structure of compound 3 here]  
+8. CCDC编号：未提供  
+9. 图片代号：Scheme 1  
+
+---
+
+1. 化合物简称：4  
+2. 化合物全称：Benzofuran-fused Phosphole Derivative 4  
+3. 氧化电势：+1.20 V vs Fe  
+4. 还原电势：-2.08 V vs Fe  
+5. 溶剂：CH2Cl2  
+6. 参比电极：Ferrocene/Ferrocenium  
+7. 结构式：[Insert structure of compound 4 here]  
+8. CCDC编号：未提供  
+9. 图片代号：Scheme 1  
+
+---
+
+1. 化合物简称：5  
+2. 化合物全称：Benzofuran-fused Phosphole Derivative 5  
+3. 氧化电势：+1.17 V vs Fe  
+4. 还原电势：-2.03 V vs Fe  
+5. 溶剂：CH2Cl2  
+6. 参比电极：Ferrocene/Ferrocenium  
+7. 结构式：[Insert structure of compound 5 here]  
+8. CCDC编号：未提供  
+9. 图片代号：Scheme 1  
