@@ -7,11 +7,11 @@
 	**问题**  
  爬虫未能解决人机验证问题  
 
-**3. Auto method 3（单个PDF分析，word形式，结构图片）:**  
-	对已经下载到本地的单个PDF文件，先用大模型进行氧化还原电势信息分析并提取结构图片信息，再用pdf extract kit进行布局分析，然后将对应图片拉取出来，和之前的电势信息汇总到一个word。  
+**3. Auto method 3（多个PDF分析，word形式，结构图片）:**  
+	对已经下载到本地的PDF文件，先用大模型进行氧化还原电势信息分析并提取结构图片信息，再用pdf extract kit进行布局分析，然后将对应图片拉取出来，和之前的电势信息汇总到一个word。  
 
-**4. Auto method 4（单个PDF分析，word形式，结构图片）:**  
-	对已经下载到本地的单个PDF文件，先用大模型进行氧化还原电势信息分析并提取结构图片信息，再用MinerU里的Magic pdf将pdf转换成markdown格式，然后将对应图片拉取出来，和之前的电势信息汇总到一个word。  
+**4. Auto method 4（多个PDF分析，word形式，结构图片）:**  
+	对已经下载到本地的PDF文件，先用大模型进行氧化还原电势信息分析并提取结构图片信息，再用MinerU里的Magic pdf将pdf转换成markdown格式，然后将对应图片拉取出来，和之前的电势信息汇总到一个word。  
 	**问题**  
  因为多了一步转换为markdown所以较慢(作为参考，分析单个pdf使用method 3即可)
 
@@ -95,22 +95,21 @@ https://www.bilibili.com/video/BV1xP411Q7LM/?vd_source=c60eedf38c16689fccaa69edc
 
 **Instruction:**
 
-1. 删去`PDF-Extract-Kit-main\assets\demo\layout_detection`下的其他文件，将要分析的单个文献放入此中。
-2. 直接运行`run.py`，然后就会生成带有结构图片的分析结果文件`redox_analysis_filtered.docx`。
+1. 删去`pdf`下的其他文件，将要分析的文献放入此中。
+2. 直接运行`run.py`，然后就会在`word`文件夹里生成带有结构图片的分析结果文件。
 
 **注：**
-如果需要更改存放文件的位置，请同时更改`run.py`和`PDF-Extract-Kit-main\configs\layout_detection_yolo.yaml`配置文件:  
+如果需要更改存放文件的位置，请更改`run.py`和`PDF-Extract-Kit-main\configs\layout_detection_yolo.yaml`配置文件:  
 `run.py`  
 ```
 BASE_DIR = os.path.abspath(".")
-WORD_FILE_PATH = os.path.abspath("redox_analysis_filtered.docx")  # 保存提取后的文本的文件路径
-PDF_DIR_PATH = r'E:\\crawler\\PDF-Extract-Kit-main\\assets\\demo\\layout_detection'  # PDF 文件所在的文件夹路径
-OUTPUT_DIR_PATH = r'E:\\crawler\\PDF-Extract-Kit-main\\outputs\\layout_detection'  # 输出文件夹路径
+WORD_FILE_PATH = r'E:\\data_collection-main\\Auto_method_3\\word'  # 保存提取后的文本的文件路径
+PDF_DIR_PATH = r'E:\\data_collection-main\\Auto_method_3\\pdf'  # PDF 文件所在的文件夹路径
+OUTPUT_DIR_PATH = r'E:\\data_collection-main\\Auto_method_3\\outputs'  # 输出文件夹路径
 ```
 `PDF-Extract-Kit-main\configs\layout_detection_yolo.yaml`  
 ```
-inputs: assets/demo/layout_detection
-outputs: outputs/layout_detection
+outputs: outputs
 ```
 
 ****
@@ -133,8 +132,10 @@ outputs: outputs/layout_detection
 1. 在`run_all_scripts.py`更改需要分析的pdf路径，然后直接运行`run_all_scripts.py`, 就会生成所有输出文件。
 ```
 # Configure paths
-output = r"E:\\crawler\\autocrawler\\outputs"  # 写入输出文件的目录
-pdf_path = r"E:\\crawler\\dAu_cyclic_volt\\zayakin-et-al-2022-au-au-chemical-bonding-in-nitronyl-nitroxide-gold(i)-derivatives.pdf"  # PDF文件的路径
+current_dir = os.path.dirname(os.path.abspath(__file__)) # 获取当前脚本所在的目录
+pdf_dir = os.path.join(current_dir, "pdf") # pdf文件夹路径
+
+output = os.path.join(current_dir, "outputs", pdf_filename_no_ext) # 输出文件夹路径
 ```
 
 **注：**
@@ -150,8 +151,10 @@ sys.path.append(mineru_path)
 3. 在`run_all_scripts.py`中按需更改要分析的PDF文件路径和输出文件目录  
 ```
 # Configure paths
-output = r"E:\\crawler\\autocrawler\\outputs"  # 写入输出文件的目录
-pdf_path = r"E:\\crawler\\dAu_cyclic_volt\\zayakin-et-al-2022-au-au-chemical-bonding-in-nitronyl-nitroxide-gold(i)-derivatives.pdf"  # PDF文件的路径
+current_dir = os.path.dirname(os.path.abspath(__file__)) # 获取当前脚本所在的目录
+pdf_dir = os.path.join(current_dir, "pdf") # pdf文件夹路径
+
+output = os.path.join(current_dir, "outputs", pdf_filename_no_ext) # 输出文件夹路径
 ```
 
 
